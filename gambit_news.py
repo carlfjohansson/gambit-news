@@ -649,6 +649,37 @@ def log_decisions(articles: list[dict]):
 # KOMMANDON
 # ════════════════════════════════════════════════════════════════════════════
 
+def send_to_wordpress(articles: list[dict]) -> int:
+    """Skicka översatta artiklar till WordPress som utkast via REST API."""
+    if not all([WP_URL, WP_USER, WP_PASS]):
+        log.error("❌ WordPress-inställningar saknas")
+        return 0
+
+    token = os.getenv("GAMBIT_TOKEN", "")
+    if not token:
+        log.error("❌ GAMBIT_TOKEN saknas i .env")
+        return 0
+
+    url = f"{WP_URL}/wp-json/gambit/v1/ingest"
+    headers = {
+        "Content-Type": "application/json",
+        "X-Gambit-Token": token,
+    }
+
+    try:
+        r = requests.post(url, json=articles, headers=headers, timeout=30)
+        if r.ok:
+            data = r.json()
+            log.info(f"✅ Skickade {data.get('saved', 0)} artiklar till WordPress")
+            return data.get("saved", 0)
+        else:
+            log.error(f"❌ WordPress svarade {r.status_code}: {r.text[:200]}")
+            return 0
+    except Exception as e:
+        log.error(f"❌ Kunde inte nå WordPress: {e}")
+        return 0
+
+
 def cmd_collect():
     """Hämta, filtrera och översätt nya artiklar."""
     log.info("═" * 60)
@@ -691,12 +722,52 @@ def cmd_collect():
     if translated:
         pending.extend(translated)
         save_json(PENDING_FILE, pending)
+        send_to_wordpress(translated)
         log.info(f"✅ {len(translated)} artiklar sparade i {PENDING_FILE}")
         log.info("   Kör: python gambit_news.py --approve")
+    send_notification_email(len(translated))
     else:
         log.warning("⚠️  Inga artiklar översattes")
 
+def send_notification_email(count: int):
+    """Skicka e-post när nya artiklar väntar på granskning."""
+    import smtplib
+    from email.mime.text import MIMEText
 
+    smtp_server = os.getenv("SMTP_SERVER", "smtp.gmail.com")
+    smtp_port   = int(os.getenv("SMTP_PORT", "587"))
+    email_from  = os.getenv("EMAIL_FROM", "")
+    email_to    = os.getenv("EMAIL_TO", "")
+    email_pass  = os.getenv("EMAIL_PASSWORD", "")
+
+    if not all([email_from, email_to, email_pass]):
+        log.info("📧 E-postinställningar saknas – hoppar över notifiering")
+        return
+
+    body = f"""Hej!
+
+{count} nya schackartiklar har översatts och väntar på din granskning.
+
+Gå till redaktionssidan för att granska dem:
+{WP_URL}/wp-admin/admin.php?page=gambit-redaktion
+
+/Gambit News
+"""
+    msg = MIMEText(body, "plain", "utf-8")
+    msg["From"]    = email_from
+    msg["To"]      = email_to
+    msg["Subject"] = f"♟ {count} nya schackartiklar väntar på granskning"
+
+    try:
+        server = smtplib.SMTP(smtp_server, smtp_port)
+        server.starttls()
+        server.login(email_from, email_pass)
+        server.send_message(msg)
+        server.quit()
+        log.info(f"📧 E-post skickat till {email_to}")
+    except Exception as e:
+        log.warning(f"⚠️  Kunde inte skicka e-post: {e}")
+        
 def cmd_approve():
     """Öppna lokal godkännandesida i webbläsaren."""
     pending = load_json(PENDING_FILE, [])
