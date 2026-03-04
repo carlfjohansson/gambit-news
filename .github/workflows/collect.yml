@@ -27,7 +27,10 @@ jobs:
           echo "WP_URL=${{ secrets.WP_URL }}" >> .env
           echo "WP_USER=${{ secrets.WP_USER }}" >> .env
           echo "WP_PASS=${{ secrets.WP_PASS }}" >> .env
-
+          echo "GAMBIT_TOKEN=${{ secrets.GAMBIT_TOKEN }}" >> .env
+          echo "EMAIL_FROM=${{ secrets.EMAIL_FROM }}" >> .env
+          echo "EMAIL_TO=${{ secrets.EMAIL_TO }}" >> .env
+          echo "EMAIL_PASSWORD=${{ secrets.EMAIL_PASSWORD }}" >> .env
       - name: Kör insamling
         run: python gambit_news.py --collect
 
