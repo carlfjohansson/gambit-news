@@ -1,0 +1,39 @@
+name: Samla schacknyheter
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Hämta koden
+        uses: actions/checkout@v4
+
+      - name: Installera Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installera beroenden
+        run: pip install requests beautifulsoup4 python-dotenv anthropic python-dateutil
+
+      - name: Skapa .env
+        run: |
+          echo "ANTHROPIC_API_KEY=${{ secrets.ANTHROPIC_API_KEY }}" >> .env
+          echo "WP_URL=${{ secrets.WP_URL }}" >> .env
+          echo "WP_USER=${{ secrets.WP_USER }}" >> .env
+          echo "WP_PASS=${{ secrets.WP_PASS }}" >> .env
+
+      - name: Kör insamling
+        run: python gambit_news.py --collect
+
+      - name: Spara resultat
+        uses: actions/upload-artifact@v4
+        with:
+          name: pending-approval
+          path: pending_approval.json
+          if-no-files-found: ignore
