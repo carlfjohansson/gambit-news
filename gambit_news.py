@@ -428,7 +428,7 @@ def send_notification_email(count):
 {count} nya schackartiklar har översatts och väntar på din granskning.
 
 Gå till redaktionssidan:
-{WP_URL}/wp-admin/admin.php?page=gambit-redaktion
+{WP_URL}/redaktion
 
 /Gambit News
 """
