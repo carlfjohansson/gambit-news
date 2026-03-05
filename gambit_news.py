@@ -120,6 +120,13 @@ SOURCES = [
         "wp_category": "chessdom",
         "max": 6,
     },
+    {
+        "name": "Bergensjakk",
+        "rss":  "https://bergensjakk.no/feed",
+        "lang": "no",
+        "wp_category": "bergensjakk",
+        "max": 6,
+    },
 ]
 
 HEADERS = {
@@ -277,7 +284,7 @@ def fetch_article_body(url):
 # CLAUDE-ÖVERSÄTTNING
 # ════════════════════════════════════════════════════════════════════════════
 
-LANG_NAMES = {"en": "engelska", "fr": "franska", "sv": "svenska"}
+LANG_NAMES = {"en": "engelska", "fr": "franska", "sv": "svenska", "no": "norska"}
 
 TRANSLATE_PROMPT = """\
 Du är redaktör på den svenska schackportalen Gambit.se och skriver korta, snappy nyhetsnotiser.
