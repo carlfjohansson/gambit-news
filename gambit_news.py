@@ -144,41 +144,33 @@ def fetch_rss(source):
 
     articles = []
     try:
-        # Strippa XML-namespaces så att findall(".//item") fungerar reliabelt
-        import re as _re
-        clean_xml = _re.sub(r'\s+xmlns(?::\w+)?="[^"]*"', '', r.content.decode('utf-8', errors='replace'))
-        clean_xml = _re.sub(r'<(\w+):\w+', lambda m: '<' + m.group(0)[1:].split(':')[1], clean_xml)
-        clean_xml = _re.sub(r'</(\w+):\w+', lambda m: '</' + m.group(0)[2:].split(':')[1], clean_xml)
-        try:
-            root = ET.fromstring(clean_xml.encode('utf-8'))
-        except ET.ParseError:
-            root = ET.fromstring(r.content)
-        items = root.findall(".//item") or root.findall(".//entry")
+        # Använd BeautifulSoup med xml-parser – hanterar namespaces automatiskt
+        soup = BeautifulSoup(r.content, "xml")
+        items = soup.find_all("item") or soup.find_all("entry")
 
         for item in items[:source["max"]]:
+            # Titel
             title_el = item.find("title")
-            title = strip_html(title_el.text if title_el is not None else "")
+            title = strip_html(title_el.get_text() if title_el else "")
             if not title or len(title) < 10:
                 continue
 
-            link_el = item.find("link") or item.find("atom:link")
+            # URL
             url = ""
-            if link_el is not None:
-                url = (link_el.text or link_el.get("href", "")).strip()
+            link_el = item.find("link")
+            if link_el:
+                url = (link_el.get_text().strip() or link_el.get("href", "")).strip()
             if not url:
                 continue
 
-            # Källans publiceringsdatum
-            date_el = (item.find("pubDate") or
-                       item.find("date") or
-                       item.find("published") or
-                       item.find("updated"))
-            pub_date = parse_rss_date(date_el.text if date_el is not None else "")
+            # Datum från källan
+            date_el = (item.find("pubDate") or item.find("published") or
+                       item.find("updated") or item.find("date"))
+            pub_date = parse_rss_date(date_el.get_text() if date_el else "")
 
-            desc_el = (item.find("description") or
-                       item.find("summary") or
-                       item.find("content"))
-            excerpt = strip_html(desc_el.text if desc_el is not None else "")[:500]
+            # Ingress
+            desc_el = item.find("description") or item.find("summary") or item.find("content")
+            excerpt = strip_html(desc_el.get_text() if desc_el else "")[:500]
 
             articles.append({
                 "id":      url_id(url),
@@ -190,8 +182,8 @@ def fetch_rss(source):
                 "date":    pub_date,
             })
 
-    except ET.ParseError as e:
-        log.warning(f"  ⚠️  {source['name']}: XML-fel: {e}")
+    except Exception as e:
+        log.warning(f"  ⚠️  {source['name']}: parse-fel: {e}")
         return []
 
     log.info(f"  ✅ {source['name']}: {len(articles)} artiklar")
