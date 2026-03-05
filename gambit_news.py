@@ -632,6 +632,16 @@ def cmd_status():
 def cmd_test():
     log.info("Testar RSS-flöden...")
     for source in SOURCES:
+        log.info(f"  📡 Testar {source['name']}...")
+        r = fetch(source["rss"])
+        if not r:
+            log.warning(f"  FEL {source['name']:22s} – kunde inte hämta")
+            continue
+
+        # Visa råa bytes för felsökning
+        preview = r.content[:300].decode('utf-8', errors='replace')
+        log.info(f"  RAW: {repr(preview)}")
+
         articles = fetch_rss(source)
         if articles:
             a = articles[0]
@@ -639,7 +649,7 @@ def cmd_test():
             log.info(f"      Senaste: {a['title'][:65]}")
             log.info(f"      Datum:   {a.get('date') or 'saknas'}")
         else:
-            log.warning(f"  FEL {source['name']:22s}")
+            log.warning(f"  FEL {source['name']:22s} – 0 artiklar trots svar")
     log.info("Klar.")
 
 def main():
