@@ -14,7 +14,7 @@ jobs:
         with:
           python-version: '3.11'
       - name: Installera beroenden
-        run: pip install requests beautifulsoup4 python-dotenv anthropic python-dateutil
+        run: pip install requests beautifulsoup4 python-dotenv anthropic python-dateutil lxml
       - name: Skapa .env
         run: |
           echo "ANTHROPIC_API_KEY=${{ secrets.ANTHROPIC_API_KEY }}" >> .env
