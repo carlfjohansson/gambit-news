@@ -357,6 +357,23 @@ def translate(article):
 # SKICKA TILL WORDPRESS
 # ════════════════════════════════════════════════════════════════════════════
 
+def get_seen_from_wordpress():
+    """Hämta lista på sedda URL-hash:ar från WordPress."""
+    if not all([WP_URL, GAMBIT_TOKEN]):
+        return set()
+    headers = {"X-Gambit-Token": GAMBIT_TOKEN}
+    try:
+        r = requests.get(f"{WP_URL}/wp-json/gambit/v1/seen", headers=headers, timeout=15)
+        if r.ok:
+            data = r.json()
+            seen = set(data.get("seen", {}).keys())
+            log.info(f"📋 {len(seen)} sedda artiklar i WordPress")
+            return seen
+    except Exception as e:
+        log.warning(f"⚠️  Kunde inte hämta sedda URL:er: {e}")
+    return set()
+
+
 def send_to_wordpress(articles):
     if not all([WP_URL, GAMBIT_TOKEN]):
         log.error("❌ WP_URL eller GAMBIT_TOKEN saknas")
@@ -659,7 +676,12 @@ def cmd_collect():
     log.info("=" * 60)
     log.info("Startar insamling")
 
+    # Hämta sedda URL:er från WordPress (primär källa)
+    wp_seen_hashes = get_seen_from_wordpress()
+
+    # Lokal backup
     seen = set(load_json(SEEN_FILE, []))
+
     pending = load_json(PENDING_FILE, [])
     pending_ids = {a["id"] for a in pending}
 
@@ -667,7 +689,8 @@ def cmd_collect():
     for source in SOURCES:
         articles = fetch_rss(source)
         for a in articles:
-            if a["id"] not in seen and a["id"] not in pending_ids:
+            url_hash = __import__('hashlib').md5(a['url'].encode()).hexdigest()
+            if a["id"] not in seen and a["id"] not in pending_ids and url_hash not in wp_seen_hashes:
                 new_raw.append(a)
         time.sleep(1)
 
