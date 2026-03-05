@@ -107,10 +107,17 @@ SOURCES = [
         "max": 10,
     },
     {
-        "name": "Europe Échecs",
-        "rss":  "https://www.europe-echecs.com/rss/actualites.xml",
-        "lang": "fr",
-        "wp_category": "europe-echecs",
+        "name": "ChessBase India",
+        "rss":  "https://chessbase.in/feed",
+        "lang": "en",
+        "wp_category": "chessbase-india",
+        "max": 8,
+    },
+    {
+        "name": "Chessdom",
+        "rss":  "https://www.chessdom.com/feed",
+        "lang": "en",
+        "wp_category": "chessdom",
         "max": 6,
     },
 ]
