@@ -108,7 +108,7 @@ SOURCES = [
     },
     {
         "name": "ChessBase India",
-        "rss":  "https://chessbase.in/feed",
+        "rss":  "https://chessbase.in/rss",
         "lang": "en",
         "wp_category": "chessbase-india",
         "max": 8,
