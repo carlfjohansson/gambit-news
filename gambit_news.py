@@ -144,9 +144,16 @@ def fetch_rss(source):
 
     articles = []
     try:
-        root = ET.fromstring(r.content)
-        ns = {"atom": "http://www.w3.org/2005/Atom"}
-        items = root.findall(".//item") or root.findall(".//atom:entry", ns)
+        # Strippa XML-namespaces så att findall(".//item") fungerar reliabelt
+        import re as _re
+        clean_xml = _re.sub(r'\s+xmlns(?::\w+)?="[^"]*"', '', r.content.decode('utf-8', errors='replace'))
+        clean_xml = _re.sub(r'<(\w+):\w+', lambda m: '<' + m.group(0)[1:].split(':')[1], clean_xml)
+        clean_xml = _re.sub(r'</(\w+):\w+', lambda m: '</' + m.group(0)[2:].split(':')[1], clean_xml)
+        try:
+            root = ET.fromstring(clean_xml.encode('utf-8'))
+        except ET.ParseError:
+            root = ET.fromstring(r.content)
+        items = root.findall(".//item") or root.findall(".//entry")
 
         for item in items[:source["max"]]:
             title_el = item.find("title")
@@ -154,23 +161,23 @@ def fetch_rss(source):
             if not title or len(title) < 10:
                 continue
 
-            link_el = item.find("link") or item.find("atom:link", ns)
+            link_el = item.find("link") or item.find("atom:link")
             url = ""
             if link_el is not None:
                 url = (link_el.text or link_el.get("href", "")).strip()
             if not url:
                 continue
 
-            # Källans publiceringsdatum – prioritetsordning
+            # Källans publiceringsdatum
             date_el = (item.find("pubDate") or
-                       item.find("dc:date") or
-                       item.find("atom:published", ns) or
-                       item.find("atom:updated", ns))
+                       item.find("date") or
+                       item.find("published") or
+                       item.find("updated"))
             pub_date = parse_rss_date(date_el.text if date_el is not None else "")
 
             desc_el = (item.find("description") or
-                       item.find("atom:summary", ns) or
-                       item.find("atom:content", ns))
+                       item.find("summary") or
+                       item.find("content"))
             excerpt = strip_html(desc_el.text if desc_el is not None else "")[:500]
 
             articles.append({
