@@ -127,6 +127,41 @@ SOURCES = [
         "wp_category": "bergensjakk",
         "max": 6,
     },
+    {
+        "name": "TWIC",
+        "rss":  "https://theweekinchess.com/twic-rss-feed",
+        "lang": "en",
+        "wp_category": "twic",
+        "max": 6,
+    },
+    {
+        "name": "US Chess",
+        "rss":  "https://new.uschess.org/feed.xml",
+        "lang": "en",
+        "wp_category": "us-chess",
+        "max": 6,
+    },
+    {
+        "name": "Kingpin Chess",
+        "rss":  "https://www.kingpinchess.net/feed/",
+        "lang": "en",
+        "wp_category": "kingpin-chess",
+        "max": 4,
+    },
+    {
+        "name": "ChessBox India",
+        "rss":  "https://www.chessbox.in/feed/",
+        "lang": "en",
+        "wp_category": "chessbox-india",
+        "max": 6,
+    },
+    {
+        "name": "Africa Chess",
+        "rss":  "https://africachess.net/feed/",
+        "lang": "en",
+        "wp_category": "africa-chess",
+        "max": 4,
+    },
 ]
 
 HEADERS = {
