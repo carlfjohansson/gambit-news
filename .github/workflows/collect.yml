@@ -25,5 +25,11 @@ jobs:
           echo "EMAIL_FROM=${{ secrets.EMAIL_FROM }}" >> .env
           echo "EMAIL_TO=${{ secrets.EMAIL_TO }}" >> .env
           echo "EMAIL_PASSWORD=${{ secrets.EMAIL_PASSWORD }}" >> .env
-      - name: Testa RSS-flöden
-        run: python gambit_news.py --test
+      - name: Kör insamling
+        run: python gambit_news.py --collect
+      - name: Spara resultat
+        uses: actions/upload-artifact@v4
+        with:
+          name: pending-approval
+          path: pending_approval.json
+          if-no-files-found: ignore
