@@ -87,7 +87,7 @@ SOURCES = [
     },
     {
         "name": "ChessBase",
-        "rss":  "https://en.chessbase.com/rss/news",
+        "rss":  "https://en.chessbase.com/feed",
         "lang": "en",
         "wp_category": "chessbase",
         "max": 8,
@@ -108,7 +108,7 @@ SOURCES = [
     },
     {
         "name": "Europe Échecs",
-        "rss":  "https://www.europe-echecs.com/rss.xml",
+        "rss":  "https://www.europe-echecs.com/rss/actualites.xml",
         "lang": "fr",
         "wp_category": "europe-echecs",
         "max": 6,
