@@ -30,25 +30,36 @@ SEEN_FILE      = Path("seen_articles.json")
 PENDING_FILE   = Path("pending_approval.json")
 DECISIONS_FILE = Path("article_decisions.json")
 
-SUBJECT_CATEGORIES = [
-    "Turneringar & resultat",
-    "Toppschack & elitspelare",
-    "Schackhistoria",
-    "Schackpedagogik",
-    "Svenska schacknyheter",
-    "Regler & FIDE",
-    "Internationellt",
-]
+SUBJECT_CATEGORIES = []  # fylls dynamiskt från WordPress
+CATEGORY_SLUGS = {}      # fylls dynamiskt från WordPress
 
-CATEGORY_SLUGS = {
-    "Turneringar & resultat":    "turneringar-resultat",
-    "Toppschack & elitspelare":  "toppschack-elitspelare",
-    "Schackhistoria":            "schackhistoria",
-    "Schackpedagogik":           "schackpedagogik",
-    "Svenska schacknyheter":     "svenska-schacknyheter",
-    "Regler & FIDE":             "regler-fide",
-    "Internationellt":           "internationellt",
-}
+def load_wp_categories():
+    """Hämta kategorier från WordPress REST API."""
+    global SUBJECT_CATEGORIES, CATEGORY_SLUGS
+    try:
+        r = requests.get(
+            f"{WP_URL}/wp-json/wp/v2/categories",
+            params={"per_page": 100, "hide_empty": False},
+            auth=(WP_USER, WP_PASS),
+            timeout=10
+        )
+        if r.status_code == 200:
+            skip_slugs = {"uncategorized", "okategoriserade", "okategoriserad-en"}
+            cats = [c for c in r.json() if c["slug"] not in skip_slugs]
+            SUBJECT_CATEGORIES = [c["name"] for c in cats]
+            CATEGORY_SLUGS = {c["name"]: c["slug"] for c in cats}
+            log.info(f"✅ Kategorier laddade: {', '.join(SUBJECT_CATEGORIES)}")
+        else:
+            log.warning(f"⚠️  Kunde inte hämta kategorier ({r.status_code}), använder fallback")
+            _set_fallback_categories()
+    except Exception as e:
+        log.warning(f"⚠️  Kategorifel: {e}, använder fallback")
+        _set_fallback_categories()
+
+def _set_fallback_categories():
+    global SUBJECT_CATEGORIES, CATEGORY_SLUGS
+    SUBJECT_CATEGORIES = ["Internationellt"]
+    CATEGORY_SLUGS = {"Internationellt": "internationellt"}
 
 logging.basicConfig(
     level=logging.INFO,
@@ -545,6 +556,7 @@ def log_decisions(articles):
 def cmd_collect():
     log.info("=" * 60)
     log.info("Startar insamling")
+    load_wp_categories()
     wp_seen = get_seen_from_wordpress()
     seen = set(load_json(SEEN_FILE, []))
     pending = load_json(PENDING_FILE, [])
