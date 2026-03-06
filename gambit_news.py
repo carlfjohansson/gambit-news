@@ -236,13 +236,7 @@ REGLER FÖR NOTISEN:
 - Avsluta INTE med "Läs mer"-länk
 
 KATEGORIER (välj EN som passar bäst):
-- Turneringar & resultat       (tävlingsresultat, pågående turneringar, rundrapporter)
-- Toppschack & elitspelare     (nyheter om GM/IM, ratings, intervjuer, karriär)
-- Schackhistoria               (historiska partier, legender, retrospektiv)
-- Schackpedagogik              (lärande, taktik, öppningar, träning)
-- Svenska schacknyheter        (nyheter specifikt om svensk schack, svenska spelare/klubbar)
-- Regler & FIDE                (FIDE-beslut, regeländringar, organisation)
-- Internationellt              (nyheter från specifika länder/regioner som inte passar ovan)
+{categories}
 
 KÄLLA: {source} ({lang})
 ORIGINALTITEL: {title}
@@ -251,7 +245,7 @@ ORIGINALTEXT:
 
 Svara ENBART i detta format:
 RUBRIK: [din rubrik]
-KATEGORI: [en av de sju kategorierna exakt som ovan]
+KATEGORI: [en av kategorierna exakt som ovan]
 TEXT: [din notis]"""
 
 def translate(article):
@@ -270,9 +264,16 @@ def translate(article):
     if not body:
         return None
 
+    # Bygg kategorilista för prompten
+    if SUBJECT_CATEGORIES:
+        cat_list = "\n".join(f"- {c}" for c in SUBJECT_CATEGORIES)
+    else:
+        cat_list = "- Internationellt"
+
     prompt = TRANSLATE_PROMPT.format(
         source=article["source"], lang=lang_name,
         title=article["title"], body=body[:2500],
+        categories=cat_list,
     )
 
     try:
@@ -289,24 +290,29 @@ def translate(article):
             sv_title = raw.split("RUBRIK:", 1)[1].split("\n")[0].strip()
         if "KATEGORI:" in raw:
             kat = raw.split("KATEGORI:", 1)[1].split("\n")[0].strip()
-            sv_category = kat if kat in SUBJECT_CATEGORIES else "Internationellt"
-        if "TEXT:" in raw:
-            sv_text = raw.split("TEXT:", 1)[1].strip()
+            # Exakt match
+            if kat in SUBJECT_CATEGORIES:
+                sv_category = kat
+            else:
+                # Partiell match (Claude kan ha skrivit lite fel)
+                kat_lower = kat.lower()
+                for cat in SUBJECT_CATEGORIES:
+                    if cat.lower() in kat_lower or kat_lower in cat.lower():
+                        sv_category = cat
+                        break
+                else:
+                    sv_category = SUBJECT_CATEGORIES[0] if SUBJECT_CATEGORIES else "Övrigt"
 
-        if not sv_title or not sv_text:
-            lines = raw.splitlines()
-            sv_title = lines[0].strip()
-            sv_text  = "\n".join(lines[1:]).strip()
-
+        fallback_cat = SUBJECT_CATEGORIES[0] if SUBJECT_CATEGORIES else "Övrigt"
         if not sv_category:
-            sv_category = "Internationellt"
+            sv_category = fallback_cat
 
         result = {
             **article,
             "sv_title":    sv_title,
             "sv_text":     sv_text,
             "sv_category": sv_category,
-            "wp_cat":      CATEGORY_SLUGS.get(sv_category, "internationellt"),
+            "wp_cat":      CATEGORY_SLUGS.get(sv_category, "ovrigt"),
         }
         log.info(f"  ✅ Översatt: {sv_title}")
         log.info(f"     Kategori: {sv_category}")
