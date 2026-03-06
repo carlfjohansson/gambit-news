@@ -563,7 +563,6 @@ def cmd_collect():
     log.info("=" * 60)
     log.info("Startar insamling")
     load_wp_categories()
-    wp_seen = get_seen_from_wordpress()
     seen = set(load_json(SEEN_FILE, []))
     pending = load_json(PENDING_FILE, [])
     pending_ids = {a["id"] for a in pending}
@@ -571,8 +570,7 @@ def cmd_collect():
     new_raw = []
     for source in SOURCES:
         for a in fetch_rss(source):
-            url_hash = hashlib.md5(a['url'].encode()).hexdigest()
-            if a["id"] not in seen and a["id"] not in pending_ids and url_hash not in wp_seen:
+            if a["id"] not in seen and a["id"] not in pending_ids:
                 new_raw.append(a)
         time.sleep(1)
 
