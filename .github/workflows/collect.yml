@@ -36,3 +36,6 @@ jobs:
           git add seen_articles.json pending_approval.json || true
           git diff --staged --quiet || git commit -m "Uppdatera artiklar [skip ci]"
           git push || true
+      - name: Trigga WordPress-import
+        run: |
+          curl -s "https://gambit.se/gambit-fix.php?key=gambit-secret-2026-schack"
