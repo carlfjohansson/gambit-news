@@ -596,8 +596,9 @@ def cmd_collect():
     if translated:
         pending.extend(translated)
         save_json(PENDING_FILE, pending)
-        saved = send_to_wordpress(translated)
-        send_notification_email(saved if saved > 0 else len(translated))
+        log.info(f"✅ {len(translated)} artiklar sparade i pending_approval.json")
+        log.info("   WordPress hämtar filen automatiskt inom en timme via WP-cron")
+        send_notification_email(len(translated))
     else:
         log.warning("Inga artiklar översattes")
 
