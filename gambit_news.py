@@ -288,6 +288,8 @@ def translate(article):
 
         if "RUBRIK:" in raw:
             sv_title = raw.split("RUBRIK:", 1)[1].split("\n")[0].strip()
+        if "TEXT:" in raw:
+            sv_text = raw.split("TEXT:", 1)[1].strip()
         if "KATEGORI:" in raw:
             kat = raw.split("KATEGORI:", 1)[1].split("\n")[0].strip()
             # Exakt match
