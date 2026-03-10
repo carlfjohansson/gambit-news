@@ -569,6 +569,11 @@ def cmd_collect():
     pending = load_json(PENDING_FILE, [])
     pending_ids = {a["id"] for a in pending}
 
+    # Rensa bort gamla artiklar som redan är publicerade eller överhoppade
+    # Behåll bara de som fortfarande väntar på import (ej har decision=publish/skip)
+    pending = [a for a in pending if a.get("decision", "pending") == "pending"]
+    log.info(f"{len(pending)} artiklar kvar i pending efter rensning")
+
     new_raw = []
     for source in SOURCES:
         for a in fetch_rss(source):
