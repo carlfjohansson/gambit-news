@@ -38,4 +38,7 @@ jobs:
           git push || true
       - name: Trigga WordPress-import
         run: |
-          curl -s "https://gambit.se/gambit-fix.php?key=gambit-secret-2026-schack"
+          curl -s -X POST \
+            -H "X-Gambit-Token: ${{ secrets.GAMBIT_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            "https://gambit.se/wp-json/gambit/v1/fetch"
