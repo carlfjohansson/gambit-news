@@ -28,6 +28,7 @@ jobs:
           echo "EMAIL_TO=${{ secrets.EMAIL_TO }}" >> .env
           echo "EMAIL_PASSWORD=${{ secrets.EMAIL_PASSWORD }}" >> .env
       - name: Kör insamling
+        id: collect
         run: python gambit_news.py --collect
       - name: Spara filer till repot
         run: |
@@ -42,3 +43,18 @@ jobs:
             -H "X-Gambit-Token: ${{ secrets.GAMBIT_TOKEN }}" \
             -H "Content-Type: application/json" \
             "https://gambit.se/wp-json/gambit/v1/fetch"
+      - name: Skicka fellarm vid misslyckande
+        if: failure()
+        run: |
+          python3 -c "
+          import smtplib
+          from email.mime.text import MIMEText
+          msg = MIMEText('GitHub Actions-körningen för gambit.se misslyckades. Kolla loggen: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}')
+          msg['Subject'] = '⚠️ Gambit nyhetsinsamling misslyckades'
+          msg['From'] = '${{ secrets.EMAIL_FROM }}'
+          msg['To'] = '${{ secrets.EMAIL_TO }}'
+          with smtplib.SMTP_SSL('smtp.gmail.com', 465) as s:
+              s.login('${{ secrets.EMAIL_FROM }}', '${{ secrets.EMAIL_PASSWORD }}')
+              s.send_message(msg)
+          print('Fellarm skickat')
+          "
