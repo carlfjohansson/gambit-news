@@ -40,11 +40,15 @@ jobs:
       - name: Trigga WordPress-import
         run: |
           curl -s -X POST \
+            --max-time 60 \
+            --connect-timeout 15 \
             -H "X-Gambit-Token: ${{ secrets.GAMBIT_TOKEN }}" \
             -H "Content-Type: application/json" \
-            "https://gambit.se/wp-json/gambit/v1/fetch"
+            "https://gambit.se/wp-json/gambit/v1/fetch" \
+            || echo "⚠️ WordPress-import timeout – artiklarna är ändå sparade i repot"
       - name: Skicka fellarm vid misslyckande
         if: failure()
+        continue-on-error: true
         run: |
           python3 -c "
           import smtplib
