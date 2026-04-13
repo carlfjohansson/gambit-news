@@ -1503,22 +1503,12 @@ ORIGINALTEXT: {content[:2500]}"""
        """Spara artiklar för godkännande"""
        if not articles:
            return
-           
-       today = datetime.now().strftime('%Y%m%d')
-       filename = f"pending_approval_{today}.json"
-       
-       existing = []
-       try:
-           with open(filename, "r", encoding='utf-8') as f:
-               existing = json.load(f)
-       except FileNotFoundError:
-           pass
-       
-       all_articles = existing + articles
-       
+
+       filename = "pending_approval.json"
+
        with open(filename, "w", encoding='utf-8') as f:
-           json.dump(all_articles, f, indent=2, ensure_ascii=False)
-       
+           json.dump(articles, f, indent=2, ensure_ascii=False)
+
        logger.info(f"💾 Sparade {len(articles)} nya artiklar i {filename}")
    
    def run_full_collection(self):
@@ -1555,11 +1545,8 @@ ORIGINALTEXT: {content[:2500]}"""
                
                # Skicka e-post automatiskt om artiklar finns
                email_system = EmailApprovalSystem()
-               today = datetime.now().strftime('%Y%m%d')
-               filename = f"pending_approval_{today}.json"
-               
-               if os.path.exists(filename):
-                   email_system.send_approval_email(filename)
+               if os.path.exists("pending_approval.json"):
+                   email_system.send_approval_email("pending_approval.json")
                    logger.info("📧 E-post skickat automatiskt")
                    
            else:
