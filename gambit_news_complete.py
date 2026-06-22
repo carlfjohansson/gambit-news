@@ -1453,17 +1453,79 @@ Hej!
 
         logger.info("🌐 Webbserver startad på http://127.0.0.1:5000")
 
+# === TWIC KÄLLA (RSS) ===
+class TWICSource(NewsSource):
+    def __init__(self):
+        super().__init__("TWIC", "https://theweekinchess.com/twic-rss-feed", "TWIC", True)
+        self.request_delay = 2
+
+    def fetch_articles(self):
+        import xml.etree.ElementTree as ET
+        import re
+        logger.info(f"🌍 Hämtar artiklar från {self.name}...")
+        articles = []
+
+        try:
+            resp = self.safe_request_with_backoff(self.base_url)
+            if not resp:
+                return articles
+
+            root = ET.fromstring(resp.text)
+            items = root.findall('.//item')
+            logger.info(f"🔍 {self.name}: Hittade {len(items)} artiklar i RSS")
+
+            for item in items:
+                title = item.findtext('title') or ''
+                url = item.findtext('link') or item.findtext('guid') or ''
+                date = item.findtext('pubDate') or datetime.now().isoformat()
+                desc = item.findtext('description') or ''
+                # Spara rensad beskrivning för parse_article_content
+                clean_desc = re.sub(r'<[^>]+>', ' ', desc).strip()
+                clean_desc = re.sub(r'\s+', ' ', clean_desc)
+
+                if title and url and len(title) > 5:
+                    articles.append({
+                        "source": self.name,
+                        "url": url,
+                        "title": title,
+                        "date": date,
+                        "tag": self.tag_name,
+                        "_rss_content": clean_desc
+                    })
+
+        except Exception as e:
+            logger.error(f"❌ Fel vid hämtning från {self.name}: {e}")
+
+        self.log_statistics()
+        logger.info(f"📰 {self.name}: Extraherade {len(articles)} artiklar")
+        return articles
+
+    def parse_article_content(self, article_url):
+        # Försök hämta artikelsidan, annars använd RSS-beskrivningen
+        resp = self.safe_request_with_backoff(article_url)
+        if resp:
+            soup = BeautifulSoup(resp.text, "html.parser")
+            for selector in ['article', '.entry-content', '.post-content', 'main']:
+                el = soup.select_one(selector)
+                if el:
+                    text = el.get_text(separator="\n", strip=True)
+                    if len(text) > 100:
+                        return text
+        return None
+
+
         # === HUVUDMOTOR MED ALLA FÖRBÄTTRINGAR ===
 class MultiNewsEngine:
     def __init__(self):
         self.sources = [
             ChesscomSource(),
-            ChessBaseSource(),          
+            ChessBaseSource(),
             FideSource(),
             SchackSeSource(),
             ChessBaseIndiaSource(),
             ChessdomSource(),
-            EuropeEchecsSource()
+            EuropeEchecsSource(),
+            TWICSource()
         ]
 
     def collect_from_all_sources(self):
