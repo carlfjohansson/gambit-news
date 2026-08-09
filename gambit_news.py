@@ -97,6 +97,29 @@ _active_model = None
 _slopade_parametrar = set()
 
 
+def hamta_text(response):
+    """Plocka ut själva svarstexten ur Claudes svar.
+
+    Nyare modeller tänker innan de svarar, och lägger då ett tankeblock först i
+    svaret. Den gamla koden tog blindt första blocket och kraschade med
+    "'ThinkingBlock' object has no attribute 'text'". Här letas i stället upp
+    det första blocket som faktiskt innehåller text.
+    """
+    delar = []
+    for block in getattr(response, "content", []) or []:
+        if getattr(block, "type", None) == "text" or hasattr(block, "text"):
+            if getattr(block, "type", "text") == "thinking":
+                continue
+            text = getattr(block, "text", None)
+            if text:
+                delar.append(text)
+
+    if not delar:
+        raise ValueError("Claudes svar innehöll ingen text")
+
+    return "\n".join(delar).strip()
+
+
 def claude_message(**kwargs):
     """Anropa Claude och anpassa sig automatiskt om modellen bytt förutsättningar.
 
@@ -789,17 +812,35 @@ class ChessdomSource(NewsSource):
             
         soup = BeautifulSoup(resp.text, "html.parser")
         
+        # Chessdom använder inte de vanliga WordPress-klasserna. Kontrollerat
+        # 2026-08-09: ingen av .entry-content/.article-content/.post-content/.content
+        # finns på deras artikelsidor, vilket gjorde att varje artikel avvisades
+        # med "För kort innehåll". Deras egen behållare heter post-wrap-out1.
         content_selectors = [
+            '.post-wrap-out1',
             '.entry-content',
             '.article-content',
             '.post-content',
             '.content'
         ]
-        
+
         for selector in content_selectors:
             content_element = soup.select_one(selector)
             if content_element:
-                return content_element.get_text(strip=True, separator="\n")
+                text = content_element.get_text(strip=True, separator="\n")
+                if text and len(text) >= 200:
+                    return text
+
+        # Sista utväg: plocka brödtexten ur styckena. Fungerar även om sidans
+        # struktur byggs om igen.
+        stycken = [
+            p.get_text(strip=True)
+            for p in soup.find_all('p')
+            if len(p.get_text(strip=True)) > 40
+        ]
+        if stycken:
+            return "\n".join(stycken)
+
         return None
 
 # === EUROPE ECHECS KÄLLA ===
@@ -1548,7 +1589,7 @@ ORIGINALTEXT: {content[:2500]}"""
                messages=[{"role": "user", "content": prompt}]
            )
            
-           claude_text = response.content[0].text.strip()
+           claude_text = hamta_text(response)
            
            if "RUBRIK:" in claude_text and "TEXT:" in claude_text:
                parts = claude_text.split("TEXT:", 1)
