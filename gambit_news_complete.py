@@ -93,6 +93,31 @@ _active_model = None
 _slopade_parametrar = set()
 
 
+def korta_vid_meningsslut(text, maxlangd):
+    """Korta en text utan att hugga av den mitt i en mening.
+
+    Klipper vid sista punkt, utropstecken eller frågetecken som ryms. Finns
+    inget meningsslut alls klipps det vid sista hela ordet, med tre punkter.
+    """
+    if not text or len(text) <= maxlangd:
+        return text
+
+    kandidat = text[:maxlangd]
+
+    slut = max(kandidat.rfind('. '), kandidat.rfind('! '), kandidat.rfind('? '))
+    if kandidat.rstrip() and kandidat.rstrip()[-1] in '.!?':
+        slut = max(slut, len(kandidat.rstrip()) - 1)
+
+    if slut > maxlangd * 0.4:
+        return kandidat[:slut + 1].rstrip()
+
+    sista_mellanslag = kandidat.rfind(' ')
+    if sista_mellanslag > 0:
+        return kandidat[:sista_mellanslag].rstrip() + '…'
+
+    return kandidat.rstrip() + '…'
+
+
 def hamta_text(response):
     """Plocka ut själva svarstexten ur Claudes svar.
 
@@ -1788,14 +1813,11 @@ ORIGINALTEXT: {content[:2500]}"""
                 swedish_title = lines[0].strip()
                 swedish_content = lines[1].strip() if len(lines) > 1 else ""
 
-            if len(swedish_content) > 1000:
-                # Klipp vid senaste meningsgräns inom 1000 tecken
-                truncated = swedish_content[:1000]
-                last_period = max(truncated.rfind('.'), truncated.rfind('!'), truncated.rfind('?'))
-                if last_period > 500:
-                    swedish_content = truncated[:last_period + 1]
-                else:
-                    swedish_content = truncated + "..."
+            # Säkerhetsspärr mot orimligt långa svar. Taket låg tidigare på 1000
+            # tecken, vilket kapade texterna mitt i en mening trots att prompten
+            # ber om längre. Nu ligger taket över det vi faktiskt ber om, och
+            # kapningen sker alltid vid ett meningsslut.
+            swedish_content = korta_vid_meningsslut(swedish_content, 2000)
 
             result = {
                 "source": article['source'],
