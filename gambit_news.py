@@ -91,28 +91,52 @@ CLAUDE_MODELS = [
     ).split(",") if m.strip()
 ]
 _active_model = None
+# Inställningar som den valda modellen inte längre accepterar. Fylls på automatiskt
+# när API:et säger ifrån, så att t.ex. en pensionerad temperature-inställning inte
+# stoppar hela körningen.
+_slopade_parametrar = set()
 
 
 def claude_message(**kwargs):
-    """Anropa Claude och byt automatiskt modell om den valda inte finns."""
+    """Anropa Claude och anpassa sig automatiskt om modellen bytt förutsättningar.
+
+    Hanterar två saker som annars stoppar hela nyhetsflödet:
+      * modellen finns inte längre (404) → provar nästa modell i listan
+      * en inställning stöds inte längre (400) → släpper den och försöker igen
+    """
     global _active_model
 
     candidates = [_active_model] if _active_model else list(CLAUDE_MODELS)
     last_error = None
 
     for model in candidates:
+        params = {k: v for k, v in kwargs.items() if k not in _slopade_parametrar}
         try:
-            response = anthropic_client.messages.create(model=model, **kwargs)
+            response = anthropic_client.messages.create(model=model, **params)
             if _active_model != model:
                 logger.info(f"🤖 Använder modell: {model}")
                 _active_model = model
             return response
         except Exception as e:
             text = str(e)
+
             if "not_found" in text or "404" in text:
                 logger.warning(f"⚠️ Modellen {model} finns inte längre – provar nästa")
                 last_error = e
                 continue
+
+            # T.ex: "`temperature` is deprecated for this model."
+            traff = re.search(r"[`'\"](\w+)[`'\"] is (?:deprecated|not supported|unsupported)", text)
+            if traff and traff.group(1) not in _slopade_parametrar:
+                parameter = traff.group(1)
+                _slopade_parametrar.add(parameter)
+                logger.warning(
+                    f"⚠️ Inställningen '{parameter}' stöds inte av {model} – "
+                    f"kör vidare utan den"
+                )
+                return claude_message(**kwargs)
+
+            logger.error(f"❌ Oväntat fel från modellen {model}: {text[:300]}")
             raise
 
     # Om den tidigare fungerande modellen slutat fungera: gå igenom hela listan igen
