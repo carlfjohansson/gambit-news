@@ -57,13 +57,14 @@ WP_URL = os.getenv("WP_URL")
 
 # WordPress kategorimappning
 CATEGORY_MAPPING = {
-    'Chess.com': 'chess-com',
-    'ChessBase': 'chessbase', 
-    'ChessBase India': 'chessbase-india',
-    'FIDE': 'fide',
-    'Schack.se': 'schack.se',
-    'Chessdom': 'chessdom',
-    'Europe Echecs': 'europe-echecs'
+    'Chess.com':        'elitschack',
+    'ChessBase':        'internationella-turneringar',
+    'ChessBase India':  'elitschack',
+    'FIDE':             'fide',
+    'Schack.se':        'sverige',
+    'Chessdom':         'internationella-turneringar',
+    'Europe Echecs':    'internationella-turneringar',
+    'TWIC':             'internationella-turneringar',
 }
 
 # Ladda Anthropic om API-nyckel finns
@@ -77,6 +78,89 @@ if ANTHROPIC_API_KEY:
         logger.warning("⚠️ Anthropic-biblioteket inte installerat")
 else:
     logger.warning("⚠️ ANTHROPIC_API_KEY inte satt")
+
+# === MODELLVAL OCH ROBUSTA CLAUDE-ANROP ===
+# Historik: systemet stod stilla i fyra månader eftersom modellnamnet var
+# hårdkodat till en modell som pensionerades. Varje översättning gav 404, alla
+# artiklar kastades, och ingenting larmade. Därför hanteras det automatiskt här.
+CLAUDE_MODELS = [
+    m.strip() for m in (
+        os.getenv("CLAUDE_MODEL", "") + ",claude-sonnet-5,claude-haiku-4-5,claude-opus-5"
+    ).split(",") if m.strip()
+]
+_active_model = None
+# Inställningar som modellen inte längre accepterar. Fylls på automatiskt.
+_slopade_parametrar = set()
+
+
+def hamta_text(response):
+    """Plocka ut själva svarstexten ur Claudes svar.
+
+    Nyare modeller tänker innan de svarar och lägger då ett tankeblock först.
+    Den gamla koden tog blindt första blocket och kraschade med
+    "'ThinkingBlock' object has no attribute 'text'".
+    """
+    delar = []
+    for block in getattr(response, "content", []) or []:
+        if getattr(block, "type", None) == "thinking":
+            continue
+        text = getattr(block, "text", None)
+        if text:
+            delar.append(text)
+
+    if not delar:
+        raise ValueError("Claudes svar innehöll ingen text")
+
+    return "\n".join(delar).strip()
+
+
+def claude_message(**kwargs):
+    """Anropa Claude och anpassa sig automatiskt om modellen bytt förutsättningar.
+
+    Hanterar två saker som annars stoppar hela nyhetsflödet:
+      * modellen finns inte längre (404) → provar nästa modell i listan
+      * en inställning stöds inte längre (400) → släpper den och försöker igen
+    """
+    global _active_model
+
+    candidates = [_active_model] if _active_model else list(CLAUDE_MODELS)
+    last_error = None
+
+    for model in candidates:
+        params = {k: v for k, v in kwargs.items() if k not in _slopade_parametrar}
+        try:
+            response = anthropic_client.messages.create(model=model, **params)
+            if _active_model != model:
+                logger.info(f"🤖 Använder modell: {model}")
+                _active_model = model
+            return response
+        except Exception as e:
+            text = str(e)
+
+            if "not_found" in text or "404" in text:
+                logger.warning(f"⚠️ Modellen {model} finns inte längre – provar nästa")
+                last_error = e
+                continue
+
+            traff = re.search(r"[`'\"](\w+)[`'\"] is (?:deprecated|not supported|unsupported)", text)
+            if traff and traff.group(1) not in _slopade_parametrar:
+                parameter = traff.group(1)
+                _slopade_parametrar.add(parameter)
+                logger.warning(
+                    f"⚠️ Inställningen '{parameter}' stöds inte av {model} – kör vidare utan den"
+                )
+                return claude_message(**kwargs)
+
+            logger.error(f"❌ Oväntat fel från modellen {model}: {text[:300]}")
+            raise
+
+    if _active_model:
+        _active_model = None
+        return claude_message(**kwargs)
+
+    raise RuntimeError(
+        f"Ingen av modellerna {CLAUDE_MODELS} kunde användas. Senaste fel: {last_error}"
+    )
 
 # USER AGENTS
 USER_AGENTS = [
@@ -754,7 +838,12 @@ class ChessdomSource(NewsSource):
 
         soup = BeautifulSoup(resp.text, "html.parser")
 
+        # Chessdom använder inte de vanliga WordPress-klasserna. Kontrollerat
+        # 2026-08-09: ingen av .entry-content/.article-content/.post-content/.content
+        # finns på deras artikelsidor, vilket gjorde att varje artikel avvisades
+        # med "För kort innehåll". Deras egen behållare heter post-wrap-out1.
         content_selectors = [
+            '.post-wrap-out1',
             '.entry-content',
             '.article-content',
             '.post-content',
@@ -764,9 +853,22 @@ class ChessdomSource(NewsSource):
         for selector in content_selectors:
             content_element = soup.select_one(selector)
             if content_element:
-                return content_element.get_text(strip=True, separator="\n")
+                text = content_element.get_text(strip=True, separator="\n")
+                if text and len(text) >= 200:
+                    return text
+
+        # Sista utväg: plocka brödtexten ur styckena. Fungerar även om sidans
+        # struktur byggs om igen.
+        stycken = [
+            p.get_text(strip=True)
+            for p in soup.find_all('p')
+            if len(p.get_text(strip=True)) > 40
+        ]
+        if stycken:
+            return "\n".join(stycken)
+
         return None
-    
+
 # === FÖRBÄTTRAD EUROPE ECHECS KÄLLA ===
 class EuropeEchecsSource(NewsSource):
     def __init__(self):
@@ -899,10 +1001,10 @@ class WordPressPublisher:
         self.wp_user = WP_USER  
         self.wp_pass = WP_PASS
 
-    def get_category_id(self, source_name):
-        """Skapa eller hämta kategori-ID baserat på källa"""
+    def get_category_id(self, source_name, override_slug=None):
+        """Skapa eller hämta kategori-ID baserat på källa eller override"""
         try:
-            category_slug = CATEGORY_MAPPING.get(source_name, 'allmant')
+            category_slug = override_slug if override_slug else CATEGORY_MAPPING.get(source_name, 'allmant')
 
             categories_url = f"{self.wp_url}/wp-json/wp/v2/categories"
             response = requests.get(categories_url, auth=HTTPBasicAuth(self.wp_user, self.wp_pass))
@@ -946,7 +1048,8 @@ class WordPressPublisher:
             return False
 
         try:
-            category_id = self.get_category_id(original_article['source'])
+            override_slug = original_article.get('_override_category')
+            category_id = self.get_category_id(original_article['source'], override_slug)
             api_url = f"{self.wp_url}/wp-json/wp/v2/posts"
 
             # Använd originaldatum om tillgängligt
@@ -1152,7 +1255,8 @@ class EmailApprovalSystem:
               if (action === 'publish') {{
                   const title = document.getElementById('title-' + articleId).value;
                   const content = document.getElementById('content-' + articleId).value;
-                  toPublish.push({{ id: articleId, title: title, content: content }});
+                  const category = document.getElementById('category-' + articleId).value;
+                  toPublish.push({{ id: articleId, title: title, content: content, category: category }});
               }} else if (action === 'skip') {{
                   toSkip.push({{ id: articleId }});
               }}
@@ -1266,6 +1370,22 @@ class EmailApprovalSystem:
           </div>
 
           <div style="margin-bottom: 10px;">
+              <label><strong>Kategori:</strong></label>
+              <select id="category-{i}" style="padding: 6px 10px; border: 1px solid #ddd; border-radius: 4px; font-size: 14px; margin-left: 8px;">
+                  <option value="chess-com" {"selected" if article["source"] == "Chess.com" else ""}>Chess.com</option>
+                  <option value="chessbase" {"selected" if article["source"] == "ChessBase" else ""}>ChessBase</option>
+                  <option value="chessbase-india" {"selected" if article["source"] == "ChessBase India" else ""}>ChessBase India</option>
+                  <option value="fide" {"selected" if article["source"] == "FIDE" else ""}>FIDE</option>
+                  <option value="schack-se" {"selected" if article["source"] == "Schack.se" else ""}>Schack.se</option>
+                  <option value="twic" {"selected" if article["source"] == "TWIC" else ""}>TWIC</option>
+                  <option value="elitschack">Elitschack</option>
+                  <option value="svenska-schack">Svenska schack</option>
+                  <option value="turneringar">Turneringar</option>
+                  <option value="allmant">Allmänt</option>
+              </select>
+          </div>
+
+          <div style="margin-bottom: 10px;">
               <label><strong>Innehåll:</strong></label>
               <button class="expand-btn" id="expand-btn-{i}" onclick="expandContent({i})">Expandera för längre text</button>
               <textarea id="content-{i}" class="article-content">{content.replace('<', '&lt;').replace('>', '&gt;')}</textarea>
@@ -1319,6 +1439,9 @@ class EmailApprovalSystem:
                 for selected in to_publish:
                     if selected['id'] < len(all_articles):
                         original_article = all_articles[selected['id']]
+                        # Skicka med valt kategori-slug om det finns
+                        if 'category' in selected:
+                            original_article['_override_category'] = selected['category']
                         if wp_publisher.publish_article(selected, original_article):
                             published_count += 1
                             decision_logger.log_decision(original_article, "published")
@@ -1377,7 +1500,7 @@ class EmailApprovalSystem:
             msg = MIMEMultipart()
             msg['From'] = EMAIL_FROM
             msg['To'] = EMAIL_TO
-            msg['Subject'] = f"🔥 {article_count} nya schackartiklar väntar på godkännande"
+            msg['Subject'] = f"♟ {article_count} nya schackartiklar väntar på gambit.se/redaktionen/"
 
             body = f"""
 Hej!
@@ -1397,22 +1520,13 @@ Hej!
 
             body += f"""
 
-🔗 För att granska artiklarna:
+🔗 Granska och publicera artiklarna här:
+   https://gambit.se/redaktionen/
 
-1. Kör detta kommando i terminalen:
-   python gambit_news_complete.py --approve
+Logga in med redaktionslösenordet, välj vad som ska publiceras/raderas/behållas,
+och klicka Verkställ.
 
-2. Eller klicka här när servern är igång:
-   http://127.0.0.1:5000
-
-📁 Artiklar sparade i: {articles_file}
-
-🆕 Nya funktioner:
-✅ Publicera artiklar direkt på gambit.se med automatiska kategorier
-⏭️ Hoppa över artiklar (de försvinner från listan)
-✏️ Redigera rubrik och innehåll före publicering
-📂 Automatiska WordPress-kategorier per källa
-🤖 AI-disclaimer läggs till automatiskt
+Det går också att importera en enskild artikel via URL direkt i gränssnittet.
 
 /Ditt automatiska schacknyhetssystem
 """
@@ -1540,22 +1654,46 @@ class MultiNewsEngine:
 
         return all_articles
 
-    def filter_new_articles(self, articles):
-        """Filtrera bort artiklar vi redan sett"""
+    def load_seen_urls(self):
+        """Läs listan över artiklar som redan hanterats färdigt"""
         try:
             with open("seen_articles.json", "r", encoding='utf-8') as f:
-                seen_urls = set(json.load(f))
-        except FileNotFoundError:
-            seen_urls = set()
+                return set(json.load(f))
+        except (FileNotFoundError, json.JSONDecodeError):
+            return set()
 
-        new_articles = []
+    def mark_as_seen(self, articles):
+        """Bocka av artiklar SOM FAKTISKT BEARBETATS FÄRDIGT.
+
+        Tidigare bockades allt av redan vid insamlingen. Följden blev att
+        artiklar som samlats in men aldrig hunnit publiceras försvann tyst för
+        alltid. Anropa därför den här först när artikeln nått WordPress.
+        """
+        if not articles:
+            return
+
+        seen_urls = self.load_seen_urls()
+        before = len(seen_urls)
+
         for article in articles:
-            if article['url'] not in seen_urls:
-                new_articles.append(article)
+            url = article.get('url') or article.get('original_url')
+            if url:
+                seen_urls.add(url)
 
-        all_urls = seen_urls | {art['url'] for art in articles}
         with open("seen_articles.json", "w", encoding='utf-8') as f:
-            json.dump(list(all_urls), f)
+            json.dump(sorted(seen_urls), f, ensure_ascii=False)
+
+        logger.info(f"✅ Bockade av {len(seen_urls) - before} färdigbearbetade artiklar")
+
+    def filter_new_articles(self, articles):
+        """Filtrera bort artiklar vi redan hanterat.
+
+        OBS: skriver inte längre till seen_articles.json. Avbockningen sker i
+        mark_as_seen(), efter att artikeln bearbetats färdigt.
+        """
+        seen_urls = self.load_seen_urls()
+
+        new_articles = [a for a in articles if a['url'] not in seen_urls]
 
         logger.info(f"🔍 Filtrerade till {len(new_articles)} nya artiklar av {len(articles)} totalt")
         return new_articles
@@ -1633,14 +1771,13 @@ KÄLLA: {article['source']} ({source_language})
 ORIGINALTITEL: {article['title']}
 ORIGINALTEXT: {content[:2500]}"""
 
-            response = anthropic_client.messages.create(
-                model="claude-sonnet-4-6",
+            response = claude_message(
                 max_tokens=1500,
                 temperature=0.2,
                 messages=[{"role": "user", "content": prompt}]
             )
 
-            claude_text = response.content[0].text.strip()
+            claude_text = hamta_text(response)
 
             if "RUBRIK:" in claude_text and "TEXT:" in claude_text:
                 parts = claude_text.split("TEXT:", 1)
@@ -1652,7 +1789,13 @@ ORIGINALTEXT: {content[:2500]}"""
                 swedish_content = lines[1].strip() if len(lines) > 1 else ""
 
             if len(swedish_content) > 1000:
-                swedish_content = swedish_content[:1000] + "..."
+                # Klipp vid senaste meningsgräns inom 1000 tecken
+                truncated = swedish_content[:1000]
+                last_period = max(truncated.rfind('.'), truncated.rfind('!'), truncated.rfind('?'))
+                if last_period > 500:
+                    swedish_content = truncated[:last_period + 1]
+                else:
+                    swedish_content = truncated + "..."
 
             result = {
                 "source": article['source'],
@@ -1704,6 +1847,74 @@ ORIGINALTEXT: {content[:2500]}"""
             json.dump(all_articles, f, indent=2, ensure_ascii=False)
     
         logger.info(f"💾 Sparade {len(articles)} nya artiklar i {filename}")
+    def save_as_wp_drafts(self, articles):
+        """Spara artiklar som WordPress-utkast (med GAMBIT_META-kommentar)"""
+        if not all([WP_URL, WP_USER, WP_PASS]):
+            logger.warning("⚠️  WordPress-inställningar saknas – faller tillbaka på JSON")
+            self.save_for_approval(articles)
+            return
+
+        auth_str = base64.b64encode(f"{WP_USER}:{WP_PASS}".encode()).decode()
+        headers = {
+            "Authorization": f"Basic {auth_str}",
+            "Content-Type": "application/json",
+            "User-Agent": "Gambit-News/1.0",
+        }
+
+        saved = 0
+        failed = 0
+        sparade_artiklar = []
+
+        for art in articles:
+            cat_slug = CATEGORY_MAPPING.get(art.get("source", ""), "internationellt")
+            meta = {
+                "source":        art.get("source", ""),
+                "source_url":    art.get("original_url", ""),
+                "suggested_cat": cat_slug,
+                "original_title": art.get("original_title", ""),
+            }
+            import json as _json
+            meta_comment = f"<!-- GAMBIT_META:{_json.dumps(meta, ensure_ascii=False)} -->"
+            wp_content   = meta_comment + "\n\n" + art.get("swedish_content", "")
+
+            payload = {
+                "title":   art.get("swedish_title", art.get("original_title", "Schacknyhet")),
+                "content": wp_content,
+                "status":  "draft",
+                "date":    art.get("date", ""),
+            }
+
+            try:
+                resp = requests.post(
+                    f"{WP_URL}/wp-json/wp/v2/posts",
+                    headers=headers,
+                    json=payload,
+                    timeout=20,
+                )
+                if resp.status_code in (200, 201):
+                    saved += 1
+                    sparade_artiklar.append(art)
+                    post_id = resp.json().get("id", "?")
+                    logger.info(f"✅ Utkast #{post_id} skapat: {payload['title'][:60]}")
+                else:
+                    failed += 1
+                    logger.warning(
+                        f"⚠️  WP-fel {resp.status_code} för: {payload['title'][:60]} "
+                        f"– {resp.text[:200]}"
+                    )
+            except Exception as e:
+                failed += 1
+                logger.error(f"❌ Nätverksfel vid WP-draft: {e}")
+
+            time.sleep(1)
+
+        logger.info(f"💾 WP-utkast: {saved} sparade, {failed} misslyckade")
+
+        # Returnera bara de som faktiskt nådde WordPress, så att inget bockas av
+        # i onödan om uppladdningen skulle fallera.
+        return sparade_artiklar
+
+
 
     def run_full_collection(self):
         """Kör fullständig nyhetsinsamling"""
@@ -1734,8 +1945,30 @@ ORIGINALTEXT: {content[:2500]}"""
             processed_articles = self.process_articles_with_claude(new_articles)
 
             if processed_articles:
-                self.save_for_approval(processed_articles)
-                logger.info(f"✅ Slutfört! {len(processed_articles)} artiklar redo för godkännande")
+                sparade = self.save_as_wp_drafts(processed_articles)
+
+                # Bocka av FÖRST nu, och bara det som faktiskt nådde WordPress.
+                # Artiklar som fallerat ligger kvar och plockas upp nästa körning
+                # i stället för att försvinna tyst.
+                self.mark_as_seen(sparade)
+
+                misslyckade = len(new_articles) - len(sparade)
+                if misslyckade:
+                    logger.warning(
+                        f"⚠️ {misslyckade} av {len(new_articles)} artiklar nådde inte WordPress "
+                        f"– de ligger kvar och provas igen nästa körning"
+                    )
+
+                if not sparade:
+                    logger.error(
+                        "❌ Ingen artikel nådde WordPress. Kontrollera WP_URL, WP_USER och WP_PASS."
+                    )
+                    raise RuntimeError("Inga utkast kunde skapas i WordPress")
+
+                logger.info(
+                    f"✅ Slutfört! {len(sparade)} utkast redo för granskning på "
+                    f"gambit.se/wp-admin/admin.php?page=gambit-redaktion"
+                )
 
                 # Skicka e-post automatiskt om artiklar finns
                 email_system = EmailApprovalSystem()
@@ -1747,10 +1980,17 @@ ORIGINALTEXT: {content[:2500]}"""
                     logger.info("📧 E-post skickat automatiskt")
 
             else:
-                logger.warning("⚠️ Inga artiklar kunde översättas")
+                # Ingen enda artikel gick igenom. Det är precis det tysta läge som
+                # gjorde att sajten stod stilla i månader utan att någon larmade,
+                # så körningen avslutas med fel och GitHub skickar fellarmet.
+                logger.error(
+                    f"❌ Ingen av {len(new_articles)} artiklar kunde bearbetas. "
+                    f"Inget har bockats av. Kontrollera API-nyckel och modellnamn."
+                )
+                raise RuntimeError("Alla artiklar misslyckades vid bearbetning")
         else:
             logger.warning("⚠️ Claude inte tillgänglig")
-            self.save_for_approval(new_articles)
+            self.save_as_wp_drafts(new_articles)
 
     def send_approval_email_and_start_server(self):
         """Skicka e-post och starta webbserver för godkännande"""

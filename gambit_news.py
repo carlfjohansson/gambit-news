@@ -1646,7 +1646,86 @@ ORIGINALTEXT: {content[:2500]}"""
            json.dump(articles, f, indent=2, ensure_ascii=False)
 
        logger.info(f"💾 Sparade {len(articles)} nya artiklar i {filename}")
-   
+
+   def save_as_wp_drafts(self, articles):
+       """Lägg artiklarna som utkast direkt i WordPress.
+
+       Tidigare skrevs bara pending_approval.json till repot, och ett
+       WordPress-tillägg skulle hämta filen därifrån. Den vägen gick sönder
+       tyst: tillägget hämtade filen, såg fyra nya artiklar och importerade
+       noll utan att ange varför.
+
+       Utkasten märks med en dold GAMBIT_META-kommentar. Både
+       /redaktionen/index.php och tillägget "Gambit Redaktion" filtrerar
+       utkast på just den märkningen.
+
+       Returnerar de artiklar som faktiskt nådde WordPress, så att inget
+       bockas av i onödan om uppladdningen skulle fallera.
+       """
+       if not articles:
+           return []
+
+       if not all([WP_URL, WP_USER, WP_PASS]):
+           logger.warning("⚠️ WordPress-inställningar saknas – faller tillbaka på JSON")
+           self.save_for_approval(articles)
+           return []
+
+       auth_str = base64.b64encode(f"{WP_USER}:{WP_PASS}".encode()).decode()
+       headers = {
+           "Authorization": f"Basic {auth_str}",
+           "Content-Type": "application/json",
+           "User-Agent": "Gambit-News/1.0",
+       }
+
+       saved = 0
+       failed = 0
+       sparade_artiklar = []
+
+       for art in articles:
+           cat_slug = CATEGORY_MAPPING.get(art.get("source", ""), "ovrigt")
+           meta = {
+               "source":         art.get("source", ""),
+               "source_url":     art.get("original_url", ""),
+               "suggested_cat":  cat_slug,
+               "original_title": art.get("original_title", ""),
+           }
+           meta_comment = f"<!-- GAMBIT_META:{json.dumps(meta, ensure_ascii=False)} -->"
+           wp_content   = meta_comment + "\n\n" + art.get("swedish_content", "")
+
+           payload = {
+               "title":   art.get("swedish_title", art.get("original_title", "Schacknyhet")),
+               "content": wp_content,
+               "status":  "draft",
+               "date":    art.get("date", ""),
+           }
+
+           try:
+               resp = requests.post(
+                   f"{WP_URL}/wp-json/wp/v2/posts",
+                   headers=headers,
+                   json=payload,
+                   timeout=20,
+               )
+               if resp.status_code in (200, 201):
+                   saved += 1
+                   sparade_artiklar.append(art)
+                   post_id = resp.json().get("id", "?")
+                   logger.info(f"✅ Utkast #{post_id} skapat: {payload['title'][:60]}")
+               else:
+                   failed += 1
+                   logger.warning(
+                       f"⚠️ WP-fel {resp.status_code} för: {payload['title'][:60]} "
+                       f"– {resp.text[:200]}"
+                   )
+           except Exception as e:
+               failed += 1
+               logger.error(f"❌ Nätverksfel vid WP-utkast: {e}")
+
+           time.sleep(1)
+
+       logger.info(f"💾 WP-utkast: {saved} sparade, {failed} misslyckade")
+       return sparade_artiklar
+
    def run_full_collection(self):
        """Kör fullständig nyhetsinsamling"""
        logger.info("🚀 Startar fullständig nyhetsinsamling med alla förbättringar...")
@@ -1676,21 +1755,33 @@ ORIGINALTEXT: {content[:2500]}"""
            processed_articles = self.process_articles_with_claude(new_articles)
 
            if processed_articles:
+               # Lägg utkasten DIREKT i WordPress. Behåll även JSON-filen som
+               # säkerhetskopia, men det är WordPress som är sanningen.
+               sparade = self.save_as_wp_drafts(processed_articles)
                self.save_for_approval(processed_articles)
 
-               # Bocka av FÖRST nu, när artiklarna är översatta och sparade.
-               # Artiklar som misslyckades finns kvar som obockade och plockas
-               # upp igen vid nästa körning i stället för att försvinna tyst.
-               self.mark_as_seen(processed_articles)
+               # Bocka av FÖRST nu, och bara det som faktiskt nådde WordPress.
+               # Artiklar som fallerat ligger kvar och plockas upp nästa körning
+               # i stället för att försvinna tyst.
+               self.mark_as_seen(sparade)
 
-               misslyckade = len(new_articles) - len(processed_articles)
+               misslyckade = len(new_articles) - len(sparade)
                if misslyckade:
                    logger.warning(
-                       f"⚠️ {misslyckade} av {len(new_articles)} artiklar kunde inte bearbetas "
+                       f"⚠️ {misslyckade} av {len(new_articles)} artiklar nådde inte WordPress "
                        f"– de ligger kvar och provas igen nästa körning"
                    )
 
-               logger.info(f"✅ Slutfört! {len(processed_articles)} artiklar redo för godkännande")
+               if not sparade:
+                   logger.error(
+                       "❌ Ingen artikel nådde WordPress. Kontrollera WP_URL, WP_USER och WP_PASS."
+                   )
+                   raise RuntimeError("Inga utkast kunde skapas i WordPress")
+
+               logger.info(
+                   f"✅ Slutfört! {len(sparade)} utkast redo för granskning på "
+                   f"gambit.se/wp-admin/admin.php?page=gambit-redaktion"
+               )
 
                # Skicka e-post automatiskt om artiklar finns
                email_system = EmailApprovalSystem()
