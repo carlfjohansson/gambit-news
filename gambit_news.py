@@ -77,6 +77,53 @@ if ANTHROPIC_API_KEY:
 else:
     logger.warning("⚠️ ANTHROPIC_API_KEY inte satt")
 
+# === MODELLVAL ===
+# Historik: systemet stod stilla i flera månader eftersom modellnamnet var
+# hårdkodat till en modell som pensionerades. Varje översättning gav 404 och
+# alla artiklar kastades — utan att något larmade.
+#
+# Lösningen: en lista med reservmodeller. Om den första inte finns provas nästa,
+# och den som fungerar används resten av körningen. Sätt CLAUDE_MODEL i .env
+# för att styra vilken som provas först.
+CLAUDE_MODELS = [
+    m.strip() for m in (
+        os.getenv("CLAUDE_MODEL", "") + ",claude-sonnet-5,claude-haiku-4-5,claude-opus-5"
+    ).split(",") if m.strip()
+]
+_active_model = None
+
+
+def claude_message(**kwargs):
+    """Anropa Claude och byt automatiskt modell om den valda inte finns."""
+    global _active_model
+
+    candidates = [_active_model] if _active_model else list(CLAUDE_MODELS)
+    last_error = None
+
+    for model in candidates:
+        try:
+            response = anthropic_client.messages.create(model=model, **kwargs)
+            if _active_model != model:
+                logger.info(f"🤖 Använder modell: {model}")
+                _active_model = model
+            return response
+        except Exception as e:
+            text = str(e)
+            if "not_found" in text or "404" in text:
+                logger.warning(f"⚠️ Modellen {model} finns inte längre – provar nästa")
+                last_error = e
+                continue
+            raise
+
+    # Om den tidigare fungerande modellen slutat fungera: gå igenom hela listan igen
+    if _active_model:
+        _active_model = None
+        return claude_message(**kwargs)
+
+    raise RuntimeError(
+        f"Ingen av modellerna {CLAUDE_MODELS} kunde användas. Senaste fel: {last_error}"
+    )
+
 # USER AGENTS
 USER_AGENTS = [
     'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
@@ -1363,23 +1410,48 @@ class MultiNewsEngine:
        
        return all_articles
    
-   def filter_new_articles(self, articles):
-       """Filtrera bort artiklar vi redan sett"""
+   def load_seen_urls(self):
+       """Läs listan över artiklar som redan hanterats färdigt"""
        try:
            with open("seen_articles.json", "r", encoding='utf-8') as f:
-               seen_urls = set(json.load(f))
-       except FileNotFoundError:
-           seen_urls = set()
-       
-       new_articles = []
+               return set(json.load(f))
+       except (FileNotFoundError, json.JSONDecodeError):
+           return set()
+
+   def mark_as_seen(self, articles):
+       """Bocka av artiklar SOM FAKTISKT BEARBETATS FÄRDIGT.
+
+       Tidigare bockades allt av redan vid insamlingen. Följden blev att artiklar
+       som samlats in men aldrig hunnit publiceras försvann tyst för alltid — de
+       räknades som sedda trots att de aldrig nått sajten. Anropa därför den här
+       först när artikeln är klar (översatt och sparad för publicering).
+       """
+       if not articles:
+           return
+
+       seen_urls = self.load_seen_urls()
+       before = len(seen_urls)
+
        for article in articles:
-           if article['url'] not in seen_urls:
-               new_articles.append(article)
-       
-       all_urls = seen_urls | {art['url'] for art in articles}
+           url = article.get('url') or article.get('original_url')
+           if url:
+               seen_urls.add(url)
+
        with open("seen_articles.json", "w", encoding='utf-8') as f:
-           json.dump(list(all_urls), f)
-       
+           json.dump(sorted(seen_urls), f, ensure_ascii=False)
+
+       logger.info(f"✅ Bockade av {len(seen_urls) - before} färdigbearbetade artiklar")
+
+   def filter_new_articles(self, articles):
+       """Filtrera bort artiklar vi redan hanterat.
+
+       OBS: skriver inte längre till seen_articles.json. Avbockningen sker i
+       mark_as_seen(), efter att artikeln bearbetats färdigt.
+       """
+       seen_urls = self.load_seen_urls()
+
+       new_articles = [a for a in articles if a['url'] not in seen_urls]
+
        logger.info(f"🔍 Filtrerade till {len(new_articles)} nya artiklar av {len(articles)} totalt")
        return new_articles
    
@@ -1446,8 +1518,7 @@ KÄLLA: {article['source']} ({source_language})
 ORIGINALTITEL: {article['title']}
 ORIGINALTEXT: {content[:2500]}"""
 
-           response = anthropic_client.messages.create(
-               model="claude-3-5-sonnet-20241022",
+           response = claude_message(
                max_tokens=1500,
                temperature=0.2,
                messages=[{"role": "user", "content": prompt}]
@@ -1538,19 +1609,40 @@ ORIGINALTEXT: {content[:2500]}"""
        
        if anthropic_client:
            processed_articles = self.process_articles_with_claude(new_articles)
-           
+
            if processed_articles:
                self.save_for_approval(processed_articles)
+
+               # Bocka av FÖRST nu, när artiklarna är översatta och sparade.
+               # Artiklar som misslyckades finns kvar som obockade och plockas
+               # upp igen vid nästa körning i stället för att försvinna tyst.
+               self.mark_as_seen(processed_articles)
+
+               misslyckade = len(new_articles) - len(processed_articles)
+               if misslyckade:
+                   logger.warning(
+                       f"⚠️ {misslyckade} av {len(new_articles)} artiklar kunde inte bearbetas "
+                       f"– de ligger kvar och provas igen nästa körning"
+                   )
+
                logger.info(f"✅ Slutfört! {len(processed_articles)} artiklar redo för godkännande")
-               
+
                # Skicka e-post automatiskt om artiklar finns
                email_system = EmailApprovalSystem()
                if os.path.exists("pending_approval.json"):
                    email_system.send_approval_email("pending_approval.json")
                    logger.info("📧 E-post skickat automatiskt")
-                   
+
            else:
-               logger.warning("⚠️ Inga artiklar kunde översättas")
+               # Ingen enda artikel gick igenom. Det är precis det tysta läge som
+               # gjorde att sajten stod stilla i månader utan att någon larmade —
+               # så nu avslutas körningen med fel, vilket får GitHub Actions att
+               # skicka fellarmet.
+               logger.error(
+                   f"❌ Ingen av {len(new_articles)} artiklar kunde bearbetas. "
+                   f"Inget har bockats av. Kontrollera API-nyckel och modellnamn."
+               )
+               raise RuntimeError("Alla artiklar misslyckades vid bearbetning")
        else:
            logger.warning("⚠️ Claude inte tillgänglig")
            self.save_for_approval(new_articles)
