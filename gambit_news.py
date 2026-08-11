@@ -336,6 +336,36 @@ class NewsSource(ABC):
     def parse_article_content(self, article_url):
         pass
 
+    def text_ur_stycken(self, soup, minsta=250):
+        """Sista utvägen när sidans egna klassnamn inte känns igen.
+
+        Sajter byter layout och klassnamn med jämna mellanrum, och då slutar
+        listor med selektorer att fungera. Brödtext ligger däremot nästan alltid
+        i <p>-taggar. Här plockas alla stycken av rimlig längd, vilket sållar
+        bort menyer, bildtexter och knappar utan att veta något om sidan.
+        """
+        stycken = []
+        for p in soup.find_all('p'):
+            t = p.get_text(" ", strip=True)
+            if len(t) >= 40:
+                stycken.append(t)
+        text = "\n".join(stycken).strip()
+        return text if len(text) >= minsta else None
+
+    def las_artikeltext(self, article_url, selektorer):
+        """Hämta sidan, prova selektorerna, fall annars tillbaka på styckena."""
+        resp = self.safe_request_with_backoff(article_url)
+        if not resp:
+            return None
+        soup = BeautifulSoup(resp.text, "html.parser")
+        for selector in selektorer:
+            el = soup.select_one(selector)
+            if el:
+                text = el.get_text(strip=True, separator="\n")
+                if len(text) >= 250:
+                    return text
+        return self.text_ur_stycken(soup)
+
 # === CHESS.COM KÄLLA ===
 class ChesscomSource(NewsSource):
     def __init__(self):
@@ -799,24 +829,12 @@ class ChessBaseIndiaSource(NewsSource):
         return articles
     
     def parse_article_content(self, article_url):
-        resp = self.safe_request_with_backoff(article_url)
-        if not resp:
-            return None
-            
-        soup = BeautifulSoup(resp.text, "html.parser")
-        
-        content_selectors = [
-            '.article-content',
-            '.news-content',
-            '.post-content',
-            '.content'
-        ]
-        
-        for selector in content_selectors:
-            content_element = soup.select_one(selector)
-            if content_element:
-                return content_element.get_text(strip=True, separator="\n")
-        return None
+        # Sidans klassnamn stämde inte längre, vilket gav "För kort innehåll"
+        # på varenda artikel. Nu provas selektorerna först och styckena sedan.
+        return self.las_artikeltext(article_url, [
+            'article', '.article-content', '.news-content',
+            '.post-content', '.entry-content', 'main',
+        ])
 
 # === CHESSDOM KÄLLA ===
 class ChessdomSource(NewsSource):
@@ -963,24 +981,10 @@ class EuropeEchecsSource(NewsSource):
         return articles
     
     def parse_article_content(self, article_url):
-        resp = self.safe_request_with_backoff(article_url)
-        if not resp:
-            return None
-            
-        soup = BeautifulSoup(resp.text, "html.parser")
-        
-        content_selectors = [
-            '.article-content',
-            '.news-content',
-            '.post-content',
-            '.content'
-       ]
-       
-        for selector in content_selectors:
-           content_element = soup.select_one(selector)
-           if content_element:
-               return content_element.get_text(strip=True, separator="\n")
-        return None
+        return self.las_artikeltext(article_url, [
+            'article', '.article-content', '.node-content',
+            '.field-item', '.content', 'main',
+        ])
 
 # === THE WEEK IN CHESS ===
 # Flyttad hit från gambit_news_complete.py när den filen togs bort 11 aug 2026.
@@ -1031,16 +1035,9 @@ class TWICSource(NewsSource):
         return articles
 
     def parse_article_content(self, article_url):
-        resp = self.safe_request_with_backoff(article_url)
-        if resp:
-            soup = BeautifulSoup(resp.text, "html.parser")
-            for selector in ['article', '.entry-content', '.post-content', 'main']:
-                el = soup.select_one(selector)
-                if el:
-                    text = el.get_text(separator="\n", strip=True)
-                    if len(text) > 100:
-                        return text
-        return None
+        return self.las_artikeltext(article_url, [
+            'article', '.entry-content', '.post-content', '#content', 'main',
+        ])
 
 # === WORDPRESS PUBLISHER MED KATEGORIER ===
 class WordPressPublisher:
@@ -1682,8 +1679,11 @@ RUBRIKER:
 {lista}"""
 
        try:
+           # Rejält tilltaget utrymme. Med max_tokens=300 gick hela svaret åt
+           # till modellens tankeblock, och kvar blev ingen text alls —
+           # grupperingen föll då tillbaka på att behandla allt var för sig.
            svar = hamta_text(claude_message(
-               max_tokens=300,
+               max_tokens=2000,
                messages=[{"role": "user", "content": prompt}]
            )).strip()
        except Exception as e:
@@ -1730,6 +1730,14 @@ RUBRIKER:
                return None
            
            content = source.parse_article_content(article['url'])
+
+           # TWIC och andra RSS-källor skickar med en sammanfattning i flödet.
+           # Går själva artikelsidan inte att läsa är den bättre än ingenting.
+           if (not content or len(content) < 100) and article.get('_rss_content'):
+               content = article['_rss_content']
+               if len(content) >= 100:
+                   logger.info(f"📄 Använder flödestexten för {article['title'][:50]}")
+
            if not content or len(content) < 100:
                logger.warning(f"⚠️ För kort innehåll från {article['url']}")
                return None
