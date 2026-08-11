@@ -12,6 +12,7 @@ import threading
 import requests
 import glob
 from bs4 import BeautifulSoup
+from urllib.parse import urljoin
 from datetime import datetime, timezone, timedelta
 from dateutil import parser as dateparser
 from dotenv import load_dotenv
@@ -66,6 +67,9 @@ SMTP_PORT = int(os.getenv("SMTP_PORT", "587"))
 WP_USER = os.getenv("WP_USER")
 WP_PASS = os.getenv("WP_PASS")
 WP_URL = os.getenv("WP_URL")
+
+# Adressen till redaktionen, dit godkännandemejlet länkar.
+REDAKTION_URL = os.getenv("REDAKTION_URL", "https://gambit.se/redaktionen/")
 
 # WordPress kategorimappning
 CATEGORY_MAPPING = {
@@ -1537,14 +1541,14 @@ class EmailApprovalSystem:
             msg = MIMEMultipart()
             msg['From'] = EMAIL_FROM
             msg['To'] = EMAIL_TO
-            msg['Subject'] = f"♟ {article_count} nya schackartiklar väntar på gambit.se/redaktionen/"
+            ord_artiklar = "artikel" if article_count == 1 else "artiklar"
+            msg['Subject'] = f"{article_count} nya schack{ord_artiklar} väntar på godkännande"
 
-            body = f"""
-Hej!
+            body = f"""Hej!
 
-{article_count} nya schackartiklar har samlats in och översatts och väntar på ditt godkännande.
+{article_count} nya schack{ord_artiklar} har samlats in och översatts och väntar på ditt godkännande.
 
-📊 Fördelning per källa:
+Fördelning per källa:
 """
 
             by_source = {}
@@ -1552,20 +1556,12 @@ Hej!
                 source = article['source']
                 by_source[source] = by_source.get(source, 0) + 1
 
-            for source, count in by_source.items():
-                body += f"   • {source}: {count} artiklar\n"
+            for source, count in sorted(by_source.items()):
+                body += f"   {source}: {count}\n"
 
             body += f"""
-
-🔗 Granska och publicera artiklarna här:
-   https://gambit.se/redaktionen/
-
-Logga in med redaktionslösenordet, välj vad som ska publiceras/raderas/behållas,
-och klicka Verkställ.
-
-Det går också att importera en enskild artikel via URL direkt i gränssnittet.
-
-/Ditt automatiska schacknyhetssystem
+Granska och välj artiklar här:
+{REDAKTION_URL}
 """
 
             msg.attach(MIMEText(body, 'plain', 'utf-8'))

@@ -12,6 +12,7 @@ import threading
 import requests
 import glob
 from bs4 import BeautifulSoup
+from urllib.parse import urljoin
 from datetime import datetime, timezone, timedelta
 from dateutil import parser as dateparser
 from dotenv import load_dotenv
@@ -65,6 +66,12 @@ SMTP_PORT = int(os.getenv("SMTP_PORT", "587"))
 WP_USER = os.getenv("WP_USER")
 WP_PASS = os.getenv("WP_PASS")
 WP_URL = os.getenv("WP_URL")
+
+# Adressen till redaktionen, dit godkännandemejlet länkar. Tidigare pekade
+# mejlet på http://127.0.0.1:5000 — den lokala testservern, som bara fungerar
+# på den dator där skriptet körs och alltså aldrig från en telefon eller när
+# skriptet körs på GitHub.
+REDAKTION_URL = os.getenv("REDAKTION_URL", "https://gambit.se/redaktionen/")
 
 # WordPress kategorimappning
 CATEGORY_MAPPING = {
@@ -284,12 +291,14 @@ class NewsSource(ABC):
                     if attempt < max_retries - 1:
                         time.sleep(2 ** attempt)
                         continue
+                    logger.warning(f"⚠️ {self.name}: {url} svarade {response.status_code} – ger upp")
                     return None
                     
             except Exception as e:
                 if attempt < max_retries - 1:
                     time.sleep((2 ** attempt) + random.uniform(0, 1))
                     continue
+                logger.warning(f"⚠️ {self.name}: kunde inte hämta {url} – {type(e).__name__}: {e}")
         
         self.blocked_requests += 1
         return None
@@ -714,7 +723,8 @@ class SchackSeSource(NewsSource):
 # === CHESSBASE INDIA KÄLLA ===
 class ChessBaseIndiaSource(NewsSource):
     def __init__(self):
-        super().__init__("ChessBase India", "https://www.chessbase.in/news", "ChessBase India", True)
+        # /news gav "page not found" från och med augusti 2026. Artiklarna listas på förstasidan.
+        super().__init__("ChessBase India", "https://www.chessbase.in/", "ChessBase India", True)
         self.request_delay = 5
     
     def fetch_articles(self):
@@ -733,11 +743,10 @@ class ChessBaseIndiaSource(NewsSource):
             
             for link in all_links:
                 href = link.get('href')
-                if href and '/news/' in href and 'chessbase.in' in href:
-                    if not href.startswith('http'):
-                        url = 'https://www.chessbase.in' + href
-                    else:
-                        url = href
+                if href and '/news/' in href:
+                    url = urljoin('https://www.chessbase.in/', href)
+                    if 'chessbase.in' not in url:
+                        continue
                     
                     if url in seen_urls:
                         continue
@@ -812,11 +821,10 @@ class ChessdomSource(NewsSource):
             
             for link in all_links:
                 href = link.get('href')
-                if href and 'chessdom.com' in href and len(href) > 30:
-                    if not href.startswith('http'):
-                        url = 'https://www.chessdom.com' + href
-                    else:
-                        url = href
+                if href and ('chessdom.com' in href or href.startswith('/')):
+                    url = urljoin('https://www.chessdom.com/', href)
+                    if 'chessdom.com' not in url or len(url) < 34:
+                        continue
                     
                     if url in seen_urls:
                         continue
@@ -903,11 +911,12 @@ class EuropeEchecsSource(NewsSource):
             
             for link in all_links:
                 href = link.get('href')
-                if href and '/art/' in href and 'europe-echecs.com' in href:
-                    if not href.startswith('http'):
-                        url = 'https://www.europe-echecs.com' + href
-                    else:
-                        url = href
+                # Länkarna på förstasidan är relativa (/art/...), så kravet på att
+                # domänen skulle stå i adressen gjorde att ingenting matchade.
+                if href and '/art/' in href:
+                    url = urljoin('https://www.europe-echecs.com/', href)
+                    if 'europe-echecs.com' not in url:
+                        continue
                     
                     if url in seen_urls:
                         continue
@@ -1419,37 +1428,27 @@ class EmailApprovalSystem:
            msg = MIMEMultipart()
            msg['From'] = EMAIL_FROM
            msg['To'] = EMAIL_TO
-           msg['Subject'] = f"🔥 {article_count} nya schackartiklar väntar på godkännande"
-           
-           body = f"""
-Hej!
+           ord_artiklar = "artikel" if article_count == 1 else "artiklar"
+           msg['Subject'] = f"{article_count} nya schack{ord_artiklar} väntar på godkännande"
 
-{article_count} nya schackartiklar har samlats in och översatts och väntar på ditt godkännande.
+           body = f"""Hej!
 
-📊 Fördelning per källa:
+{article_count} nya schack{ord_artiklar} har samlats in och översatts och väntar på ditt godkännande.
+
+Fördelning per källa:
 """
-           
+
            by_source = {}
            for article in articles:
                source = article['source']
                by_source[source] = by_source.get(source, 0) + 1
-           
-           for source, count in by_source.items():
-               body += f"   • {source}: {count} artiklar\n"
-           
+
+           for source, count in sorted(by_source.items()):
+               body += f"   {source}: {count}\n"
+
            body += f"""
-
-🔗 Klicka här för att granska och välja artiklar:
-http://127.0.0.1:5000
-
-🆕 Nya funktioner:
-✅ Publicera artiklar direkt på gambit.se med automatiska kategorier
-⏭️ Hoppa över artiklar (de försvinner från listan)
-✏️ Redigera rubrik och innehåll före publicering
-📂 Automatiska WordPress-kategorier per källa
-🤖 AI-disclaimer läggs till automatiskt
-
-/Ditt automatiska schacknyhetssystem
+Granska och välj artiklar här:
+{REDAKTION_URL}
 """
            
            msg.attach(MIMEText(body, 'plain', 'utf-8'))
