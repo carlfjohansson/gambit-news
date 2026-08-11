@@ -86,6 +86,23 @@ CATEGORY_MAPPING = {
     'TWIC': 'internationella-turneringar'
 }
 
+# Skrivregler som delas av båda prompterna nedan – den för en ensam artikel och
+# den för flera källor som slås ihop. Ändras de här slår ändringen igenom på båda.
+SCHACKTERMER = """SVENSKA SCHACKTERMER – använd dessa, inte ordagranna översättningar:
+draw = remi · offer a draw = bjuda remi · resign = ge upp · round = rond
+tiebreak = särspel · standings = ställningen · rating = rating (aldrig "betyg")
+time trouble = tidsnöd · blunder = grov miss · move = drag · check = schack
+checkmate = matt · stalemate = patt · piece = pjäs · pawn = bonde
+knight = springare · bishop = löpare · rook = torn · queen = dam · king = kung
+file = linje · rank = rad · square = ruta · fork = gaffel · pin = bindning
+skewer = spett · discovered attack = avdragare · sacrifice = offer
+passed pawn = fribonde · doubled pawns = dubbelbönder · castling = rockad
+kingside = kungsflygeln · queenside = damflygeln · opening = öppning
+middlegame = mittspel · endgame = slutspel · classical = klassiskt schack
+rapid = snabbschack · blitz = blixt · Swiss system = schweizersystem
+round robin = rundturnering · board (i lagmatch) = bord
+the Candidates = Kandidatturneringen · world number one = världsetta"""
+
 # Ladda Anthropic om API-nyckel finns
 anthropic_client = None
 if ANTHROPIC_API_KEY:
@@ -1598,6 +1615,11 @@ class MultiNewsEngine:
        before = len(seen_urls)
 
        for article in articles:
+           # En sammanslagen notis har flera adresser – alla ska bockas av,
+           # annars samlas de andra in på nytt i morgon som "nya".
+           for url in article.get('alla_urler', []):
+               if url:
+                   seen_urls.add(url)
            url = article.get('url') or article.get('original_url')
            if url:
                seen_urls.add(url)
@@ -1620,6 +1642,82 @@ class MultiNewsEngine:
        logger.info(f"🔍 Filtrerade till {len(new_articles)} nya artiklar av {len(articles)} totalt")
        return new_articles
    
+   def grupp_samma_handelse(self, articles):
+       """Hitta artiklar som handlar om exakt samma händelse.
+
+       Flera källor bevakar samma sak: en förhandsartikel om en turnering, ett
+       uppmärksammat parti, ett FIDE-beslut. Tidigare blev det tre notiser om
+       samma nyhet i flödet. Nu grupperas de, och gruppen blir en enda artikel
+       med alla källor angivna.
+
+       Bara TITLARNA skickas till Claude, inte artikeltexterna – det är ett
+       billigt anrop och tillräckligt för att avgöra om två rubriker beskriver
+       samma händelse. Går anropet fel behandlas varje artikel för sig, precis
+       som förut.
+       """
+       if len(articles) < 2 or not anthropic_client:
+           return [[a] for a in articles]
+
+       lista = "\n".join(
+           f"{i}. [{a['source']}] {a['title']}" for i, a in enumerate(articles)
+       )
+
+       prompt = f"""Nedan är rubriker på schacknyheter från olika källor.
+
+Hitta de rubriker som handlar om EXAKT SAMMA händelse — samma parti, samma
+turneringsomgång, samma beslut, samma person i samma sammanhang.
+
+Var strikt. Två artiklar om samma turnering men olika ronder är INTE samma
+händelse. Två artiklar om samma spelare men olika saker är INTE samma händelse.
+Slå bara ihop när en läsare skulle uppfatta dem som samma nyhet.
+
+Svara med en rad per grupp som har fler än en artikel, med siffrorna
+kommaseparerade. Finns inga sådana grupper, svara med ordet INGA.
+
+Exempel på svar:
+0,4
+2,7,9
+
+RUBRIKER:
+{lista}"""
+
+       try:
+           svar = hamta_text(claude_message(
+               max_tokens=300,
+               messages=[{"role": "user", "content": prompt}]
+           )).strip()
+       except Exception as e:
+           logger.warning(f"⚠️ Kunde inte gruppera artiklar: {e} – behandlar dem var för sig")
+           return [[a] for a in articles]
+
+       grupperade = set()
+       grupper = []
+       if "INGA" not in svar.upper():
+           for rad in svar.splitlines():
+               # Bara rader som är rena sifferlistor godtas. Skriver modellen
+               # "Grupp 1: 0, 2" skulle ettan i etiketten annars läsas som en
+               # artikel och slå ihop fel saker. Hellre ingen sammanslagning
+               # än en felaktig.
+               if not re.fullmatch(r"[\d,\s]+", rad.strip() or "x"):
+                   continue
+               siffror = [int(t) for t in re.findall(r"\d+", rad)]
+               giltiga = [i for i in siffror if 0 <= i < len(articles) and i not in grupperade]
+               if len(giltiga) > 1:
+                   grupper.append([articles[i] for i in giltiga])
+                   grupperade.update(giltiga)
+
+       for i, a in enumerate(articles):
+           if i not in grupperade:
+               grupper.append([a])
+
+       ihopslagna = sum(len(g) for g in grupper if len(g) > 1)
+       if ihopslagna:
+           logger.info(
+               f"🔗 {ihopslagna} artiklar handlade om samma händelser "
+               f"och blir {len([g for g in grupper if len(g) > 1])} sammanslagna notiser"
+           )
+       return grupper
+
    def translate_article_with_claude(self, article):
        """Översätt artikel med Claude"""
        if not anthropic_client:
@@ -1657,27 +1755,34 @@ class MultiNewsEngine:
                    "processed_at": datetime.now().isoformat()
                }
 
-           # Beräkna målteckenantal proportionellt mot originaltexten (~35%, min 250, max 1400)
-           original_length = len(content)
-           target_chars = max(250, min(1400, int(original_length * 0.35)))
-           # Avrunda till närmaste 50 för ett naturligare utseende i prompten
-           target_chars = round(target_chars / 50) * 50
+           # Taket är ett tak, inte ett mål. Tidigare stod det "ca N tecken", och
+           # då fylldes texten ut med samma fakta i omskrivning tills den nådde
+           # dit. En notis med tre fakta ska få vara tre meningar lång.
+           max_chars = max(400, min(1600, int(len(content) * 0.45)))
+           max_chars = round(max_chars / 50) * 50
 
            prompt = f"""Du är en schackjournalist som skriver nyhetsnotiser på svenska.
 
-VIKTIGA INSTRUKTIONER:
-- Skriv en kort, engagerande svensk rubrik (max 10 ord)
-- Presentera nyheterna DIREKT och faktabaserat – skriv INTE "Enligt [källa]..." eller "[Källa] rapporterar att..."
-- Skriv som om du själv rapporterar om händelsen, inte om att någon annan har skrivit om den
-- Behåll ALLA egennamn och förkortningar EXAKT som i originalet
-- Använd etablerade svenska schacktermer
-- Längd: ca {target_chars} tecken – kortare original ger kortare text, längre original ger längre text
-- Fokusera på viktigaste fakta och resultat, ta bort onödig fyllnadstext
-- AVSLUTNING: Avsluta med ett konkret faktum, ett resultat eller en konsekvens. Aldrig en generisk fras som "Följ Gambit", "Håll dig uppdaterad" eller liknande
+SÅ HÄR SKRIVER DU:
+- Kort, konkret rubrik på svenska (max 10 ord)
+- Rapportera händelsen direkt. Skriv aldrig "Enligt [källa]" eller "[Källa] rapporterar"
+- Behåll alla egennamn, turneringsnamn och förkortningar exakt som i originalet
+- Avsluta med ett konkret faktum, resultat eller en konsekvens – aldrig en uppmaning
+
+LÄNGDEN STYRS AV INNEHÅLLET:
+- Skriv bara så långt som fakta räcker. Har originalet tre uppgifter blir det tre
+  meningar. {max_chars} tecken är ett TAK, inte något att sträva mot.
+- Säg varje sak EN gång. Upprepa inte samma resultat, namn eller poängställning
+  i omskriven form senare i texten.
+- Ta med: vem, vad, var, när, resultat och det som faktiskt är nytt.
+- Utelämna: reklam, uppmaningar att prenumerera, upprepade tabellrader,
+  självreferenser till källans egen bevakning, och allmänna omdömen utan fakta.
+
+{SCHACKTERMER}
 
 FORMAT:
 RUBRIK: [din svenska rubrik]
-TEXT: [din svenska text, ca {target_chars} tecken]
+TEXT: [din svenska text]
 
 KÄLLA: {article['source']} ({source_language})
 ORIGINALTITEL: {article['title']}
@@ -1705,7 +1810,7 @@ ORIGINALTEXT: {content[:2500]}"""
            # trots att prompten ovan ber om upp till 1400 tecken. Koden förstörde
            # alltså precis det den just beställt. Nu ligger taket över det vi ber
            # om, och kapningen sker alltid vid ett meningsslut.
-           tak = max(2000, int(target_chars * 1.6))
+           tak = max(2000, int(max_chars * 1.4))
            swedish_content = korta_vid_meningsslut(swedish_content, tak)
 
            result = {
@@ -1726,18 +1831,129 @@ ORIGINALTEXT: {content[:2500]}"""
            logger.error(f"❌ Claude-fel för {article['url']}: {e}")
            return None
    
+   def translate_group_with_claude(self, grupp):
+       """Skriv EN artikel av flera källors bevakning av samma händelse.
+
+       Källorna kompletterar ofta varandra: den ena har partiet, den andra
+       citatet, den tredje ställningen efteråt. Här får Claude allihop och
+       skriver en notis, som anger samtliga källor.
+       """
+       if not anthropic_client:
+           return None
+
+       texter = []
+       med_innehall = []
+       for art in grupp:
+           source = next((sr for sr in self.sources if sr.name == art['source']), None)
+           if not source:
+               continue
+           innehall = source.parse_article_content(art['url'])
+           if innehall and len(innehall) >= 100:
+               med_innehall.append(art)
+               texter.append(f"--- KÄLLA: {art['source']} ---\nRUBRIK: {art['title']}\n{innehall[:2000]}")
+
+       if not med_innehall:
+           logger.warning("⚠️ Ingen av de sammanslagna artiklarna gick att läsa")
+           return None
+       if len(med_innehall) == 1:
+           # Bara en gick att läsa – då är det ingen sammanslagning längre
+           return self.translate_article_with_claude(med_innehall[0])
+
+       samlad = "\n\n".join(texter)
+       max_chars = max(500, min(1800, int(len(samlad) * 0.30)))
+       max_chars = round(max_chars / 50) * 50
+
+       kallnamn = ", ".join(a['source'] for a in med_innehall)
+
+       prompt = f"""Du är en schackjournalist som skriver nyhetsnotiser på svenska.
+
+Nedan följer {len(med_innehall)} artiklar från olika källor om SAMMA händelse.
+Skriv EN notis av dem.
+
+SÅ HÄR SKRIVER DU:
+- Kort, konkret rubrik på svenska (max 10 ord)
+- Rapportera händelsen direkt. Skriv aldrig "Enligt [källa]" eller "[Källa] rapporterar"
+- Nämn inte att det finns flera källor – det står i sidfoten under artikeln
+- Behåll alla egennamn, turneringsnamn och förkortningar exakt som i originalen
+- Avsluta med ett konkret faktum, resultat eller en konsekvens
+
+NÄR KÄLLORNA ÖVERLAPPAR:
+- Skriv varje uppgift EN gång, även om alla källor tar upp den
+- Ta med det som bara en källa har, om det tillför något
+- Säger källorna emot varandra om en siffra eller ett namn: skriv det som
+  flest källor anger, och utelämna det osäkra hellre än att gissa
+
+LÄNGDEN STYRS AV INNEHÅLLET:
+- {max_chars} tecken är ett TAK, inte något att sträva mot
+- Flera källor betyder inte längre text, bara säkrare fakta
+
+{SCHACKTERMER}
+
+FORMAT:
+RUBRIK: [din svenska rubrik]
+TEXT: [din svenska text]
+
+KÄLLOR: {kallnamn}
+
+{samlad}"""
+
+       try:
+           claude_text = hamta_text(claude_message(
+               max_tokens=1800,
+               temperature=0.2,
+               messages=[{"role": "user", "content": prompt}]
+           ))
+       except Exception as e:
+           logger.error(f"❌ Kunde inte slå ihop artiklarna: {e}")
+           return None
+
+       if "RUBRIK:" in claude_text and "TEXT:" in claude_text:
+           delar = claude_text.split("TEXT:", 1)
+           swedish_title = delar[0].replace("RUBRIK:", "").strip()
+           swedish_content = delar[1].strip()
+       else:
+           rader = claude_text.split("\n", 1)
+           swedish_title = rader[0].strip()
+           swedish_content = rader[1].strip() if len(rader) > 1 else claude_text
+
+       tak = max(2000, int(max_chars * 1.4))
+       if len(swedish_content) > tak:
+           swedish_content = korta_vid_meningsslut(swedish_content, tak)
+
+       huvud = med_innehall[0]
+       logger.info(f"🔗 Slog ihop {len(med_innehall)} källor: {swedish_title[:60]}")
+
+       return {
+           "source": huvud['source'],
+           "original_url": huvud['url'],
+           "original_title": huvud['title'],
+           "swedish_title": swedish_title,
+           "swedish_content": swedish_content,
+           "date": huvud['date'],
+           "tag": huvud['tag'],
+           "processed_at": datetime.now().isoformat(),
+           # Alla källor, för sidfoten under artikeln
+           "alla_kallor": [{"source": a['source'], "url": a['url']} for a in med_innehall],
+           # Alla adresser, så att ingen av dem samlas in på nytt nästa körning
+           "alla_urler": [a['url'] for a in med_innehall],
+       }
+
    def process_articles_with_claude(self, articles):
        """Bearbeta artiklar med Claude"""
        processed = []
-       
-       logger.info(f"🤖 Översätter {len(articles)} artiklar med Claude...")
-       
-       for article in articles:
-           result = self.translate_article_with_claude(article)
+
+       grupper = self.grupp_samma_handelse(articles)
+       logger.info(f"🤖 Översätter {len(articles)} artiklar i {len(grupper)} notiser...")
+
+       for grupp in grupper:
+           if len(grupp) > 1:
+               result = self.translate_group_with_claude(grupp)
+           else:
+               result = self.translate_article_with_claude(grupp[0])
            if result:
                processed.append(result)
            time.sleep(2)
-       
+
        return processed
    
    def save_for_approval(self, articles):
@@ -1805,6 +2021,9 @@ ORIGINALTEXT: {content[:2500]}"""
            meta = {
                "source":         art.get("source", ""),
                "source_url":     art.get("original_url", ""),
+               # Har flera källor skrivit om samma sak listas de alla här, så att
+               # sidfoten under artikeln kan hänvisa till var och en av dem.
+               "alla_kallor":    art.get("alla_kallor", []),
                "suggested_cat":  cat_slug,
                "original_title": art.get("original_title", ""),
                # Originalartikelns datum sparas som eget fält. Det är sant om
