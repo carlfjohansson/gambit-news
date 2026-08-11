@@ -23,6 +23,18 @@ from flask import Flask, render_template, request, jsonify, redirect, url_for
 from requests.auth import HTTPBasicAuth
 import base64
 
+# === TVINGA IPv4 ===
+# gambit.se svarar numera även på IPv6, men GitHubs servrar saknar IPv6-koppling.
+# Utan det här försöker Python nå gambit.se via IPv6 först och får "Network is
+# unreachable" — vilket den 11 augusti 2026 stoppade hela publiceringen.
+# Vi ber därför nätverkslagret att bara slå upp IPv4-adresser.
+try:
+    import socket
+    import urllib3.util.connection as _urllib3_conn
+    _urllib3_conn.allowed_gai_family = lambda: socket.AF_INET
+except Exception as _e:  # pragma: no cover
+    pass
+
 # === KONFIGURATION ===
 logging.basicConfig(
     level=logging.INFO,
@@ -1712,6 +1724,20 @@ ORIGINALTEXT: {content[:2500]}"""
        failed = 0
        sparade_artiklar = []
 
+       # Sortera äldst först efter originalartikelns datum. Kommer flera
+       # rondrapporter från samma turnering i klump hamnar de då i rätt inbördes
+       # ordning i flödet – rond 3 efter rond 2 – i stället för huller om buller.
+       def _datumnyckel(a):
+           try:
+               return dateparser.parse(a.get("date") or "")
+           except Exception:
+               return None
+
+       articles = sorted(
+           articles,
+           key=lambda a: (_datumnyckel(a) is None, _datumnyckel(a) or datetime.min),
+       )
+
        for art in articles:
            cat_slug = CATEGORY_MAPPING.get(art.get("source", ""), "ovrigt")
            meta = {
@@ -1719,6 +1745,12 @@ ORIGINALTEXT: {content[:2500]}"""
                "source_url":     art.get("original_url", ""),
                "suggested_cat":  cat_slug,
                "original_title": art.get("original_title", ""),
+               # Originalartikelns datum sparas som eget fält. Det är sant om
+               # världen och ändras aldrig. Publiceringsdatumet är en annan sak:
+               # det säger när Gambit lade upp texten och styr ordningen i
+               # flödet. Tidigare delade de på samma fält, vilket gjorde att
+               # nypublicerat kunde landa långt bakåt där ingen ser det.
+               "original_date":  art.get("date", ""),
            }
            meta_comment = f"<!-- GAMBIT_META:{json.dumps(meta, ensure_ascii=False)} -->"
            wp_content   = meta_comment + "\n\n" + art.get("swedish_content", "")
@@ -1727,7 +1759,8 @@ ORIGINALTEXT: {content[:2500]}"""
                "title":   art.get("swedish_title", art.get("original_title", "Schacknyhet")),
                "content": wp_content,
                "status":  "draft",
-               "date":    art.get("date", ""),
+               # Inget datum skickas med: WordPress sätter det när utkastet
+               # publiceras, alltså när artikeln faktiskt blir läsbar på Gambit.
            }
 
            try:

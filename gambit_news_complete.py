@@ -22,6 +22,18 @@ from email.mime.multipart import MIMEMultipart
 from flask import Flask, render_template, request, jsonify, redirect, url_for
 from requests.auth import HTTPBasicAuth
 import base64
+
+# === TVINGA IPv4 ===
+# gambit.se svarar numera även på IPv6, men GitHubs servrar saknar IPv6-koppling.
+# Utan det här försöker Python nå gambit.se via IPv6 först och får "Network is
+# unreachable" — vilket den 11 augusti 2026 stoppade hela publiceringen.
+# Vi ber därför nätverkslagret att bara slå upp IPv4-adresser.
+try:
+    import socket
+    import urllib3.util.connection as _urllib3_conn
+    _urllib3_conn.allowed_gai_family = lambda: socket.AF_INET
+except Exception as _e:  # pragma: no cover
+    pass
 import xml.etree.ElementTree as ET
 
 # === KONFIGURATION ===
