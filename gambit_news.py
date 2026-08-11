@@ -1,4 +1,5 @@
-# gambit_news_complete.py - Komplett förbättrat schacknyhetssystem
+# gambit_news.py - Gambits schacknyhetssystem
+# Det här är den enda skriptfilen; det är den GitHub-flödet kör.
 
 import os
 import json
@@ -81,7 +82,8 @@ CATEGORY_MAPPING = {
     'FIDE': 'fide',
     'Schack.se': 'svenska-schackforbundet',
     'Chessdom': 'chessdom',
-    'Europe Echecs': 'europe-echecs'
+    'Europe Echecs': 'europe-echecs',
+    'TWIC': 'internationella-turneringar'
 }
 
 # Ladda Anthropic om API-nyckel finns
@@ -963,6 +965,66 @@ class EuropeEchecsSource(NewsSource):
                return content_element.get_text(strip=True, separator="\n")
         return None
 
+# === THE WEEK IN CHESS ===
+# Flyttad hit från gambit_news_complete.py när den filen togs bort 11 aug 2026.
+# Hämtar via RSS i stället för att läsa förstasidan, vilket är stabilare —
+# ett flöde ändrar sig sällan, till skillnad från en sidlayout.
+class TWICSource(NewsSource):
+    def __init__(self):
+        super().__init__("TWIC", "https://theweekinchess.com/twic-rss-feed", "TWIC", True)
+        self.request_delay = 2
+
+    def fetch_articles(self):
+        import xml.etree.ElementTree as ET
+        logger.info(f"🌍 Hämtar artiklar från {self.name}...")
+        articles = []
+
+        try:
+            resp = self.safe_request_with_backoff(self.base_url)
+            if not resp:
+                return articles
+
+            root = ET.fromstring(resp.text)
+            items = root.findall('.//item')
+            logger.info(f"🔍 {self.name}: Hittade {len(items)} artiklar i RSS")
+
+            for item in items:
+                title = item.findtext('title') or ''
+                url = item.findtext('link') or item.findtext('guid') or ''
+                date = item.findtext('pubDate') or datetime.now().isoformat()
+                desc = item.findtext('description') or ''
+                clean_desc = re.sub(r'<[^>]+>', ' ', desc).strip()
+                clean_desc = re.sub(r'\s+', ' ', clean_desc)
+
+                if title and url and len(title) > 5:
+                    articles.append({
+                        "source": self.name,
+                        "url": url,
+                        "title": title,
+                        "date": date,
+                        "tag": self.tag_name,
+                        "_rss_content": clean_desc
+                    })
+
+        except Exception as e:
+            logger.error(f"❌ Fel vid hämtning från {self.name}: {e}")
+
+        self.log_statistics()
+        logger.info(f"📰 {self.name}: Extraherade {len(articles)} artiklar")
+        return articles
+
+    def parse_article_content(self, article_url):
+        resp = self.safe_request_with_backoff(article_url)
+        if resp:
+            soup = BeautifulSoup(resp.text, "html.parser")
+            for selector in ['article', '.entry-content', '.post-content', 'main']:
+                el = soup.select_one(selector)
+                if el:
+                    text = el.get_text(separator="\n", strip=True)
+                    if len(text) > 100:
+                        return text
+        return None
+
 # === WORDPRESS PUBLISHER MED KATEGORIER ===
 class WordPressPublisher:
    def __init__(self):
@@ -1497,7 +1559,8 @@ class MultiNewsEngine:
            SchackSeSource(),           # Förbättrad Schack.se-källa
            ChessBaseIndiaSource(),
            ChessdomSource(),
-           EuropeEchecsSource()
+           EuropeEchecsSource(),
+           TWICSource()               # The Week in Chess, via RSS
        ]
    
    def collect_from_all_sources(self):

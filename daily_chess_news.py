@@ -24,7 +24,7 @@ def run_daily_collection():
         
         # Kör insamlingsprogrammet
         result = subprocess.run(
-            ["python", "gambit_news_complete.py", "--collect"],
+            ["python", "gambit_news.py", "--collect"],
             capture_output=True,
             text=True
         )
@@ -44,7 +44,7 @@ def run_daily_collection():
                     
                     # Skicka påminnelse om ohanterade artiklar
                     subprocess.run(
-                        ["python", "gambit_news_complete.py", "--daily"],
+                        ["python", "gambit_news.py", "--daily"],
                         capture_output=True,
                         text=True
                     )
