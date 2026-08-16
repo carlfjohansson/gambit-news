@@ -1,120 +1,86 @@
 [
   {
     "source": "Chess.com",
-    "original_url": "https://www.chess.com/news/view/2026-sinquefield-cairns-cup-round-5",
-    "original_title": "2026 Sinquefield Cairns Cup Round 5",
-    "swedish_title": "So i täten, Vachier-Lagrave missar chansen i Sinquefield Cup",
-    "swedish_content": "Wesley So leder 2026 Sinquefield Cup efter rond fem, sedan han gjort snabb remi mot Praggnanandhaa Rameshbabu. Maxime Vachier-Lagrave hade en vinstställning mot Jorden van Foreest och kunde ha kommit ikapp ledaren, men partiet slutade oavgjort. Fabiano Caruana klättrade upp i delad andraplats efter vinst mot Levon Aronian, liksom Vincent Keymer efter vinst mot Anish Giri. Javokhir Sindarovs öppningsfördel neutraliserades av Sam Sevian i ännu en solid remi. Caruana och Keymer ligger nu en halv poäng bakom So i täten.\n\nI Cairns Cup slutade samtliga fem partier i rond fem oavgjort. Tan Zhongyi var pressad av Alice Lee men klarade sig undan och behåller sin fulla poängs ledning över fältet. Ingen vinnare utsågs i partierna Vaishali Rameshbabu–Humpy Koneru, Alexandra Kosteniuk–Stavroula Tsolakidou, Anna Muzychuk–Carissa Yip eller Divya Deshmukh–Bibisara Assaubayeva. Ställningen i Cairns Cup är därmed oförändrad.\n\nEfter en vilodag återupptas båda turneringarna med rond sex söndagen den 16 augusti, klockan 19.00 svensk tid.",
-    "date": "2026-08-14T05:22:51.526852",
+    "original_url": "https://www.chess.com/news/view/magnus-carlsen-wins-2026-esports-world-cup",
+    "original_title": "Magnus Carlsen Wins 2026 Esports World Cup",
+    "swedish_title": "Carlsen försvarar sin titel i Esports World Cup",
+    "swedish_content": "Magnus Carlsen vann Esports World Cup i Paris för andra året i rad efter en övertygande final mot Denis Lazavik. Carlsen tog hem båda seten med 3-1, med två vinster i vardera, och avslutade hela turneringen i Paris utan att förlora ett enda parti. Carlsen kammade hem 250 000 dollar, medan Lazavik fick 190 000 dollar för andraplatsen.\n\nHikaru Nakamura säkrade tredjeplatsen och 145 000 dollar efter att ha besegrat Alireza Firouzja i en match som präglades av tekniska problem. Nakamura tog ledning med två vinster kvar att spela om, och Firouzja valde till slut att lämna walkover i det femte partiet efter en förlust i det fjärde, vilket gav Nakamura matchsegern 4-1.\n\nPå vägen till final besegrade Carlsen bland andra Andrey Esipenko, Hans Moke Niemann, Nihal Sarin och Firouzja – samtliga utan att tappa ett parti. I finalens första parti försvarade Lazavik korrekt i 79 drag innan en enda grov miss avgjorde partiet till Carlsens fördel.\n\nTurneringen spelades som blixtschack, mestadels med 10 minuter utan tillägg, med Armageddon-särspel vid behov. Efter matchen fick Carlsen frågan vad som kan stoppa honom i det här formatet: \"Jag vet inte. Jag tror att Alireza hade en riktigt bra chans i går, men det är inte lätt, speciellt nu mot slutet när matcherna blir lite längre, så det är svårare att förlita sig på en eller två partier.\"\n\nDet totala prispotten för schackturneringen i Esports World Cup uppgick till 1,5 miljoner dollar, en del av evenemangets totala prispott på 75 miljoner dollar fördelat på 25 turneringar i 24 olika spel.",
+    "date": "2026-08-15T05:26:47.536988",
     "tag": "Chess.com",
-    "processed_at": "2026-08-15T05:23:49.789749",
+    "processed_at": "2026-08-16T05:27:55.059467",
     "alla_kallor": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-sinquefield-cairns-cup-round-5"
+        "url": "https://www.chess.com/news/view/magnus-carlsen-wins-2026-esports-world-cup"
       },
       {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/6th-cairns-cup-2026-round-5-report"
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/coupe-du-monde-e-sport-2026-phase-finale-10043.html"
+      },
+      {
+        "source": "TWIC",
+        "url": "https://theweekinchess.com/twic-news-feed/carlsen-wins-the-chess-event-in-the-esports-world-cup"
+      },
+      {
+        "source": "TWIC",
+        "url": "https://theweekinchess.com/chessnews/events/esports-world-cup-2026"
       }
     ],
     "alla_urler": [
-      "https://www.chess.com/news/view/2026-sinquefield-cairns-cup-round-5",
-      "https://www.chessbase.in/news/6th-cairns-cup-2026-round-5-report"
+      "https://www.chess.com/news/view/magnus-carlsen-wins-2026-esports-world-cup",
+      "https://www.europe-echecs.com/art/coupe-du-monde-e-sport-2026-phase-finale-10043.html",
+      "https://theweekinchess.com/twic-news-feed/carlsen-wins-the-chess-event-in-the-esports-world-cup",
+      "https://theweekinchess.com/chessnews/events/esports-world-cup-2026"
     ]
   },
   {
-    "source": "Chess.com",
-    "original_url": "https://www.chess.com/news/view/2026-esports-world-cup-playoffs-qf-sf",
-    "original_title": "2026 Esports World Cup Playoffs Qf Sf",
-    "swedish_title": "Carlsen och Lazavik klara för EWC-final",
-    "swedish_content": "Magnus Carlsen är klar för final i 2026 Esports World Cup efter att ha besegrat Nihal Sarin med 2,5-0,5 i kvartsfinalen och därefter vunnit en spännande semifinal mot Alireza Firouzja med 4-1. I finalen väntar 19-årige Denis Lazavik, som gav sina motståndare Nodirbek Abdusattorov (3-2) och Hikaru Nakamura (3,5-1,5) mycket lite motstånd på vägen till final.\n\nNakamura möter Firouzja i matchen om tredjeplatsen, en uppgörelse mellan lagkamrater i Team Falcons som därmed är garanterade samtliga poäng oavsett resultat.\n\nCarlsen–Firouzja var en repris av 2025 års final. De fyra semifinalisterna var samma spelare som nådde semifinal i Speed Chess Championship tidigare i år i London.\n\nFinalmatcherna i Esports World Cup spelas lördagen den 15 augusti med start klockan 13.00 svensk tid, och sänds via Chess.coms officiella Twitch-kanal.",
-    "date": "2026-08-14T05:22:51.526881",
-    "tag": "Chess.com",
-    "processed_at": "2026-08-15T05:24:06.439485",
-    "alla_kallor": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-esports-world-cup-playoffs-qf-sf"
-      },
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/esports-world-cup-final-twitch-drops-2026"
-      }
-    ],
-    "alla_urler": [
-      "https://www.chess.com/news/view/2026-esports-world-cup-playoffs-qf-sf",
-      "https://www.chess.com/news/view/esports-world-cup-final-twitch-drops-2026"
-    ]
-  },
-  {
-    "source": "Chess.com",
-    "original_url": "https://www.chess.com/news/view/sarana-pranesh-xiong-3-0-thursday-08-13-2026",
-    "original_title": "Sarana Pranesh Xiong 3 0 Thursday 08 13 2026",
-    "swedish_title": "Pranesh vinner 3 0 Thursday för andra veckan i rad",
-    "swedish_content": "GM Pranesh M tog den bästa poängen av samtliga spelare i 3 0 Thursday för andra veckan i rad, med 9,5 poäng och seger i det andra turneringen. GM Alexey Sarana och GM Jeffery Xiong vann den första respektive tredje turneringen med nio poäng vardera. IM Meri Arabidze tog det första kvinnopriset med sju poäng, medan WFM Veronika Shubenkova vann kvinnopriset i den andra turneringen med åtta poäng efter fyra raka segrar mot motståndare över 2900 i rating. GM Tan Zhongyi säkrade det tredje kvinnopriset med sju poäng – också det för andra veckan i rad.\n\nI den första turneringen inledde GM Oleksandr Bortnyk med sju raka segrar innan han mötte Sarana i rond åtta, en match Sarana vann. Båda stod därefter på 7/8. Sarana fortsatte med seger över IM Renato Terry i rond nio och en lång slutspelsseger mot GM Nitzan Steinberg, vilket gav honom 9/10 och en halv poängs ledning. GM Nodirbek Yakubboev besegrade sedan Sarana, men GM Aravindh Chithambaram slog samtidigt Bortnyk, vilket förde förstaplatsen till särspel. Sarana vann särspelet, följd av Yakubboev på andra plats och Aravindh på tredje.\n\nI den andra turneringen spelade Pranesh obesegrad till 9,5 poäng med tre remier. Han låg före på klockan i tio av elva partier – undantaget var mötet med GM Rasmus Svane, där Pranesh satte matt trots att han låg efter med två tiondels sekund på tiden. FM Havard Haug slutade tvåa med nio poäng efter särspel mot GM David Paravyan.",
-    "date": "2026-08-14T05:22:51.526906",
-    "tag": "Chess.com",
-    "processed_at": "2026-08-15T05:24:24.464290"
-  },
-  {
-    "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/Discovered-check-33e-2#discuss",
-    "original_title": "More...Comments2",
-    "swedish_title": "Det här utdraget innehåller ingen faktisk nyhetsinformation – endast navigationsmenyer, språkval och webbplatselement från ChessBase. Det finns inget schackrelaterat innehåll (resultat, spelare, turneringar eller partier) att rapportera om.",
-    "swedish_content": "Om du har tillgång till den fullständiga artikeltexten kan jag skriva en korrekt nyhetsnotis utifrån den.",
-    "date": "2026-08-14T05:22:56.551354",
-    "tag": "ChessBase",
-    "processed_at": "2026-08-15T05:24:32.415715"
+    "source": "ChessBase India",
+    "original_url": "https://www.chessbase.in/news/how-did-a-fathers-promise-help-rayaan-become-national-champion",
+    "original_title": "How did a father's promise help Rayaan become National Champion?",
+    "swedish_title": "Löfte till sonen gav National Champion-titel",
+    "swedish_content": "Rayaan Rozario blev nyligen National U-9 Champion. Bakom framgången ligger en personlig historia om hans far, Danton Rozario, som arbetar inom handelsflottan och tillbringar omkring sex månader om året till sjöss. Danton har missat flera viktiga ögonblick i sonens schackresa, bland annat när Rayaan blev District Champion i januari 2026 – ett besked han fick via telefon mitt ute på havet. Inför Nationals gav Danton sin son ett löfte: om Rayaan vann titeln skulle han stanna hemma från havet i ett år och istället resa med honom till turneringar. Rayaan vann mästerskapet, och Danton har nu hållit sitt löfte.",
+    "date": "2026-08-15T05:27:10.166779",
+    "tag": "ChessBase India",
+    "processed_at": "2026-08-16T05:28:05.934159"
   },
   {
     "source": "ChessBase India",
-    "original_url": "https://www.chessbase.in/news/deekshitha-modipallis-father-launches-fundraiser-to-support-her-grandmaster-dream",
-    "original_title": "Fundraiser launched to support Deekshitha Modipalli’s Grandmaster dream",
-    "swedish_title": "Insamling ska hjälpa Deekshitha Modipalli bli GM",
-    "swedish_content": "14-åriga Deekshitha Modipalli har höjt sin rating från 1985 till över 2400 på bara två månader, en ökning på nästan 450 poäng fördelat på fyra turneringar, och säkrade samtidigt en IM-norm. Hennes far, M. Sheshadri Nayudu, har nu startat en insamling på plattformen Ketto för att finansiera hennes fortsatta satsning mot en GM-titel. Familjen, som kommer från Hampapuram Village i Anantapur District i Andhra Pradesh, uppger att kostnaderna för träning, turneringar och resor blivit för höga för att bära själva. Insamlingen ska täcka utgifter på totalt 14 80 000 rupier, inklusive internationella flygresor, visum, startavgifter, boende, lokala transporter, coaching och tävlingsförberedelser.",
-    "date": "2026-08-14T05:23:13.568141",
+    "original_url": "https://www.chessbase.in/news/why-harika-dronavalli-stepped-back-from-the-olympiad-team",
+    "original_title": "\"It Was Solely My Decision\": Harika Dronavalli on Stepping Back From Team India",
+    "swedish_title": "Harika Dronavalli hoppar av Olympiaden efter 23 år",
+    "swedish_content": "Harika Dronavalli, som representerat Indien i lag-VM under 23 år, har valt att inte spela Chess Olympiad 2026. Beslutet var enligt henne själv helt hennes eget, taget \"från hjärtat\" snarare än av praktiska skäl. Hon var en del av Indiens historiska guldlag i OS 2024, en framgång hon beskriver som en vändpunkt: \"Jag kände att det var det. Det här var vad jag ville. Jag uppnådde det, och jag ville behålla det så.\" Utan Harika i truppen återvänder Koneru Humpy till laget, Savitha Shri B blir ny i truppen och Swayams Mishra tar över som ny lagkapten. Harika vann nyligen förstaplatsen i Asian Rapid and Blitz Chess Championships.",
+    "date": "2026-08-15T05:27:10.166826",
     "tag": "ChessBase India",
-    "processed_at": "2026-08-15T05:24:43.382423"
-  },
-  {
-    "source": "ChessBase India",
-    "original_url": "https://www.chessbase.in/news/sinquefield-cup-2026-round-5-report",
-    "original_title": "Sinquefield Cup 2026 R5: Pragg drew against Wesley, Caruana beats Aronian",
-    "swedish_title": "Wesley So ensam ledare i Sinquefield Cup",
-    "swedish_content": "Wesley So leder ensam Sinquefield Cup 2026 med 3,5 poäng av 5 möjliga efter femte ronden. Fabiano Caruana, Vincent Keymer, R Praggnanandhaa och Maxime Vachier-Lagrave delar andraplatsen med 3 poäng vardera. I femte ronden vann Vincent Keymer mot Anish Giri, medan Caruana besegrade Levon Aronian. Övriga partier slutade remi, däribland Praggnanandhaas snabba remi mot Wesley So. Den 15 augusti är vilodag och sjätte ronden spelas den 16 augusti klockan 12.00 lokal tid.",
-    "date": "2026-08-14T05:23:13.568207",
-    "tag": "ChessBase India",
-    "processed_at": "2026-08-15T05:24:52.849444"
-  },
-  {
-    "source": "ChessBase India",
-    "original_url": "https://www.chessbase.in/news/6th-cairns-cup-2026-round-4-report",
-    "original_title": "Cairns Cup 2026 R4: Tan Zhongyi Gains Sole Lead, Divya Survives a Scare",
-    "swedish_title": "Tan Zhongyi ensam i täten i Cairns Cup",
-    "swedish_content": "Tan Zhongyi besegrade Vaishali i fjärde ronden av Cairns Cup och tog över ensam ledning med 3,5 poäng av 4 möjliga. Alice Lee förlorade mot Stavroula Tsolakidou, medan Bibisara Assubayeva vann mot Alexandra Kosteniuk. Anna Muzychuk och Koneru Humpy delade på poängen.\n\nDivya Deshmukh var nära att förlora mot Carissa Yip i ett springarslutspel där Yip offrade sin springare för tre bönder och stod klart vinnande. Några unoggrannheter och en dåligt placerad kung gjorde dock att Deshmukh kunde rädda remi. Deshmukh delar andraplatsen med 2,5 poäng av 4.\n\nFemte ronden spelas den 14 augusti klockan 12.00 lokal tid.",
-    "date": "2026-08-14T05:23:13.568226",
-    "tag": "ChessBase India",
-    "processed_at": "2026-08-15T05:25:03.227361"
-  },
-  {
-    "source": "ChessBase India",
-    "original_url": "https://www.chessbase.in/news/big-chess-independence-camp-2026-ichalkaranji",
-    "original_title": "Ken Chess Academy Invites Chess Lovers of All Ages to a Free Independence Day Camp",
-    "swedish_title": "Kostnadsfri schackläger i Ichalkaranji på självständighetsdagen",
-    "swedish_content": "Ken Chess Academy, ledd av Rohit Pol, FIDE D.I. och Senior National Arbiter, arrangerar Big Chess Camp i Ichalkaranji, Kolhapur, på Indiens självständighetsdag. Lägret, som är ett samarbete mellan ChessBase India och Teach Chess India, är kostnadsfritt och öppet för schackentusiaster i alla åldrar och på alla nivåer. Deltagarna arbetar sig genom ett läromaterial på 45 blad med pussel och positioner, indelat i fyra nivåer efter spelstyrka: Nivå 1 (blad 1–15), Nivå 2 (16–30), Nivå 3 (31–40) och Nivå 4 (41–45). En volontär bedömer varje deltagares nivå innan de tilldelas rätt blad, och nybörjare får en kort genomgång av grunderna innan de påbörjar Nivå 1. Rohit Pol har tidigare tränat Maharashtras skolschacklag vid National Games vid tre tillfällen.",
-    "date": "2026-08-14T05:23:13.568242",
-    "tag": "ChessBase India",
-    "processed_at": "2026-08-15T05:25:14.345382"
+    "processed_at": "2026-08-16T05:28:17.862248"
   },
   {
     "source": "Europe Echecs",
-    "original_url": "https://www.europe-echecs.com/art/championnat-de-france-2026-finale-match-aller-10042.html",
-    "original_title": "Championnat de France 2026Pas de résultat décisif dans les finales aller, tout reste à faire !",
-    "swedish_title": "Remi i finalernas första omgång i franska SM",
-    "swedish_content": "Finalens första parti i franska mästerskapet i Vichy slutade oavgjort, både i den öppna klassen och i damklassen. Étienne Bacrot och Maxime Lagarde delade på poängen efter remi 20 drag in i partiet, och avgörandet i finalen väntar imorgon klockan 14.30. Samma situation gäller i damfinalen mellan Guichard och Milliet. I bronsmatchen slutade även Laurent Fressinets parti mot Marc'Andria Maurizzi remi. Marie Sebag tog samtidigt ett stort steg mot en tredjeplats efter vinst över Iglesias.",
-    "date": "2026-08-14T05:23:25.624076",
+    "original_url": "https://www.europe-echecs.com/art/sinquefield-cup-2026-ronde-5-10046.html",
+    "original_title": "Sinquefield Cup 2026Keymer et Caruana l'emportent. MVL rate (encore) le gain",
+    "swedish_title": "Keymer och Caruana vinner i rond 5, MVL missar segerchans igen",
+    "swedish_content": "Vincent Keymer besegrade Anish Giri medan Fabiano Caruana slog sin landsman Levon Aronian i rond 5 av Sinquefield Cup. Maxime Vachier-Lagrave lyckades däremot inte omsätta sin fördel mot nederländaren Jorden van Foreest utan fick nöja sig med remi – andra gången i rad han missar en vinstchans. Övriga partier slutade oavgjort: Javokhir Sindarov mot Sam Sevian samt Wesley So mot Praggnanandhaa R.\n\nI partiet mot Giri byggde Keymer upp ett starkt positionellt övertag med löparen på b2 som huvudvapen. Efter 23...Tf7? följde 24.h6! och 25.d4!, vilket gav vita en vinnande ställning innan Giri gav upp.\n\nWesley So toppar tabellen med 3,5 poäng efter fem ronder. Caruana, MVL, Keymer och Praggnanandhaa delar andraplatsen med 3 poäng vardera, medan Jorden van Foreest ligger sist med endast 1 poäng.",
+    "date": "2026-08-15T05:27:21.407019",
     "tag": "Europe Echecs",
-    "processed_at": "2026-08-15T05:25:26.091385"
+    "processed_at": "2026-08-16T05:28:32.340364"
+  },
+  {
+    "source": "Europe Echecs",
+    "original_url": "https://www.europe-echecs.com/art/championnat-de-france-2026-finale-match-retour-10045.html",
+    "original_title": "Lire l'articleChampionnat de France 2026Les finales vont en départages, Marie Sebag termine 3ème du tournoi féminin",
+    "swedish_title": "Franska mästerskapet avgörs i särspel",
+    "swedish_content": "Maxime Lagarde och Etienne Bacrot spelade återigen ett kort remiparti i finalens returmatch, och herrfinalen avgörs nu i särspel. Sophie Milliet var nära att överraska Pauline Guichard men fick nöja sig med remi. I bronsmatchen slutade även returpartiet mellan Marc'Andria Maurizzi och Laurent Fressinet oavgjort. Marie Sebag vann bronsfinalen i damturneringen och tar därmed hem tredjeplatsen. Särspelen i snabbschack inleds söndagen den 16 augusti klockan 12.00.",
+    "date": "2026-08-15T05:27:21.407081",
+    "tag": "Europe Echecs",
+    "processed_at": "2026-08-16T05:28:42.351998"
+  },
+  {
+    "source": "Europe Echecs",
+    "original_url": "https://www.europe-echecs.com/art/cairns-cup-2026-ronde-1-a-5-10044.html",
+    "original_title": "Lire l'articleCairns Cup 2026Cairns Cup : Tan Zhongyi seule en tête à mi-tournoi",
+    "swedish_title": "Tan Zhongyi ensam i täten i Cairns Cup",
+    "swedish_content": "Efter fem ronder i Saint-Louis leder kinesiskan Tan Zhongyi Cairns Cup 2026 med 4 poäng av 5 möjliga. Fyra spelare delar andraplatsen med 3 poäng vardera: Alice Lee, Stavroula Tsolakidou, Bibisara Assaubayeva och Divya Deshmukh. Regerande mästaren Carissa Yip förlorade mot Tan redan i första ronden efter en grov miss med 35...Df8??, som lät vitt vinna tornet med 36.De6+. Schweiziskan Alexandra Kosteniuk har det tungt och står på endast 0,5 poäng efter fem ronder, sedan hon bland annat förlorade en tornslutspel mot yngsta deltagaren Alice Lee i första ronden. Turneringen har vilodag lördagen den 15 augusti.",
+    "date": "2026-08-15T05:27:21.407098",
+    "tag": "Europe Echecs",
+    "processed_at": "2026-08-16T05:28:54.987032"
   }
 ]
