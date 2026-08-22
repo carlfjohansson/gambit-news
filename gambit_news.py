@@ -101,7 +101,25 @@ kingside = kungsflygeln · queenside = damflygeln · opening = öppning
 middlegame = mittspel · endgame = slutspel · classical = klassiskt schack
 rapid = snabbschack · blitz = blixt · Swiss system = schweizersystem
 round robin = rundturnering · board (i lagmatch) = bord
-the Candidates = Kandidatturneringen · world number one = världsetta"""
+the Candidates = Kandidatturneringen · world number one = världsetta
+Chinese = kinesisk/kinesiska (aldrig "chinesiska") · Dutch = nederländsk
+
+MÄSTERSKAP HETER SÅ HÄR PÅ SVENSKA — översätt aldrig ordagrant:
+Women's World Rapid Championship = dam-VM i snabbschack
+Women's World Blitz Championship = dam-VM i blixtschack
+Women's World Championship = dam-VM · Women's European Championship = dam-EM
+European Women's Team Championship = lag-EM för damer
+World Junior Championship = junior-VM · European Youth = ungdoms-EM
+World Senior = senior-VM · Swedish Championship = SM
+Samma mönster för alla: dam-VM, dam-EM, junior-VM, lag-SM. Skriv aldrig
+"Europamästerskapet för kvinnor" eller "Världsmästerskapet i snabbschack för damer".
+
+PARTI OCH MATCH ÄR INTE SAMMA SAK:
+- Ett PARTI är en enskild uppgörelse mellan två spelare. Engelskans "game".
+- En MATCH består av flera partier. Antingen mellan två spelare — som VM-matchen
+  över fjorton partier — eller mellan två lag med flera spelare i varje.
+Skriv alltså "vann partiet mot Carlsen", inte "vann matchen", när det gäller en
+enskild uppgörelse. Och "matchen slutade 2,5-1,5" när flera partier spelats."""
 
 # Ladda Anthropic om API-nyckel finns
 anthropic_client = None
@@ -161,6 +179,38 @@ def korta_vid_meningsslut(text, maxlangd):
     return kandidat.rstrip() + '…'
 
 
+def dela_upp_svar(claude_text):
+    """Plocka isär RUBRIK, TYP och TEXT ur Claudes svar.
+
+    TYP-raden är valfri i praktiken — saknas den blir typen "Övrigt" i stället
+    för att artikeln faller bort. Rubrik och text är det som måste finnas.
+    """
+    GILTIGA = ['Resultat', 'Porträtt', 'Pedagogik', 'Schackpolitik',
+               'Teknik och AI', 'Historia och kultur', 'Övrigt']
+
+    rubrik, typ, text = '', 'Övrigt', claude_text
+
+    if 'TEXT:' in claude_text:
+        huvud, text = claude_text.split('TEXT:', 1)
+        text = text.strip()
+        for rad in huvud.splitlines():
+            rad = rad.strip()
+            if rad.upper().startswith('RUBRIK:'):
+                rubrik = rad.split(':', 1)[1].strip()
+            elif rad.upper().startswith('TYP:'):
+                kandidat = rad.split(':', 1)[1].strip()
+                for g in GILTIGA:
+                    if g.lower() in kandidat.lower():
+                        typ = g
+                        break
+    else:
+        rader = claude_text.split('\n', 1)
+        rubrik = rader[0].strip()
+        text = rader[1].strip() if len(rader) > 1 else claude_text
+
+    return rubrik, typ, text
+
+
 def hamta_text(response):
     """Plocka ut själva svarstexten ur Claudes svar.
 
@@ -214,6 +264,13 @@ def claude_message(**kwargs):
 
             # T.ex: "`temperature` is deprecated for this model."
             traff = re.search(r"[`'\"](\w+)[`'\"] is (?:deprecated|not supported|unsupported)", text)
+            if not traff:
+                # T.ex: "Messages.create() got an unexpected keyword argument
+                # 'temperature'." - det SDK:t kastar lokalt (innan anropet ens
+                # skickas) när paketet uppgraderats och inte längre känner igen
+                # parametern, i stället för ett vanligt API-felsvar. Samma
+                # åtgärd gäller: släpp parametern och kör vidare utan den.
+                traff = re.search(r"unexpected keyword argument [`'\"](\w+)[`'\"]", text)
             if traff and traff.group(1) not in _slopade_parametrar:
                 parameter = traff.group(1)
                 _slopade_parametrar.add(parameter)
@@ -480,81 +537,60 @@ class ChesscomSource(NewsSource):
 # === CHESSBASE KÄLLA ===
 class ChessBaseSource(NewsSource):
     def __init__(self):
-        super().__init__("ChessBase", "https://en.chessbase.com/", "ChessBase", True)
+        # RSS-flödet i stället för att skrapa länkarna på startsidan. Den gamla
+        # metoden letade efter <a href> som innehöll "/post/" och satte alltid
+        # datumet till "igår". Den gav nästan inga nya artiklar i praktiken -
+        # bara 3 på en hel vecka, och en av dem hade inget riktigt
+        # artikelinnehåll när Claude skulle skriva om den. RSS-flödet ger
+        # riktiga publiceringsdatum och en sammanfattning som fallback om
+        # sidan inte går att hämta (se _rss_content).
+        super().__init__("ChessBase", "https://en.chessbase.com/feed", "ChessBase", True)
         self.request_delay = 5
-    
+
     def fetch_articles(self):
+        import xml.etree.ElementTree as ET
         logger.info(f"🌍 Hämtar artiklar från {self.name}...")
         articles = []
-        
+
         try:
             resp = self.safe_request_with_backoff(self.base_url)
             if not resp:
                 return articles
-                
-            soup = BeautifulSoup(resp.text, "html.parser")
-            all_links = soup.find_all('a', href=True)
-            
-            seen_urls = set()
-            
-            for link in all_links:
-                href = link.get('href')
-                if href and '/post/' in href:
-                    if not href.startswith('http'):
-                        url = 'https://en.chessbase.com' + href
-                    else:
-                        url = href
-                    
-                    if url in seen_urls:
-                        continue
-                    seen_urls.add(url)
-                    
-                    title = link.get_text(strip=True)
-                    if not title or len(title) < 10:
-                        if link.parent:
-                            title = link.parent.get_text(strip=True)
-                    
-                    if title and len(title) > 15 and len(title) < 200:
-                        date = (datetime.now() - timedelta(days=1)).isoformat()
-                        
-                        articles.append({
-                            "source": self.name,
-                            "url": url,
-                            "title": title,
-                            "date": date,
-                            "tag": self.tag_name
-                        })
-                        
-                        if len(articles) >= 10:
-                            break
-                    
+
+            root = ET.fromstring(resp.text)
+            poster = root.findall('.//item')
+            logger.info(f"🔍 {self.name}: Hittade {len(poster)} artiklar i RSS")
+
+            for item in poster:
+                titel = (item.findtext('title') or '').strip()
+                url   = (item.findtext('link') or '').strip()
+                datum = item.findtext('pubDate') or datetime.now().isoformat()
+                beskr = item.findtext('description') or ''
+                ren   = re.sub(r'<[^>]+>', ' ', beskr)
+                ren   = re.sub(r'\s+', ' ', ren).strip()
+
+                if titel and url:
+                    articles.append({
+                        "source": self.name,
+                        "url": url,
+                        "title": titel,
+                        "date": datum,
+                        "tag": self.tag_name,
+                        "_rss_content": ren,
+                    })
+
         except Exception as e:
             logger.error(f"❌ Fel vid hämtning från {self.name}: {e}")
             self.blocked_requests += 1
-        
+
         self.log_statistics()
         logger.info(f"📰 {self.name}: Extraherade {len(articles)} artiklar")
         return articles
-    
+
     def parse_article_content(self, article_url):
-        resp = self.safe_request_with_backoff(article_url)
-        if not resp:
-            return None
-            
-        soup = BeautifulSoup(resp.text, "html.parser")
-        
-        content_selectors = [
-            '.cb-article-content',
-            '.newsText',
-            '.article-content',
-            '.content'
-        ]
-        
-        for selector in content_selectors:
-            content_element = soup.select_one(selector)
-            if content_element:
-                return content_element.get_text(strip=True, separator="\n")
-        return None
+        return self.las_artikeltext(article_url, [
+            '.cb-article-content', '.newsText', '.article-content', '.content',
+        ])
 
 # === FÖRBÄTTRAD FIDE KÄLLA ===
 class FideSource(NewsSource):
@@ -669,81 +705,51 @@ class FideSource(NewsSource):
 # === FÖRBÄTTRAD SCHACK.SE KÄLLA ===  
 class SchackSeSource(NewsSource):
     def __init__(self):
-        super().__init__("Schack.se", "https://schack.se/", "Svenska Schackförbundet", True)
-        self.request_delay = 4
-    
+        # RSS-flödet i stället för att leta i sidans HTML. Den gamla metoden
+        # skannade div-taggar efter ord som "schack" och "turnering" och
+        # plockade de första 80 tecknen som rubrik. Den gav antingen skräp
+        # eller ingenting, och satte alltid datumet till "igår".
+        super().__init__("Schack.se", "https://schack.se/feed/", "Svenska Schackförbundet", True)
+        self.request_delay = 3
+
     def fetch_articles(self):
+        import xml.etree.ElementTree as ET
         logger.info(f"🌍 Hämtar artiklar från {self.name}...")
         articles = []
-        
         try:
-            # Schack.se har främst evenemang, så vi letar efter dem istället
-            urls_to_try = [
-                "https://schack.se/",
-                "https://schack.se/nyheter/",
-                "https://schack.se/aktuellt/",
-                "https://schack.se/tavlingar/"
-            ]
-            
-            for base_url in urls_to_try:
-                resp = self.safe_request_with_backoff(base_url)
-                if resp:
-                    soup = BeautifulSoup(resp.text, "html.parser")
-                    logger.info(f"🔍 {self.name}: Söker innehåll på {base_url}")
-                    
-                    # Leta efter svenska schackhändelser och nyheter
-                    potential_content = soup.find_all(['div', 'article', 'section'], class_=True)
-                    seen_titles = set()
-                    
-                    for element in potential_content:
-                        # Leta efter text som kan vara rubriker eller beskrivningar
-                        text_content = element.get_text(strip=True)
-                        if len(text_content) > 20 and len(text_content) < 300:
-                            # Kontrollera om det verkar vara relevant schackinnehåll
-                            if any(keyword in text_content.lower() for keyword in [
-                                'schack', 'mästerskap', 'turnering', 'sm', 'gm', 'im', 'fm',
-                                'schackförbund', 'tävling', 'parti', 'spelare', 'elitserien'
-                            ]):
-                                # Hitta associerad länk om möjligt
-                                link = element.find('a', href=True)
-                                if link:
-                                    href = link.get('href')
-                                    if not href.startswith('http'):
-                                        url = 'https://schack.se' + href
-                                    else:
-                                        url = href
-                                else:
-                                    url = base_url
-                                
-                                # Använd de första 80 tecknen som titel
-                                title = text_content[:80].strip()
-                                if '.' in title:
-                                    title = title.split('.')[0]
-                                
-                                if title not in seen_titles and len(title) > 15:
-                                    seen_titles.add(title)
-                                    articles.append({
-                                        "source": self.name,
-                                        "url": url,
-                                        "title": title,
-                                        "date": (datetime.now() - timedelta(days=1)).isoformat(),
-                                        "tag": self.tag_name
-                                    })
-                                    
-                                    if len(articles) >= 8:
-                                        break
-                    
-                    if len(articles) > 0:
-                        break
-                        
+            resp = self.safe_request_with_backoff(self.base_url)
+            if not resp:
+                return articles
+
+            root = ET.fromstring(resp.text)
+            poster = root.findall('.//item')
+            logger.info(f"🔍 {self.name}: Hittade {len(poster)} artiklar i RSS")
+
+            for item in poster:
+                titel = (item.findtext('title') or '').strip()
+                url   = (item.findtext('link') or '').strip()
+                datum = item.findtext('pubDate') or datetime.now().isoformat()
+                beskr = item.findtext('description') or ''
+                ren   = re.sub(r'<[^>]+>', ' ', beskr)
+                ren   = re.sub(r'\s+', ' ', ren).strip()
+
+                if titel and url:
+                    articles.append({
+                        "source": self.name,
+                        "url": url,
+                        "title": titel,
+                        "date": datum,
+                        "tag": self.tag_name,
+                        "_rss_content": ren,
+                    })
         except Exception as e:
             logger.error(f"❌ Fel vid hämtning från {self.name}: {e}")
             self.blocked_requests += 1
-            
+
         self.log_statistics()
         logger.info(f"📰 {self.name}: Extraherade {len(articles)} artiklar")
         return articles
-    
+
     def parse_article_content(self, article_url):
         resp = self.safe_request_with_backoff(article_url)
         if not resp:
@@ -839,92 +845,69 @@ class ChessBaseIndiaSource(NewsSource):
 # === CHESSDOM KÄLLA ===
 class ChessdomSource(NewsSource):
     def __init__(self):
-        super().__init__("Chessdom", "https://www.chessdom.com/", "Chessdom", True)
-        self.request_delay = 6
-    
+        # RSS-flödet i stället för att skrapa startsidans länkar. Den gamla
+        # metoden matchade i praktiken vilken länk som helst med "chessdom.com"
+        # i href eller som började med "/" - lika gärna navigering som artikel
+        # - och fastnade dessutom på samma fästa turneringssidor dag efter dag,
+        # så inga nya artiklar kom igenom (0 nya på en hel vecka). RSS-flödet
+        # innehåller hela artikeltexten i <content:encoded>, så vi slipper
+        # hämta artikelsidan en gång till för att få innehållet.
+        super().__init__("Chessdom", "https://www.chessdom.com/feed/", "Chessdom", True)
+        self.request_delay = 4
+
     def fetch_articles(self):
+        import xml.etree.ElementTree as ET
         logger.info(f"🌍 Hämtar artiklar från {self.name}...")
         articles = []
-        
+        NS = {'content': 'http://purl.org/rss/1.0/modules/content/'}
+
         try:
             resp = self.safe_request_with_backoff(self.base_url)
             if not resp:
                 return articles
-                
-            soup = BeautifulSoup(resp.text, "html.parser")
-            all_links = soup.find_all('a', href=True)
-            
-            seen_urls = set()
-            
-            for link in all_links:
-                href = link.get('href')
-                if href and ('chessdom.com' in href or href.startswith('/')):
-                    url = urljoin('https://www.chessdom.com/', href)
-                    if 'chessdom.com' not in url or len(url) < 34:
-                        continue
-                    
-                    if url in seen_urls:
-                        continue
-                    seen_urls.add(url)
-                    
-                    title = link.get_text(strip=True)
-                    if title and len(title) > 15 and len(title) < 200:
-                        articles.append({
-                            "source": self.name,
-                            "url": url,
-                            "title": title,
-                            "date": (datetime.now() - timedelta(days=1)).isoformat(),
-                            "tag": self.tag_name
-                        })
-                        
-                        if len(articles) >= 8:
-                            break
-                    
+
+            root = ET.fromstring(resp.text)
+            poster = root.findall('.//item')
+            logger.info(f"🔍 {self.name}: Hittade {len(poster)} artiklar i RSS")
+
+            for item in poster:
+                titel = (item.findtext('title') or '').strip()
+                url   = (item.findtext('link') or '').strip()
+                datum = item.findtext('pubDate') or datetime.now().isoformat()
+
+                fulltext = item.findtext('content:encoded', namespaces=NS) or ''
+                beskr = item.findtext('description') or ''
+                ren = re.sub(r'<[^>]+>', ' ', fulltext or beskr)
+                ren = re.sub(r'\s+', ' ', ren).strip()
+
+                if titel and url:
+                    articles.append({
+                        "source": self.name,
+                        "url": url,
+                        "title": titel,
+                        "date": datum,
+                        "tag": self.tag_name,
+                        "_rss_content": ren,
+                    })
+
         except Exception as e:
             logger.error(f"❌ Fel vid hämtning från {self.name}: {e}")
             self.blocked_requests += 1
-        
+
         self.log_statistics()
         logger.info(f"📰 {self.name}: Extraherade {len(articles)} artiklar")
         return articles
-    
+
     def parse_article_content(self, article_url):
-        resp = self.safe_request_with_backoff(article_url)
-        if not resp:
-            return None
-            
-        soup = BeautifulSoup(resp.text, "html.parser")
-        
-        # Chessdom använder inte de vanliga WordPress-klasserna. Kontrollerat
-        # 2026-08-09: ingen av .entry-content/.article-content/.post-content/.content
-        # finns på deras artikelsidor, vilket gjorde att varje artikel avvisades
-        # med "För kort innehåll". Deras egen behållare heter post-wrap-out1.
-        content_selectors = [
-            '.post-wrap-out1',
-            '.entry-content',
-            '.article-content',
-            '.post-content',
-            '.content'
-        ]
-
-        for selector in content_selectors:
-            content_element = soup.select_one(selector)
-            if content_element:
-                text = content_element.get_text(strip=True, separator="\n")
-                if text and len(text) >= 200:
-                    return text
-
-        # Sista utväg: plocka brödtexten ur styckena. Fungerar även om sidans
-        # struktur byggs om igen.
-        stycken = [
-            p.get_text(strip=True)
-            for p in soup.find_all('p')
-            if len(p.get_text(strip=True)) > 40
-        ]
-        if stycken:
-            return "\n".join(stycken)
-
-        return None
+        # RSS-flödet ger oss redan hela artikeln (_rss_content ovan), men vi
+        # försöker ändå läsa artikelsidan direkt först - lyckas det inte
+        # faller översättningssteget automatiskt tillbaka på flödestexten.
+        # Chessdom använder inte de vanliga WordPress-klasserna: deras egen
+        # behållare heter post-wrap-out1 (kontrollerat 2026-08-09).
+        return self.las_artikeltext(article_url, [
+            '.post-wrap-out1', '.entry-content', '.article-content',
+            '.post-content', '.content',
+        ])
 
 # === EUROPE ECHECS KÄLLA ===
 class EuropeEchecsSource(NewsSource):
@@ -1664,9 +1647,17 @@ class MultiNewsEngine:
 Hitta de rubriker som handlar om EXAKT SAMMA händelse — samma parti, samma
 turneringsomgång, samma beslut, samma person i samma sammanhang.
 
-Var strikt. Två artiklar om samma turnering men olika ronder är INTE samma
-händelse. Två artiklar om samma spelare men olika saker är INTE samma händelse.
-Slå bara ihop när en läsare skulle uppfatta dem som samma nyhet.
+Slå ihop när en läsare skulle uppfatta dem som samma nyhet, även om
+rubrikerna är formulerade helt olika och på olika språk. Exempel som SKA
+slås ihop:
+- "Van Foreest wins Dutch Championship" och "Nederländska mästerskapen avgjorda"
+- "Sivanandan stuns Royal" och "11-åring slog stormästaren i British Championship"
+- en förhandsartikel om samma turnering från tre olika källor
+
+Exempel som INTE ska slås ihop:
+- samma turnering men olika ronder
+- samma spelare men olika händelser
+- en turnering och en annan turnering med liknande namn
 
 Svara med en rad per grupp som har fler än en artikel, med siffrorna
 kommaseparerade. Finns inga sådana grupper, svara med ordet INGA.
@@ -1711,6 +1702,10 @@ RUBRIKER:
                grupper.append([a])
 
        ihopslagna = sum(len(g) for g in grupper if len(g) > 1)
+       if not ihopslagna:
+           # Utan det här går det inte att avgöra om modellen svarade "INGA"
+           # eller om svaret var obegripligt och kastades bort.
+           logger.info(f"🔗 Inga dubbletter hittades. Claudes svar: {svar[:200]!r}")
        if ihopslagna:
            logger.info(
                f"🔗 {ihopslagna} artiklar handlade om samma händelser "
@@ -1788,8 +1783,15 @@ LÄNGDEN STYRS AV INNEHÅLLET:
 
 {SCHACKTERMER}
 
+ARTIKELNS TYP — välj exakt en av dessa och skriv den på TYP-raden:
+Resultat · Porträtt · Pedagogik · Schackpolitik · Teknik och AI · Historia och kultur · Övrigt
+(Resultat = turnerings- och rondrapporter. Porträtt = intervjuer och personporträtt.
+Pedagogik = skolschack, träning, undervisning. Schackpolitik = FIDE, förbund, regler,
+val och konflikter. Teknik och AI = motorer, fusk, forskning, plattformar.)
+
 FORMAT:
 RUBRIK: [din svenska rubrik]
+TYP: [en av typerna ovan]
 TEXT: [din svenska text]
 
 KÄLLA: {article['source']} ({source_language})
@@ -1803,15 +1805,7 @@ ORIGINALTEXT: {content[:2500]}"""
            )
            
            claude_text = hamta_text(response)
-           
-           if "RUBRIK:" in claude_text and "TEXT:" in claude_text:
-               parts = claude_text.split("TEXT:", 1)
-               swedish_title = parts[0].replace("RUBRIK:", "").strip()
-               swedish_content = parts[1].strip()
-           else:
-               lines = claude_text.split("\n", 1)
-               swedish_title = lines[0].strip()
-               swedish_content = lines[1].strip() if len(lines) > 1 else ""
+           swedish_title, artikeltyp, swedish_content = dela_upp_svar(claude_text)
 
            # Säkerhetsspärr mot orimligt långa svar. Tidigare kapades texten rått
            # vid 1000 tecken mitt i ordet ("Tävlingen följer återigen ett ..."),
@@ -1829,7 +1823,8 @@ ORIGINALTEXT: {content[:2500]}"""
                "swedish_content": swedish_content,
                "date": article['date'],
                "tag": article['tag'],
-               "processed_at": datetime.now().isoformat()
+               "processed_at": datetime.now().isoformat(),
+               "typ": artikeltyp,
            }
            
            logger.info(f"✅ Översatt med Claude ({article['source']}, {source_language}): {swedish_title}")
@@ -1897,8 +1892,12 @@ LÄNGDEN STYRS AV INNEHÅLLET:
 
 {SCHACKTERMER}
 
+ARTIKELNS TYP — välj exakt en:
+Resultat · Porträtt · Pedagogik · Schackpolitik · Teknik och AI · Historia och kultur · Övrigt
+
 FORMAT:
 RUBRIK: [din svenska rubrik]
+TYP: [en av typerna ovan]
 TEXT: [din svenska text]
 
 KÄLLOR: {kallnamn}
@@ -1915,14 +1914,7 @@ KÄLLOR: {kallnamn}
            logger.error(f"❌ Kunde inte slå ihop artiklarna: {e}")
            return None
 
-       if "RUBRIK:" in claude_text and "TEXT:" in claude_text:
-           delar = claude_text.split("TEXT:", 1)
-           swedish_title = delar[0].replace("RUBRIK:", "").strip()
-           swedish_content = delar[1].strip()
-       else:
-           rader = claude_text.split("\n", 1)
-           swedish_title = rader[0].strip()
-           swedish_content = rader[1].strip() if len(rader) > 1 else claude_text
+       swedish_title, artikeltyp, swedish_content = dela_upp_svar(claude_text)
 
        tak = max(2000, int(max_chars * 1.4))
        if len(swedish_content) > tak:
@@ -1940,6 +1932,7 @@ KÄLLOR: {kallnamn}
            "date": huvud['date'],
            "tag": huvud['tag'],
            "processed_at": datetime.now().isoformat(),
+           "typ": artikeltyp,
            # Alla källor, för sidfoten under artikeln
            "alla_kallor": [{"source": a['source'], "url": a['url']} for a in med_innehall],
            # Alla adresser, så att ingen av dem samlas in på nytt nästa körning
@@ -2032,6 +2025,9 @@ KÄLLOR: {kallnamn}
                # Har flera källor skrivit om samma sak listas de alla här, så att
                # sidfoten under artikeln kan hänvisa till var och en av dem.
                "alla_kallor":    art.get("alla_kallor", []),
+               # Vilken sorts nyhet det är. Visas i redaktionen så att det syns
+               # direkt om dagens skörd bara består av turneringsresultat.
+               "typ":            art.get("typ", "Övrigt"),
                "suggested_cat":  cat_slug,
                "original_title": art.get("original_title", ""),
                # Originalartikelns datum sparas som eget fält. Det är sant om
