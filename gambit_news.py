@@ -226,6 +226,19 @@ def claude_message(**kwargs):
 
             # T.ex: "`temperature` is deprecated for this model."
             traff = re.search(r"[`'\"](\w+)[`'\"] is (?:deprecated|not supported|unsupported)", text)
+            if not traff:
+                # T.ex: "Messages.create() got an unexpected keyword argument
+                # 'temperature'." - det SDK:t kastar lokalt (innan anropet ens
+                # skickas) när paketet uppgraderats och inte längre känner igen
+                # parametern, i stället för ett vanligt API-felsvar. Samma
+                # åtgärd gäller: släpp parametern och kör vidare utan den.
+                #
+                # 2026-08-26: den här grenen fanns i en tidigare session men
+                # visade sig aldrig ha nått GitHub - "temperature"-kraschen
+                # kom tillbaka och stoppade en hel --oversatt-godkanda-körning
+                # (alla 14 godkända notiser misslyckades). Återinförd och
+                # verifierad på nytt, se test_rubriker.py.
+                traff = re.search(r"unexpected keyword argument [`'\"](\w+)[`'\"]", text)
             if traff and traff.group(1) not in _slopade_parametrar:
                 parameter = traff.group(1)
                 _slopade_parametrar.add(parameter)
@@ -1691,14 +1704,19 @@ RUBRIKER:
 {lista}"""
 
        try:
-           # Rejält tilltaget utrymme. Med max_tokens=300 (och senare 2000)
-           # gick hela svaret åt till modellens tankeblock, och kvar blev
-           # ingen text alls – grupperingen föll då tillbaka på att behandla
-           # allt var för sig i stället för att slå ihop samma-händelse-
-           # notiser, vilket hände två körningar i rad 2026-08-26 trots
-           # 2000. Höjt ytterligare till 4096.
+           # 2026-08-26: höjning av max_tokens (300 → 2000 → 4096) räckte inte,
+           # och inte heller att sätta en snäv budget_tokens=1024 för tanke-
+           # processen – modellen fortsatte ändå att "tänka" ända till taket
+           # (stop_reason=max_tokens, enbart ett thinking-block, tre gånger i
+           # rad) och tog aldrig sig till att skriva själva svaret. En
+           # klassificering av 35 rubriker kräver inget resonemang alls, så
+           # i stället för att jaga rätt budget stängs tankeprocessen av helt.
+           # Stöder modellen inte det sköter claude_message()s självläkning
+           # (se ovan) att inställningen droppas och vi hamnar i samma läge
+           # som förut – ingen ny risk.
            svar = hamta_text(claude_message(
-               max_tokens=4096,
+               max_tokens=1024,
+               thinking={"type": "disabled"},
                messages=[{"role": "user", "content": prompt}]
            )).strip()
        except Exception as e:
@@ -2190,8 +2208,17 @@ KÄLLOR: {kallnamn}
    #   3. run_oversatt_godkanda()  – hämtar det han godkänt, översätter BARA
    #                                 det, sparar som WP-utkast som vanligt.
 
-   def rubrik_api(self, method, action, payload=None):
-       """Anropa redaktionen/rubriker-api.php. Returnerar None vid fel."""
+   def rubrik_api(self, method, action, payload=None, forsok=3):
+       """Anropa redaktionen/rubriker-api.php. Returnerar None vid fel.
+
+       2026-08-26: en enstaka trög anslutning mot one.com (30 s connect-
+       timeout, sett från GitHub Actions) fick hela insamlingssteget att
+       misslyckas i onödan, trots att rubrikerna redan låg säkert sparade
+       lokalt i pending_rubriker.json. Samma om-försök-med-paus-mönster som
+       redan används för själva nyhetskällorna (safe_request_with_backoff)
+       används nu här också, så en enstaka trög sekund inte utlöser ett
+       fellarm och en hel bortkastad körning.
+       """
        if not RUBRIK_TOKEN:
            logger.error("❌ RUBRIK_TOKEN saknas i .env – kan inte nå rubriker-api.php")
            return None
@@ -2201,18 +2228,29 @@ KÄLLOR: {kallnamn}
            "Content-Type": "application/json",
            "User-Agent": "Gambit-News/1.0",
        }
-       try:
-           if method == 'GET':
-               resp = requests.get(url, headers=headers, timeout=30)
-           else:
-               resp = requests.post(url, headers=headers, json=payload or {}, timeout=30)
-           if resp.status_code != 200:
-               logger.error(f"❌ rubriker-api.php ({action}) svarade HTTP {resp.status_code}: {resp.text[:200]}")
-               return None
-           return resp.json()
-       except Exception as e:
-           logger.error(f"❌ Nätverksfel mot rubriker-api.php ({action}): {e}")
-           return None
+       sista_fel = None
+       for forsok_nr in range(1, forsok + 1):
+           try:
+               if method == 'GET':
+                   resp = requests.get(url, headers=headers, timeout=30)
+               else:
+                   resp = requests.post(url, headers=headers, json=payload or {}, timeout=30)
+               if resp.status_code != 200:
+                   logger.error(f"❌ rubriker-api.php ({action}) svarade HTTP {resp.status_code}: {resp.text[:200]}")
+                   return None  # Ett riktigt HTTP-fel (t.ex. fel token) blir inte bättre av att provas igen.
+               return resp.json()
+           except Exception as e:
+               sista_fel = e
+               if forsok_nr < forsok:
+                   vantetid = 10 * forsok_nr
+                   logger.warning(
+                       f"⚠️ Nätverksfel mot rubriker-api.php ({action}), försök {forsok_nr}/{forsok}: "
+                       f"{e} – provar igen om {vantetid}s"
+                   )
+                   time.sleep(vantetid)
+
+       logger.error(f"❌ Nätverksfel mot rubriker-api.php ({action}) efter {forsok} försök: {sista_fel}")
+       return None
 
    def bygg_rubrikkandidater(self, grupper):
        """Gör om grupperade artiklar (se grupp_samma_handelse) till kandidater
