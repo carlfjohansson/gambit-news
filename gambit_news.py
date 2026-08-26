@@ -184,7 +184,14 @@ def hamta_text(response):
                 delar.append(text)
 
     if not delar:
-        raise ValueError("Claudes svar innehöll ingen text")
+        # Diagnostik för nästa gång det här händer: stop_reason avslöjar om
+        # svaret klipptes av vid max_tokens (då hjälper det att höja taket)
+        # eller om modellen faktiskt svarade tomt av någon annan anledning.
+        stop_reason = getattr(response, "stop_reason", "okänd")
+        blocktyper = [getattr(b, "type", "?") for b in (getattr(response, "content", []) or [])]
+        raise ValueError(
+            f"Claudes svar innehöll ingen text (stop_reason={stop_reason}, block={blocktyper})"
+        )
 
     return "\n".join(delar).strip()
 
@@ -1684,11 +1691,14 @@ RUBRIKER:
 {lista}"""
 
        try:
-           # Rejält tilltaget utrymme. Med max_tokens=300 gick hela svaret åt
-           # till modellens tankeblock, och kvar blev ingen text alls —
-           # grupperingen föll då tillbaka på att behandla allt var för sig.
+           # Rejält tilltaget utrymme. Med max_tokens=300 (och senare 2000)
+           # gick hela svaret åt till modellens tankeblock, och kvar blev
+           # ingen text alls – grupperingen föll då tillbaka på att behandla
+           # allt var för sig i stället för att slå ihop samma-händelse-
+           # notiser, vilket hände två körningar i rad 2026-08-26 trots
+           # 2000. Höjt ytterligare till 4096.
            svar = hamta_text(claude_message(
-               max_tokens=2000,
+               max_tokens=4096,
                messages=[{"role": "user", "content": prompt}]
            )).strip()
        except Exception as e:
