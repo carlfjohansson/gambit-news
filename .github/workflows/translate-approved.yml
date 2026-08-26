@@ -1,10 +1,13 @@
-name: Samla schacknyheter
+name: Översätt godkända rubriker
+# Steg 3 i "godkänn rubriker innan översättning": körs BARA när du själv
+# klickar "Run workflow" nedan, efter att du har bockat av rubriker på
+# https://gambit.se/redaktionen/rubriker.php. Inget körs automatiskt på
+# schema här - det är en medveten spärr så att Claude-kostnaden alltid är
+# något du själv utlöser, aldrig något som händer i bakgrunden.
 on:
-  schedule:
-    - cron: '0 5 * * *'
   workflow_dispatch:
 jobs:
-  collect:
+  translate:
     runs-on: ubuntu-latest
     steps:
       - name: Hämta koden
@@ -28,16 +31,25 @@ jobs:
           echo "EMAIL_FROM=${{ secrets.EMAIL_FROM }}" >> .env
           echo "EMAIL_TO=${{ secrets.EMAIL_TO }}" >> .env
           echo "EMAIL_PASSWORD=${{ secrets.EMAIL_PASSWORD }}" >> .env
-      - name: Samla in rubriker (översätter inget - väntar på godkännande)
-        id: collect
-        run: python gambit_news.py --collect-rubriker
+      - name: Översätt godkända rubriker
+        id: translate
+        run: python gambit_news.py --oversatt-godkanda
       - name: Spara filer till repot
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add seen_articles.json pending_rubriker.json || true
-          git diff --staged --quiet || git commit -m "Uppdatera väntande rubriker [skip ci]"
+          git add seen_articles.json pending_approval.json || true
+          git diff --staged --quiet || git commit -m "Uppdatera efter översättning [skip ci]"
           git push || true
+      - name: Trigga WordPress-import
+        run: |
+          curl -s -X POST \
+            --max-time 60 \
+            --connect-timeout 15 \
+            -H "X-Gambit-Token: ${{ secrets.GAMBIT_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            "https://gambit.se/wp-json/gambit/v1/fetch" \
+            || echo "⚠️ WordPress-import timeout – artiklarna är ändå sparade i repot"
       - name: Skicka fellarm vid misslyckande
         if: failure()
         continue-on-error: true
@@ -45,8 +57,8 @@ jobs:
           python3 -c "
           import smtplib
           from email.mime.text import MIMEText
-          msg = MIMEText('GitHub Actions-körningen för gambit.se misslyckades. Kolla loggen: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}')
-          msg['Subject'] = '⚠️ Gambit nyhetsinsamling misslyckades'
+          msg = MIMEText('GitHub Actions-körningen \"Översätt godkända rubriker\" misslyckades. Kolla loggen: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}')
+          msg['Subject'] = '⚠️ Gambit översättning misslyckades'
           msg['From'] = '${{ secrets.EMAIL_FROM }}'
           msg['To'] = '${{ secrets.EMAIL_TO }}'
           with smtplib.SMTP_SSL('smtp.gmail.com', 465) as s:
