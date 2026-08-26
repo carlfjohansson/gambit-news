@@ -1,19 +1,88 @@
 [
   {
-    "id": "480c65f148dc",
+    "id": "497302b1e617",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/basilisk-signs-gothamchess-levy-rozman",
         "title": "Basilisk Signs Gothamchess Levy Rozman",
-        "date": "2026-08-25T22:42:34.413659",
+        "date": "2026-08-25T22:48:21.278982",
+        "tag": "Chess.com"
+      },
+      {
+        "source": "ChessBase India",
+        "url": "https://www.chessbase.in/news/gotham-chess-joins-basilisk",
+        "title": "GothamChess Joins BASILISK, Science's Esports Team, as Head of Chess",
+        "date": "2026-08-25T22:48:42.252723",
+        "tag": "ChessBase India"
+      }
+    ],
+    "kalla_display": "Chess.com + ChessBase India",
+    "datum": "2026-08-25T22:48:21.278982",
+    "hittad": "2026-08-26T22:49:34.977548"
+  },
+  {
+    "id": "690e7776c46b",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/narva-zhu-2026-wr-womens-chess-tour-africa",
+        "title": "Narva Zhu 2026 Wr Womens Chess Tour Africa",
+        "date": "2026-08-25T22:48:21.279186",
+        "tag": "Chess.com"
+      },
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/wr-chess-feminin-2026-classement-final-10063.html",
+        "title": "Lire l'articleWR chess féminin 2026Mai Narva fait coup double au Mozambique",
+        "date": "2026-08-25T22:48:53.204933",
+        "tag": "Europe Echecs"
+      }
+    ],
+    "kalla_display": "Chess.com + Europe Echecs",
+    "datum": "2026-08-25T22:48:21.279186",
+    "hittad": "2026-08-26T22:49:34.977565"
+  },
+  {
+    "id": "3752ac5c102f",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase India",
+        "url": "https://www.chessbase.in/news/grand-chess-tour-semifinals-2026",
+        "title": "Praggnanandhaa reaches Grand Chess Tour Finals, takes on Fabiano Caruana for the title",
+        "date": "2026-08-25T22:48:42.252798",
+        "tag": "ChessBase India"
+      },
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/finale-du-grand-chess-tour-2026-demi-finales-rapide-et-blitz-10056.html",
+        "title": "Lire l'articleFinale du Grand Chess Tour 2026Caruana défendra son titre en finale contre Praggnanandhaa",
+        "date": "2026-08-25T22:48:53.204892",
+        "tag": "Europe Echecs"
+      }
+    ],
+    "kalla_display": "ChessBase India + Europe Echecs",
+    "datum": "2026-08-25T22:48:42.252798",
+    "hittad": "2026-08-26T22:49:34.977574"
+  },
+  {
+    "id": "9e655475e979",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/2026-grand-chess-tour-finals-day-5",
+        "title": "2026 Grand Chess Tour Finals Day 5",
+        "date": "2026-08-25T22:48:21.278950",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-08-25T22:42:34.413659",
-    "hittad": "2026-08-26T22:44:00.425541"
+    "datum": "2026-08-25T22:48:21.278950",
+    "hittad": "2026-08-26T22:49:34.977581"
   },
   {
     "id": "91c744450179",
@@ -23,13 +92,13 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/2026-grand-chess-tour-finals-day-4",
         "title": "2026 Grand Chess Tour Finals Day 4",
-        "date": "2026-08-25T22:42:34.413694",
+        "date": "2026-08-25T22:48:21.279002",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-08-25T22:42:34.413694",
-    "hittad": "2026-08-26T22:44:00.425554"
+    "datum": "2026-08-25T22:48:21.279002",
+    "hittad": "2026-08-26T22:49:34.977587"
   },
   {
     "id": "37fdf7544227",
@@ -39,13 +108,13 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/duda-wins-titled-tuesday-august-25-2026",
         "title": "Duda Wins Titled Tuesday August 25 2026",
-        "date": "2026-08-25T22:42:34.413716",
+        "date": "2026-08-25T22:48:21.279028",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-08-25T22:42:34.413716",
-    "hittad": "2026-08-26T22:44:00.425560"
+    "datum": "2026-08-25T22:48:21.279028",
+    "hittad": "2026-08-26T22:49:34.977592"
   },
   {
     "id": "3f47dcb02dc2",
@@ -55,13 +124,13 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/carlsen-caruana-total-chess-pilot-budapest-2026",
         "title": "Carlsen Caruana Total Chess Pilot Budapest 2026",
-        "date": "2026-08-25T22:42:34.413737",
+        "date": "2026-08-25T22:48:21.279052",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-08-25T22:42:34.413737",
-    "hittad": "2026-08-26T22:44:00.425565"
+    "datum": "2026-08-25T22:48:21.279052",
+    "hittad": "2026-08-26T22:49:34.977598"
   },
   {
     "id": "2812de48257f",
@@ -71,13 +140,13 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/announcing-chesscom-duck-chess-championship-2026",
         "title": "Announcing Chesscom Duck Chess Championship 2026",
-        "date": "2026-08-25T22:42:34.413762",
+        "date": "2026-08-25T22:48:21.279083",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-08-25T22:42:34.413762",
-    "hittad": "2026-08-26T22:44:00.425570"
+    "datum": "2026-08-25T22:48:21.279083",
+    "hittad": "2026-08-26T22:49:34.977607"
   },
   {
     "id": "25b4bf68f5a2",
@@ -87,13 +156,13 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/2026-grand-chess-tour-finals-day-3",
         "title": "2026 Grand Chess Tour Finals Day 3",
-        "date": "2026-08-25T22:42:34.413782",
+        "date": "2026-08-25T22:48:21.279107",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-08-25T22:42:34.413782",
-    "hittad": "2026-08-26T22:44:00.425574"
+    "datum": "2026-08-25T22:48:21.279107",
+    "hittad": "2026-08-26T22:49:34.977614"
   },
   {
     "id": "54951a751ab7",
@@ -103,13 +172,13 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/announcing-daily-puzzle-lives-system",
         "title": "Announcing Daily Puzzle Lives System",
-        "date": "2026-08-25T22:42:34.413822",
+        "date": "2026-08-25T22:48:21.279133",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-08-25T22:42:34.413822",
-    "hittad": "2026-08-26T22:44:00.425579"
+    "datum": "2026-08-25T22:48:21.279133",
+    "hittad": "2026-08-26T22:49:34.977619"
   },
   {
     "id": "303fcd1f0abd",
@@ -119,29 +188,13 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/2026-grand-chess-tour-finals-day-2",
         "title": "2026 Grand Chess Tour Finals Day 2",
-        "date": "2026-08-25T22:42:34.413838",
+        "date": "2026-08-25T22:48:21.279158",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-08-25T22:42:34.413838",
-    "hittad": "2026-08-26T22:44:00.425587"
-  },
-  {
-    "id": "7ab767ea836c",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/narva-zhu-2026-wr-womens-chess-tour-africa",
-        "title": "Narva Zhu 2026 Wr Womens Chess Tour Africa",
-        "date": "2026-08-25T22:42:34.413850",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-08-25T22:42:34.413850",
-    "hittad": "2026-08-26T22:44:00.425592"
+    "datum": "2026-08-25T22:48:21.279158",
+    "hittad": "2026-08-26T22:49:34.977625"
   },
   {
     "id": "f2728597f667",
@@ -151,13 +204,13 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/2026-grand-chess-tour-finals-day-1",
         "title": "2026 Grand Chess Tour Finals Day 1",
-        "date": "2026-08-25T22:42:34.413863",
+        "date": "2026-08-25T22:48:21.279204",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-08-25T22:42:34.413863",
-    "hittad": "2026-08-26T22:44:00.425597"
+    "datum": "2026-08-25T22:48:21.279204",
+    "hittad": "2026-08-26T22:49:34.977630"
   },
   {
     "id": "b39456abce41",
@@ -167,13 +220,13 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-aug-22-2026",
         "title": "Hikaru Nakamura Wins Bullet Brawl Aug 22 2026",
-        "date": "2026-08-25T22:42:34.413874",
+        "date": "2026-08-25T22:48:21.279221",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-08-25T22:42:34.413874",
-    "hittad": "2026-08-26T22:44:00.425600"
+    "datum": "2026-08-25T22:48:21.279221",
+    "hittad": "2026-08-26T22:49:34.977635"
   },
   {
     "id": "4c2408736edc",
@@ -183,13 +236,13 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/3-0-thursday-minh-le-duda-aravindh-08-20-2026",
         "title": "3 0 Thursday Minh Le Duda Aravindh 08 20 2026",
-        "date": "2026-08-25T22:42:34.413887",
+        "date": "2026-08-25T22:48:21.279238",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-08-25T22:42:34.413887",
-    "hittad": "2026-08-26T22:44:00.425604"
+    "datum": "2026-08-25T22:48:21.279238",
+    "hittad": "2026-08-26T22:49:34.977659"
   },
   {
     "id": "35e4480d61a5",
@@ -199,13 +252,13 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/vladimir-kramnik-sues-new-in-chess-naroditsky-article",
         "title": "Vladimir Kramnik Sues New In Chess Naroditsky Article",
-        "date": "2026-08-25T22:42:34.413898",
+        "date": "2026-08-25T22:48:21.279253",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-08-25T22:42:34.413898",
-    "hittad": "2026-08-26T22:44:00.425607"
+    "datum": "2026-08-25T22:48:21.279253",
+    "hittad": "2026-08-26T22:49:34.977665"
   },
   {
     "id": "551a790f4073",
@@ -215,45 +268,13 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/2026-esports-world-cup-7-conclusions",
         "title": "2026 Esports World Cup 7 Conclusions",
-        "date": "2026-08-25T22:42:34.413909",
+        "date": "2026-08-25T22:48:21.279268",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-08-25T22:42:34.413909",
-    "hittad": "2026-08-26T22:44:00.425611"
-  },
-  {
-    "id": "a44fd3a125b2",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/gerard-pique-american-gambits-chess-investment",
-        "title": "Gerard Pique American Gambits Chess Investment",
-        "date": "2026-08-25T22:42:34.413920",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-08-25T22:42:34.413920",
-    "hittad": "2026-08-26T22:44:00.425618"
-  },
-  {
-    "id": "b19b7dd330b1",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/gotham-chess-joins-basilisk",
-        "title": "GothamChess Joins BASILISK, Science's Esports Team, as Head of Chess",
-        "date": "2026-08-25T22:42:56.127078",
-        "tag": "ChessBase India"
-      }
-    ],
-    "kalla_display": "ChessBase India",
-    "datum": "2026-08-25T22:42:56.127078",
-    "hittad": "2026-08-26T22:44:00.425623"
+    "datum": "2026-08-25T22:48:21.279268",
+    "hittad": "2026-08-26T22:49:34.977670"
   },
   {
     "id": "c261a886140a",
@@ -263,29 +284,13 @@
         "source": "ChessBase India",
         "url": "https://www.chessbase.in/news/pranesh-m-wins-kanizsa-open-2026-10-indians-score-norms",
         "title": "Pranesh M Wins Kanizsa Open 2026, 10 Indians Score Norms",
-        "date": "2026-08-25T22:42:56.127120",
+        "date": "2026-08-25T22:48:42.252774",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-08-25T22:42:56.127120",
-    "hittad": "2026-08-26T22:44:00.425625"
-  },
-  {
-    "id": "81c6e2dd3ce4",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/grand-chess-tour-semifinals-2026",
-        "title": "Praggnanandhaa reaches Grand Chess Tour Finals, takes on Fabiano Caruana for the title",
-        "date": "2026-08-25T22:42:56.127140",
-        "tag": "ChessBase India"
-      }
-    ],
-    "kalla_display": "ChessBase India",
-    "datum": "2026-08-25T22:42:56.127140",
-    "hittad": "2026-08-26T22:44:00.425628"
+    "datum": "2026-08-25T22:48:42.252774",
+    "hittad": "2026-08-26T22:49:34.977675"
   },
   {
     "id": "9df37f488ead",
@@ -295,13 +300,13 @@
         "source": "ChessBase India",
         "url": "https://www.chessbase.in/news/road-to-weissenhaus-2027-final-qualification-path-confirmed",
         "title": "Road to Weissenhaus 2027: Final qualification path confirmed",
-        "date": "2026-08-25T22:42:56.127156",
+        "date": "2026-08-25T22:48:42.252818",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-08-25T22:42:56.127156",
-    "hittad": "2026-08-26T22:44:00.425630"
+    "datum": "2026-08-25T22:48:42.252818",
+    "hittad": "2026-08-26T22:49:34.977681"
   },
   {
     "id": "e197e61bcdd0",
@@ -311,13 +316,13 @@
         "source": "ChessBase India",
         "url": "https://www.chessbase.in/news/32nd-abu-dhabi-masters-final-report",
         "title": "Jakhongir Vakhidov Wins 32nd Abu Dhabi Masters 2026, Avirat Chauhan Scores IM Norm",
-        "date": "2026-08-25T22:42:56.127170",
+        "date": "2026-08-25T22:48:42.252837",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-08-25T22:42:56.127170",
-    "hittad": "2026-08-26T22:44:00.425633"
+    "datum": "2026-08-25T22:48:42.252837",
+    "hittad": "2026-08-26T22:49:34.977687"
   },
   {
     "id": "8de373bafc3b",
@@ -327,13 +332,13 @@
         "source": "ChessBase India",
         "url": "https://www.chessbase.in/news/asian-junior-championship-2026-round-8",
         "title": "Asian Junior 2026 R8: Mayank Chakraborty and Pratitee Bordoloi Maintains Sole Lead",
-        "date": "2026-08-25T22:42:56.127183",
+        "date": "2026-08-25T22:48:42.252856",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-08-25T22:42:56.127183",
-    "hittad": "2026-08-26T22:44:00.425635"
+    "datum": "2026-08-25T22:48:42.252856",
+    "hittad": "2026-08-26T22:49:34.977693"
   },
   {
     "id": "2afe6b7a4e51",
@@ -343,13 +348,13 @@
         "source": "ChessBase India",
         "url": "https://www.chessbase.in/news/big-chess-independence-camp-ichalkaranji",
         "title": "Celebrating Freedom on 64 Squares: Ichalkaranji Hosts Its First ‘Big Chess’ Camp",
-        "date": "2026-08-25T22:42:56.127197",
+        "date": "2026-08-25T22:48:42.252873",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-08-25T22:42:56.127197",
-    "hittad": "2026-08-26T22:44:00.425637"
+    "datum": "2026-08-25T22:48:42.252873",
+    "hittad": "2026-08-26T22:49:34.977698"
   },
   {
     "id": "158ca1cd125c",
@@ -359,13 +364,13 @@
         "source": "ChessBase India",
         "url": "https://www.chessbase.in/news/32nd-abu-dhabi-masters-round-7-8-report",
         "title": "Who is Going to Win 32nd Abu Dhabi Masters 2026?",
-        "date": "2026-08-25T22:42:56.127210",
+        "date": "2026-08-25T22:48:42.252891",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-08-25T22:42:56.127210",
-    "hittad": "2026-08-26T22:44:00.425640"
+    "datum": "2026-08-25T22:48:42.252891",
+    "hittad": "2026-08-26T22:49:34.977703"
   },
   {
     "id": "5ba0cbf1b43c",
@@ -375,13 +380,13 @@
         "source": "ChessBase India",
         "url": "https://www.chessbase.in/news/asian-junior-championship-2026-classical-round-3-4",
         "title": "Asian Junior 2026 R3-4: Jaiveer Mahendru and Pratitee Bordoloi lead with perfect 4/4",
-        "date": "2026-08-25T22:42:56.127223",
+        "date": "2026-08-25T22:48:42.252909",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-08-25T22:42:56.127223",
-    "hittad": "2026-08-26T22:44:00.425642"
+    "datum": "2026-08-25T22:48:42.252909",
+    "hittad": "2026-08-26T22:49:34.977706"
   },
   {
     "id": "ec8418881c5d",
@@ -391,13 +396,13 @@
         "source": "ChessBase India",
         "url": "https://www.chessbase.in/news/shubh-and-avika-are-the-madhya-pradesh-state-junior-chess-champions",
         "title": "Shubh and Avika are the Madhya Pradesh State Junior Chess Champions",
-        "date": "2026-08-25T22:42:56.127237",
+        "date": "2026-08-25T22:48:42.252927",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-08-25T22:42:56.127237",
-    "hittad": "2026-08-26T22:44:00.425644"
+    "datum": "2026-08-25T22:48:42.252927",
+    "hittad": "2026-08-26T22:49:34.977709"
   },
   {
     "id": "5e54c4c4c668",
@@ -407,13 +412,13 @@
         "source": "ChessBase India",
         "url": "https://www.chessbase.in/news/chess-for-everyone-in-kerala-day-1-2-report",
         "title": "12-Year-Old Amanlal A Stuns IM Jorge Marcos at Chess for Everyone in Kerala",
-        "date": "2026-08-25T22:42:56.127251",
+        "date": "2026-08-25T22:48:42.252945",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-08-25T22:42:56.127251",
-    "hittad": "2026-08-26T22:44:00.425647"
+    "datum": "2026-08-25T22:48:42.252945",
+    "hittad": "2026-08-26T22:49:34.977712"
   },
   {
     "id": "524027640783",
@@ -423,13 +428,29 @@
         "source": "ChessBase India",
         "url": "https://www.chessbase.in/news/32nd-abu-dhabi-masters-round-6-report",
         "title": "32nd Abu Dhabi Masters R6: Dubov beats Ahmadzada, Avirat Scores Another Win",
-        "date": "2026-08-25T22:42:56.127263",
+        "date": "2026-08-25T22:48:42.252962",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-08-25T22:42:56.127263",
-    "hittad": "2026-08-26T22:44:00.425649"
+    "datum": "2026-08-25T22:48:42.252962",
+    "hittad": "2026-08-26T22:49:34.977715"
+  },
+  {
+    "id": "6990985e9681",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/finale-du-grand-chess-tour-2026-finale-retour-10059.html",
+        "title": "Finale du Grand Chess Tour 2026Avantage Caruana avant l'ultime journée du Grand Chess Tour",
+        "date": "2026-08-25T22:48:53.204826",
+        "tag": "Europe Echecs"
+      }
+    ],
+    "kalla_display": "Europe Echecs",
+    "datum": "2026-08-25T22:48:53.204826",
+    "hittad": "2026-08-26T22:49:34.977718"
   },
   {
     "id": "8c6ef30363d3",
@@ -438,30 +459,14 @@
       {
         "source": "Europe Echecs",
         "url": "https://www.europe-echecs.com/art/finale-du-grand-chess-tour-2026-finale-aller-10058.html",
-        "title": "Finale du Grand Chess Tour 2026Caruana bat Pragg et prend les commandes de la finale",
-        "date": "2026-08-25T22:43:09.356973",
+        "title": "Lire l'articleFinale du Grand Chess Tour 2026Caruana bat Pragg et prend les commandes de la finale",
+        "date": "2026-08-25T22:48:53.204870",
         "tag": "Europe Echecs"
       }
     ],
     "kalla_display": "Europe Echecs",
-    "datum": "2026-08-25T22:43:09.356973",
-    "hittad": "2026-08-26T22:44:00.425651"
-  },
-  {
-    "id": "da49e0480e4f",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/finale-du-grand-chess-tour-2026-demi-finales-rapide-et-blitz-10056.html",
-        "title": "Lire l'articleFinale du Grand Chess Tour 2026Caruana défendra son titre en finale contre Praggnanandhaa",
-        "date": "2026-08-25T22:43:09.357014",
-        "tag": "Europe Echecs"
-      }
-    ],
-    "kalla_display": "Europe Echecs",
-    "datum": "2026-08-25T22:43:09.357014",
-    "hittad": "2026-08-26T22:44:00.425654"
+    "datum": "2026-08-25T22:48:53.204870",
+    "hittad": "2026-08-26T22:49:34.977721"
   },
   {
     "id": "bb70ac5c1d25",
@@ -471,29 +476,13 @@
         "source": "Europe Echecs",
         "url": "https://www.europe-echecs.com/art/finale-du-grand-chess-tour-2026-demi-finales-retour-10055.html",
         "title": "Lire l'articleFinale du Grand Chess Tour 2026Caruana rate une belle occasion, pas Praggnanandhaa1",
-        "date": "2026-08-25T22:43:09.357037",
+        "date": "2026-08-25T22:48:53.204914",
         "tag": "Europe Echecs"
       }
     ],
     "kalla_display": "Europe Echecs",
-    "datum": "2026-08-25T22:43:09.357037",
-    "hittad": "2026-08-26T22:44:00.425656"
-  },
-  {
-    "id": "0f94850401ee",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/wr-chess-feminin-2026-classement-final-10063.html",
-        "title": "Lire l'articleWR chess féminin 2026Mai Narva fait coup double au Mozambique",
-        "date": "2026-08-25T22:43:09.357057",
-        "tag": "Europe Echecs"
-      }
-    ],
-    "kalla_display": "Europe Echecs",
-    "datum": "2026-08-25T22:43:09.357057",
-    "hittad": "2026-08-26T22:44:00.425658"
+    "datum": "2026-08-25T22:48:53.204914",
+    "hittad": "2026-08-26T22:49:34.977725"
   },
   {
     "id": "7d0df465a484",
@@ -503,13 +492,13 @@
         "source": "Europe Echecs",
         "url": "https://www.europe-echecs.com/art/finale-du-grand-chess-tour-2026-demi-finales-aller-10054.html",
         "title": "Lire l'articleFinale du Grand Chess Tour 2026Keymer sauve les meubles et reste au contact de Pragg1",
-        "date": "2026-08-25T22:43:09.357096",
+        "date": "2026-08-25T22:48:53.204974",
         "tag": "Europe Echecs"
       }
     ],
     "kalla_display": "Europe Echecs",
-    "datum": "2026-08-25T22:43:09.357096",
-    "hittad": "2026-08-26T22:44:00.425660"
+    "datum": "2026-08-25T22:48:53.204974",
+    "hittad": "2026-08-26T22:49:34.977728"
   },
   {
     "id": "9d347b23c326",
@@ -519,29 +508,13 @@
         "source": "Europe Echecs",
         "url": "https://www.europe-echecs.com/art/finale-du-grand-chess-tour-2026-presentation-10051.html",
         "title": "Lire l'articleFinale du Grand Chess Tour 2026Les Finales du Grand Chess Tour à Saint-Louis",
-        "date": "2026-08-25T22:43:09.357112",
+        "date": "2026-08-25T22:48:53.204991",
         "tag": "Europe Echecs"
       }
     ],
     "kalla_display": "Europe Echecs",
-    "datum": "2026-08-25T22:43:09.357112",
-    "hittad": "2026-08-26T22:44:00.425663"
-  },
-  {
-    "id": "06f7525fd3c0",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/sinquefield-cup-2026-ronde-9-10061.html",
-        "title": "Lire l'articleSinquefield Cup 2026Wesley So remporte la Sinquefield Cup au bout de l'armageddon6",
-        "date": "2026-08-25T22:43:09.357129",
-        "tag": "Europe Echecs"
-      }
-    ],
-    "kalla_display": "Europe Echecs",
-    "datum": "2026-08-25T22:43:09.357129",
-    "hittad": "2026-08-26T22:44:00.425665"
+    "datum": "2026-08-25T22:48:53.204991",
+    "hittad": "2026-08-26T22:49:34.977732"
   },
   {
     "id": "cf9a5f42ace6",
@@ -558,6 +531,6 @@
     ],
     "kalla_display": "TWIC",
     "datum": "Sun Aug 23 10:37:00 2026",
-    "hittad": "2026-08-26T22:44:00.425668"
+    "hittad": "2026-08-26T22:49:34.977735"
   }
 ]
