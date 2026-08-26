@@ -179,6 +179,22 @@ def korta_vid_meningsslut(text, maxlangd):
     return kandidat.rstrip() + '…'
 
 
+_OGILTIGA_XML_TECKEN = re.compile(
+    '[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\x84\x86-\x9f\ud800-\udfff﷐-﷯￾￿]'
+)
+
+
+def rensa_ogiltiga_xml_tecken(text):
+    """Ta bort styrtecken som XML-parsern inte accepterar.
+
+    RSS-flöden innehåller ibland enstaka ogiltiga tecken i en enda artikel
+    (t.ex. inklistrat från Word). ET.fromstring kraschar då på HELA flödet
+    med "not well-formed (invalid token)" - inte bara den artikeln. Det gav
+    Schack.se noll artiklar 2026-08-22 trots att flödet annars var normalt.
+    """
+    return _OGILTIGA_XML_TECKEN.sub('', text)
+
+
 def dela_upp_svar(claude_text):
     """Plocka isär RUBRIK, TYP och TEXT ur Claudes svar.
 
@@ -557,9 +573,18 @@ class ChessBaseSource(NewsSource):
             if not resp:
                 return articles
 
-            root = ET.fromstring(resp.text)
+            root = ET.fromstring(rensa_ogiltiga_xml_tecken(resp.text))
             poster = root.findall('.//item')
             logger.info(f"🔍 {self.name}: Hittade {len(poster)} artiklar i RSS")
+
+            # ChessBases flöde är inte begränsat till de senaste - det sträcker
+            # sig 18 månader bakåt (100+ poster). Upptäcktes 2026-08-22 när en
+            # körning plötsligt drog in hela historiken på en gång. Övriga
+            # RSS-källor (Schack.se, TWIC) har naturligt små flöden och behöver
+            # inget tak, men ChessBase och Chessdom får ett explicit tak här.
+            if len(poster) > 15:
+                logger.info(f"✂️ {self.name}: Begränsar till de 15 senaste (av {len(poster)})")
+            poster = poster[:15]
 
             for item in poster:
                 titel = (item.findtext('title') or '').strip()
@@ -721,7 +746,7 @@ class SchackSeSource(NewsSource):
             if not resp:
                 return articles
 
-            root = ET.fromstring(resp.text)
+            root = ET.fromstring(rensa_ogiltiga_xml_tecken(resp.text))
             poster = root.findall('.//item')
             logger.info(f"🔍 {self.name}: Hittade {len(poster)} artiklar i RSS")
 
@@ -754,9 +779,9 @@ class SchackSeSource(NewsSource):
         resp = self.safe_request_with_backoff(article_url)
         if not resp:
             return None
-            
+
         soup = BeautifulSoup(resp.text, "html.parser")
-        
+
         content_selectors = [
             '.article-content',
             '.news-content',
@@ -766,7 +791,7 @@ class SchackSeSource(NewsSource):
             '.content',
             'main'
         ]
-        
+
         for selector in content_selectors:
             content_element = soup.select_one(selector)
             if content_element:
@@ -866,9 +891,16 @@ class ChessdomSource(NewsSource):
             if not resp:
                 return articles
 
-            root = ET.fromstring(resp.text)
+            root = ET.fromstring(rensa_ogiltiga_xml_tecken(resp.text))
             poster = root.findall('.//item')
             logger.info(f"🔍 {self.name}: Hittade {len(poster)} artiklar i RSS")
+
+            # Säkerhetstak, samma som ChessBase - ifall Chessdom någon gång
+            # skulle byta till ett flöde med mer historik än en vanlig
+            # WordPress-standard (för närvarande ~10 poster).
+            if len(poster) > 15:
+                logger.info(f"✂️ {self.name}: Begränsar till de 15 senaste (av {len(poster)})")
+            poster = poster[:15]
 
             for item in poster:
                 titel = (item.findtext('title') or '').strip()
@@ -988,7 +1020,7 @@ class TWICSource(NewsSource):
             if not resp:
                 return articles
 
-            root = ET.fromstring(resp.text)
+            root = ET.fromstring(rensa_ogiltiga_xml_tecken(resp.text))
             items = root.findall('.//item')
             logger.info(f"🔍 {self.name}: Hittade {len(items)} artiklar i RSS")
 
