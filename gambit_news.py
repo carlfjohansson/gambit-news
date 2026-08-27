@@ -87,6 +87,14 @@ RUBRIK_LOGIN_TOKEN = os.getenv("RUBRIK_LOGIN_TOKEN")
 FLICKR_API_KEY = os.getenv("FLICKR_API_KEY")
 FLICKR_FIDE_USERNAME = "fide"
 
+# Svenska Schackförbundets bildbank (bildbanken.schack.se) - foton av Lars OA
+# Hedlund av namngivna spelare, mest svenska. Fritt att använda redaktionellt
+# mot källhänvisning "Foto: Lars OA Hedlund/Sveriges Schackförbund", bekräftat
+# på https://www.stockholmsschack.se/bildarkivet-information/. Tillagt
+# 2026-08-27 på Carl Fredriks förslag. Kräver ingen nyckel - datat är öppet.
+BILDBANKEN_URL = "https://bildbanken.schack.se"
+BILDBANKEN_KREDIT = "Foto: Lars OA Hedlund/Sveriges Schackförbund"
+
 # Adressen till redaktionen, dit godkännandemejlet länkar. Tidigare pekade
 # mejlet på http://127.0.0.1:5000 — den lokala testservern, som bara fungerar
 # på den dator där skriptet körs och alltså aldrig från en telefon eller när
@@ -2520,6 +2528,110 @@ TEXT: {text[:600]}"""
            logger.warning(f"⚠️ Kunde inte hämta FIDE-bild för \"{sokord}\": {e}")
            return None
 
+   def hitta_spelarnamn(self, titel, text):
+       """Listar namngivna schackspelare i notisen, för sökning i Svenska
+       Schackförbundets bildbank (bildbanken.schack.se). Egen liten
+       klassificering, skild från översättningen av samma skäl som
+       hitta_fide_sokord - ska aldrig kunna påverka översättningskvaliteten.
+       Returnerar en lista namn (kan vara tom)."""
+       if not anthropic_client:
+           return []
+       try:
+           prompt = f"""Lista namnen på alla namngivna schackspelare (inte
+tränare, funktionärer, kommentatorer eller domare) som nämns i notisen
+nedan, ett namn per rad, förnamn och efternamn. Om ingen spelare nämns vid
+namn: svara bara "INGEN".
+
+RUBRIK: {titel}
+TEXT: {text[:600]}"""
+           svar = hamta_text(claude_message(
+               max_tokens=150,
+               thinking={"type": "disabled"},
+               messages=[{"role": "user", "content": prompt}]
+           )).strip()
+           if not svar or svar.upper().startswith("INGEN"):
+               return []
+           return [rad.strip() for rad in svar.split("\n") if rad.strip()][:5]
+       except Exception as e:
+           logger.warning(f"⚠️ Kunde inte lista spelarnamn: {e}")
+           return []
+
+   def _bildbanken_data(self):
+       """Hämtar och cachar hela bildbankens dataträd (~6 MB JSON) för hela
+       körningen - onödigt att hämta om för varje artikel."""
+       cachat = getattr(self, "_bildbanken_cache", None)
+       if cachat is not None:
+           return cachat or None
+       try:
+           resp = requests.get(f"{BILDBANKEN_URL}/json/bilder.json", timeout=30)
+           if resp.status_code == 200:
+               self._bildbanken_cache = resp.json()
+               return self._bildbanken_cache
+           logger.warning(f"⚠️ bildbanken.schack.se svarade {resp.status_code}")
+       except Exception as e:
+           logger.warning(f"⚠️ Kunde inte hämta bildbanken.schack.se: {e}")
+       self._bildbanken_cache = {}
+       return None
+
+   def hamta_bildbanken_bild(self, spelarnamn):
+       """Söker en bild på en namngiven spelare i Svenska Schackförbundets
+       bildbank (bildbanken.schack.se, foton av Lars OA Hedlund - mest
+       svenska spelare). Filnamnen i bildbanken innehåller spelarnas namn,
+       så sökningen är samma och-logik som sidans egen: alla ord i namnet
+       måste finnas i sökvägen (mapp+filnamn), skiftlägesokänsligt.
+
+       Fritt att använda redaktionellt mot källhänvisningen i
+       BILDBANKEN_KREDIT, se https://www.stockholmsschack.se/
+       bildarkivet-information/. Returnerar (bilddata, filnamn, kredit)
+       eller None - ingen träff ger aldrig fel bild, bara ingen bild."""
+       data = self._bildbanken_data()
+       if not data:
+           return None
+
+       ord_lista = [o for o in re.split(r"\s+", spelarnamn.strip()) if o]
+       if not ord_lista:
+           return None
+
+       traffar = []
+
+       def sok(gren, path):
+           for namn, varde in gren.items():
+               ny_path = path + "/" + namn
+               if isinstance(varde, list):
+                   hela = ny_path.lower()
+                   if all(o.lower() in hela for o in ord_lista):
+                       traffar.append((ny_path, varde))
+               elif isinstance(varde, dict):
+                   sok(varde, ny_path)
+
+       sok(data, "")
+       if not traffar:
+           logger.info(f"📷 Ingen bildbanken-bild hittad för \"{spelarnamn}\"")
+           return None
+
+       # Senaste året först (mest aktuellt utseende), sen störst upplösning
+       # som tiebreak.
+       def sorteringsnyckel(t):
+           path, varde = t
+           forsta = path.strip("/").split("/")[0]
+           ar = int(forsta) if forsta.isdigit() and len(forsta) == 4 else 0
+           return (ar, varde[3] * varde[4])
+       traffar.sort(key=sorteringsnyckel, reverse=True)
+
+       path, varde = traffar[0]
+       bild_id = varde[5]
+       try:
+           bild_resp = requests.get(f"{BILDBANKEN_URL}/Home/{bild_id}.jpg", timeout=20)
+           if bild_resp.status_code != 200:
+               return None
+       except Exception as e:
+           logger.warning(f"⚠️ Kunde inte hämta bildbanken-bild: {e}")
+           return None
+
+       filnamn = f"bildbanken-{bild_id}.jpg"
+       logger.info(f"📷 Bildbanken-bild hittad för \"{spelarnamn}\": {path}")
+       return (bild_resp.content, filnamn, BILDBANKEN_KREDIT)
+
    def run_oversatt_godkanda(self):
        """Steg 3: hämta det Carl Fredrik godkänt på gambit.se/redaktionen och
        översätt BARA det. Avvisade rubriker bockas av så de aldrig kommer
@@ -2558,14 +2670,29 @@ TEXT: {text[:600]}"""
                # Bild är en ren bonus - misslyckas det här steget publiceras
                # notisen ändå, bara utan bild. Ska aldrig kunna stoppa en
                # översättning som redan lyckats.
+               #
+               # Prioritering: bildbanken.schack.se (namngiven spelare) först
+               # - mer specifik, oftast bättre bild av just den som är med i
+               # notisen, och kräver ingen nyckel. FIDE:s Flickr-bilder som
+               # reserv för internationella FIDE-evenemang utan träff på
+               # namngiven spelare.
                try:
-                   sokord = self.hitta_fide_sokord(
-                       result.get('swedish_title', ''), result.get('swedish_content', '')
-                   )
-                   if sokord:
-                       bild = self.hamta_fide_bild(sokord)
+                   bild = None
+                   titel = result.get('swedish_title', '')
+                   text = result.get('swedish_content', '')
+
+                   for namn in self.hitta_spelarnamn(titel, text):
+                       bild = self.hamta_bildbanken_bild(namn)
                        if bild:
-                           result['bild_data'], result['bild_filnamn'], result['bild_kredit'] = bild
+                           break
+
+                   if not bild:
+                       sokord = self.hitta_fide_sokord(titel, text)
+                       if sokord:
+                           bild = self.hamta_fide_bild(sokord)
+
+                   if bild:
+                       result['bild_data'], result['bild_filnamn'], result['bild_kredit'] = bild
                except Exception as e:
                    logger.warning(f"⚠️ Bildsteg misslyckades för notis {kand['id']}, publicerar utan bild: {e}")
 
