@@ -1722,21 +1722,17 @@ RUBRIKER:
                source_language = "franska"
            elif article['source'] == "Schack.se":
                source_language = "svenska"
-               
-           if source_language == "svenska":
-               if len(content) > 1200:
-                   content = content[:1200] + "..."
-                   
-               return {
-                   "source": article['source'],
-                   "original_url": article['url'],
-                   "original_title": article['title'],
-                   "swedish_title": article['title'],
-                   "swedish_content": content,
-                   "date": article['date'],
-                   "tag": article['tag'],
-                   "processed_at": datetime.now().isoformat()
-               }
+
+           # Tidigare kopierades Schack.se-notiser ordagrant (bara rubriken
+           # oförändrad, brödtexten avklippt vid 1200 tecken) eftersom källan
+           # redan är på svenska och det sågs som "ingen översättning behövs".
+           # Men att återge en annan sajts text rakt av - även med
+           # källhänvisning - är inte samma sak som att skriva om den med
+           # egna ord, och är inte ok av samma anledning som med bilderna
+           # (se BILDBANKEN_KREDIT ovan). Carl Fredrik bad uttryckligen
+           # 2026-08-27 att Schack.se ska gå igenom samma Claude-omskrivning
+           # som alla andra källor - genvägen är borttagen, koden nedan körs
+           # nu för alla källor oavsett originalspråk.
 
            # Taket är ett tak, inte ett mål. Tidigare stod det "ca N tecken", och
            # då fylldes texten ut med samma fakta i omskrivning tills den nådde
