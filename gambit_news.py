@@ -527,58 +527,39 @@ class ChesscomSource(NewsSource):
 # === CHESSBASE KÄLLA ===
 class ChessBaseSource(NewsSource):
     def __init__(self):
-        super().__init__("ChessBase", "https://en.chessbase.com/", "ChessBase", True)
+        super().__init__("ChessBase", "https://en.chessbase.com/feed", "ChessBase", True)
         self.request_delay = 5
-    
+
     def fetch_articles(self):
+        import xml.etree.ElementTree as ET
         logger.info(f"🌍 Hämtar artiklar från {self.name}...")
         articles = []
-        
         try:
             resp = self.safe_request_with_backoff(self.base_url)
             if not resp:
                 return articles
-                
-            soup = BeautifulSoup(resp.text, "html.parser")
-            all_links = soup.find_all('a', href=True)
-            
-            seen_urls = set()
-            
-            for link in all_links:
-                href = link.get('href')
-                if href and '/post/' in href:
-                    if not href.startswith('http'):
-                        url = 'https://en.chessbase.com' + href
-                    else:
-                        url = href
-                    
-                    if url in seen_urls:
-                        continue
-                    seen_urls.add(url)
-                    
-                    title = link.get_text(strip=True)
-                    if not title or len(title) < 10:
-                        if link.parent:
-                            title = link.parent.get_text(strip=True)
-                    
-                    if title and len(title) > 15 and len(title) < 200:
-                        date = (datetime.now() - timedelta(days=1)).isoformat()
-                        
-                        articles.append({
-                            "source": self.name,
-                            "url": url,
-                            "title": title,
-                            "date": date,
-                            "tag": self.tag_name
-                        })
-                        
-                        if len(articles) >= 10:
-                            break
-                    
+            root = ET.fromstring(resp.text)
+            items = root.findall('.//item')
+            logger.info(f"🔍 {self.name}: Hittade {len(items)} artiklar i RSS")
+            for item in items:
+                title = item.findtext('title') or ''
+                url = item.findtext('link') or item.findtext('guid') or ''
+                date = item.findtext('pubDate') or datetime.now().isoformat()
+                desc = item.findtext('description') or ''
+                clean_desc = re.sub(r'<[^>]+>', ' ', desc).strip()
+                clean_desc = re.sub(r'\s+', ' ', clean_desc)
+                if title and url and len(title) > 5:
+                    articles.append({
+                        "source": self.name,
+                        "url": url,
+                        "title": title,
+                        "date": date,
+                        "tag": self.tag_name,
+                        "_rss_content": clean_desc
+                    })
         except Exception as e:
             logger.error(f"❌ Fel vid hämtning från {self.name}: {e}")
             self.blocked_requests += 1
-        
         self.log_statistics()
         logger.info(f"📰 {self.name}: Extraherade {len(articles)} artiklar")
         return articles
@@ -828,51 +809,39 @@ class ChessBaseIndiaSource(NewsSource):
 # === CHESSDOM KÄLLA ===
 class ChessdomSource(NewsSource):
     def __init__(self):
-        super().__init__("Chessdom", "https://www.chessdom.com/", "Chessdom", True)
+        super().__init__("Chessdom", "https://www.chessdom.com/feed/", "Chessdom", True)
         self.request_delay = 6
-    
+
     def fetch_articles(self):
+        import xml.etree.ElementTree as ET
         logger.info(f"🌍 Hämtar artiklar från {self.name}...")
         articles = []
-        
         try:
             resp = self.safe_request_with_backoff(self.base_url)
             if not resp:
                 return articles
-                
-            soup = BeautifulSoup(resp.text, "html.parser")
-            all_links = soup.find_all('a', href=True)
-            
-            seen_urls = set()
-            
-            for link in all_links:
-                href = link.get('href')
-                if href and ('chessdom.com' in href or href.startswith('/')):
-                    url = urljoin('https://www.chessdom.com/', href)
-                    if 'chessdom.com' not in url or len(url) < 34:
-                        continue
-                    
-                    if url in seen_urls:
-                        continue
-                    seen_urls.add(url)
-                    
-                    title = link.get_text(strip=True)
-                    if title and len(title) > 15 and len(title) < 200:
-                        articles.append({
-                            "source": self.name,
-                            "url": url,
-                            "title": title,
-                            "date": (datetime.now() - timedelta(days=1)).isoformat(),
-                            "tag": self.tag_name
-                        })
-                        
-                        if len(articles) >= 8:
-                            break
-                    
+            root = ET.fromstring(resp.text)
+            items = root.findall('.//item')
+            logger.info(f"🔍 {self.name}: Hittade {len(items)} artiklar i RSS")
+            for item in items:
+                title = item.findtext('title') or ''
+                url = item.findtext('link') or item.findtext('guid') or ''
+                date = item.findtext('pubDate') or datetime.now().isoformat()
+                desc = item.findtext('description') or ''
+                clean_desc = re.sub(r'<[^>]+>', ' ', desc).strip()
+                clean_desc = re.sub(r'\s+', ' ', clean_desc)
+                if title and url and len(title) > 5:
+                    articles.append({
+                        "source": self.name,
+                        "url": url,
+                        "title": title,
+                        "date": date,
+                        "tag": self.tag_name,
+                        "_rss_content": clean_desc
+                    })
         except Exception as e:
             logger.error(f"❌ Fel vid hämtning från {self.name}: {e}")
             self.blocked_requests += 1
-        
         self.log_statistics()
         logger.info(f"📰 {self.name}: Extraherade {len(articles)} artiklar")
         return articles
