@@ -568,21 +568,30 @@ class ChessBaseSource(NewsSource):
         resp = self.safe_request_with_backoff(article_url)
         if not resp:
             return None
-            
+
         soup = BeautifulSoup(resp.text, "html.parser")
-        
-        content_selectors = [
-            '.cb-article-content',
-            '.newsText',
-            '.article-content',
-            '.content'
-        ]
-        
-        for selector in content_selectors:
-            content_element = soup.select_one(selector)
-            if content_element:
-                return content_element.get_text(strip=True, separator="\n")
-        return None
+
+        # ChessBase har ingen egen, ren innehållsklass - ".content" matchar
+        # bara sidans navigeringsmeny (48 tecken: "Chess News SEARCH LANGUAGE
+        # DE EN ES FR SHOP"), vilket upptäcktes 2026-08-27 efter att flera
+        # "översatta" notiser i praktiken bara var Claude som svarade att
+        # källtexten saknade artikeltext. Kontrollerat direkt i webbläsaren:
+        # sidan har FLERA ".full_content_area"-block (rubrik+ingress,
+        # själva artikeln, "relaterat"-boxar med annonsskript) och det är
+        # inte alltid samma index som är den riktiga artikeln. Den riktiga
+        # artikeltexten är pålitligt det LÄNGSTA blocket efter att
+        # <script>/<style> plockats bort - verifierat på två olika artiklar.
+        candidates = soup.select('.full_content_area')
+        basta_text = None
+        for element in candidates:
+            kopia = BeautifulSoup(str(element), "html.parser")
+            for tagg in kopia.find_all(['script', 'style']):
+                tagg.decompose()
+            text = kopia.get_text(strip=True, separator="\n")
+            if len(text) >= 300 and (basta_text is None or len(text) > len(basta_text)):
+                basta_text = text
+
+        return basta_text
 
 # === FÖRBÄTTRAD FIDE KÄLLA ===
 class FideSource(NewsSource):
@@ -1937,8 +1946,20 @@ KÄLLOR: {kallnamn}
 
        filename = "pending_approval.json"
 
+       # bild_data är rå bildbinärdata (bytes) och kan aldrig serialiseras
+       # till JSON - kraschade hela körningen 2026-08-27 med "Object of type
+       # bytes is not JSON serializable", EFTER att WP-utkasten redan sparats
+       # men FÖRE kvittering mot redaktionen, vilket riskerade dubbletter
+       # nästa körning. Bilden är redan uppladdad till WordPress vid det här
+       # laget (se save_as_wp_drafts) så den rådatan behövs inte här -
+       # bild_filnamn/bild_kredit (strängar) sparas som vanligt.
+       utan_bilddata = [
+           {k: v for k, v in a.items() if k != "bild_data"}
+           for a in articles
+       ]
+
        with open(filename, "w", encoding='utf-8') as f:
-           json.dump(articles, f, indent=2, ensure_ascii=False)
+           json.dump(utan_bilddata, f, indent=2, ensure_ascii=False)
 
        logger.info(f"💾 Sparade {len(articles)} nya artiklar i {filename}")
 
