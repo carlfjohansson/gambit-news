@@ -1,11 +1,20 @@
 name: Översätt godkända rubriker
-# Steg 3 i "godkänn rubriker innan översättning": körs BARA när du själv
-# klickar "Run workflow" nedan, efter att du har bockat av rubriker på
-# https://gambit.se/redaktionen/rubriker.php. Inget körs automatiskt på
-# schema här - det är en medveten spärr så att Claude-kostnaden alltid är
-# något du själv utlöser, aldrig något som händer i bakgrunden.
+# Steg 3 i "godkänn rubriker innan översättning". Körs varje timme på schema
+# OCH går att köra manuellt (workflow_dispatch). Det här är fortfarande
+# säkert kostnadsmässigt: gambit_news.py --oversatt-godkanda hämtar bara
+# det Carl Fredrik redan bockat av som godkänt på
+# https://gambit.se/redaktionen/rubriker.php - finns inget godkänt avslutas
+# körningen direkt utan att röra Claude-API:et alls (se run_oversatt_godkanda,
+# grenen "Inget är godkänt för översättning ännu"). Spärren mot oavsiktlig
+# kostnad ligger alltså i godkännande-steget, inte i att den här workflowen
+# kräver en manuell knapptryckning - så det är säkert att låta den gå på
+# schema. 2026-08-27: ändrat från enbart workflow_dispatch till schema, på
+# Carl Fredriks begäran, så han slipper gå in på GitHub och trycka "Run
+# workflow" varje gång han godkänt rubriker.
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'  # varje heltimme, UTC
 jobs:
   translate:
     runs-on: ubuntu-latest
