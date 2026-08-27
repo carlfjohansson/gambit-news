@@ -713,108 +713,50 @@ class FideSource(NewsSource):
                 
         return None
 
-# === FÖRBÄTTRAD SCHACK.SE KÄLLA ===  
+# === SCHACK.SE KÄLLA (RSS) ===
 class SchackSeSource(NewsSource):
     def __init__(self):
-        super().__init__("Schack.se", "https://schack.se/", "Svenska Schackförbundet", True)
+        super().__init__("Schack.se", "https://schack.se/feed/", "Svenska Schackförbundet", True)
         self.request_delay = 4
-    
+
     def fetch_articles(self):
+        import xml.etree.ElementTree as ET
         logger.info(f"🌍 Hämtar artiklar från {self.name}...")
         articles = []
-        
         try:
-            # Schack.se har främst evenemang, så vi letar efter dem istället
-            urls_to_try = [
-                "https://schack.se/",
-                "https://schack.se/nyheter/",
-                "https://schack.se/aktuellt/",
-                "https://schack.se/tavlingar/"
-            ]
-            
-            for base_url in urls_to_try:
-                resp = self.safe_request_with_backoff(base_url)
-                if resp:
-                    soup = BeautifulSoup(resp.text, "html.parser")
-                    logger.info(f"🔍 {self.name}: Söker innehåll på {base_url}")
-                    
-                    # Leta efter svenska schackhändelser och nyheter
-                    potential_content = soup.find_all(['div', 'article', 'section'], class_=True)
-                    seen_titles = set()
-                    
-                    for element in potential_content:
-                        # Leta efter text som kan vara rubriker eller beskrivningar
-                        text_content = element.get_text(strip=True)
-                        if len(text_content) > 20 and len(text_content) < 300:
-                            # Kontrollera om det verkar vara relevant schackinnehåll
-                            if any(keyword in text_content.lower() for keyword in [
-                                'schack', 'mästerskap', 'turnering', 'sm', 'gm', 'im', 'fm',
-                                'schackförbund', 'tävling', 'parti', 'spelare', 'elitserien'
-                            ]):
-                                # Hitta associerad länk om möjligt
-                                link = element.find('a', href=True)
-                                if link:
-                                    href = link.get('href')
-                                    if not href.startswith('http'):
-                                        url = 'https://schack.se' + href
-                                    else:
-                                        url = href
-                                else:
-                                    url = base_url
-                                
-                                # Använd de första 80 tecknen som titel
-                                title = text_content[:80].strip()
-                                if '.' in title:
-                                    title = title.split('.')[0]
-                                
-                                if title not in seen_titles and len(title) > 15:
-                                    seen_titles.add(title)
-                                    articles.append({
-                                        "source": self.name,
-                                        "url": url,
-                                        "title": title,
-                                        "date": (datetime.now() - timedelta(days=1)).isoformat(),
-                                        "tag": self.tag_name
-                                    })
-                                    
-                                    if len(articles) >= 8:
-                                        break
-                    
-                    if len(articles) > 0:
-                        break
-                        
+            resp = self.safe_request_with_backoff(self.base_url)
+            if not resp:
+                return articles
+            root = ET.fromstring(resp.text)
+            items = root.findall('.//item')
+            logger.info(f"🔍 {self.name}: Hittade {len(items)} artiklar i RSS")
+            for item in items:
+                title = item.findtext('title') or ''
+                url = item.findtext('link') or item.findtext('guid') or ''
+                date = item.findtext('pubDate') or datetime.now().isoformat()
+                desc = item.findtext('description') or ''
+                clean_desc = re.sub(r'<[^>]+>', ' ', desc).strip()
+                clean_desc = re.sub(r'\s+', ' ', clean_desc)
+                if title and url and len(title) > 5:
+                    articles.append({
+                        "source": self.name,
+                        "url": url,
+                        "title": title,
+                        "date": date,
+                        "tag": self.tag_name,
+                        "_rss_content": clean_desc
+                    })
         except Exception as e:
             logger.error(f"❌ Fel vid hämtning från {self.name}: {e}")
             self.blocked_requests += 1
-            
         self.log_statistics()
         logger.info(f"📰 {self.name}: Extraherade {len(articles)} artiklar")
         return articles
-    
+
     def parse_article_content(self, article_url):
-        resp = self.safe_request_with_backoff(article_url)
-        if not resp:
-            return None
-            
-        soup = BeautifulSoup(resp.text, "html.parser")
-        
-        content_selectors = [
-            '.article-content',
-            '.news-content',
-            '.post-content',
-            '.entry-content',
-            'article',
-            '.content',
-            'main'
-        ]
-        
-        for selector in content_selectors:
-            content_element = soup.select_one(selector)
-            if content_element:
-                content = content_element.get_text(strip=True, separator="\n")
-                if len(content) > 100:
-                    return content
-        return None
+        return self.las_artikeltext(article_url, [
+            '.entry-content', 'article', '.content', 'main',
+        ])
 
 # === CHESSBASE INDIA KÄLLA ===
 class ChessBaseIndiaSource(NewsSource):
