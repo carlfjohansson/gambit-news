@@ -78,6 +78,15 @@ RUBRIK_TOKEN = os.getenv("RUBRIK_TOKEN")
 # mejlet utan lösenordsprompt.
 RUBRIK_LOGIN_TOKEN = os.getenv("RUBRIK_LOGIN_TOKEN")
 
+# FIDE:s officiella Flickr-bilder – enda bildkällan Carl Fredrik godkänt
+# (2026-08-27): aldrig AI-genererat, aldrig andra sajters bilder, bara det
+# FIDE:s egna mediariktlinjer uttryckligen tillåter för redaktionellt bruk
+# utan ackreditering (kräver bara källhänvisning "Foto: FIDE / fotograf").
+# Se https://worldteams.fide.com/media-guidelines/. Saknas nyckeln körs allt
+# som vanligt, bara helt utan bilder – aldrig fel bild, aldrig AI som fallback.
+FLICKR_API_KEY = os.getenv("FLICKR_API_KEY")
+FLICKR_FIDE_USERNAME = "fide"
+
 # Adressen till redaktionen, dit godkännandemejlet länkar. Tidigare pekade
 # mejlet på http://127.0.0.1:5000 — den lokala testservern, som bara fungerar
 # på den dator där skriptet körs och alltså aldrig från en telefon eller när
@@ -2082,6 +2091,42 @@ KÄLLOR: {kallnamn}
            meta_comment = f"<!-- GAMBIT_META:{json.dumps(meta, ensure_ascii=False)} -->"
            wp_content   = meta_comment + "\n\n" + art.get("swedish_content", "")
 
+           # FIDE-bild (se hitta_fide_sokord/hamta_fide_bild) - laddas upp som
+           # media FÖRST, så id:t kan sättas som utvald bild på inlägget.
+           # Misslyckas det här ska det ALDRIG stoppa själva artikeln - den
+           # publiceras bara utan bild i stället.
+           featured_media_id = None
+           if art.get("bild_data"):
+               try:
+                   media_headers = dict(headers)
+                   media_headers["Content-Type"] = "image/jpeg"
+                   media_headers["Content-Disposition"] = (
+                       f'attachment; filename="{art.get("bild_filnamn", "fide-bild.jpg")}"'
+                   )
+                   media_resp = requests.post(
+                       f"{WP_URL}/wp-json/wp/v2/media",
+                       headers=media_headers,
+                       data=art["bild_data"],
+                       timeout=30,
+                   )
+                   if media_resp.status_code in (200, 201):
+                       featured_media_id = media_resp.json().get("id")
+                       kredit = art.get("bild_kredit", "Foto: FIDE")
+                       if featured_media_id:
+                           requests.post(
+                               f"{WP_URL}/wp-json/wp/v2/media/{featured_media_id}",
+                               headers=headers,
+                               json={"caption": kredit, "alt_text": kredit},
+                               timeout=15,
+                           )
+                   else:
+                       logger.warning(
+                           f"⚠️ Kunde inte ladda upp FIDE-bild ({media_resp.status_code}) "
+                           f"för: {art.get('swedish_title', '')[:60]} – publiceras utan bild"
+                       )
+               except Exception as e:
+                   logger.warning(f"⚠️ Fel vid bilduppladdning, publicerar utan bild: {e}")
+
            payload = {
                "title":   art.get("swedish_title", art.get("original_title", "Schacknyhet")),
                "content": wp_content,
@@ -2089,6 +2134,8 @@ KÄLLOR: {kallnamn}
                # Inget datum skickas med: WordPress sätter det när utkastet
                # publiceras, alltså när artikeln faktiskt blir läsbar på Gambit.
            }
+           if featured_media_id:
+               payload["featured_media"] = featured_media_id
 
            try:
                resp = requests.post(
@@ -2356,6 +2403,123 @@ KÄLLOR: {kallnamn}
            # stoppa körningen.
            logger.warning(f"⚠️ Kunde inte skicka rubrikmejl: {e}")
 
+   def hitta_fide_sokord(self, titel, text):
+       """Avgör om en färdigöversatt notis handlar om ett evenemang som FIDE
+       själva arrangerar (VM i schack, Schack-OS/Chess Olympiad, Candidates,
+       FIDE Grand Prix, FIDE Grand Swiss, FIDE World Cup, World Team
+       Championship m.fl.) – inte bara "handlar om schack". En egen liten
+       klassificering, medvetet skild från själva översättningen, så att en
+       ändring här aldrig kan påverka översättningskvaliteten.
+
+       Returnerar ett engelskt sökord (turnering + år) att leta efter bland
+       FIDE:s officiella Flickr-bilder, eller None om det inte är ett
+       FIDE-evenemang – notisen publiceras då helt utan bild, aldrig med en
+       bild som råkar vara fel."""
+       if not anthropic_client:
+           return None
+       try:
+           prompt = f"""Avgör om nyhetsnotisen nedan handlar om ett evenemang
+som arrangeras av det internationella schackförbundet FIDE, t.ex. VM i
+schack, Schack-OS (Chess Olympiad), Candidates Tournament, FIDE Grand Prix,
+FIDE Grand Swiss, FIDE World Cup eller World Team Championship.
+
+Handlar den INTE om ett sånt FIDE-arrangerat evenemang, eller är du osäker:
+svara bara "NEJ".
+
+Handlar den om ett FIDE-evenemang: svara med EN rad – sökordet på engelska
+som exakt beskriver turnering och år, t.ex. "FIDE Chess Olympiad 2026" eller
+"FIDE World Chess Championship 2026". Inget annat i svaret.
+
+RUBRIK: {titel}
+TEXT: {text[:600]}"""
+           svar = hamta_text(claude_message(
+               max_tokens=60,
+               thinking={"type": "disabled"},
+               messages=[{"role": "user", "content": prompt}]
+           )).strip()
+           if not svar or svar.upper().startswith("NEJ"):
+               return None
+           return svar
+       except Exception as e:
+           logger.warning(f"⚠️ Kunde inte avgöra FIDE-koppling: {e}")
+           return None
+
+   def _flickr_fide_nsid(self):
+       """Slår upp FIDE:s Flickr-konto-id (NSID). Cachas för hela körningen –
+       kontot byts inte mitt i en GitHub Actions-körning. Använder getattr i
+       stället för att sätta cachen i __init__, så det fungerar även för
+       instanser skapade med MultiNewsEngine.__new__(...) (se testerna)."""
+       cachat = getattr(self, "_flickr_nsid_cache", None)
+       if cachat is not None:
+           return cachat or None
+       if not FLICKR_API_KEY:
+           return None
+       try:
+           resp = requests.get("https://api.flickr.com/services/rest/", params={
+               "method": "flickr.people.findByUsername",
+               "username": FLICKR_FIDE_USERNAME,
+               "api_key": FLICKR_API_KEY,
+               "format": "json",
+               "nojsoncallback": 1,
+           }, timeout=15)
+           data = resp.json()
+           if data.get("stat") == "ok":
+               self._flickr_nsid_cache = data["user"]["nsid"]
+               return self._flickr_nsid_cache
+           logger.warning(f"⚠️ Kunde inte slå upp FIDE:s Flickr-konto: {data}")
+       except Exception as e:
+           logger.warning(f"⚠️ Kunde inte slå upp FIDE:s Flickr-konto: {e}")
+       self._flickr_nsid_cache = ""
+       return None
+
+   def hamta_fide_bild(self, sokord):
+       """Sök fram en bild bland FIDE:s officiella Flickr-bilder – enligt
+       FIDE:s mediariktlinjer fritt att använda redaktionellt mot
+       källhänvisning "Foto: FIDE / fotograf" (se worldteams.fide.com/
+       media-guidelines/). Returnerar (bilddata, filnamn, kredit-text) eller
+       None om inget hittas eller nedladdningen misslyckas – notisen
+       publiceras då helt utan bild i stället för med en osäker bild."""
+       if not FLICKR_API_KEY:
+           return None
+       nsid = self._flickr_fide_nsid()
+       if not nsid:
+           return None
+       try:
+           resp = requests.get("https://api.flickr.com/services/rest/", params={
+               "method": "flickr.photos.search",
+               "user_id": nsid,
+               "text": sokord,
+               "sort": "relevance",
+               "extras": "owner_name,url_l,url_c,url_z",
+               "per_page": 5,
+               "api_key": FLICKR_API_KEY,
+               "format": "json",
+               "nojsoncallback": 1,
+           }, timeout=15)
+           data = resp.json()
+           foton = (data.get("photos") or {}).get("photo") or []
+           if not foton:
+               logger.info(f"📷 Ingen FIDE-bild hittad för \"{sokord}\"")
+               return None
+
+           foto = foton[0]
+           bild_url = foto.get("url_l") or foto.get("url_c") or foto.get("url_z")
+           if not bild_url:
+               return None
+
+           bild_resp = requests.get(bild_url, timeout=20)
+           if bild_resp.status_code != 200:
+               return None
+
+           fotograf = (foto.get("ownername") or "").strip()
+           kredit = f"Foto: FIDE / {fotograf}" if fotograf and fotograf.lower() != "fide" else "Foto: FIDE"
+           filnamn = f"fide-{foto.get('id', 'bild')}.jpg"
+           logger.info(f"📷 FIDE-bild hittad för \"{sokord}\" ({kredit})")
+           return (bild_resp.content, filnamn, kredit)
+       except Exception as e:
+           logger.warning(f"⚠️ Kunde inte hämta FIDE-bild för \"{sokord}\": {e}")
+           return None
+
    def run_oversatt_godkanda(self):
        """Steg 3: hämta det Carl Fredrik godkänt på gambit.se/redaktionen och
        översätt BARA det. Avvisade rubriker bockas av så de aldrig kommer
@@ -2391,6 +2555,20 @@ KÄLLOR: {kallnamn}
            else:
                result = self.translate_article_with_claude(grupp[0])
            if result:
+               # Bild är en ren bonus - misslyckas det här steget publiceras
+               # notisen ändå, bara utan bild. Ska aldrig kunna stoppa en
+               # översättning som redan lyckats.
+               try:
+                   sokord = self.hitta_fide_sokord(
+                       result.get('swedish_title', ''), result.get('swedish_content', '')
+                   )
+                   if sokord:
+                       bild = self.hamta_fide_bild(sokord)
+                       if bild:
+                           result['bild_data'], result['bild_filnamn'], result['bild_kredit'] = bild
+               except Exception as e:
+                   logger.warning(f"⚠️ Bildsteg misslyckades för notis {kand['id']}, publicerar utan bild: {e}")
+
                processed.append(result)
                lyckade_kandidater.append(kand)
            else:
