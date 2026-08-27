@@ -25,6 +25,7 @@ jobs:
           echo "WP_PASS=${{ secrets.WP_PASS }}" >> .env
           echo "GAMBIT_TOKEN=${{ secrets.GAMBIT_TOKEN }}" >> .env
           echo "RUBRIK_TOKEN=${{ secrets.RUBRIK_TOKEN }}" >> .env
+          echo "RUBRIK_LOGIN_TOKEN=${{ secrets.RUBRIK_LOGIN_TOKEN }}" >> .env
           echo "EMAIL_FROM=${{ secrets.EMAIL_FROM }}" >> .env
           echo "EMAIL_TO=${{ secrets.EMAIL_TO }}" >> .env
           echo "EMAIL_PASSWORD=${{ secrets.EMAIL_PASSWORD }}" >> .env

@@ -73,6 +73,11 @@ WP_URL = os.getenv("WP_URL")
 # översättning-funktionen. Samma sträng måste stå i den PHP-filen.
 RUBRIK_TOKEN = os.getenv("RUBRIK_TOKEN")
 
+# Auto-inloggningstoken för morgonmejlet – måste vara EXAKT samma sträng som
+# AUTOLOGIN_TOKEN i redaktionen/rubriker.php, annars fungerar inte länken i
+# mejlet utan lösenordsprompt.
+RUBRIK_LOGIN_TOKEN = os.getenv("RUBRIK_LOGIN_TOKEN")
+
 # Adressen till redaktionen, dit godkännandemejlet länkar. Tidigare pekade
 # mejlet på http://127.0.0.1:5000 — den lokala testservern, som bara fungerar
 # på den dator där skriptet körs och alltså aldrig från en telefon eller när
@@ -2309,6 +2314,47 @@ KÄLLOR: {kallnamn}
            f"✅ {len(kandidater)} notiser väntar nu på godkännande på "
            f"{REDAKTION_URL.rstrip('/')}/rubriker.php"
        )
+
+       if kandidater:
+           self.skicka_rubrik_notismejl(len(kandidater))
+
+   def skicka_rubrik_notismejl(self, antal):
+       """Morgonmejl: 'X nya rubriker väntar'. Skickas bara när det faktiskt
+       finns något nytt att godkänna, så Carl Fredrik inte glömmer bort att
+       kolla /redaktionen/rubriker.php i några dagar. Länken loggar in honom
+       direkt (se AUTOLOGIN_TOKEN i rubriker.php) – ingen lösenordsprompt."""
+       if not EMAIL_FROM or not EMAIL_TO or not EMAIL_PASSWORD:
+           logger.warning("⚠️ E-postinställningar saknas i .env – kan inte skicka rubrikmejl")
+           return
+       if not RUBRIK_LOGIN_TOKEN:
+           logger.warning("⚠️ RUBRIK_LOGIN_TOKEN saknas i .env – kan inte skicka mejl med auto-inloggning")
+           return
+
+       ny_form    = "ny" if antal == 1 else "nya"
+       rubrik_form = "rubrik" if antal == 1 else "rubriker"
+       lank = f"{REDAKTION_URL.rstrip('/')}/rubriker.php?auto={RUBRIK_LOGIN_TOKEN}"
+
+       msg = MIMEText(
+           f"Hej!\n\n{antal} {ny_form} {rubrik_form} har samlats in och väntar på ditt "
+           f"godkännande innan de översätts.\n\nGranska här (loggar in dig direkt):\n{lank}\n",
+           'plain', 'utf-8'
+       )
+       msg['Subject'] = f"{antal} {ny_form} {rubrik_form} väntar på godkännande"
+       msg['From'] = EMAIL_FROM
+       msg['To'] = EMAIL_TO
+
+       try:
+           server = smtplib.SMTP(SMTP_SERVER, SMTP_PORT)
+           server.starttls()
+           server.login(EMAIL_FROM, EMAIL_PASSWORD)
+           server.send_message(msg)
+           server.quit()
+           logger.info(f"📧 Rubrikmejl skickat till {EMAIL_TO}")
+       except Exception as e:
+           # Mejlet är bara en påminnelse - rubrikerna ligger redan sparade på
+           # gambit.se/redaktionen/rubriker.php oavsett, så det här ska inte
+           # stoppa körningen.
+           logger.warning(f"⚠️ Kunde inte skicka rubrikmejl: {e}")
 
    def run_oversatt_godkanda(self):
        """Steg 3: hämta det Carl Fredrik godkänt på gambit.se/redaktionen och
