@@ -2208,16 +2208,16 @@ KÄLLOR: {kallnamn}
    #   3. run_oversatt_godkanda()  – hämtar det han godkänt, översätter BARA
    #                                 det, sparar som WP-utkast som vanligt.
 
-   def rubrik_api(self, method, action, payload=None, forsok=3):
+   def rubrik_api(self, method, action, payload=None, forsok=5):
        """Anropa redaktionen/rubriker-api.php. Returnerar None vid fel.
 
-       2026-08-26: en enstaka trög anslutning mot one.com (30 s connect-
-       timeout, sett från GitHub Actions) fick hela insamlingssteget att
-       misslyckas i onödan, trots att rubrikerna redan låg säkert sparade
-       lokalt i pending_rubriker.json. Samma om-försök-med-paus-mönster som
-       redan används för själva nyhetskällorna (safe_request_with_backoff)
-       används nu här också, så en enstaka trög sekund inte utlöser ett
-       fellarm och en hel bortkastad körning.
+       2026-08-26: en trög/blockerad anslutning mot one.com (30 s connect-
+       timeout, sett från GitHub Actions – samma sorts flakighet som setts
+       mot Chessdom tidigare, troligen nätverket mellan GitHub:s och one.coms
+       datacenter snarare än gambit.se självt) fick hela steget att misslyckas
+       i onödan. Tre försök med 10/20 s paus räckte inte alltid (sett tre
+       gånger i rad 2026-08-27 på just GET-anropet för godkända rubriker) –
+       höjt till fem försök med längre paus och längre timeout per försök.
        """
        if not RUBRIK_TOKEN:
            logger.error("❌ RUBRIK_TOKEN saknas i .env – kan inte nå rubriker-api.php")
@@ -2232,9 +2232,9 @@ KÄLLOR: {kallnamn}
        for forsok_nr in range(1, forsok + 1):
            try:
                if method == 'GET':
-                   resp = requests.get(url, headers=headers, timeout=30)
+                   resp = requests.get(url, headers=headers, timeout=45)
                else:
-                   resp = requests.post(url, headers=headers, json=payload or {}, timeout=30)
+                   resp = requests.post(url, headers=headers, json=payload or {}, timeout=45)
                if resp.status_code != 200:
                    logger.error(f"❌ rubriker-api.php ({action}) svarade HTTP {resp.status_code}: {resp.text[:200]}")
                    return None  # Ett riktigt HTTP-fel (t.ex. fel token) blir inte bättre av att provas igen.
