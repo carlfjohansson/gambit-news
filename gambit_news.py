@@ -1981,7 +1981,16 @@ KÄLLOR: {kallnamn}
        # ordning i flödet – rond 3 efter rond 2 – i stället för huller om buller.
        def _datumnyckel(a):
            try:
-               return dateparser.parse(a.get("date") or "")
+               d = dateparser.parse(a.get("date") or "")
+               # RSS-källor (Schack.se, Chessdom, ChessBase) ger tidszon-märkta
+               # datum ("+0000"), medan äldre HTML-skrapade källor ger naiva
+               # datum utan tidszon. Blandat i samma sortering kraschar Python
+               # med "can't compare offset-naive and offset-aware datetimes".
+               # Tidszonen struntar vi i här - det handlar bara om inbördes
+               # ordning mellan artiklar, inte exakt klockslag.
+               if d is not None and d.tzinfo is not None:
+                   d = d.replace(tzinfo=None)
+               return d
            except Exception:
                return None
 
