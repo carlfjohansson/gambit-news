@@ -1,7 +1,7 @@
 name: Samla schacknyheter
 on:
   schedule:
-    - cron: '0 5 * * *'
+    - cron: '23 5 * * *'  # 05:23 UTC / 07:23 svensk sommartid - undviker den överbelastade klockan 05:00 UTC
   workflow_dispatch:
 jobs:
   collect:
