@@ -1768,7 +1768,7 @@ ORIGINALTITEL: {article['title']}
 ORIGINALTEXT: {content[:2500]}"""
 
            response = claude_message(
-               max_tokens=1500,
+               max_tokens=2000,
                temperature=0.2,
                messages=[{"role": "user", "content": prompt}]
            )
@@ -1784,6 +1784,19 @@ ORIGINALTEXT: {content[:2500]}"""
                swedish_title = lines[0].strip()
                swedish_content = lines[1].strip() if len(lines) > 1 else ""
 
+           # Bugg 14 (2026-08-28): Claudes svar kan ta slut på tecken innan
+           # texten är klar (stop_reason="max_tokens") - då slutar meningen
+           # mitt i, utan punkt. Det är en annan sak än att svaret är för
+           # LÅNGT (kapningen några rader ner) - här är svaret redan kortare
+           # än taket, men ändå trasigt i änden. Samma funktion löser båda:
+           # körs den på hela texten hittar den bara sista hela meningen och
+           # klipper bort den ofärdiga resten.
+           if getattr(response, "stop_reason", None) == "max_tokens":
+               logger.warning(
+                   f"⚠️ Claudes svar klipptes av (max_tokens) för {article['title'][:50]} - kortar till senaste hela meningen"
+               )
+               swedish_content = korta_vid_meningsslut(swedish_content, max(0, len(swedish_content) - 1))
+
            # Säkerhetsspärr mot orimligt långa svar. Tidigare kapades texten rått
            # vid 1000 tecken mitt i ordet ("Tävlingen följer återigen ett ..."),
            # trots att prompten ovan ber om upp till 1400 tecken. Koden förstörde
@@ -1791,6 +1804,10 @@ ORIGINALTEXT: {content[:2500]}"""
            # om, och kapningen sker alltid vid ett meningsslut.
            tak = max(2000, int(max_chars * 1.4))
            swedish_content = korta_vid_meningsslut(swedish_content, tak)
+
+           if not swedish_content or len(swedish_content) < 80:
+               logger.warning(f"⚠️ För kort/trasigt Claude-svar för {article['title'][:50]} - hoppar över")
+               return None
 
            result = {
                "source": article['source'],
@@ -1877,11 +1894,12 @@ KÄLLOR: {kallnamn}
 {samlad}"""
 
        try:
-           claude_text = hamta_text(claude_message(
-               max_tokens=1800,
+           response = claude_message(
+               max_tokens=2200,
                temperature=0.2,
                messages=[{"role": "user", "content": prompt}]
-           ))
+           )
+           claude_text = hamta_text(response)
        except Exception as e:
            logger.error(f"❌ Kunde inte slå ihop artiklarna: {e}")
            return None
@@ -1895,9 +1913,22 @@ KÄLLOR: {kallnamn}
            swedish_title = rader[0].strip()
            swedish_content = rader[1].strip() if len(rader) > 1 else claude_text
 
+       # Bugg 14 (2026-08-28): se motsvarande kommentar i
+       # translate_article_with_claude - samma resonemang, samma fix, här för
+       # de sammanslagna notiserna.
+       if getattr(response, "stop_reason", None) == "max_tokens":
+           logger.warning(
+               f"⚠️ Claudes svar klipptes av (max_tokens) vid sammanslagning av {kallnamn} - kortar till senaste hela meningen"
+           )
+           swedish_content = korta_vid_meningsslut(swedish_content, max(0, len(swedish_content) - 1))
+
        tak = max(2000, int(max_chars * 1.4))
        if len(swedish_content) > tak:
            swedish_content = korta_vid_meningsslut(swedish_content, tak)
+
+       if not swedish_content or len(swedish_content) < 80:
+           logger.warning(f"⚠️ För kort/trasigt sammanslaget Claude-svar för {kallnamn} - hoppar över")
+           return None
 
        huvud = med_innehall[0]
        logger.info(f"🔗 Slog ihop {len(med_innehall)} källor: {swedish_title[:60]}")
