@@ -1,208 +1,67 @@
 [
   {
+    "source": "Chess.com",
+    "original_url": "https://www.chess.com/news/view/praggnanandhaa-wins-2026-grand-chess-tour",
+    "original_title": "Praggnanandhaa Wins 2026 Grand Chess Tour",
+    "swedish_title": "Praggnanandhaa vann Grand Chess Tour efter storslam",
+    "swedish_content": "Praggnanandhaa Rameshbabu vände ett underläge på sex poäng och besegrade titelförsvararen Fabiano Caruana med 15-13 i finalen av 2026 Grand Chess Tour Finals i Saint Louis. Caruana tog kommandot genom att vinna den första klassiska partiet och ledde 9-3 efter den andra klassiska dagen, men indiern vann båda sina snabbschackpartier och tog ledningen. I blixtschacket blev det jämnt, vilket räckte för Praggnanandhaa att hålla i sitt försprång och säkra titeln.\n\n21-åringen, som är rankad åtta i världen, tar hem 200 000 dollar för segern. Totalt inbringade Grand Chess Tour-serien 404 354 dollar till honom under 2026. Både Praggnanandhaa och Caruana kvalificerar sig automatiskt till 2027 års Grand Chess Tour.\n\nI matchen om tredjeplatsen vände Wesley So ett jämnt utgångsläge mot Vincent Keymer. Efter delad poäng i snabbschacket vann So samtliga fyra blixtpartier och avgjorde matchen med ett parti till godo, slutresultat 18-12. Även So säkrade därmed en plats i nästa års tour.\n\nTiteln kröner ett starkt 2026 för Praggnanandhaa. Efter en trög start med 5,5/13 vid Tata Steel Masters och 6/14 i Kandidatturneringen followde en stark vår: tredjeplats i Zagreb, seger i Norway Chess med fyra raka klassiska vinster på slutet, och i augusti vann han Saint Louis Rapid & Blitz före Javokhir Sindarov. Vid Sinquefield Cup delade han förstaplatsen men förlorade särspelet mot just Wesley So. Segern i GCT Finals gör honom nu till den sammanlagda vinnaren av 2026 års Grand Chess Tour.",
+    "date": "2026-08-27T09:55:22.982391",
+    "tag": "Chess.com",
+    "processed_at": "2026-08-28T11:24:27.807483",
+    "alla_kallor": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/praggnanandhaa-wins-2026-grand-chess-tour"
+      },
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/gct-finals-2026-6"
+      },
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/finale-du-grand-chess-tour-2026-finale-rapide-blitz-10060.html"
+      }
+    ],
+    "alla_urler": [
+      "https://www.chess.com/news/view/praggnanandhaa-wins-2026-grand-chess-tour",
+      "https://en.chessbase.com/post/gct-finals-2026-6",
+      "https://www.europe-echecs.com/art/finale-du-grand-chess-tour-2026-finale-rapide-blitz-10060.html"
+    ]
+  },
+  {
     "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/rubinstein-memorial-2026-final-report",
-    "original_title": "Final-round victory gives Awonder Liang Rubinstein Memorial title",
-    "swedish_title": "Awonder Liang vinner Rubinstein Memorial",
-    "swedish_content": "Awonder Liang tog den 62:a upplagan av Rubinstein Memorial i Polanica-Zdrój, Polen, som spelades 15–23 augusti. Amerikanen slutade på 5½/9 i den tiospelarrunda rundturneringen, ett halvt poäng före en fyrspelargrupp bestående av Vladimir Fedoseev, Jan Malek, Haik Martirosyan och Radoslaw Wojtaszek, som alla stannade på 5/9. Fedoseev och Malek tog andra respektive tredje plats på särskiljning.\n\nLiang förlorade med svart mot Fedoseev i rond tre men svarade med tre vinster med vitt, mot Martirosyan, Jakub Seemann och Szymon Gumularz. Ingen av de tio deltagarna gick igenom turneringen obesegrad. Segern gav Liang 3,3 ratingpoäng. Den 23-årige amerikanen kommer att representera USA i det kommande schackolympiaden i Samarkand, där det amerikanska laget är seedat som etta.",
-    "date": "Thu, 27 Aug 2026 04:35:00 GMT",
+    "original_url": "https://en.chessbase.com/post/spanish-championship-2026-final-report",
+    "original_title": "Spanish Championship: Alan Pichot and Marta García claim titles",
+    "swedish_title": "Pichot och García tar spanska mästerskapstitlarna",
+    "swedish_content": "GM Alan Pichot och IM Marta García Martín vann det spanska mästerskapet 2026, det gemensamma Absolute- och damschackmästerskapet. Argentinskfödde Pichot tog sin första spanska titel, medan García försvarade sitt mästerskap och säkrade sin tredje titel totalt.\n\nTurneringen, ett schweizersystem över 9 ronder, spelades i Linares 17-25 augusti. Män och kvinnor tävlade i samma pool, men ställningen räknades separat för varje kategori.\n\nInför sista ronden delade fyran Eduardo Iturrizaga Bonelli, femman Pichot och elvan Alex Villa Tornero täten med 6½/8 poäng, tätt följda av förra årets mästare David Anton Guijarro, tidigare tvåan Jaime Santos Latasa, Daniil Yuffa samt IM Daniel Garcia Ramos och IM Juan Plazuelo Pascual på 6/8. Pichot vann den avgörande duellen mot Villa och säkrade titeln med 7½/9. Yuffa och tre gånger spanske mästaren Iturrizaga, som spelade remi mot IM Daniel Pulvett, delade andra plats, men Yuffa tog silvret tack vare bättre Buchholz-särspel.\n\nI damklassen tog Marta García klar seger med 6/9. Niofaldiga spanska mästaren IM Sabrina Vega slutade en halv poäng efter och tog silver, medan WFM Adhara Rodríguez Redondo kompletterade damernas pallplats.",
+    "date": "Fri, 28 Aug 2026 02:00:00 GMT",
     "tag": "ChessBase",
-    "processed_at": "2026-08-27T17:39:53.982545",
-    "bild_filnamn": "bildbanken-9n2ExDqD5e.jpg",
+    "processed_at": "2026-08-28T11:24:46.595050",
+    "bild_filnamn": "bildbanken-BJDJalprLP.jpg",
     "bild_kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
   },
   {
     "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/bbc-archive-where-karpov-is-king",
-    "original_title": "From the BBC archive: Where Karpov is king",
-    "swedish_title": "BBC-arkiv: Så blev Karpov schackets kung",
-    "swedish_content": "Ett BBC-arkivmaterial belyser schackfebern på 1970-talet, då Bobby Fischers seger över Boris Spassky i VM-matchen i Reykjavik 1972 väckte enorm uppmärksamhet världen över. Fischer spelade dock aldrig en enda turneringsmatch som världsmästare och försvann i stort sett från schackscenen. Inför 1975 ställde Fischer krav på matchvillkoren mot utmanaren Anatoly Karpov som inte kunde mötas, och Karpov blev därmed världsmästare utan att en match spelades. Till skillnad från den frånvarande Fischer var Karpov flitigt synlig på turneringscirkeln och accepterade de flesta inbjudningar han fick som ny världsmästare. Den engelska miljonären Jim Slater, som 1972 ökat prispotten för att rädda VM-matchen Spassky–Fischer, bidrog också till en schackboom i England genom att erbjuda 5 000 pund till den förste engelska spelaren som blev stormästare.",
-    "date": "Wed, 26 Aug 2026 16:00:00 GMT",
+    "original_url": "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
+    "original_title": "World Championship: Gukesh takes the title!",
+    "swedish_title": "Gukesh världsmästare efter Dings avgörande miss",
+    "swedish_content": "Gukesh D blev den yngsta obestridda världsmästaren i schackets historia efter att ha besegrat Ding Liren i den sista klassiska partiet av deras 14-partimatch i Singapore. Ding gick frivilligt in i ett bondeförlust-slutspel som objektivt var remi, men en grov miss av den kinesiske GM:en i drag 55 gav Gukesh titeln. Matchen slutade 7½–6½ till Gukeshs fördel.",
+    "date": "Thu, 12 Dec 2024 09:45:00 GMT",
     "tag": "ChessBase",
-    "processed_at": "2026-08-27T17:40:16.663431"
-  },
-  {
-    "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/russia-remains-suspended-from-chess-olympiad",
-    "original_title": "Russia remains suspended from the Chess Olympiad",
-    "swedish_title": "FIDE avslår Rysslands ansökan till Schackolympiaden",
-    "swedish_content": "Den ryska schackfederationens ansökan om att få delta med lag i den kommande Schackolympiaden i Samarkand, Uzbekistan (15–27 september), har avslagits av FIDE Council. Enligt Alexander Tkachev, verkställande direktör för den ryska schackfederationen, kom förslaget att avslå ansökan från Viswanathan Anand, och en majoritet av de 14 rådsmedlemmarna stödde förslaget. Ryska lag har varit avstängda sedan invasionen av Ukraina i februari 2022, vilket innebar att Olympiaderna i Chennai 2022 och Budapest 2024 hölls utan ryska lag. FIDE har på senare tid gjort vissa undantag – ryska lag fick delta i junior-lagtävlingar i januari 2025, i tävlingar för personer med funktionsnedsättning samt i Women's World Team Championship 2025. I juli 2026 stängde FIDE dock tillfälligt av den ryska schackfederationen på nytt, sedan Ryssland olagligt anordnat schackturneringar i ockuperade delar av Ukraina. Anand fungerar som tillförordnad FIDE-president efter att Arkady Dvorkovich klivit åt sidan sedan EU placerat honom på sin sanktionslista, i väntan på val i september.",
-    "date": "Wed, 26 Aug 2026 05:45:00 GMT",
-    "tag": "ChessBase",
-    "processed_at": "2026-08-27T17:40:40.651244"
-  },
-  {
-    "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/quo-vadis-fischer-random-chess-1",
-    "original_title": "Quo vadis, Fischer Random Chess? (1)",
-    "swedish_title": "Jag kan tyvärr inte skriva en nyhetsnotis om \"Quo vadis, Fischer Random Chess?\" utifrån det material som finns här. Den text som skickats innehåller bara sidofältsinnehåll från ChessBase-sidan – annonser, författarbiografi, länkar till andra artiklar (om brittiska mästerskapet och VM för universitetslag), en videoannons samt ett avhugget kommentarsfragment. Själva artikeltexten om Fischer Random Chess saknas helt, så det finns inga sakuppgifter (vem, vad, var, när, resultat) att rapportera om det ämnet.",
-    "swedish_content": "Om du kan komplettera med den faktiska artikeltexten om Fischer Random Chess kan jag skriva notisen enligt riktlinjerna ovan.",
-    "date": "Wed, 19 Aug 2026 23:06:12 GMT",
-    "tag": "ChessBase",
-    "processed_at": "2026-08-27T17:41:02.303485"
-  },
-  {
-    "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/remembering-oleg-skvortsov",
-    "original_title": "Remembering Oleg Skvortsov",
-    "swedish_title": "Schackmecenaten Oleg Skvortsov minns av ChessBase",
-    "swedish_content": "Oleg Skvortsov var en rysk affärsman och schackmecenat som under flera år finansierade elitturneringar och satsade på unga talanger. Från 2014 finansierade han de årliga \"Nutcracker\"-matcherna i Moskva, där världens främsta juniorer möttes mot etablerade stormästare.\n\nSkvortsov utvecklade även den så kallade \"Skvortsov Time Control\" – 45 minuter per parti med 10 sekunders tillägg per drag, konstruerad för att kombinera klassiskt schacks djup med snabbschackets underhållningsvärde. Formatet tillät även att två partier spelades samma dag och blev populärt bland toppstormästare.\n\nHan var själv en stark spelare med en styrka motsvarande ungefär 2300–2400 i rating och spelade flera uppvisningsmatcher mot världsmästare, bland andra Viswanathan Anand. Mellan 2012 och 2017 arrangerade Skvortsov Zurich Chess Challenge, som 2014 blev den första superturneringen någonsin i kategori 23, med ett snittrating över 2800 bland deltagarna Magnus Carlsen, Viswanathan Anand, Levon Aronian, Hikaru Nakamura, Fabiano Caruana och Boris Gelfand.",
-    "date": "Thu, 13 Aug 2026 08:00:00 GMT",
-    "tag": "ChessBase",
-    "processed_at": "2026-08-27T17:41:20.586026"
-  },
-  {
-    "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/the-1858-rated-kid-who-beat-a-super-gm-the-underdog",
-    "original_title": "The 1858-Rated Kid Who Beat a Super-GM - The Underdog",
-    "swedish_title": "Spelare med rating 1858 slog superstormästare",
-    "swedish_content": "I ett nytt avsnitt av ChessBase-serien The Underdog presenteras ett parti där en spelare med endast 1858 i rating besegrade en superstormästare. Avsnittet ingår i Robert Ris återkommande genomgångar av underdog-partier från internationella turneringar. Några ytterligare detaljer om spelarnas namn, turnering eller datum för partiet framgår inte.",
-    "date": "Mon, 13 Jul 2026 18:00:00 GMT",
-    "tag": "ChessBase",
-    "processed_at": "2026-08-27T17:41:40.159438"
-  },
-  {
-    "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/surrealists-and-chess",
-    "original_title": "Surrealists and chess",
-    "swedish_title": "Marie-Claude Schoendorff har avlidit",
-    "swedish_content": "Marie-Claude Schoendorff, född Masson, avled i början av året. Hon var väktare av en historisk lägenhet och ateljé från Napoleon III-eran (1882-1886) på rue Victor Hugo i Lyon, och moster till Christophe Leroy, direktör för en av Frankrikes viktigaste schackklubbar, Lyon Olympique Échecs (LOE). Flera schackspelare, däribland Anatoly Karpov och franska mästare, hade besökt henne i hemmet.\n\nHennes make Max Schoendorff var målare, gravör, scenograf och humanist. Han byggde bland annat en 64 kvadratmeter stor spegelschackbräda i parken vid slottet Château de la Poupée i Marcy l'Étoile, för installationen \"Alice and the Chess Master\" som anspelade på Lewis Carrolls \"Through the Looking-Glass and What Alice Found There\".\n\nEn stödkommitté har bildats kring föreningen \"Max and Marie-Claude Schoendorff, it's urgent!\". På tre månader har drygt 150 medlemmar anslutit sig, tack vare arbetet av Odile Nguyen-Schoendorff, Max syster – men endast tre av dem är schackspelare. Lyon Olympique Échecs, som lett av president Christophe Mathieu arbetat med Lyons och Frankrikes schackhistoria i nästan 42 år, driver samtidigt ett projekt för att skapa ett franskt schackmuseum.",
-    "date": "Mon, 22 Jun 2026 18:00:00 GMT",
-    "tag": "ChessBase",
-    "processed_at": "2026-08-27T17:42:01.771804"
-  },
-  {
-    "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/news-on-the-1896-schiffers-vs-steinitz-match",
-    "original_title": "News on the 1896 Schiffers vs Steinitz Match",
-    "swedish_title": "Steinitz och Schiffers möttes i historisk match 1896",
-    "swedish_content": "Redan i december 1895 meddelade den ryska tidningen Juschny Krai att en match skulle äga rum året därpå mellan den förste världsmästaren i schackets historia, Wilhelm Steinitz, och en av dåtidens starkaste ryska spelare, Emanuel Schiffers. Steinitz hade förlorat världsmästartiteln till den betydligt yngre utmanaren Emanuel Lasker 1894, men behöll rätten till en returmatch. Sommaren 1895 möttes Steinitz och Schiffers vid turneringen i Hastings, där de sannolikt kom överens om matchen, tänkt som förberedelse för Steinitz inför returmatchen mot Lasker.\n\nI januari 1896 publicerade Juschny Krai villkoren för mötet: 12 partier skulle spelas, remi räknades som en halv poäng, och den som vann flest partier utsågs till segrare. Vinnaren skulle få 400 rubel i prispengar, förloraren 200 rubel – vid oavgjord match fick båda 300 rubel vardera. Dessutom utgick 15 rubel per vinstparti, 5 rubel per förlustparti och 10 rubel per remi. Steinitz tilldelades 200 rubel i reseersättning, medan Schiffers och Steinitz guide och tolk Genrikhson fick 150 rubel var.\n\nMatchen planerades ursprungligen äga rum i Charkiv efter turneringen i Sankt Petersburg i december 1895, där Lasker vann övertygande före Steinitz, Harry Pillsbury och Michail Tjigorin. Till slut spelades mötet mellan Steinitz och Schiffers dock inte i Charkiv utan i Rostov-na-Donu.",
-    "date": "Sat, 21 Feb 2026 09:00:00 GMT",
-    "tag": "ChessBase",
-    "processed_at": "2026-08-27T17:42:23.796755"
-  },
-  {
-    "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/fermat-in-chess",
-    "original_title": "Fermat in Chess",
-    "swedish_title": "Boken Chess Stories kopplar Fermats teorem till schack",
-    "swedish_content": "Frederic Friedel och Christian Hesse har i november 2024 gett ut boken \"Chess Stories\" (ISBN 978-81-959245-4-7), som bland annat innehåller en berättelse med titeln \"Fermat in Chess\". Berättelsen tar sin utgångspunkt i att Christian Hesse vid tio års ålder fascinerades av Pythagoras och pythagoréerna. Historien knyter an till Fermats stora sats, där Pierre de Fermat på 1600-talet i en bokmarginal påstod att ekvationen x^n + y^n = z^n saknar heltalslösningar för n större än 2, utan att ge något bevis. Boken sammanfattar hur denna matematiska gåta, som ursprungligen formulerades av Diophantos i Alexandria, sedan dess engagerat generationer av matematiker.",
-    "date": "Mon, 13 Oct 2025 08:32:12 GMT",
-    "tag": "ChessBase",
-    "processed_at": "2026-08-27T17:42:41.554006"
-  },
-  {
-    "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/lasker-chigorin-legendary-clash-of-two-bishops-vs-two-knights",
-    "original_title": "Lasker-Chigorin: A legendary clash of two bishops vs two knights",
-    "swedish_title": "Historisk turnering i Hastings 1895 inledd",
-    "swedish_content": "I maj 1894 besegrade Emanuel Lasker den 58-årige William Steinitz med 10:5 i en 19-partiers match spelad i flera städer i Nordamerika, vilket gjorde den då 25-årige tysken till världsmästare. Experter ifrågasatte dock snabbt hans meriter och betraktade honom som en oerfaren nykomling.\n\nSommaren 1895 arrangerades en stor rundturnering i den engelska kuststaden Hastings för att avgöra den verkliga rangordningen i schackvärlden. Från 5 augusti till 3 september möttes 22 spelare från hela världen, med betänketid två timmar för 30 drag följt av en timme per 15 drag. Spel pågick fem dagar i veckan med upp till åtta timmars speltid per dag, uppdelat på pass klockan 13-17 och från 19.00.\n\nBland favoriterna fanns Steinitz, Lasker, Dr Siegbert Tarrasch från Nürnberg och Mikhail Chigorin från Sankt Petersburg, som tidigare förlorat två VM-matcher mot Steinitz. Yngre spelare som David Janowski, Harry N. Pillsbury och Carl Schlechter ansågs ha endast utsiktslösa chanser.\n\nI den första ronden vann Lasker mot Georg Marco från Wien, medan Chigorin besegrade Pillsbury efter att tidigt ha offrat ett torn. Dagen därpå möttes Lasker och Chigorin för första gången någonsin, i ett hårt och jämnt parti där ingen av spelarna lyckades etablera en vinstställning i vare sig öppning eller mittspel.",
-    "date": "Sun, 12 Oct 2025 15:00:00 GMT",
-    "tag": "ChessBase",
-    "processed_at": "2026-08-27T17:43:05.124434"
-  },
-  {
-    "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/children-chess-o2-arena-2025",
-    "original_title": "School children play chess on the roof of London's O2 Arena",
-    "swedish_title": "Skolelever spelade schack på taket av O2 Arena",
-    "swedish_content": "Elever från The Pointer School spelade schack 52 meter över marken på taket av O2 Arena i London, som ett led i lanseringen av en ny satsning på schack i skolan. Partiet markerade starten för skolans nya schackklubb, som ska erbjuda kostnadsfri eftermiddagsundervisning i schack för elever i Greenwich och sydöstra London.\n\nThe Pointer School, en förberedande skola i södra London som ingår i Dukes Education-koncernen, firar i år 75-årsjubileum. Skolan har tidigare fostrat Shreyas Royal, som blev Englands yngsta stormästare någonsin vid 15 års ålder. Eleven Kushal Jakhria representerar skolan i årets FIDE World Rapid and Blitz Championships i London i juni, och skolans lag har även tagit sig till final i EPSCA National Primary Schools' Championships 2025.",
-    "date": "Wed, 25 Jun 2025 10:25:22 GMT",
-    "tag": "ChessBase",
-    "processed_at": "2026-08-27T17:43:20.766562"
-  },
-  {
-    "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/fide-history-era-of-soviet-domination",
-    "original_title": "FIDE history: Era of Soviet Domination",
-    "swedish_title": "FIDE:s första efterkrigskongress och VM-titeln 1946–48",
-    "swedish_content": "I början av 1946 fick Mikhail Botvinnik (Sovjetunionen) klartecken från de sovjetiska myndigheterna att spela en match mot Alexander Alekhine i London. Två dagar efter att utmaningen mottagits hittades Alekhine dock död på sitt hotellrum i Estoril, Portugal, och VM-titeln blev vakant.\n\nVid FIDE:s första efterkrigskongress 1946 i Winterthur, Schweiz, representerades organisationen av sju länder – utan Sovjetunionens schackförbund. Alexander Rueb valdes till president för de kommande fyra åren. Generalförsamlingen beslutade att tilldela Max Euwe VM-titeln som senaste utmanare till Alekhine, med krav på att han skulle försvara titeln inom en tid som ännu inte fastställts. Planen var en match mellan Euwe och Samuel Reshevsky, följt av en match mellan Paul Keres och Botvinnik, där vinnarna sedan skulle möta varandra om VM-titeln.\n\nDen sovjetiska delegationen anlände sent på grund av flygförsening, men efter ett långt tal av Viacheslav Ragozin gick församlingen med på att se över reglerna. Den 18 september 1946 beslutades istället om en turnering med sex spelare i Nederländerna och Ryssland.\n\nReuben Fine drog sig senare ur av yrkesskäl, och sovjeterna motsatte sig Miguel Najdorfs deltagande trots att denne vunnit i Prag. Turneringen reducerades till fem spelare: de första tio ronderna spelades i Haag och femton ytterligare i Moskva, med sammanlagt femtio partier.\n\nDet första VM-turnering efter andra världskriget inleddes i Haag den 1 mars 1948 med en prispott på 13 000 US-dollar. Den 25 mars avslutades den nederländska delen med Botvinnik i ledningen på 6 poäng, före Samuel Reshevsky med 4½.",
-    "date": "Wed, 04 Jun 2025 15:00:00 GMT",
-    "tag": "ChessBase",
-    "processed_at": "2026-08-27T17:43:43.320245"
-  },
-  {
-    "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/fide-chess-history-2",
-    "original_title": "FIDE Chess History (2)",
-    "swedish_title": "FIDE:s historia: Alekhines VM-titlar och första schack-OS",
-    "swedish_content": "1929 mötte världsmästare Alexander Alekhine Efim Bogoljubow i en VM-match som inleddes 5 september i Tyskland, där Alekhine nådde de 15½ poäng som krävdes för att behålla titeln. 1934 accepterade Alekhine en ny utmaning från Bogoljubow, nu tysk medborgare, under samma villkor som 1929, och vann även denna match med 10½–5½.\n\n1935 utmanades Alekhine av nederländaren Max Euwe, som sekunderades av Salo Flohr från Tjeckoslovakien. Matchen inleddes 3 oktober 1935 i Amsterdam, där borgmästare Dr. Willem de Vlugt gjorde det första draget. Efter 30 partier vann Euwe matchen och blev den femte världsmästaren i schack. En returmatch spelades 1937, som Alekhine vann och därmed återtog titeln. Detta blev den sista VM-matchen där mästaren själv kunde bestämma matchvillkoren utan FIDE:s inblandning.\n\nPå FIDE:s andra kongress i Zürich 1925 diskuterades ett andra Tournament of Nations. Ungern fick arrangera evenemanget, men på grund av administrativa problem anmälde sig bara fyra lag, och tävlingen räknas som den andra inofficiella olympiaden. Den första officiella FIDE-olympiaden öppnade i London 18 juli 1927 med 16 lag om fyra spelare plus en reserv, utan åtskillnad mellan proffs och amatörer. Ungern vann turneringen före Danmark och England, medan Vera Menchik från Tjeckoslovakien blev den första kvinnliga världsmästaren i schack.",
-    "date": "Mon, 12 May 2025 09:06:29 GMT",
-    "tag": "ChessBase",
-    "processed_at": "2026-08-27T17:44:07.102025"
-  },
-  {
-    "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/ecu-partners-with-senserobot",
-    "original_title": "ECU partners with SenseRobot",
-    "swedish_title": "ECU inleder samarbete med SenseRobot",
-    "swedish_content": "European Chess Union (ECU), paraplyorganisationen för schack i Europa med 54 medlemsförbund, har ingått ett partnerskap med det Hongkongbaserade AI-företaget SenseRobot. Som en del av samarbetet får varje medlemsförbund inom ECU en gratis AI-schackrobot. Roboten har en robotarm som spelar på ett fysiskt bräde, kan tävla online mot spelare världen över och erbjuder 25 olika coachningsnivåer, från nybörjarlektioner till strategier på stormästarnivå. ECU:s ordförande Zurab Azmaiparashvili och SenseRobots grundare och vd Tommy Tang beskriver satsningen som ett sätt att göra avancerad schackteknik mer tillgänglig, särskilt för unga spelare.",
-    "date": "Sat, 22 Mar 2025 07:00:00 GMT",
-    "tag": "ChessBase",
-    "processed_at": "2026-08-27T17:44:20.113623"
-  },
-  {
-    "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/how-spassky-fought-for-fischer",
-    "original_title": "How Spassky fought for Fischer",
-    "swedish_title": "Spassky skrev till Bush för att hjälpa Fischer",
-    "swedish_content": "Bobby Fischer greps 2004 på Narita International Airport i Japan när han med ett indraget amerikanskt pass försökte resa till Filippinerna. USA hade återkallat passet sedan Fischer blivit efterlyst för att ha brutit mot ekonomiska sanktioner mot Jugoslavien genom att spela en match där 1992 mot Boris Spassky, trots ett Cease and Desist-föreläggande och ett presidentförbud utfärdat av George H.W. Bush. Fischer åtalades den 29 oktober 1991 och en arresteringsorder utfärdades den 15 december 1992. Vid en fällande dom riskerade han upp till tio års fängelse, böter på 250 000 dollar och förverkande av sina vinster på cirka 3,35 miljoner dollar. Boris Spassky, Fischers gamla rival, engagerade sig starkt för honom och skrev ett brev till president George W. Bush för att be om hjälp. Fischer fick senare fristad på Island.",
-    "date": "Mon, 10 Mar 2025 19:00:00 GMT",
-    "tag": "ChessBase",
-    "processed_at": "2026-08-27T17:44:39.821137"
-  },
-  {
-    "source": "Schack.se",
-    "original_url": "https://schack.se/nyhet/ettan/2026/08/svenska-blixtserien-alla-lag-i-hogsta-serien-ar-med-igen/?utm_source=rss&utm_medium=rss&utm_campaign=svenska-blixtserien-alla-lag-i-hogsta-serien-ar-med-igen",
-    "original_title": "Svenska Blixtserien: Alla lag i högsta serien är med igen",
-    "swedish_title": "Svenska Blixtserien: Alla lag i högsta serien är med igen",
-    "swedish_content": "Publicerad 27 augusti, 2026 av Robert Okpu\nPå söndag inleds denna säsong av Svenska Blixtserien.\nDet blir tio lag i Division 1, där samtliga kvalificerade lag från förra säsongen har anmält sig.\nI Division 2 blir det elva lag och där välkomnas nykomlingarna Harplinge SS-Halmstad, Trojanska Hästen och JSCA SK.\n– Jag vill gärna påminna om att spelarna måste ha sina riktiga namn i sin profil, säger Ofelia Thörnqvist, tävlingsansvarig.\nDivision 1 Omgång 1 spelas på följande länk: https://lichess.org/tournament/Q2m4kpcs\nDivision 2  Omgång 1 spelas på följande länk: https://lichess.org/tournament/SSXYIb1z\nLagledare har fått besked om följande riktlinjer för de lag som de ansvarar för:\nFörsta omgången spelas söndagen den 30 augusti kl 18.30-20.00\nAndra säsongen består av fem omgångar. OBS att det blir en ny turneringslänk för varje tillfälle!\nNya turneringslänkar kommer att läggas upp på https://lichess.org/team/svenska-blixtserien-informationssida\nDatum för säsong 2 är 30/8, 6/9, 13/9, 20/9 och 27/9.\nMer information finns på Svenska Blixtseriens informationssida på Lichess https://lichess.org/team/svenska-blixtserien-informationssida\nFullständiga regler finns på https://schack.se/wp-cont...",
-    "date": "Thu, 27 Aug 2026 09:32:57 +0000",
-    "tag": "Svenska Schackförbundet",
-    "processed_at": "2026-08-27T17:44:48.590493"
-  },
-  {
-    "source": "Schack.se",
-    "original_url": "https://schack.se/nyhet/sverige/2026/08/revanschmote-fran-sommarens-sm-i-lidkoping-i-helgen/?utm_source=rss&utm_medium=rss&utm_campaign=revanschmote-fran-sommarens-sm-i-lidkoping-i-helgen",
-    "original_title": "Revanschmöte från sommarens SM – i Lidköping i helgen",
-    "swedish_title": "Revanschmöte från sommarens SM – i Lidköping i helgen",
-    "swedish_content": "Publicerad 25 augusti, 2026 av Robert Okpu\nNågra dagar innan starten av Lidköpng Open är 87 spelare anmälda.\n– Vi måste vara nöjda. Både med antalet anmälda och med nivån på spelarna, konstaterar arrangören Peter Fransson.\n– Vi fortsätter att ta emot anmälningar, utan förseningsavgift, fram till klockan 12 på torsdag. Men de som anmäler sig de här sista dagarna kan betala i spellokalen när de anländer.\nBland de anmälda märks, bland andra: Stormästarna Erik Blomqvist, Pia Cramling och Thomas Ernst. Internationlla mästarna Jung Min Seo, Edvin Trost och Bengt Svensson. Samt ett gäng FIDE Mästare: Joachim Solberg, Gösta Svenn, Kasib Laith och Josef Ask.\nDet finns utöver dessa spelare även flera farliga ”outsiders” i startfältet.\nDet blir första gången som Rockaden-lagkamraterna Edvin Trost och Jung Min Seo möts i en turnering med lite längre betänketid (45 minuter + 10 sekunder per drag), sedan de spelade särspel om SM-titeln i Sverigemästarklassen i SM i Jönköping tidigare i somras.\nLidköping Open, en sjurondig schweizerturnering, spelas 29-30 augusti på Stadshotellet i Lidköping.\nSvenska Blixtserien: Alla lag i högsta serien är med igen\nSchackverksamhet i skolan? Ansök om diplomering...",
-    "date": "Tue, 25 Aug 2026 13:46:47 +0000",
-    "tag": "Svenska Schackförbundet",
-    "processed_at": "2026-08-27T17:44:57.387299",
-    "bild_filnamn": "bildbanken-B65Ii7QyZt.jpg",
+    "processed_at": "2026-08-28T11:24:58.887292",
+    "bild_filnamn": "bildbanken-Af8EnQ5YbY.jpg",
     "bild_kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
   },
   {
-    "source": "Schack.se",
-    "original_url": "https://schack.se/nyhet/sverige/2026/08/schack-tar-plats-pa-bokmassan-i-ar/?utm_source=rss&utm_medium=rss&utm_campaign=schack-tar-plats-pa-bokmassan-i-ar",
-    "original_title": "Schack tar plats på Bokmässan i år",
-    "swedish_title": "Schack tar plats på Bokmässan i år",
-    "swedish_content": "Publicerad 24 augusti, 2026 av Ingemar Falk\nEn spelhörna varje dag, författarsamtal på scen och aktiviteter under Bokmässan by night .\nBokmässan i Göteborg uppmärksammar schack i år och avsätter utrymme för sporten under mässdagarna 24–27 september. Mässan beräknas locka 100 000 besökare.\nI samband med Bokmässans speltema i år har schackförfattarna Michael Wiander och Robert Danielsson ombetts att ansvara för mässans schackhörna tillsammans med Göteborgs Schackförbund och klubbar. Syftet är att informera skolor, bibliotek och allmänheten om schack i skolan, tävlings- och klubbverksamheten samt ge en introduktion till schacket för framför allt nybörjare.\n– Schackspelandet tränar upp både koncentrationsförmåga och beslutsfattande, och Göteborgs Schackförbund ser Bokmässan som ett ypperligt tillfälle att nå ut brett till besökare och visa upp schacket för unga som gamla. Det finns många klubbar att vända sig till i Göteborgsområdet! säger Jonas Nyström, ordförande i Göteborgs Schackförbund.\nSchacket har fått en yta på ungefär 20 kvadratmeter där det dukas upp åtta schackbord. Dagligen genomförs både prova-på-schack för nybörjare och simultanschack för mer erfarna spelare.\nUtöver de da...",
-    "date": "Sun, 23 Aug 2026 22:07:17 +0000",
-    "tag": "Svenska Schackförbundet",
-    "processed_at": "2026-08-27T17:45:03.994617"
-  },
-  {
-    "source": "ChessBase India",
-    "original_url": "https://www.chessbase.in/news/pranesh-m-wins-kanizsa-open-2026-10-indians-score-norms",
-    "original_title": "Pranesh M Wins Kanizsa Open 2026, 10 Indians Score Norms",
-    "swedish_title": "Pranesh M vinner Kanizsa Open, tio indier tar GM/IM-norm",
-    "swedish_content": "GM Pranesh M vann Kanizsa Open 2026 Group A (Above 2200) med 7/9 poäng utan en enda förlust. I sista ronden slog han IM Petrovskiy Vadym i en måsteseger-situation, medan ledarna Andrei Volokitin och Karthik Venkataraman spelade remi mot varandra på topbordet. Det gav Pranesh titeln och 11 000 euro tack vare bättre tiebreak-poäng. Bronstein Or, Andrei Volokitin och Karthik Venkataraman delade 2:a till 4:e plats, alla med 7 poäng.\n\nTurneringen blev även en stor framgång för Indien, som ställde upp med 59 spelare. Totalt tog tio indiska spelare normer under evenemanget, och två av dem – Nithin Babu och Jval Saurin Patel – blev nyutnämnda internationella mästare efter att ha säkrat sina sista IM-normer. Övriga norm-tagare var Bhattacharyya Soham, Aarav Sinha, Jyotshnav Talukdar, Setumadhav Yellumahanthi och Mehta Naitik R (IM-normer), samt Sahithi Varshini M och Velpula Sarayu (WGM-normer) och Sachi Jain (WIM-norm).\n\nTurneringen spelades 15–23 augusti på Kanizsa Arena i Nagykanizsa, Ungern, med 224 spelare från 36 federationer och en total prispott på 55 000 euro.",
-    "date": "2026-08-26T14:27:26.411317",
-    "tag": "ChessBase India",
-    "processed_at": "2026-08-27T17:45:26.920228",
-    "bild_filnamn": "bildbanken-Ab4JD8_u1B.jpg",
+    "source": "ChessBase",
+    "original_url": "https://en.chessbase.com/post/espn-love-at-first-sight",
+    "original_title": "ESPN: 'Love at first sight'",
+    "swedish_title": "Anand skapade Gukesh-Gajewski-duon",
+    "swedish_content": "Vishy Anand låg bakom parbildningen mellan Gukesh och tränaren Grzegorz Gajewski, skriver ESPN. De två möttes första gången 2019 när Gukesh, då 13 år, slog Gajewski, då 34, i World Rapid Championships. Gajewski arbetade redan med indiska toppspelare som Arjun Erigaisi och R Praggnanandhaa via Westbridge-Anand Chess Academy. I december 2022 bedömde Anand att Gukesh behövde en tränare på heltid och frågade Gajewski om han var intresserad. Anand beskriver samarbetet som \"love at first sight\" – de provade och det fungerade direkt.",
+    "date": "Mon, 09 Dec 2024 08:10:00 GMT",
+    "tag": "ChessBase",
+    "processed_at": "2026-08-28T11:25:13.252683",
+    "bild_filnamn": "bildbanken-Af8EnQ5YbY.jpg",
     "bild_kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-  },
-  {
-    "source": "Chessdom",
-    "original_url": "https://www.chessdom.com/jan-henric-buettner-sends-cease-and-desist-notice-to-fide-over-alleged-support-for-timur-turlov/",
-    "original_title": "Jan Henric Buettner Sends Cease and Desist Notice to FIDE Over Alleged Support for Timur Turlov",
-    "swedish_title": "Buettner skickar varningsbrev till FIDE om Turlov-stöd",
-    "swedish_content": "Jan Henric Buettner har skickat ett öppet brev och en formell varning till FIDE:s råd och tjänstemän, där han hävdar att FIDE:s resurser och personal använts för att stötta Timur Turlovs presidentkampanj. Buettner pekar på vad han beskriver som aktiv medverkan av FIDE-anställda i kampanjaktiviteter i Cape Town, Bukarest och Addis Abeba, samt planerade evenemang i Costa Rica, Aruba, Panama och New York. Han kräver att FIDE omedelbart instruerar sin personal att sluta ge kampanjstöd i officiell egenskap eller genom institutionella resurser, och begär skriftlig bekräftelse på FIDE:s strikta neutralitet inom sju dagar.",
-    "date": "Sat, 08 Aug 2026 08:24:41 +0000",
-    "tag": "Chessdom",
-    "processed_at": "2026-08-27T17:45:41.752076"
   }
 ]
