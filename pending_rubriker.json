@@ -1,151 +1,208 @@
 [
   {
-    "id": "3b1519d43e17",
+    "id": "4f0f48bd1847",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/ettan/2026/08/pragg-tog-hem-finalen-i-grand-chess-tour/?utm_source=rss&utm_medium=rss&utm_campaign=pragg-tog-hem-finalen-i-grand-chess-tour",
+        "title": "”Pragg” tog hem finalen i Grand Chess Tour",
+        "date": "Fri, 28 Aug 2026 17:10:05 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Den indiske stormästaren Praggnanandhaa Rameshbabu vände ett underläge på sex poäng den sista speldagen, för att till slut besegra USA:s GM Fabiano Caruana 15 &#8211; 13 i St Louis, USA [&#8230;] Inlägget &#8221;Pragg&#8221; tog hem finalen i Grand Chess Tour dök först upp på Sveriges Schackförbund ."
+      },
+      {
+        "source": "ChessBase India",
+        "url": "https://www.chessbase.in/news/praggnanandhaa-creates-history-after-winning-the-grand-chess-tour-2026",
+        "title": "Praggnanandhaa Creates History After Winning The Grand Chess Tour 2026",
+        "date": "2026-08-28T11:42:50.996620",
+        "tag": "ChessBase India"
+      }
+    ],
+    "kalla_display": "ChessBase India + Schack.se",
+    "datum": "Fri, 28 Aug 2026 17:10:05 +0000",
+    "hittad": "2026-08-29T11:43:11.292992"
+  },
+  {
+    "id": "11c289cc1402",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/praggnanandhaa-wins-2026-grand-chess-tour",
-        "title": "Praggnanandhaa Wins 2026 Grand Chess Tour",
-        "date": "2026-08-27T09:55:22.982391",
+        "url": "https://www.chess.com/news/view/pranesh-xiong-terry-3-0-thursday-08-27-2026",
+        "title": "Pranesh Xiong Terry 3 0 Thursday 08 27 2026",
+        "date": "2026-08-28T11:42:30.509310",
         "tag": "Chess.com"
-      },
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/gct-finals-2026-6",
-        "title": "Praggnanandhaa comes from behind, wins Grand Chess Tour 2026",
-        "date": "Fri, 28 Aug 2026 09:05:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Praggnanandhaa Rameshbabu overturned a six-point deficit on the final day to defeat Fabiano Caruana 15-13 and win the 2026 Grand Chess Tour Finals. The Indian GM won both rapid games before holding his advantage through the blitz section. In the third-place match, Wesley So recovered from an early deficit against Vincent Keymer and swept all four blitz games to secure an 18-12 victory. | Photo: Lennart Ootes / Grand Chess Tour"
-      },
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/finale-du-grand-chess-tour-2026-finale-rapide-blitz-10060.html",
-        "title": "Finale du Grand Chess Tour 2026Praggnanandhaa remporte le Grand Chess Tour 2026",
-        "date": "2026-08-27T09:55:55.023585",
-        "tag": "Europe Echecs"
       }
     ],
-    "kalla_display": "Chess.com + ChessBase + Europe Echecs",
-    "datum": "2026-08-27T09:55:22.982391",
-    "hittad": "2026-08-28T09:56:04.773424"
+    "kalla_display": "Chess.com",
+    "datum": "2026-08-28T11:42:30.509310",
+    "hittad": "2026-08-29T11:43:11.293008"
   },
   {
-    "id": "beef0ab292c5",
+    "id": "88bcafa77e39",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/spanish-championship-2026-final-report",
-        "title": "Spanish Championship: Alan Pichot and Marta García claim titles",
-        "date": "Fri, 28 Aug 2026 02:00:00 GMT",
+        "url": "https://en.chessbase.com/post/fridrik-olafsson-memorial",
+        "title": "Fridrik Olafsson Memorial",
+        "date": "Sat, 29 Aug 2026 11:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "Alan Pichot and Marta García Martín won the 2026 Spanish Absolute and Women's Chess Championships in Linares. Pichot, born in Argentina, claimed his first Spanish title after defeating Alex Villa Tornero in the final round to win the tournament outright on 7½/9. Daniil Yuffa took silver on tiebreaks ahead of Eduardo Iturrizaga Bonelli. In the women's standings, García defended her title with 6/9, ahead of Sabrina Vega and Adhara Rodríguez Redondo. | Photo: Spanish Chess Federation"
+        "_rss_content": "Chess players, mark your calendars. The Icelandic Chess Federation, Goðinn Chess Club, and Reykjavík Chess Club are joining forces to present \"Town and Country\" – two spectacular tournaments that together offer 15 rounds of high-level chess in just 11 days, set against two of Iceland’s most contrasting backdrops. It all begins on Thursday, 19 November at 19:00. On Tuesday, 24 November, the Friðrik Ólafsson Memorial Tournament opens – honouring Iceland’s first grandmaster."
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Fri, 28 Aug 2026 02:00:00 GMT",
-    "hittad": "2026-08-28T09:56:04.773442"
+    "datum": "Sat, 29 Aug 2026 11:00:00 GMT",
+    "hittad": "2026-08-29T11:43:11.293016"
   },
   {
-    "id": "745db66c84d9",
+    "id": "f6fc536b66d8",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/gm-iniyan-on-chessbase-18",
-        "title": "GM Iniyan on ChessBase 18 – (1)",
-        "date": "Fri, 03 Jan 2025 16:00:00 GMT",
+        "url": "https://en.chessbase.com/post/review-evans-friends-andrew-martin",
+        "title": "Newly reviewed: Evans & Friends Vol.1 & 2 by Andrew Martin",
+        "date": "Sat, 29 Aug 2026 07:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "Are there any advantages of moving to the latest ChessBase 18? Are strong chess players doing it, and finding the software useful in their every-day tournament activity? A decided 'Yes!' is given by Indian grandmaster Pa. Iniyan, who sent us an in-depth three-part review. You would do well to read about his experience carefully, and learn how you too can dramatically improve your level of chess study and preparation."
+        "_rss_content": "IM Andrew Martin presents a complete 1.e4 repertoire for White in his new two-volume course, based on the Evans Gambit (1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4). The repertoire also covers the Two Knights Defence (1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6) and all relevant deviations by Black from the second or third move onwards. Jochen Schwarz, a club player from Bremen, is himself a keen gambit player and therefore firmly part of the target audience for this course."
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Fri, 03 Jan 2025 16:00:00 GMT",
-    "hittad": "2026-08-28T09:56:04.773449"
+    "datum": "Sat, 29 Aug 2026 07:00:00 GMT",
+    "hittad": "2026-08-29T11:43:11.293024"
   },
   {
-    "id": "a25047ce53cb",
+    "id": "6e6a18a2ec70",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/my-first-endgame-study-a-chess-composition-tourney-by-wfcc-and-chessbase-india",
-        "title": "My First Endgame Study: A Chess Composition Tourney by WFCC and ChessBase India",
-        "date": "Sun, 29 Dec 2024 12:00:00 GMT",
+        "url": "https://en.chessbase.com/post/total-chess-world-ch-2026-announcement",
+        "title": "Chess stars set for Total Chess World Championship Tour pilot in Budapest",
+        "date": "Sat, 29 Aug 2026 02:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "Beneath its deceptively simple facade of a game, chess conceals a rich tapestry of human ingenuity and thought. It is, as Anatoly Karpov succinctly remarked, art, science, and sport all rolled into one. Yet, while the competitive aspect of chess basks in the limelight with its high-stakes, action-packed tournaments and matches, the subtle but no less fascinating endeavour of chess composition, where artistry shines the brightest, languishes in relative obscurity. As a step towards redressing this imbalance, ChessBase India and the World Federation for Chess Composition (WFCC) present My First Endgame Study, a beginner-friendly study composing contest designed for chess enthusiasts eager to explore the creative world of chess composition, specifically studies. Details follow."
+        "_rss_content": "The Total Chess World Championship Tour Pilot will take place in Budapest from 10 to 21 November, bringing together an elite field led by Magnus Carlsen, Fabiano Caruana, Vincent Keymer and Wesley So. Created by Norway Chess and approved by FIDE, the event will test players across Fast Classic, Rapid and Blitz formats. The Budapest pilot will serve as the first step towards a multi-city tour launching in 2027. | Photo: FIDE"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Sun, 29 Dec 2024 12:00:00 GMT",
-    "hittad": "2026-08-28T09:56:04.773455"
+    "datum": "Sat, 29 Aug 2026 02:00:00 GMT",
+    "hittad": "2026-08-29T11:43:11.293031"
   },
   {
-    "id": "fae74796f3f0",
+    "id": "da9fc5bb2763",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/world-championship-match-ding-liren-vs-gukesh-d-game-1-live",
-        "title": "World Championship: Gukesh takes the title!",
-        "date": "Thu, 12 Dec 2024 09:45:00 GMT",
+        "url": "https://en.chessbase.com/post/hassabis-on-ai",
+        "title": "Hassabis on chess and AI",
+        "date": "Fri, 28 Aug 2026 15:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "Gukesh D became the youngest-ever undisputed world chess champion after beating Ding Liren in the last classical encounter of their 14-game match in Singapore. Ding voluntarily entered a pawn-down endgame which was objectively drawn, but a blunder by the Chinese GM on move 55 meant Gukesh would take the title by winning the match with a 7½-6½ score. | Full report to follow shortly."
+        "_rss_content": "In a 15-minute video, Demis Hassabis, one of the central scientists working on artificial intelligence, tells us why he worries about AI going rogue. Hassabis, head of Google AI research, is a very strong chess player who created Alpha zero, the first neural network program on which all modern chess engines are based. It is his vivid description of how AI handled chess that will be of particular interest to the readers of our news page."
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Thu, 12 Dec 2024 09:45:00 GMT",
-    "hittad": "2026-08-28T09:56:04.773461"
+    "datum": "Fri, 28 Aug 2026 15:00:00 GMT",
+    "hittad": "2026-08-29T11:43:11.293037"
   },
   {
-    "id": "ebf2469d9f29",
+    "id": "cefc4a1cf054",
     "status": "pending",
     "rubriker": [
       {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/stocking-fillers-from-boy-to-man-chessbase-18",
-        "title": "Stocking fillers: From Boy to Man, ChessBase 18",
-        "date": "Tue, 10 Dec 2024 12:00:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Yes, it is that time of the year again. Time to leave your copy of CHESS Magazine open, ‘non-suspiciously’, hoping that the family will take the hint and place a big order at Chess & Bridge. If the hint is not taken, then just order one or more of the items yourself, safe in the knowledge that there are much worse things you could be doing."
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/ettan2/2026/08/schackdomare-fran-uae-kommer-till-stockholm/?utm_source=rss&utm_medium=rss&utm_campaign=schackdomare-fran-uae-kommer-till-stockholm",
+        "title": "Schackdomare från UAE kommer till Stockholm",
+        "date": "Sat, 29 Aug 2026 09:07:20 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Turneringen Stockholm Summer Nights Open, vars första upplaga i somras vanns av IM Jung Min Seo, har inlett ett samarbetsavtal med UAE (Förenade Arabemiraterna) vad gäller ett utbyte av arbiters [&#8230;] Inlägget Schackdomare från UAE kommer till Stockholm dök först upp på Sveriges Schackförbund ."
       }
     ],
-    "kalla_display": "ChessBase",
-    "datum": "Tue, 10 Dec 2024 12:00:00 GMT",
-    "hittad": "2026-08-28T09:56:04.773467"
+    "kalla_display": "Schack.se",
+    "datum": "Sat, 29 Aug 2026 09:07:20 +0000",
+    "hittad": "2026-08-29T11:43:11.293043"
   },
   {
-    "id": "218fbbe3302c",
+    "id": "325169f6c729",
     "status": "pending",
     "rubriker": [
       {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/espn-love-at-first-sight",
-        "title": "ESPN: 'Love at first sight'",
-        "date": "Mon, 09 Dec 2024 08:10:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "This ESPN article describes how former World Champion Viswanathan Anand created the Gukesh-Grzegorz team that's shaken the chess world. Grzegorz who, you ask?"
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/ettan/2026/08/jalling-far-olympiskt-uppdrag-inom-ecu/?utm_source=rss&utm_medium=rss&utm_campaign=jalling-far-olympiskt-uppdrag-inom-ecu",
+        "title": "Jalling får olympiskt uppdrag inom ECU",
+        "date": "Sat, 29 Aug 2026 07:28:08 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Vid ECU:s senaste styrelsemöte beslutade organisationen, European Chess Union, att inrätta en helt ny kommission. &#8221;The Chess Olympic Affairs Commission&#8221; (COA). Sverige Schackförbunds före detta ordförande Håkan Jalling har fått [&#8230;] Inlägget Jalling får olympiskt uppdrag inom ECU dök först upp på Sveriges Schackförbund ."
       }
     ],
-    "kalla_display": "ChessBase",
-    "datum": "Mon, 09 Dec 2024 08:10:00 GMT",
-    "hittad": "2026-08-28T09:56:04.773474"
+    "kalla_display": "Schack.se",
+    "datum": "Sat, 29 Aug 2026 07:28:08 +0000",
+    "hittad": "2026-08-29T11:43:11.293054"
   },
   {
-    "id": "804452c52381",
+    "id": "d48b63e82c25",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/pratitee-bordoloi-creates-history-to-become-2026-asian-junior-girls-champion",
-        "title": "13-Year-Old Pratitee Bordoloi Creates History to Become 2026 Asian Junior Girls Champion",
-        "date": "2026-08-27T09:55:43.621427",
+        "url": "https://www.chessbase.in/news/jval-saurin-patel-becomes-gujarat-youngest-international-master",
+        "title": "15-Year-Old Jval Saurin Patel Becomes Gujarat's Youngest International Master",
+        "date": "2026-08-28T11:42:50.996573",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-08-27T09:55:43.621427",
-    "hittad": "2026-08-28T09:56:04.773485"
+    "datum": "2026-08-28T11:42:50.996573",
+    "hittad": "2026-08-29T11:43:11.293061"
+  },
+  {
+    "id": "9753cbb691a1",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase India",
+        "url": "https://www.chessbase.in/news/the-story-of-vandan-alankar-sawai",
+        "title": "The 15-Year-Old Who Beats Magnus in Titled Tuesday: The Story of Vandan Alankar Sawai",
+        "date": "2026-08-28T11:42:50.996642",
+        "tag": "ChessBase India"
+      }
+    ],
+    "kalla_display": "ChessBase India",
+    "datum": "2026-08-28T11:42:50.996642",
+    "hittad": "2026-08-29T11:43:11.293068"
+  },
+  {
+    "id": "cbb957f6674a",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase India",
+        "url": "https://www.chessbase.in/news/jaffna-to-host-landmark-first-ever-im-norm-round-robin-event-in-december-2026",
+        "title": "Jaffna to Host Landmark First-Ever IM Norm Round Robin Event in December 2026",
+        "date": "2026-08-28T11:42:50.996661",
+        "tag": "ChessBase India"
+      }
+    ],
+    "kalla_display": "ChessBase India",
+    "datum": "2026-08-28T11:42:50.996661",
+    "hittad": "2026-08-29T11:43:11.293074"
+  },
+  {
+    "id": "a43eb20c6f8c",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase India",
+        "url": "https://www.chessbase.in/news/mayank-chakraborty-became-2026-asian-junior-champion-daksh-goyal-secures-bronze",
+        "title": "Mayank Chakraborty Became 2026 Asian Junior Champion; Daksh Goyal Secures Bronze",
+        "date": "2026-08-28T11:42:50.996678",
+        "tag": "ChessBase India"
+      }
+    ],
+    "kalla_display": "ChessBase India",
+    "datum": "2026-08-28T11:42:50.996678",
+    "hittad": "2026-08-29T11:43:11.293080"
   }
 ]
