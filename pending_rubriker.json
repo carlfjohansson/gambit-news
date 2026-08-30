@@ -1,208 +1,101 @@
 [
   {
-    "id": "4f0f48bd1847",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettan/2026/08/pragg-tog-hem-finalen-i-grand-chess-tour/?utm_source=rss&utm_medium=rss&utm_campaign=pragg-tog-hem-finalen-i-grand-chess-tour",
-        "title": "”Pragg” tog hem finalen i Grand Chess Tour",
-        "date": "Fri, 28 Aug 2026 17:10:05 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Den indiske stormästaren Praggnanandhaa Rameshbabu vände ett underläge på sex poäng den sista speldagen, för att till slut besegra USA:s GM Fabiano Caruana 15 &#8211; 13 i St Louis, USA [&#8230;] Inlägget &#8221;Pragg&#8221; tog hem finalen i Grand Chess Tour dök först upp på Sveriges Schackförbund ."
-      },
-      {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/praggnanandhaa-creates-history-after-winning-the-grand-chess-tour-2026",
-        "title": "Praggnanandhaa Creates History After Winning The Grand Chess Tour 2026",
-        "date": "2026-08-28T11:42:50.996620",
-        "tag": "ChessBase India"
-      }
-    ],
-    "kalla_display": "ChessBase India + Schack.se",
-    "datum": "Fri, 28 Aug 2026 17:10:05 +0000",
-    "hittad": "2026-08-29T11:43:11.292992"
-  },
-  {
-    "id": "11c289cc1402",
+    "id": "26e832803abc",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/pranesh-xiong-terry-3-0-thursday-08-27-2026",
-        "title": "Pranesh Xiong Terry 3 0 Thursday 08 27 2026",
-        "date": "2026-08-28T11:42:30.509310",
+        "url": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-aug-29-2026",
+        "title": "Hikaru Nakamura Wins Bullet Brawl Aug 29 2026",
+        "date": "2026-08-29T10:32:26.510139",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-08-28T11:42:30.509310",
-    "hittad": "2026-08-29T11:43:11.293008"
+    "datum": "2026-08-29T10:32:26.510139",
+    "hittad": "2026-08-30T10:33:08.821788"
   },
   {
-    "id": "88bcafa77e39",
+    "id": "89c0075f679e",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/kasparov-topalov-chess960-match-st-louis",
+        "title": "Kasparov Topalov Chess960 Match St Louis",
+        "date": "2026-08-29T10:32:26.510178",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-08-29T10:32:26.510178",
+    "hittad": "2026-08-30T10:33:08.821800"
+  },
+  {
+    "id": "dd3373d7f0ca",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/fridrik-olafsson-memorial",
-        "title": "Fridrik Olafsson Memorial",
-        "date": "Sat, 29 Aug 2026 11:00:00 GMT",
+        "url": "https://en.chessbase.com/post/spanish-primera-divsion-2026-r3",
+        "title": "Solvay lead Spanish Primera División with Ivanchuk on board one",
+        "date": "Sun, 30 Aug 2026 10:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "Chess players, mark your calendars. The Icelandic Chess Federation, Goðinn Chess Club, and Reykjavík Chess Club are joining forces to present \"Town and Country\" – two spectacular tournaments that together offer 15 rounds of high-level chess in just 11 days, set against two of Iceland’s most contrasting backdrops. It all begins on Thursday, 19 November at 19:00. On Tuesday, 24 November, the Friðrik Ólafsson Memorial Tournament opens – honouring Iceland’s first grandmaster."
+        "_rss_content": "Club Ajedrez Solvay lead the Spanish \"Primera División\" team championship with a perfect 6/6 match points after three rounds in Linares. Granada SIDN-Cívica-Nazaríes-Trevenque, Gros Xake Taldea and Andreu Paterna share second place on 4/6. With four rounds still to play, the race for the two promotion places to the \"División de Honor\" remains open in the eight-team, round-robin event. | Photo: Spanish Chess Federation"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Sat, 29 Aug 2026 11:00:00 GMT",
-    "hittad": "2026-08-29T11:43:11.293016"
+    "datum": "Sun, 30 Aug 2026 10:00:00 GMT",
+    "hittad": "2026-08-30T10:33:08.821807"
   },
   {
-    "id": "f6fc536b66d8",
+    "id": "90bf68347c02",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/review-evans-friends-andrew-martin",
-        "title": "Newly reviewed: Evans & Friends Vol.1 & 2 by Andrew Martin",
-        "date": "Sat, 29 Aug 2026 07:00:00 GMT",
+        "url": "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-29-creating-effective-training-material-part-3",
+        "title": "ChessBase´26 – Tips for beginners, part 29: Creating Effective Training Material (Part 3)",
+        "date": "Sun, 30 Aug 2026 07:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "IM Andrew Martin presents a complete 1.e4 repertoire for White in his new two-volume course, based on the Evans Gambit (1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4). The repertoire also covers the Two Knights Defence (1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6) and all relevant deviations by Black from the second or third move onwards. Jochen Schwarz, a club player from Bremen, is himself a keen gambit player and therefore firmly part of the target audience for this course."
+        "_rss_content": "How to use ChessBase´26 effectively in training — that is the subject of this three-part series in our tutorial line. Using it effectively also means being able to send your files to your training group, since the material you created in the earlier parts should, after all, be made available to your students in a useful way. ChessBase 18 offers several practical methods for doing this, which we explain in this part."
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Sat, 29 Aug 2026 07:00:00 GMT",
-    "hittad": "2026-08-29T11:43:11.293024"
+    "datum": "Sun, 30 Aug 2026 07:00:00 GMT",
+    "hittad": "2026-08-30T10:33:08.821812"
   },
   {
-    "id": "6e6a18a2ec70",
+    "id": "1664639ea780",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/total-chess-world-ch-2026-announcement",
-        "title": "Chess stars set for Total Chess World Championship Tour pilot in Budapest",
-        "date": "Sat, 29 Aug 2026 02:00:00 GMT",
+        "url": "https://en.chessbase.com/post/nottingham-1936-great-tournament",
+        "title": "Nottingham 1936 : One of the greatest tournaments in chess history",
+        "date": "Sat, 29 Aug 2026 18:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "The Total Chess World Championship Tour Pilot will take place in Budapest from 10 to 21 November, bringing together an elite field led by Magnus Carlsen, Fabiano Caruana, Vincent Keymer and Wesley So. Created by Norway Chess and approved by FIDE, the event will test players across Fast Classic, Rapid and Blitz formats. The Budapest pilot will serve as the first step towards a multi-city tour launching in 2027. | Photo: FIDE"
+        "_rss_content": "The Nottingham 1936 tournament, played almost exactly 90 years ago, is regarded as one of the greatest tournaments in chess history. Five world champions took part. With many young players in the field, a changing of the guard was already beginning to take shape. And for the first time since their 1927 World Championship match, Alexander Alekhine and José Raúl Capablanca faced each other again. Alongside the games and a number of photographs, film footage from the event has also survived as a valuable historical record."
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Sat, 29 Aug 2026 02:00:00 GMT",
-    "hittad": "2026-08-29T11:43:11.293031"
+    "datum": "Sat, 29 Aug 2026 18:00:00 GMT",
+    "hittad": "2026-08-30T10:33:08.821816"
   },
   {
-    "id": "da9fc5bb2763",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/hassabis-on-ai",
-        "title": "Hassabis on chess and AI",
-        "date": "Fri, 28 Aug 2026 15:00:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "In a 15-minute video, Demis Hassabis, one of the central scientists working on artificial intelligence, tells us why he worries about AI going rogue. Hassabis, head of Google AI research, is a very strong chess player who created Alpha zero, the first neural network program on which all modern chess engines are based. It is his vivid description of how AI handled chess that will be of particular interest to the readers of our news page."
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Fri, 28 Aug 2026 15:00:00 GMT",
-    "hittad": "2026-08-29T11:43:11.293037"
-  },
-  {
-    "id": "cefc4a1cf054",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettan2/2026/08/schackdomare-fran-uae-kommer-till-stockholm/?utm_source=rss&utm_medium=rss&utm_campaign=schackdomare-fran-uae-kommer-till-stockholm",
-        "title": "Schackdomare från UAE kommer till Stockholm",
-        "date": "Sat, 29 Aug 2026 09:07:20 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Turneringen Stockholm Summer Nights Open, vars första upplaga i somras vanns av IM Jung Min Seo, har inlett ett samarbetsavtal med UAE (Förenade Arabemiraterna) vad gäller ett utbyte av arbiters [&#8230;] Inlägget Schackdomare från UAE kommer till Stockholm dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Sat, 29 Aug 2026 09:07:20 +0000",
-    "hittad": "2026-08-29T11:43:11.293043"
-  },
-  {
-    "id": "325169f6c729",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettan/2026/08/jalling-far-olympiskt-uppdrag-inom-ecu/?utm_source=rss&utm_medium=rss&utm_campaign=jalling-far-olympiskt-uppdrag-inom-ecu",
-        "title": "Jalling får olympiskt uppdrag inom ECU",
-        "date": "Sat, 29 Aug 2026 07:28:08 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Vid ECU:s senaste styrelsemöte beslutade organisationen, European Chess Union, att inrätta en helt ny kommission. &#8221;The Chess Olympic Affairs Commission&#8221; (COA). Sverige Schackförbunds före detta ordförande Håkan Jalling har fått [&#8230;] Inlägget Jalling får olympiskt uppdrag inom ECU dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Sat, 29 Aug 2026 07:28:08 +0000",
-    "hittad": "2026-08-29T11:43:11.293054"
-  },
-  {
-    "id": "d48b63e82c25",
+    "id": "80317ccec380",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/jval-saurin-patel-becomes-gujarat-youngest-international-master",
-        "title": "15-Year-Old Jval Saurin Patel Becomes Gujarat's Youngest International Master",
-        "date": "2026-08-28T11:42:50.996573",
+        "url": "https://www.chessbase.in/news/1st-ken-chess-solving-cup-2026-announcement",
+        "title": "Ken Chess Academy to Organise Its First Chess Solving Contest in Ichalkaranji",
+        "date": "2026-08-29T10:32:47.474933",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-08-28T11:42:50.996573",
-    "hittad": "2026-08-29T11:43:11.293061"
-  },
-  {
-    "id": "9753cbb691a1",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/the-story-of-vandan-alankar-sawai",
-        "title": "The 15-Year-Old Who Beats Magnus in Titled Tuesday: The Story of Vandan Alankar Sawai",
-        "date": "2026-08-28T11:42:50.996642",
-        "tag": "ChessBase India"
-      }
-    ],
-    "kalla_display": "ChessBase India",
-    "datum": "2026-08-28T11:42:50.996642",
-    "hittad": "2026-08-29T11:43:11.293068"
-  },
-  {
-    "id": "cbb957f6674a",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/jaffna-to-host-landmark-first-ever-im-norm-round-robin-event-in-december-2026",
-        "title": "Jaffna to Host Landmark First-Ever IM Norm Round Robin Event in December 2026",
-        "date": "2026-08-28T11:42:50.996661",
-        "tag": "ChessBase India"
-      }
-    ],
-    "kalla_display": "ChessBase India",
-    "datum": "2026-08-28T11:42:50.996661",
-    "hittad": "2026-08-29T11:43:11.293074"
-  },
-  {
-    "id": "a43eb20c6f8c",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/mayank-chakraborty-became-2026-asian-junior-champion-daksh-goyal-secures-bronze",
-        "title": "Mayank Chakraborty Became 2026 Asian Junior Champion; Daksh Goyal Secures Bronze",
-        "date": "2026-08-28T11:42:50.996678",
-        "tag": "ChessBase India"
-      }
-    ],
-    "kalla_display": "ChessBase India",
-    "datum": "2026-08-28T11:42:50.996678",
-    "hittad": "2026-08-29T11:43:11.293080"
+    "datum": "2026-08-29T10:32:47.474933",
+    "hittad": "2026-08-30T10:33:08.821820"
   }
 ]
