@@ -1,54 +1,44 @@
 [
   {
     "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/clutch-chess-showdown-2026-announcement",
-    "original_title": "Clutch Chess: Kasparov to face Topalov in 12-game chess960 match",
-    "swedish_title": "Kasparov möter Topalov i chess960-match i september",
-    "swedish_content": "Garry Kasparov och Veselin Topalov möts i Clutch Chess: The Legends vid Saint Louis Chess Club den 11–13 september. Matchen spelas i chess960 över 12 partier, med två snabbschackpartier och två blixtpartier per dag samt ny startposition varje dag. Turneringen använder Clutch Chess poängsystem, där vinster ökar i värde: 1 poäng dag ett, 2 poäng dag två och 3 poäng på den sista dagen. Prispotten är totalt 144 000 dollar, där segraren får 70 000 dollar och tvåan 50 000 dollar, utöver 24 000 dollar i partibonusar som förs vidare vid remi. Kasparov vann fjolårets motsvarande match mot Viswanathan Anand med 13–11.",
-    "date": "Mon, 31 Aug 2026 07:30:00 GMT",
+    "original_url": "https://en.chessbase.com/post/european-senior-teams-2026-r5",
+    "original_title": "European Senior Team Championship: English teams tied for first place in both sections",
+    "swedish_title": "England och Italien delar ledningen i EM för seniorlag",
+    "swedish_content": "European Senior Team Chess Championships har nått halvtid i Hersonissos på Kreta efter fem ronder. Turneringen spelas på Royal Belvedere Hotel mellan 27 augusti och 4 september, med 32 lag och över 150 spelare i kategorierna 50+ och 65+. Tävlingarna avgörs i schweizersystem över nio ronder med fyra spelare per lag, med betänketiden 90 minuter för de första 40 dragen följt av 30 minuter plus 30 sekunders tillägg per drag från draget ett.\n\nI 50+-kategorin delar England 1 och Italien förstaplatsen med 9/10 matchpoäng, båda med fyra segrar och en remi. Den enda poängförlusten kom i det direkta mötet i rond fyra, som slutade 2-2 med remi på samtliga fyra bord. England 1 leder på särskiljningskriterierna, där Olympiad Sonneborn-Berger är första kriterium och antal partipoäng det andra – England 1 har 15 partipoäng mot Italiens 14.\n\nEnglands bäste poängplockare är stormästaren Daniel Gormally, som fyllde 50 år i år och gör sin första tävling i åldersklassen, med 4/5 på bord två. Italiens Carlo D'Amore har samma resultat, 4/5, på bord fyra. I rond sex möter England 1 det grekiska laget Athens Vets, medan Italien tar sig an Nederländerna.",
+    "date": "Tue, 01 Sep 2026 09:00:00 GMT",
     "tag": "ChessBase",
-    "processed_at": "2026-08-31T17:47:42.005805"
+    "processed_at": "2026-09-01T17:14:05.341282"
   },
   {
     "source": "Schack.se",
-    "original_url": "https://schack.se/nyhet/sverige/2026/08/edvin-trost-visade-klass-i-lidkoping/?utm_source=rss&utm_medium=rss&utm_campaign=edvin-trost-visade-klass-i-lidkoping",
-    "original_title": "Edvin Trost visade klass i Lidköping",
-    "swedish_title": "Edvin Trost vann Lidköping Open",
-    "swedish_content": "Nyblivne svenske mästaren Edvin Trost vann årets Lidköping Open med 6,5 poäng av 7 möjliga, efter enbart en remi mot Hugo Wernberg och seger i alla övriga partier. Turneringen samlade 95 spelare och avslutades på söndagen. Andraplatsen delades mellan Jung Min Seo och en starkt spurtande Pia Cramling, medan Erik Blomqvist och Gösta Svenn blev delade fyror. Att OS-kvartetten Trost, Seo, Cramling och Blomqvist toppade fältet bådar gott inför olympiaden i Uzbekistan om drygt två veckor.",
-    "date": "Sun, 30 Aug 2026 19:38:02 +0000",
+    "original_url": "https://schack.se/nyhet/ettan2/2026/09/forelasning-om-schack-och-militar-strategi-pa-armemuseum/?utm_source=rss&utm_medium=rss&utm_campaign=forelasning-om-schack-och-militar-strategi-pa-armemuseum",
+    "original_title": "Föreläsning om schack och militär strategi på Armémuseum",
+    "swedish_title": "Föreläsning om schack och militär strategi på Armémuseum",
+    "swedish_content": "Armémuseum i Stockholm bjuder tisdagen den 1 september kl 18 in till en föreläsning om schack och militära strategier. Sveriges Schackförbunds generalsekreterare Håkan Östling samtalar med Björn Sjöblom från Försvarshögskolan under temat ”Schack och strategier”, om hur strategispel format militärt tänkande och hur schackets principer fortfarande inspirerar dagens beslutsfattande. Föreläsningen hålls på Riddargatan 13, och antalet platser är begränsat.",
+    "date": "Tue, 01 Sep 2026 06:33:25 +0000",
     "tag": "Svenska Schackförbundet",
-    "processed_at": "2026-08-31T17:47:58.196544",
-    "bild_filnamn": "bildbanken-BJGLby0PHv.jpg",
+    "processed_at": "2026-09-01T17:14:16.190613"
+  },
+  {
+    "source": "Schack.se",
+    "original_url": "https://schack.se/nyhet/damschack/2026/08/fler-starka-spelare-klara-for-dam-sm/?utm_source=rss&utm_medium=rss&utm_campaign=fler-starka-spelare-klara-for-dam-sm",
+    "original_title": "Fler starka spelare klara för Dam-SM",
+    "swedish_title": "Rekordmånga anmälda till Dam-SM",
+    "swedish_content": "Årets Dam-SM i blixt och snabbschack får rekordstort intresse. Med 47 starter hittills blir mästerskapet i Stockholm 5–6 september det största sedan nystarten 2022. WIM-spelarna Irina Tetenkina och Viktoria Johansson samt OS-spelaren Lavinia Valcu har anslutit till startfältet den senaste veckan. Mästerskapet ger även en kvalplats till VM i blixt och snabbschack.",
+    "date": "Mon, 31 Aug 2026 14:23:32 +0000",
+    "tag": "Svenska Schackförbundet",
+    "processed_at": "2026-09-01T17:14:31.664029",
+    "bild_filnamn": "bildbanken-B85DnQ_is2.jpg",
     "bild_kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
   },
   {
-    "source": "ChessBase India",
-    "original_url": "https://www.chessbase.in/news/how-circlechess-and-neurostellar-are-bringing-cognitive-science-into-chess-training",
-    "original_title": "How CircleChess and Neurostellar are bringing cognitive science into chess training",
-    "swedish_title": "Nytt turneringsformat mäter hjärnaktivitet under schack",
-    "swedish_content": "CircleChess och Neurostellar har lanserat ett nytt turneringsformat, Battle of Brains, som kombinerar tävlingsschack med kognitiv prestandamätning. Den första upplagan spelades i Chennai den 22 augusti. Formatet bygger på två teknologier: Caissa, CircleChess plattform där spelarna tävlar online, och Orbit, en kognitiv mätenhet utvecklad av Neurostellar som spåras under partierna. Kumar Gaurav, grundare av CircleChess, säger att initiativet är ett första steg mot att integrera kognitiv vetenskap i tävlingsschack, med målet att förstå hur faktorer som koncentration, mental utmattning och tidspress påverkar spelares beslutsfattande under ett parti.",
-    "date": "2026-08-30T11:41:25.136332",
-    "tag": "ChessBase India",
-    "processed_at": "2026-08-31T17:48:13.333827"
-  },
-  {
-    "source": "TWIC",
-    "original_url": "https://theweekinchess.com/chessnews/events/green-hills-resort-masters-2026",
-    "original_title": "Green Hills Resort Masters 2026 - Games and results",
-    "swedish_title": "Yakubboev vann Green Hills Resort Masters",
-    "swedish_content": "Nodirbek Yakubboev stod för en överraskning när han vann Green Hills Resort Masters, som avgjordes 30-31 augusti i Bostanlyk-distriktet, 75 km från Tasjkent. Turneringen bestod av en dag snabbschack och en dag blixt, där snabbschackspoängen räknades dubbelt. Yakubboev inledde med 6/7 i snabbschacket, vilket gav honom 12 poäng och tre poängs marginal inför blixtdagen. Trots att han bara slutade sexa av åtta i blixten höll han undan och vann till slut med en halv poängs marginal till Nodirbek Abdusattorov, som besegrade honom i deras inbördes blixtparti. Vladislav Artemiev slutade trea och Yagiz Kaan Erdogmus fyra, medan Shakhriyar Mamedyarov fick en tung helg med sistaplats i snabbschacket och sjunde plats i blixten.",
-    "date": "Mon Aug 31 11:00:00 2026",
-    "tag": "TWIC",
-    "processed_at": "2026-08-31T17:48:30.594680"
-  },
-  {
-    "source": "TWIC",
-    "original_url": "https://theweekinchess.com/chessnews/events/sofia-cup-2026",
-    "original_title": "Sofia Cup 2026 - Games and results",
-    "swedish_title": "Mamedov vinner Sofia Cup på särspel, Firouzja tar blixten",
-    "swedish_content": "Sofia Cup, även kallad Balkan Rapid and Blitz Championships, spelades 29–30 augusti 2026 i Sofia. Rauf Mamedov vann snabbschackturneringen på särspel efter att ha delat förstaplatsen med Alireza Firouzja och Dimitris Alexakis, samtliga på 7.5/9. I blixtturneringen tog Firouzja klar seger med 9.5/11, en halv poäng före Ediz Gurel och Mamedov. Bland övriga deltagare fanns Rauf Mamedov, Eduardo Iturrizaga Bonelli, Vojtech Plat, Leon Livaic, Sanan Sjugirov och Ivan Cheparinov.",
-    "date": "Sun Aug 30 16:05:00 2026",
-    "tag": "TWIC",
-    "processed_at": "2026-08-31T17:48:44.439219"
+    "source": "Europe Echecs",
+    "original_url": "https://www.europe-echecs.com/art/philidor-un-dossier-special-pour-tout-savoir-sur-le-francais-qui-a-marque-l-histoire-des-echecs-10004.html",
+    "original_title": "Lire l'articlePhilidor : un dossier spécial pour tout savoir sur le Français qui a marqué l’histoire des échecs",
+    "swedish_title": "Philidor hedras 300 år efter sin födelse",
+    "swedish_content": "François-André Danican Philidor föddes i Dreux den 7 september 1726 och räknas som sin tids bästa schackspelare, en visionär teoretiker och specialist på blindschack – samtidigt som han var en erkänd tonsättare inom fransk opera-comique. Med boken \"L'Analyze des Échecs\" från 1749 satte han bönderna i centrum för schackstrategin och lade grunden för idéer som senare skulle utvecklas till modern teori. Hans namn lever vidare genom Philidorförsvaret (1.e4 e5 2.Sf3 d6) och flera slutspelspositioner, liksom genom hans berömda maxim \"Bönderna är schackets själ\". Han inledde sin bana som sexårig sångare vid Ludvig XV:s hovkapell och blev vid 16 års ålder elev till François-Antoine de Kermur, sire de Legall, då Frankrikes främste spelare. Med anledning av 300-årsjubileet ägnar tidskriften Europe Échecs Philidor ett omfattande specialnummer i september 2026.",
+    "date": "2026-08-31T10:15:12.261966",
+    "tag": "Europe Echecs",
+    "processed_at": "2026-09-01T17:14:53.054508"
   }
 ]
