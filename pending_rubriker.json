@@ -1,111 +1,167 @@
 [
   {
-    "id": "4560c4012e4e",
+    "id": "5d9931d35366",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/fide-ratings-september-2026",
+        "title": "FIDE ratings - September 2026",
+        "date": "Tue, 01 Sep 2026 22:00:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "The Sinquefield Cup and the Cairns Cup in Saint Louis brought about some movement at the top of the world rankings. Magnus Carlsen and Hou Yifan remain the world's top players, while Yagiz Kaan Erdogmus and Anastasiia Hnatyshyn are the leading junior players. Based on the average rating of its top players, the German Chess Federation is ranked fifth overall, making it now the leading European federation."
+      },
+      {
+        "source": "ChessBase India",
+        "url": "https://www.chessbase.in/news/fide-rating-list-september-2026",
+        "title": "FIDE Rating list September 2026: Praggnanandhaa back in the top 10",
+        "date": "2026-09-01T09:44:24.507373",
+        "tag": "ChessBase India"
+      }
+    ],
+    "kalla_display": "ChessBase + ChessBase India",
+    "datum": "Tue, 01 Sep 2026 22:00:00 GMT",
+    "hittad": "2026-09-02T09:44:45.829758"
+  },
+  {
+    "id": "a157074948e9",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/september-2026-fide-rating-list",
-        "title": "September 2026 Fide Rating List",
-        "date": "2026-08-31T10:14:37.760624",
+        "url": "https://www.chess.com/news/view/niemann-wins-titled-tuesday-september-1-2026",
+        "title": "Niemann Wins Titled Tuesday September 1 2026",
+        "date": "2026-09-01T09:44:04.378538",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-08-31T10:14:37.760624",
-    "hittad": "2026-09-01T10:15:22.504540"
+    "datum": "2026-09-01T09:44:04.378538",
+    "hittad": "2026-09-02T09:44:45.829772"
   },
   {
-    "id": "10d6b850255e",
+    "id": "1c3723ea338d",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/announcing-mittens-and-other-coaches",
-        "title": "Announcing Mittens And Other Coaches",
-        "date": "2026-08-31T10:14:37.760670",
+        "url": "https://www.chess.com/news/view/pouya-idani-transfers-iran-france",
+        "title": "Pouya Idani Transfers Iran France",
+        "date": "2026-09-01T09:44:04.378570",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-08-31T10:14:37.760670",
-    "hittad": "2026-09-01T10:15:22.504557"
+    "datum": "2026-09-01T09:44:04.378570",
+    "hittad": "2026-09-02T09:44:45.829777"
   },
   {
-    "id": "de94b2ef4e46",
+    "id": "effa13ad35ab",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/september-2026-chess-bots",
+        "title": "September 2026 Chess Bots",
+        "date": "2026-09-01T09:44:04.378590",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-09-01T09:44:04.378590",
+    "hittad": "2026-09-02T09:44:45.829782"
+  },
+  {
+    "id": "88ba0d96b399",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/savatop1gg-wins-2026-gambit-cup",
+        "title": "Savatop1Gg Wins 2026 Gambit Cup",
+        "date": "2026-09-01T09:44:04.378618",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-09-01T09:44:04.378618",
+    "hittad": "2026-09-02T09:44:45.829787"
+  },
+  {
+    "id": "b2af556cdaff",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/european-senior-teams-2026-r5",
-        "title": "European Senior Team Championship: English teams tied for first place in both sections",
-        "date": "Tue, 01 Sep 2026 09:00:00 GMT",
+        "url": "https://en.chessbase.com/post/leyendas-prodigios-2026-preview",
+        "title": "Faustino Oro returns for Legends & Prodigies in Madrid",
+        "date": "Wed, 02 Sep 2026 09:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "England 1 and Italy share the lead in the 50+ section of the European Senior Team Championships after five rounds in Crete, while Slovenia and England 1 are level at the top of the 65+ event. The leading teams have taken different routes to their positions, with England and Italy unbeaten in the younger category and Slovenia having already defeated their main rivals in the 65+ competition. | Photo: European Chess Union"
+        "_rss_content": "The second edition of Legends & Prodigies will take place in Madrid from 7 to 12 September, with Faustino Oro (pictured) returning to the event he won last year. The Argentine teenager will face David Antón, José Martínez, Ivan Sokolov, Diego Flores and José \"Pepe\" Cuenca in a six-player double round-robin. | Photo: Mar Melero"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Tue, 01 Sep 2026 09:00:00 GMT",
-    "hittad": "2026-09-01T10:15:22.504565"
+    "datum": "Wed, 02 Sep 2026 09:00:00 GMT",
+    "hittad": "2026-09-02T09:44:45.829790"
   },
   {
-    "id": "dbf56a72f13d",
+    "id": "e5a4eb98e028",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/nakamura-leclerc-seize-challenge-monza",
-        "title": "Hikaru Nakamura to face Formula One star Charles Leclerc in strategy-game challenge",
-        "date": "Mon, 31 Aug 2026 23:45:00 GMT",
+        "url": "https://en.chessbase.com/post/chess-domain-extension-requirement-2026",
+        "title": "FIDE and World Chess apply for the .chess domain extension",
+        "date": "Wed, 02 Sep 2026 07:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "Hikaru Nakamura will face Ferrari Formula One driver Charles Leclerc in a strategy-game challenge in Monza on 1 September, ahead of the Italian Grand Prix. The pair will compete at Se!ze, a chess-inspired game developed with Leclerc's involvement. The event adds another chapter to the Monégasque driver's documented interest in chess, following earlier encounters involving Carlos Sainz and GM Teimour Radjabov. | Photo: Chivas Regal"
+        "_rss_content": "FIDE and World Chess have submitted an application to ICANN for .chess, a proposed top-level domain intended to provide the chess community with a dedicated and verified online space. Filed as a community application on behalf of FIDE, the project would give federations, clubs, organisers, platforms, media and players recognisable chess-specific domains if approved. Registration will open only after ICANN's review, with an early-access list already available."
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Mon, 31 Aug 2026 23:45:00 GMT",
-    "hittad": "2026-09-01T10:15:22.504572"
+    "datum": "Wed, 02 Sep 2026 07:00:00 GMT",
+    "hittad": "2026-09-02T09:44:45.829794"
   },
   {
-    "id": "27e9ac273381",
+    "id": "249aafeb20ef",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/kanisza-open-2026-report",
-        "title": "Pranesh M wins Kanizsa Open",
-        "date": "Mon, 31 Aug 2026 17:50:00 GMT",
+        "url": "https://en.chessbase.com/post/chessbase-summer-special-part-9",
+        "title": "ChessBase Summer Special! – Part 9",
+        "date": "Tue, 01 Sep 2026 15:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "GM Pranesh Munirethinam won Group A (2200+) of the 2026 Kanizsa Open with 7 points from 9 games. In the final round, Pranesh obtained a full point in his game against IM Vadym Petrovskiy. IM Or Bronstein, GM Andrei Volokitin and GM Karthik Venkataraman finished on the same score and took second to fourth places respectively on tiebreaks. Top seed Matthias Bluebaum could only manage 21st place. The 16-year-old German junior Mykola Korchynskyi finished ten places ahead of the Candidates Tournament participant. | | Photo: Tushar Damor / Chennai Grand Masters"
+        "_rss_content": "Dear chess friends! When discussing ChessBase authors and content creators, no name is more synonymous with high quality than British Grandmaster Daniel King. His courses, videos, and articles, have been essential viewing for decades! This week only, you can get ALL of his video courses at our lowest ever price. Save up to 50 percent!"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Mon, 31 Aug 2026 17:50:00 GMT",
-    "hittad": "2026-09-01T10:15:22.504579"
+    "datum": "Tue, 01 Sep 2026 15:00:00 GMT",
+    "hittad": "2026-09-02T09:44:45.829802"
   },
   {
-    "id": "d79e66932f99",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/vandan-alankar-sawai-victory-carlsen-2026",
-        "title": "The 15-year-old who beat Magnus Carlsen in Titled Tuesday: Vandan Alankar Sawai",
-        "date": "Sun, 30 Aug 2026 16:00:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Defeating Magnus Carlsen in any format remains one of the most difficult tasks in modern chess. For 15-year-old Vandan Alankar Sawai of Delhi, that milestone arrived on 18 August during the late Titled Tuesday. Paired with the white pieces against the former world champion in round two, Vandan kept pressing until, at one point, Magnus mouse-slipped, and after that Vandan gave him no chance to come back. Read the story of this talented boy."
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Sun, 30 Aug 2026 16:00:00 GMT",
-    "hittad": "2026-09-01T10:15:22.504586"
-  },
-  {
-    "id": "ffb4abd6f5ac",
+    "id": "0df16c63e2af",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettan2/2026/09/forelasning-om-schack-och-militar-strategi-pa-armemuseum/?utm_source=rss&utm_medium=rss&utm_campaign=forelasning-om-schack-och-militar-strategi-pa-armemuseum",
+        "url": "https://schack.se/nyhet/internationellt/2026/09/kandidaterna-i-tv-debatt-infor-valet-av-ny-fide-president/?utm_source=rss&utm_medium=rss&utm_campaign=kandidaterna-i-tv-debatt-infor-valet-av-ny-fide-president",
+        "title": "Kandidaterna i tv-debatt inför valet av ny FIDE-president",
+        "date": "Wed, 02 Sep 2026 06:45:34 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "När ryssen Arkadij Dvorkovitj hamnade på EU:s sanktionslista valde han att kliva av som FIDE-president. Därmed har dörren öppnats för en ny ledare i världsschackförbundet. Tre kandidater har klivit fram [&#8230;] Inlägget Kandidaterna i tv-debatt inför valet av ny FIDE-president dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Wed, 02 Sep 2026 06:45:34 +0000",
+    "hittad": "2026-09-02T09:44:45.829807"
+  },
+  {
+    "id": "7fae44201ca0",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/okategoriserade/2026/09/forelasning-om-schack-och-militar-strategi-pa-armemuseum/?utm_source=rss&utm_medium=rss&utm_campaign=forelasning-om-schack-och-militar-strategi-pa-armemuseum",
         "title": "Föreläsning om schack och militär strategi på Armémuseum",
         "date": "Tue, 01 Sep 2026 06:33:25 +0000",
         "tag": "Svenska Schackförbundet",
@@ -114,155 +170,22 @@
     ],
     "kalla_display": "Schack.se",
     "datum": "Tue, 01 Sep 2026 06:33:25 +0000",
-    "hittad": "2026-09-01T10:15:22.504594"
+    "hittad": "2026-09-02T09:44:45.829810"
   },
   {
-    "id": "ae7efe8a8c11",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/distrikt-och-klubb/2026/08/nytt-spannande-namn-i-lund-karolis-slog-till-direkt/?utm_source=rss&utm_medium=rss&utm_campaign=nytt-spannande-namn-i-lund-karolis-slog-till-direkt",
-        "title": "Nytt spännande namn i Lund – Karolis slog till direkt",
-        "date": "Mon, 31 Aug 2026 15:15:32 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Internationelle mästaren från Litauen, Karolis Juksta, kommer att bli en fin förstärkning för Lunds ASK i årets Elitserie. Han är i Lund för att studera i ett år och kommer [&#8230;] Inlägget Nytt spännande namn i Lund – Karolis slog till direkt dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Mon, 31 Aug 2026 15:15:32 +0000",
-    "hittad": "2026-09-01T10:15:22.504603"
-  },
-  {
-    "id": "7f3be1c104fb",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/damschack/2026/08/fler-starka-spelare-klara-for-dam-sm/?utm_source=rss&utm_medium=rss&utm_campaign=fler-starka-spelare-klara-for-dam-sm",
-        "title": "Fler starka spelare klara för Dam-SM",
-        "date": "Mon, 31 Aug 2026 14:23:32 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Det är rekordstort intresse för årets Dam-SM i blixt och snabbschack. Med hittills 47 starter blir årets upplaga i Stockholm 5–6 september den klart största sedan nystarten 2022. Och än [&#8230;] Inlägget Fler starka spelare klara för Dam-SM dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Mon, 31 Aug 2026 14:23:32 +0000",
-    "hittad": "2026-09-01T10:15:22.504615"
-  },
-  {
-    "id": "2ad892563ff6",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/sverige/2026/08/dags-att-boka-boende-till-sm-i-blixt-och-snabbschack/?utm_source=rss&utm_medium=rss&utm_campaign=dags-att-boka-boende-till-sm-i-blixt-och-snabbschack",
-        "title": "Dags att boka boende till SM i blixt och snabbschack",
-        "date": "Mon, 31 Aug 2026 13:21:50 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "SM-tävlingarna i blixt och snabbschack i Västerås närmar sig. Den 2–4 oktober kommer mästerskapet att spelas på Rudbeckianska gymnasiet. Men redan nu börjar det bli hög tid att boka boendet. [&#8230;] Inlägget Dags att boka boende till SM i blixt och snabbschack dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Mon, 31 Aug 2026 13:21:50 +0000",
-    "hittad": "2026-09-01T10:15:22.504621"
-  },
-  {
-    "id": "d7d8f960460f",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/internationellt/2026/08/jalling-far-olympiskt-uppdrag-inom-ecu/?utm_source=rss&utm_medium=rss&utm_campaign=jalling-far-olympiskt-uppdrag-inom-ecu",
-        "title": "Jalling får olympiskt uppdrag inom ECU",
-        "date": "Sat, 29 Aug 2026 07:28:08 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Vid ECU:s senaste styrelsemöte beslutade organisationen, European Chess Union, att inrätta en helt ny kommission. &#8221;The Chess Olympic Affairs Commission&#8221; (COA). Sverige Schackförbunds före detta ordförande Håkan Jalling har fått [&#8230;] Inlägget Jalling får olympiskt uppdrag inom ECU dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Sat, 29 Aug 2026 07:28:08 +0000",
-    "hittad": "2026-09-01T10:15:22.504627"
-  },
-  {
-    "id": "1b5fdec7d447",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/internationellt/2026/08/pragg-tog-hem-finalen-i-grand-chess-tour/?utm_source=rss&utm_medium=rss&utm_campaign=pragg-tog-hem-finalen-i-grand-chess-tour",
-        "title": "”Pragg” tog hem finalen i Grand Chess Tour",
-        "date": "Fri, 28 Aug 2026 17:10:05 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Den indiske stormästaren Praggnanandhaa Rameshbabu vände ett underläge på sex poäng den sista speldagen, för att till slut besegra USA:s GM Fabiano Caruana 15 &#8211; 13 i St Louis, USA [&#8230;] Inlägget &#8221;Pragg&#8221; tog hem finalen i Grand Chess Tour dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Fri, 28 Aug 2026 17:10:05 +0000",
-    "hittad": "2026-09-01T10:15:22.504634"
-  },
-  {
-    "id": "0ab39fcc3dcb",
+    "id": "9e95bc817380",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/gm-aaryan-varshney-clear-first-at-2nd-siliguri-scgc-classical-fide-rating-2026",
-        "title": "GM Aaryan Varshney Clear First at 2nd Siliguri SCGC Classical Fide Rating 2026",
-        "date": "2026-08-31T10:14:59.017416",
+        "url": "https://www.chessbase.in/news/from-engineering-to-international-master-the-incredible-journey-of-nithin-babu",
+        "title": "From Engineering to International Master: The Incredible Journey of Nithin Babu",
+        "date": "2026-09-01T09:44:24.507326",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-08-31T10:14:59.017416",
-    "hittad": "2026-09-01T10:15:22.504639"
-  },
-  {
-    "id": "eb247b339ea3",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/pour-la-rentree-votre-revue-europe-echecs-fait-le-plein-de-nouveautes-10033.html",
-        "title": "Pour la rentrée, votre revue Europe Échecs fait le plein de nouveautés !",
-        "date": "2026-08-31T10:15:12.261922",
-        "tag": "Europe Echecs"
-      }
-    ],
-    "kalla_display": "Europe Echecs",
-    "datum": "2026-08-31T10:15:12.261922",
-    "hittad": "2026-09-01T10:15:22.504643"
-  },
-  {
-    "id": "8c8852f42cb5",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/philidor-un-dossier-special-pour-tout-savoir-sur-le-francais-qui-a-marque-l-histoire-des-echecs-10004.html",
-        "title": "Lire l'articlePhilidor : un dossier spécial pour tout savoir sur le Français qui a marqué l’histoire des échecs",
-        "date": "2026-08-31T10:15:12.261966",
-        "tag": "Europe Echecs"
-      }
-    ],
-    "kalla_display": "Europe Echecs",
-    "datum": "2026-08-31T10:15:12.261966",
-    "hittad": "2026-09-01T10:15:22.504647"
-  },
-  {
-    "id": "0e4333991d6a",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/interview-de-levon-aronian-entre-l-armenie-et-les-etats-unis-10020.html",
-        "title": "Lire l'articleInterview de Levon Aronian, entre l’Arménie et les États-Unis",
-        "date": "2026-08-31T10:15:12.261988",
-        "tag": "Europe Echecs"
-      }
-    ],
-    "kalla_display": "Europe Echecs",
-    "datum": "2026-08-31T10:15:12.261988",
-    "hittad": "2026-09-01T10:15:22.504650"
+    "datum": "2026-09-01T09:44:24.507326",
+    "hittad": "2026-09-02T09:44:45.829840"
   }
 ]
