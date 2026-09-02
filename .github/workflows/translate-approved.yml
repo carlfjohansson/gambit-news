@@ -14,7 +14,13 @@ name: Översätt godkända rubriker
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'  # varje heltimme, UTC
+    # Körs INTE 22-03 UTC (ca 00-05 svensk tid) - tre av fyra nätverksfel
+    # mot gambit.se (se Bugg 15 i minnesanteckningarna) har inträffat just i
+    # det fönstret, troligen ett nattligt underhålls-/backupfönster hos
+    # one.com. Carl Fredrik godkänner ändå aldrig rubriker mitt i natten,
+    # så inget går förlorat genom att hoppa över de timmarna - nästa
+    # körning kl 04:00 UTC tar igen allt som hunnit godkännas.
+    - cron: '0 4-21 * * *'  # varje heltimme 04-21 UTC
 jobs:
   translate:
     runs-on: ubuntu-latest
