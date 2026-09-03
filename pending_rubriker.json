@@ -1,191 +1,216 @@
 [
   {
-    "id": "5d9931d35366",
+    "id": "b240a77637d7",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/2026-state-of-chess-september",
+        "title": "2026 State Of Chess September",
+        "date": "2026-09-02T09:57:13.292059",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-09-02T09:57:13.292059",
+    "hittad": "2026-09-03T09:58:45.624290"
+  },
+  {
+    "id": "059bdacd9493",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/vladimir-kramnik-loses-new-in-chess-lawsuit",
+        "title": "Vladimir Kramnik Loses New In Chess Lawsuit",
+        "date": "2026-09-02T09:57:13.292098",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-09-02T09:57:13.292098",
+    "hittad": "2026-09-03T09:58:45.624307"
+  },
+  {
+    "id": "0bb25a948759",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/announcing-north-american-corporate-chess-league-season-14",
+        "title": "Announcing North American Corporate Chess League Season 14",
+        "date": "2026-09-02T09:57:13.292128",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-09-02T09:57:13.292128",
+    "hittad": "2026-09-03T09:58:45.624313"
+  },
+  {
+    "id": "c7884d3eab47",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/fide-election-complaints-buettner-rosenstein-turlov",
+        "title": "Fide Election Complaints Buettner Rosenstein Turlov",
+        "date": "2026-09-02T09:57:13.292155",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-09-02T09:57:13.292155",
+    "hittad": "2026-09-03T09:58:45.624324"
+  },
+  {
+    "id": "08f250cfe272",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/fide-ratings-september-2026",
-        "title": "FIDE ratings - September 2026",
-        "date": "Tue, 01 Sep 2026 22:00:00 GMT",
+        "url": "https://en.chessbase.com/post/chess-care-com-launch-2026",
+        "title": "ChessCare.com launches: New management agency brings professional support to chess players",
+        "date": "Thu, 03 Sep 2026 10:30:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "The Sinquefield Cup and the Cairns Cup in Saint Louis brought about some movement at the top of the world rankings. Magnus Carlsen and Hou Yifan remain the world's top players, while Yagiz Kaan Erdogmus and Anastasiia Hnatyshyn are the leading junior players. Based on the average rating of its top players, the German Chess Federation is ranked fifth overall, making it now the leading European federation."
-      },
-      {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/fide-rating-list-september-2026",
-        "title": "FIDE Rating list September 2026: Praggnanandhaa back in the top 10",
-        "date": "2026-09-01T09:44:24.507373",
-        "tag": "ChessBase India"
-      }
-    ],
-    "kalla_display": "ChessBase + ChessBase India",
-    "datum": "Tue, 01 Sep 2026 22:00:00 GMT",
-    "hittad": "2026-09-02T09:44:45.829758"
-  },
-  {
-    "id": "a157074948e9",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/niemann-wins-titled-tuesday-september-1-2026",
-        "title": "Niemann Wins Titled Tuesday September 1 2026",
-        "date": "2026-09-01T09:44:04.378538",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-09-01T09:44:04.378538",
-    "hittad": "2026-09-02T09:44:45.829772"
-  },
-  {
-    "id": "1c3723ea338d",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/pouya-idani-transfers-iran-france",
-        "title": "Pouya Idani Transfers Iran France",
-        "date": "2026-09-01T09:44:04.378570",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-09-01T09:44:04.378570",
-    "hittad": "2026-09-02T09:44:45.829777"
-  },
-  {
-    "id": "effa13ad35ab",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/september-2026-chess-bots",
-        "title": "September 2026 Chess Bots",
-        "date": "2026-09-01T09:44:04.378590",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-09-01T09:44:04.378590",
-    "hittad": "2026-09-02T09:44:45.829782"
-  },
-  {
-    "id": "88ba0d96b399",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/savatop1gg-wins-2026-gambit-cup",
-        "title": "Savatop1Gg Wins 2026 Gambit Cup",
-        "date": "2026-09-01T09:44:04.378618",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-09-01T09:44:04.378618",
-    "hittad": "2026-09-02T09:44:45.829787"
-  },
-  {
-    "id": "b2af556cdaff",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/leyendas-prodigios-2026-preview",
-        "title": "Faustino Oro returns for Legends & Prodigies in Madrid",
-        "date": "Wed, 02 Sep 2026 09:00:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "The second edition of Legends & Prodigies will take place in Madrid from 7 to 12 September, with Faustino Oro (pictured) returning to the event he won last year. The Argentine teenager will face David Antón, José Martínez, Ivan Sokolov, Diego Flores and José \"Pepe\" Cuenca in a six-player double round-robin. | Photo: Mar Melero"
+        "_rss_content": "ChessCare.com, a new player management agency dedicated to professional chess players, has been launched by grandmaster Sebastian Siebrecht and marketing expert Oliver von Wersch. The agency will offer services covering career planning, contracts, travel logistics, sponsorship, communications and talent development. Its stated aim is to support players as the chess world becomes increasingly professional, allowing them to focus more fully on competition while receiving structured commercial and operational support."
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Wed, 02 Sep 2026 09:00:00 GMT",
-    "hittad": "2026-09-02T09:44:45.829790"
+    "datum": "Thu, 03 Sep 2026 10:30:00 GMT",
+    "hittad": "2026-09-03T09:58:45.624332"
   },
   {
-    "id": "e5a4eb98e028",
+    "id": "bd13a7ecb060",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/chess-domain-extension-requirement-2026",
-        "title": "FIDE and World Chess apply for the .chess domain extension",
-        "date": "Wed, 02 Sep 2026 07:00:00 GMT",
+        "url": "https://en.chessbase.com/post/tirol-open-2026-report",
+        "title": "Harshit Raja defends title at Tirol Open in Innsbruck",
+        "date": "Wed, 02 Sep 2026 22:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "FIDE and World Chess have submitted an application to ICANN for .chess, a proposed top-level domain intended to provide the chess community with a dedicated and verified online space. Filed as a community application on behalf of FIDE, the project would give federations, clubs, organisers, platforms, media and players recognisable chess-specific domains if approved. Registration will open only after ICANN's review, with an early-access list already available."
+        "_rss_content": "The Tirol Open 2026 featured eight days of high-level chess in Innsbruck. In the A Open, GM Harshit Raja successfully defended his title from the previous year, albeit only on tiebreaks ahead of FM Tobias Kolb, who finished level on points with the two-time champion. Philipp Schlosser, Timur Kocharin and Cedric Chassard ensured that three more German players finished in the top ten of the 57-player field."
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Wed, 02 Sep 2026 07:00:00 GMT",
-    "hittad": "2026-09-02T09:44:45.829794"
+    "datum": "Wed, 02 Sep 2026 22:00:00 GMT",
+    "hittad": "2026-09-03T09:58:45.624339"
   },
   {
-    "id": "249aafeb20ef",
+    "id": "14ff05ff4e17",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/chessbase-summer-special-part-9",
-        "title": "ChessBase Summer Special! – Part 9",
-        "date": "Tue, 01 Sep 2026 15:00:00 GMT",
+        "url": "https://en.chessbase.com/post/anniversary-tournament-1926-hannover",
+        "title": "The 1926 anniversary tournament in Hannover",
+        "date": "Wed, 02 Sep 2026 14:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "Dear chess friends! When discussing ChessBase authors and content creators, no name is more synonymous with high quality than British Grandmaster Daniel King. His courses, videos, and articles, have been essential viewing for decades! This week only, you can get ALL of his video courses at our lowest ever price. Save up to 50 percent!"
+        "_rss_content": "The year 1926 was a major one for chess tournaments. Among the many outstanding events was the anniversary tournament of the Hannover Chess Club, which had already enjoyed a remarkable history and was now celebrating its 50th anniversary. The battle for first place developed into a close contest between the two favourites, Aron Nimzowitsch (pictured) and Akiba Rubinstein, with Nimzowitsch ultimately prevailing. Friedrich Sämisch proved to be the decisive factor."
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Tue, 01 Sep 2026 15:00:00 GMT",
-    "hittad": "2026-09-02T09:44:45.829802"
+    "datum": "Wed, 02 Sep 2026 14:00:00 GMT",
+    "hittad": "2026-09-03T09:58:45.624345"
   },
   {
-    "id": "0df16c63e2af",
+    "id": "ad8573b7660d",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/internationellt/2026/09/kandidaterna-i-tv-debatt-infor-valet-av-ny-fide-president/?utm_source=rss&utm_medium=rss&utm_campaign=kandidaterna-i-tv-debatt-infor-valet-av-ny-fide-president",
-        "title": "Kandidaterna i tv-debatt inför valet av ny FIDE-president",
-        "date": "Wed, 02 Sep 2026 06:45:34 +0000",
+        "url": "https://schack.se/nyhet/ettantopp/2026/09/tavlings-och-regelkommitten-far-ny-ordforande/?utm_source=rss&utm_medium=rss&utm_campaign=tavlings-och-regelkommitten-far-ny-ordforande",
+        "title": "Tävlings- och regelkommittén får ny ordförande",
+        "date": "Thu, 03 Sep 2026 09:18:24 +0000",
         "tag": "Svenska Schackförbundet",
-        "_rss_content": "När ryssen Arkadij Dvorkovitj hamnade på EU:s sanktionslista valde han att kliva av som FIDE-president. Därmed har dörren öppnats för en ny ledare i världsschackförbundet. Tre kandidater har klivit fram [&#8230;] Inlägget Kandidaterna i tv-debatt inför valet av ny FIDE-president dök först upp på Sveriges Schackförbund ."
+        "_rss_content": "Tävlings- och regelkommittén (TK) har fått en ny ordförande. Det är Kenneth Fahlberg från Njurunda utanför Sundsvall. Kenneth är sportjournalist på Sundsvalls Tidning. Till vardags representerar han Fagerviks Schackklubb. TK [&#8230;] Inlägget Tävlings- och regelkommittén får ny ordförande dök först upp på Sveriges Schackförbund ."
       }
     ],
     "kalla_display": "Schack.se",
-    "datum": "Wed, 02 Sep 2026 06:45:34 +0000",
-    "hittad": "2026-09-02T09:44:45.829807"
+    "datum": "Thu, 03 Sep 2026 09:18:24 +0000",
+    "hittad": "2026-09-03T09:58:45.624355"
   },
   {
-    "id": "7fae44201ca0",
+    "id": "f168b89766b7",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/okategoriserade/2026/09/forelasning-om-schack-och-militar-strategi-pa-armemuseum/?utm_source=rss&utm_medium=rss&utm_campaign=forelasning-om-schack-och-militar-strategi-pa-armemuseum",
-        "title": "Föreläsning om schack och militär strategi på Armémuseum",
-        "date": "Tue, 01 Sep 2026 06:33:25 +0000",
+        "url": "https://schack.se/nyhet/internationellt/2026/09/guide-sa-foljer-du-schack-os-2026/?utm_source=rss&utm_medium=rss&utm_campaign=guide-sa-foljer-du-schack-os-2026",
+        "title": "Guide: Så följer du schack-OS 2026",
+        "date": "Thu, 03 Sep 2026 07:36:38 +0000",
         "tag": "Svenska Schackförbundet",
-        "_rss_content": "En föreläsning om schack och militära strategier äger rum på Armémuseum i Stockholm tisdagen den 1 september kl 18. Adressen är Riddargatan 13 i Stockholm. Sveriges Schackförbunds generalsekreterare Håkan Östling [&#8230;] Inlägget Föreläsning om schack och militär strategi på Armémuseum dök först upp på Sveriges Schackförbund ."
+        "_rss_content": "Med över 200 nationer på plats blir schack-OS 2026 det i särklass största schackevenemanget i år. Mästerskapet spelas i Samarkand, Uzbekistan, 16–27 september, och Sverige har med lag i både [&#8230;] Inlägget Guide: Så följer du schack-OS 2026 dök först upp på Sveriges Schackförbund ."
       }
     ],
     "kalla_display": "Schack.se",
-    "datum": "Tue, 01 Sep 2026 06:33:25 +0000",
-    "hittad": "2026-09-02T09:44:45.829810"
+    "datum": "Thu, 03 Sep 2026 07:36:38 +0000",
+    "hittad": "2026-09-03T09:58:45.624360"
   },
   {
-    "id": "9e95bc817380",
+    "id": "8d2a159dc2e2",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/ettan/2026/09/ny-superliga-spelas-i-europa-nasta-ar/?utm_source=rss&utm_medium=rss&utm_campaign=ny-superliga-spelas-i-europa-nasta-ar",
+        "title": "Ny superliga spelas i Europa nästa år",
+        "date": "Wed, 02 Sep 2026 10:54:23 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Nu skapar ECU &#8221;The European Chess Superleague&#8221;. Den första upplagan kommer att äga rum i Bukarest i Rumänien från den 2 till 10 februari 2027. Åtta elitlag kommer att delta [&#8230;] Inlägget Ny superliga spelas i Europa nästa år dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Wed, 02 Sep 2026 10:54:23 +0000",
+    "hittad": "2026-09-03T09:58:45.624364"
+  },
+  {
+    "id": "b3de5f713112",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/from-engineering-to-international-master-the-incredible-journey-of-nithin-babu",
-        "title": "From Engineering to International Master: The Incredible Journey of Nithin Babu",
-        "date": "2026-09-01T09:44:24.507326",
+        "url": "https://www.chessbase.in/news/interview-with-awonder-liang",
+        "title": "Awonder Liang on Chess, Statistics, AI and the Pursuit of Small Gains",
+        "date": "2026-09-02T09:57:33.004351",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-09-01T09:44:24.507326",
-    "hittad": "2026-09-02T09:44:45.829840"
+    "datum": "2026-09-02T09:57:33.004351",
+    "hittad": "2026-09-03T09:58:45.624368"
+  },
+  {
+    "id": "d904639854f5",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/open-de-sants-2026-bilan-10069.html",
+        "title": "Open de Sants 2026Jules Moussard remporte l’Open de Sants à Barcelone avec 9 points sur 10",
+        "date": "2026-09-02T09:57:43.511026",
+        "tag": "Europe Echecs"
+      }
+    ],
+    "kalla_display": "Europe Echecs",
+    "datum": "2026-09-02T09:57:43.511026",
+    "hittad": "2026-09-03T09:58:45.624373"
+  },
+  {
+    "id": "cb76c3ad5470",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/le-c-chartres-echecs-en-difficulte-apres-la-baisse-annoncee-du-soutien-municipal-10067.html",
+        "title": "Lire l'articleLe C’Chartres Échecs en difficulté après la baisse annoncée du soutien municipal4",
+        "date": "2026-09-02T09:57:43.511066",
+        "tag": "Europe Echecs"
+      }
+    ],
+    "kalla_display": "Europe Echecs",
+    "datum": "2026-09-02T09:57:43.511066",
+    "hittad": "2026-09-03T09:58:45.624377"
   }
 ]
