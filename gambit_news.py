@@ -110,7 +110,12 @@ CATEGORY_MAPPING = {
     'Schack.se': 'svenska-schackforbundet',
     'Chessdom': 'chessdom',
     'Europe Echecs': 'europe-echecs',
-    'TWIC': 'internationella-turneringar'
+    'TWIC': 'internationella-turneringar',
+    'Dansk Skak Union': 'dansk-skak-union',
+    'Norges Sjakkforbund': 'norges-sjakkforbund',
+    'Bergensjakk': 'bergensjakk',
+    'English Chess Federation': 'english-chess-federation',
+    'Chess News Network': 'chess-news-network'
 }
 
 # Skrivregler som delas av båda prompterna nedan – den för en ensam artikel och
@@ -1006,6 +1011,239 @@ class TWICSource(NewsSource):
             'article', '.entry-content', '.post-content', '#content', 'main',
         ])
 
+# === DANSK SKAK UNION (RSS) ===
+# Tillagd 2026-09-06 på Carl Fredriks begäran. Han har själv kontrollerat
+# rättigheterna för återanvändning - ingen ytterligare koll gjord här.
+class DanskSkakUnionSource(NewsSource):
+    def __init__(self):
+        super().__init__("Dansk Skak Union", "https://nyheder.skak.dk/feed/", "Dansk Skak Union", True)
+        self.request_delay = 4
+
+    def fetch_articles(self):
+        import xml.etree.ElementTree as ET
+        logger.info(f"🌍 Hämtar artiklar från {self.name}...")
+        articles = []
+        try:
+            resp = self.safe_request_with_backoff(self.base_url)
+            if not resp:
+                return articles
+            root = ET.fromstring(resp.text)
+            items = root.findall('.//item')
+            logger.info(f"🔍 {self.name}: Hittade {len(items)} artiklar i RSS")
+            for item in items:
+                title = item.findtext('title') or ''
+                url = item.findtext('link') or item.findtext('guid') or ''
+                date = item.findtext('pubDate') or datetime.now().isoformat()
+                desc = item.findtext('description') or ''
+                clean_desc = re.sub(r'<[^>]+>', ' ', desc).strip()
+                clean_desc = re.sub(r'\s+', ' ', clean_desc)
+                if title and url and len(title) > 5:
+                    articles.append({
+                        "source": self.name,
+                        "url": url,
+                        "title": title,
+                        "date": date,
+                        "tag": self.tag_name,
+                        "_rss_content": clean_desc
+                    })
+        except Exception as e:
+            logger.error(f"❌ Fel vid hämtning från {self.name}: {e}")
+            self.blocked_requests += 1
+        self.log_statistics()
+        logger.info(f"📰 {self.name}: Extraherade {len(articles)} artiklar")
+        return articles
+
+    def parse_article_content(self, article_url):
+        return self.las_artikeltext(article_url, [
+            '.entry-content', 'article', '.content', 'main',
+        ])
+
+# === NORGES SJAKKFORBUND (RSS) ===
+# Tillagd 2026-09-06, se kommentar vid Dansk Skak Union ovan.
+class NorgesSjakkforbundSource(NewsSource):
+    def __init__(self):
+        super().__init__("Norges Sjakkforbund", "https://www.sjakk.no/aktuelt-feed.rss", "Norges Sjakkforbund", True)
+        self.request_delay = 4
+
+    def fetch_articles(self):
+        import xml.etree.ElementTree as ET
+        logger.info(f"🌍 Hämtar artiklar från {self.name}...")
+        articles = []
+        try:
+            resp = self.safe_request_with_backoff(self.base_url)
+            if not resp:
+                return articles
+            root = ET.fromstring(resp.text)
+            items = root.findall('.//item')
+            logger.info(f"🔍 {self.name}: Hittade {len(items)} artiklar i RSS")
+            for item in items:
+                title = item.findtext('title') or ''
+                url = item.findtext('link') or item.findtext('guid') or ''
+                date = item.findtext('pubDate') or datetime.now().isoformat()
+                desc = item.findtext('description') or ''
+                clean_desc = re.sub(r'<[^>]+>', ' ', desc).strip()
+                clean_desc = re.sub(r'\s+', ' ', clean_desc)
+                if title and url and len(title) > 5:
+                    articles.append({
+                        "source": self.name,
+                        "url": url,
+                        "title": title,
+                        "date": date,
+                        "tag": self.tag_name,
+                        "_rss_content": clean_desc
+                    })
+        except Exception as e:
+            logger.error(f"❌ Fel vid hämtning från {self.name}: {e}")
+            self.blocked_requests += 1
+        self.log_statistics()
+        logger.info(f"📰 {self.name}: Extraherade {len(articles)} artiklar")
+        return articles
+
+    def parse_article_content(self, article_url):
+        return self.las_artikeltext(article_url, [
+            '.entry-content', 'article', '.content', 'main',
+        ])
+
+# === BERGENSJAKK (RSS) ===
+# Tillagd 2026-09-06, se kommentar vid Dansk Skak Union ovan. Trots namnet
+# ("Norges ledende side for sjakknyheter!") är det en allmän norsk
+# schacknyhetssajt, inte bara Bergens Schakklub.
+class BergensjakkSource(NewsSource):
+    def __init__(self):
+        super().__init__("Bergensjakk", "https://bergensjakk.no/feed/", "Bergensjakk", True)
+        self.request_delay = 4
+
+    def fetch_articles(self):
+        import xml.etree.ElementTree as ET
+        logger.info(f"🌍 Hämtar artiklar från {self.name}...")
+        articles = []
+        try:
+            resp = self.safe_request_with_backoff(self.base_url)
+            if not resp:
+                return articles
+            root = ET.fromstring(resp.text)
+            items = root.findall('.//item')
+            logger.info(f"🔍 {self.name}: Hittade {len(items)} artiklar i RSS")
+            for item in items:
+                title = item.findtext('title') or ''
+                url = item.findtext('link') or item.findtext('guid') or ''
+                date = item.findtext('pubDate') or datetime.now().isoformat()
+                desc = item.findtext('description') or ''
+                clean_desc = re.sub(r'<[^>]+>', ' ', desc).strip()
+                clean_desc = re.sub(r'\s+', ' ', clean_desc)
+                if title and url and len(title) > 5:
+                    articles.append({
+                        "source": self.name,
+                        "url": url,
+                        "title": title,
+                        "date": date,
+                        "tag": self.tag_name,
+                        "_rss_content": clean_desc
+                    })
+        except Exception as e:
+            logger.error(f"❌ Fel vid hämtning från {self.name}: {e}")
+            self.blocked_requests += 1
+        self.log_statistics()
+        logger.info(f"📰 {self.name}: Extraherade {len(articles)} artiklar")
+        return articles
+
+    def parse_article_content(self, article_url):
+        return self.las_artikeltext(article_url, [
+            '.entry-content', 'article', '.content', 'main',
+        ])
+
+# === ENGLISH CHESS FEDERATION (RSS) ===
+# Tillagd 2026-09-06, se kommentar vid Dansk Skak Union ovan.
+class EnglishChessFederationSource(NewsSource):
+    def __init__(self):
+        super().__init__("English Chess Federation", "https://www.englishchess.org.uk/feed/", "English Chess Federation", True)
+        self.request_delay = 4
+
+    def fetch_articles(self):
+        import xml.etree.ElementTree as ET
+        logger.info(f"🌍 Hämtar artiklar från {self.name}...")
+        articles = []
+        try:
+            resp = self.safe_request_with_backoff(self.base_url)
+            if not resp:
+                return articles
+            root = ET.fromstring(resp.text)
+            items = root.findall('.//item')
+            logger.info(f"🔍 {self.name}: Hittade {len(items)} artiklar i RSS")
+            for item in items:
+                title = item.findtext('title') or ''
+                url = item.findtext('link') or item.findtext('guid') or ''
+                date = item.findtext('pubDate') or datetime.now().isoformat()
+                desc = item.findtext('description') or ''
+                clean_desc = re.sub(r'<[^>]+>', ' ', desc).strip()
+                clean_desc = re.sub(r'\s+', ' ', clean_desc)
+                if title and url and len(title) > 5:
+                    articles.append({
+                        "source": self.name,
+                        "url": url,
+                        "title": title,
+                        "date": date,
+                        "tag": self.tag_name,
+                        "_rss_content": clean_desc
+                    })
+        except Exception as e:
+            logger.error(f"❌ Fel vid hämtning från {self.name}: {e}")
+            self.blocked_requests += 1
+        self.log_statistics()
+        logger.info(f"📰 {self.name}: Extraherade {len(articles)} artiklar")
+        return articles
+
+    def parse_article_content(self, article_url):
+        return self.las_artikeltext(article_url, [
+            '.entry-content', 'article', '.post-content', '#content', 'main',
+        ])
+
+# === CHESS NEWS NETWORK (RSS) ===
+# Tillagd 2026-09-06, se kommentar vid Dansk Skak Union ovan.
+class ChessNewsNetworkSource(NewsSource):
+    def __init__(self):
+        super().__init__("Chess News Network", "https://chessnewsnetwork.com/rss.xml", "Chess News Network", True)
+        self.request_delay = 4
+
+    def fetch_articles(self):
+        import xml.etree.ElementTree as ET
+        logger.info(f"🌍 Hämtar artiklar från {self.name}...")
+        articles = []
+        try:
+            resp = self.safe_request_with_backoff(self.base_url)
+            if not resp:
+                return articles
+            root = ET.fromstring(resp.text)
+            items = root.findall('.//item')
+            logger.info(f"🔍 {self.name}: Hittade {len(items)} artiklar i RSS")
+            for item in items:
+                title = item.findtext('title') or ''
+                url = item.findtext('link') or item.findtext('guid') or ''
+                date = item.findtext('pubDate') or datetime.now().isoformat()
+                desc = item.findtext('description') or ''
+                clean_desc = re.sub(r'<[^>]+>', ' ', desc).strip()
+                clean_desc = re.sub(r'\s+', ' ', clean_desc)
+                if title and url and len(title) > 5:
+                    articles.append({
+                        "source": self.name,
+                        "url": url,
+                        "title": title,
+                        "date": date,
+                        "tag": self.tag_name,
+                        "_rss_content": clean_desc
+                    })
+        except Exception as e:
+            logger.error(f"❌ Fel vid hämtning från {self.name}: {e}")
+            self.blocked_requests += 1
+        self.log_statistics()
+        logger.info(f"📰 {self.name}: Extraherade {len(articles)} artiklar")
+        return articles
+
+    def parse_article_content(self, article_url):
+        return self.las_artikeltext(article_url, [
+            'article', '.entry-content', '.post-content', '#content', 'main',
+        ])
+
 # === WORDPRESS PUBLISHER MED KATEGORIER ===
 class WordPressPublisher:
    def __init__(self):
@@ -1333,7 +1571,12 @@ class EmailApprovalSystem:
                'ChessBase India': '#9C27B0',
                'Chessdom': '#607D8B',
                'Europe Echecs': '#795548',
-               'FIDE': '#FF5722'
+               'FIDE': '#FF5722',
+               'Dansk Skak Union': '#C60C30',
+               'Norges Sjakkforbund': '#BA0C2F',
+               'Bergensjakk': '#003897',
+               'English Chess Federation': '#00247D',
+               'Chess News Network': '#37474F'
            }.get(article['source'], '#666')
            
            title = article.get('swedish_title', article.get('original_title', 'Ingen titel'))
@@ -1541,7 +1784,12 @@ class MultiNewsEngine:
            ChessBaseIndiaSource(),
            ChessdomSource(),
            EuropeEchecsSource(),
-           TWICSource()               # The Week in Chess, via RSS
+           TWICSource(),              # The Week in Chess, via RSS
+           DanskSkakUnionSource(),
+           NorgesSjakkforbundSource(),
+           BergensjakkSource(),
+           EnglishChessFederationSource(),
+           ChessNewsNetworkSource()
        ]
    
    def collect_from_all_sources(self):
@@ -1722,6 +1970,10 @@ RUBRIKER:
                source_language = "franska"
            elif article['source'] == "Schack.se":
                source_language = "svenska"
+           elif article['source'] == "Dansk Skak Union":
+               source_language = "danska"
+           elif article['source'] in ("Norges Sjakkforbund", "Bergensjakk"):
+               source_language = "norska"
 
            # Tidigare kopierades Schack.se-notiser ordagrant (bara rubriken
            # oförändrad, brödtexten avklippt vid 1200 tecken) eftersom källan
