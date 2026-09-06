@@ -115,7 +115,9 @@ CATEGORY_MAPPING = {
     'Norges Sjakkforbund': 'norges-sjakkforbund',
     'Bergensjakk': 'bergensjakk',
     'English Chess Federation': 'english-chess-federation',
-    'Chess News Network': 'chess-news-network'
+    'Chess News Network': 'chess-news-network',
+    'ChessBase España': 'chessbase-espana',
+    'Kenya Chess Masala': 'kenya-chess-masala'
 }
 
 # Skrivregler som delas av båda prompterna nedan – den för en ensam artikel och
@@ -1244,6 +1246,101 @@ class ChessNewsNetworkSource(NewsSource):
             'article', '.entry-content', '.post-content', '#content', 'main',
         ])
 
+# === CHESSBASE ESPAÑA (RSS) ===
+# Tillagd 2026-09-06 på Carl Fredriks begäran. Spanskspråkig utgåva av
+# ChessBase med egna regionala nyheter (spanska ligan, latinamerikanska
+# spelare etc.), inte bara en översättning av den engelska sajten.
+class ChessBaseEspanaSource(NewsSource):
+    def __init__(self):
+        super().__init__("ChessBase España", "https://es.chessbase.com/feed", "ChessBase España", True)
+        self.request_delay = 4
+
+    def fetch_articles(self):
+        import xml.etree.ElementTree as ET
+        logger.info(f"🌍 Hämtar artiklar från {self.name}...")
+        articles = []
+        try:
+            resp = self.safe_request_with_backoff(self.base_url)
+            if not resp:
+                return articles
+            root = ET.fromstring(resp.text)
+            items = root.findall('.//item')
+            logger.info(f"🔍 {self.name}: Hittade {len(items)} artiklar i RSS")
+            for item in items:
+                title = item.findtext('title') or ''
+                url = item.findtext('link') or item.findtext('guid') or ''
+                date = item.findtext('pubDate') or datetime.now().isoformat()
+                desc = item.findtext('description') or ''
+                clean_desc = re.sub(r'<[^>]+>', ' ', desc).strip()
+                clean_desc = re.sub(r'\s+', ' ', clean_desc)
+                if title and url and len(title) > 5:
+                    articles.append({
+                        "source": self.name,
+                        "url": url,
+                        "title": title,
+                        "date": date,
+                        "tag": self.tag_name,
+                        "_rss_content": clean_desc
+                    })
+        except Exception as e:
+            logger.error(f"❌ Fel vid hämtning från {self.name}: {e}")
+            self.blocked_requests += 1
+        self.log_statistics()
+        logger.info(f"📰 {self.name}: Extraherade {len(articles)} artiklar")
+        return articles
+
+    def parse_article_content(self, article_url):
+        return self.las_artikeltext(article_url, [
+            '.entry-content', 'article', '.content', 'main',
+        ])
+
+# === KENYA CHESS MASALA (RSS) ===
+# Tillagd 2026-09-06, se kommentar vid ChessBase España ovan. Trots namnet
+# bevakar sajten schack i hela Afrika, inte bara Kenya.
+class KenyaChessMasalaSource(NewsSource):
+    def __init__(self):
+        super().__init__("Kenya Chess Masala", "https://kenyachessmasala.com/feed/", "Kenya Chess Masala", True)
+        self.request_delay = 4
+
+    def fetch_articles(self):
+        import xml.etree.ElementTree as ET
+        logger.info(f"🌍 Hämtar artiklar från {self.name}...")
+        articles = []
+        try:
+            resp = self.safe_request_with_backoff(self.base_url)
+            if not resp:
+                return articles
+            root = ET.fromstring(resp.text)
+            items = root.findall('.//item')
+            logger.info(f"🔍 {self.name}: Hittade {len(items)} artiklar i RSS")
+            for item in items:
+                title = item.findtext('title') or ''
+                url = item.findtext('link') or item.findtext('guid') or ''
+                date = item.findtext('pubDate') or datetime.now().isoformat()
+                desc = item.findtext('description') or ''
+                clean_desc = re.sub(r'<[^>]+>', ' ', desc).strip()
+                clean_desc = re.sub(r'\s+', ' ', clean_desc)
+                if title and url and len(title) > 5:
+                    articles.append({
+                        "source": self.name,
+                        "url": url,
+                        "title": title,
+                        "date": date,
+                        "tag": self.tag_name,
+                        "_rss_content": clean_desc
+                    })
+        except Exception as e:
+            logger.error(f"❌ Fel vid hämtning från {self.name}: {e}")
+            self.blocked_requests += 1
+        self.log_statistics()
+        logger.info(f"📰 {self.name}: Extraherade {len(articles)} artiklar")
+        return articles
+
+    def parse_article_content(self, article_url):
+        return self.las_artikeltext(article_url, [
+            '.entry-content', 'article', '.content', 'main',
+        ])
+
 # === WORDPRESS PUBLISHER MED KATEGORIER ===
 class WordPressPublisher:
    def __init__(self):
@@ -1576,7 +1673,9 @@ class EmailApprovalSystem:
                'Norges Sjakkforbund': '#BA0C2F',
                'Bergensjakk': '#003897',
                'English Chess Federation': '#00247D',
-               'Chess News Network': '#37474F'
+               'Chess News Network': '#37474F',
+               'ChessBase España': '#D52B1E',
+               'Kenya Chess Masala': '#006600'
            }.get(article['source'], '#666')
            
            title = article.get('swedish_title', article.get('original_title', 'Ingen titel'))
@@ -1789,7 +1888,9 @@ class MultiNewsEngine:
            NorgesSjakkforbundSource(),
            BergensjakkSource(),
            EnglishChessFederationSource(),
-           ChessNewsNetworkSource()
+           ChessNewsNetworkSource(),
+           ChessBaseEspanaSource(),
+           KenyaChessMasalaSource()
        ]
    
    def collect_from_all_sources(self):
@@ -1974,6 +2075,8 @@ RUBRIKER:
                source_language = "danska"
            elif article['source'] in ("Norges Sjakkforbund", "Bergensjakk"):
                source_language = "norska"
+           elif article['source'] == "ChessBase España":
+               source_language = "spanska"
 
            # Tidigare kopierades Schack.se-notiser ordagrant (bara rubriken
            # oförändrad, brödtexten avklippt vid 1200 tecken) eftersom källan
