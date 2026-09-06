@@ -1,157 +1,284 @@
 [
   {
-    "id": "68e1465bd821",
+    "id": "f493df44a0b8",
     "status": "pending",
     "rubriker": [
       {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-1",
+        "title": "2026 Tech Mahindra Global Chess League Day 1",
+        "date": "2026-09-05T09:31:24.597847",
+        "tag": "Chess.com"
+      },
+      {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/spanish-primera-divsion-2026-r7",
-        "title": "Solvay score 14/14 to win Spanish Primera División, Ivanchuk excels on board one",
-        "date": "Thu, 03 Sep 2026 22:30:00 GMT",
+        "url": "https://en.chessbase.com/post/global-chess-league-2026-1",
+        "title": "Global Chess League: American Gambits win both their matches on opening day",
+        "date": "Sun, 06 Sep 2026 03:50:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "Club Ajedrez Solvay completed a perfect campaign at the Spanish \"Primera División\" in Linares, winning all seven matches to secure the title and promotion to the \"División de Honor\". Andreu Paterna finished second to claim the other promotion place, while Platja d'Aro took third. Vasyl Ivanchuk led the champions on board one, scoring 5/7 and gaining 13 rating points. | Photo: Spanish Chess Federation"
+        "_rss_content": "The fourth season of the Tech Mahindra Global Chess League got under way on Saturday, with the FYERS American Gambits making the strongest start. They won both of their opening-day matches, including a victory over the Triveni Continental Kings, who lost twice. The Ganges Grandmasters and Alpine APL Pipers also began with wins as the six-team double round-robin stage commenced at the Lalit Ashok hotel in Bengaluru. | Pictured: Javokhir Sindarov (American Gambits) defeated Viswanathan Anand (Alaskan Knights) | Photo: Amruta Mokal"
+      },
+      {
+        "source": "ChessBase India",
+        "url": "https://www.chessbase.in/news/global-chess-league-2026-day-1",
+        "title": "SpotlightTop storyDevansh Singh·5 hours agoSindarov Shocks Vishy Anand as American Gambits Shine at GCL 2026 Day 1",
+        "date": "2026-09-05T09:31:44.758918",
+        "tag": "ChessBase India"
+      },
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/tech-mahindra-global-chess-league-2026-presentation-10068.html",
+        "title": "Lire l'articleTech Mahindra Global Chess League 2026Début de la Global Chess League2",
+        "date": "2026-09-05T09:31:55.344607",
+        "tag": "Europe Echecs"
       },
       {
         "source": "TWIC",
-        "url": "https://theweekinchess.com/chessnews/events/tch-esp-1st-div-2026",
-        "title": "TCh-ESP 1st Div 2026 - Games and results",
-        "date": "Thu Sep  3 18:43:00 2026",
+        "url": "https://theweekinchess.com/twic-news-feed/season-four-of-the-tech-mahindra-global-chess-league",
+        "title": "Season Four of the Tech Mahindra Global Chess League - Start",
+        "date": "Fri Sep  4 12:55:00 2026",
         "tag": "TWIC",
-        "_rss_content": "The Spanish CECLUB 1st Div took place Thu 27th August to Wed 2nd September 2026. Club Ajedrez Solvay headed by Vasyl Ivanchuk won the title. Final Standings: 1st Club Ajedrez Solvay, 14.0 points. 2nd Andreu Paterna, 9.0. 3rd Platja Daro Club Escacs, 8.0. 4th Ciudad Naranco, 7.0. 5th-7th Granada Sidn-civica-nazaries-trevenque, Club Ajedrez Sestao and Gros Xake Taldea, 6.0. 8th Ca Fundacion La Caja, 0.0. 8 teams."
-      }
-    ],
-    "kalla_display": "ChessBase + TWIC",
-    "datum": "Thu, 03 Sep 2026 22:30:00 GMT",
-    "hittad": "2026-09-04T09:45:24.183994"
-  },
-  {
-    "id": "34f58ce0be8b",
-    "status": "pending",
-    "rubriker": [
+        "_rss_content": "The 2026 Tech Mahindra Global Chess League runs Sat 5th-13th Sept in Bengaluru, India. It uses a rapid time control of 20 minutes plus 2 seconds a move. Magnus Carlsen, Alireza Firouzja and Viswanathan Anand star. League: 6 teams 10 matches, the top two finishers play for the title, the next two for 3rd-4th."
+      },
       {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/faustino-oro-officially-becomes-worlds-youngest-grandmaster",
-        "title": "Faustino Oro Officially Becomes Worlds Youngest Grandmaster",
-        "date": "2026-09-03T09:44:43.260545",
-        "tag": "Chess.com"
+        "source": "TWIC",
+        "url": "https://theweekinchess.com/chessnews/events/tech-mahindra-global-chess-league-2026",
+        "title": "Tech Mahindra Global Chess League 2026 - Games and results",
+        "date": "Fri Sep  4 12:51:00 2026",
+        "tag": "TWIC",
+        "_rss_content": "The Tech Mahindra Global Chess League takes place in Bengaluru, India 5th-13th September 2026. 6 Teams play over 10 rounds in rapid (10m+2spm) chess. Each match has its own session, there will be four a day for most of the league stage, 3 for the final couple of days. The top two finishers play for the title, the next two for 3rd and 4th on the final day, Firouzja, Sindarov, Carlsen and MVL are amongst the players."
       }
     ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-09-03T09:44:43.260545",
-    "hittad": "2026-09-04T09:45:24.184014"
+    "kalla_display": "Chess.com + ChessBase + ChessBase India + Europe Echecs + TWIC",
+    "datum": "2026-09-05T09:31:24.597847",
+    "hittad": "2026-09-06T09:32:08.854900"
   },
   {
-    "id": "ba6a0412e326",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/washington-square-park-hustler-chichi-detained-by-ice",
-        "title": "Washington Square Park Hustler Chichi Detained By Ice",
-        "date": "2026-09-03T09:44:43.260581",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-09-03T09:44:43.260581",
-    "hittad": "2026-09-04T09:45:24.184021"
-  },
-  {
-    "id": "a9c2d6fca574",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/how-to-watch-global-chess-league-season-4",
-        "title": "How To Watch Global Chess League Season 4",
-        "date": "2026-09-03T09:44:43.260600",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-09-03T09:44:43.260600",
-    "hittad": "2026-09-04T09:45:24.184026"
-  },
-  {
-    "id": "8ec8c9a8274e",
+    "id": "42e68c76b578",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/does-ai-understand-chess-humour",
-        "title": "Does AI understand chess humour?",
-        "date": "Thu, 03 Sep 2026 15:00:00 GMT",
+        "url": "https://en.chessbase.com/post/european-senior-teams-2026-r9",
+        "title": "England and Slovenia win European Senior Team Championships",
+        "date": "Sun, 06 Sep 2026 09:20:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "I have been generally investigating AI's ability to appreciate humour. Do AI clients catch the point in jokes and cartoons, and do they interpret them correctly? Do they consider the jokes funny, or do they merely know what humans find funny? After doing some general research on these questions, I turned to chess. I showed these cartoons to AI. Here the reactions. My experiments were not conclusive, but at least a lot of fun. You should try it our yourself."
+        "_rss_content": "England and Slovenia claimed the titles at the European Senior Team Championships in Crete. England finished unbeaten to win the 50+ section with 17/18 match points, one ahead of Italy. In the 65+ competition, Slovenia and England both scored 16/18, with the Slovenian team taking gold on tiebreaks after having defeated their English rivals in their direct encounter. | Photo: Zetta Grapsa / European Chess Union"
+      },
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/championnat-d-europe-seniors-par-equipes-2026-classement-final-10073.html",
+        "title": "Championnat d'Europe Seniors par Équipes 2026La Slovénie et l'Angleterre dominent le Championnat d'Europe seniors par équipes",
+        "date": "2026-09-05T09:31:55.344566",
+        "tag": "Europe Echecs"
+      },
+      {
+        "source": "TWIC",
+        "url": "https://theweekinchess.com/chessnews/events/european-senior-team-championship-2026",
+        "title": "European Senior Team Championship 2026 - Games and results",
+        "date": "Fri Sep  4 19:21:00 2026",
+        "tag": "TWIC",
+        "_rss_content": "The European Senior Team Championship 2026 took place Thu 27th August to Fri 4th September 2026. In the +50 event final Standings: 1st England 1, 17pts. 2nd Italy, 16pts. 3rd-4th Netherlands were just ahead of Slovakia on tie-break after they both scored 13pts. In the +65 final 1st Slovenia who overtook England on tie-break after winning their final round 4-0 against SG Riehen Switzerland, both teams scored 16pts and they were a point clear of Italy."
+      },
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/ettan/2026/09/seniorerna-pa-attonde-plats-i-lag-em/?utm_source=rss&utm_medium=rss&utm_campaign=seniorerna-pa-attonde-plats-i-lag-em",
+        "title": "Seniorerna på åttonde plats i Lag-EM",
+        "date": "Sat, 05 Sep 2026 08:39:19 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Sveriges 65+ seniorer kom på åttonde plats bland 18 lag i Lag-EM för seniorer på Kreta i Grekland. Andralaget placerade sig på 13:e plats. Förstalaget noterade 9 poäng (fyra segrar, [&#8230;] Inlägget Seniorerna på åttonde plats i Lag-EM dök först upp på Sveriges Schackförbund ."
       }
     ],
-    "kalla_display": "ChessBase",
-    "datum": "Thu, 03 Sep 2026 15:00:00 GMT",
-    "hittad": "2026-09-04T09:45:24.184031"
+    "kalla_display": "ChessBase + Europe Echecs + Schack.se + TWIC",
+    "datum": "Sun, 06 Sep 2026 09:20:00 GMT",
+    "hittad": "2026-09-06T09:32:08.854920"
   },
   {
-    "id": "02f2779582f5",
+    "id": "9988ffff965e",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/praggnanandhaa-interview-olympiad-gukesh-sindarov",
+        "title": "Praggnanandhaa Interview Olympiad Gukesh Sindarov",
+        "date": "2026-09-05T09:31:24.598010",
+        "tag": "Chess.com"
+      },
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/-praggnanandhaa-est-le-numero-un-mondial-anand-10066.html",
+        "title": "Lire l'article« Praggnanandhaa est le numéro un mondial » (Anand)",
+        "date": "2026-09-05T09:31:55.344676",
+        "tag": "Europe Echecs"
+      }
+    ],
+    "kalla_display": "Chess.com + Europe Echecs",
+    "datum": "2026-09-05T09:31:24.598010",
+    "hittad": "2026-09-06T09:32:08.854929"
+  },
+  {
+    "id": "8bc483f63f98",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/xiong-wins-bullet-brawl-sep-5-2026",
+        "title": "Xiong Wins Bullet Brawl Sep 5 2026",
+        "date": "2026-09-05T09:31:24.597891",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-09-05T09:31:24.597891",
+    "hittad": "2026-09-06T09:32:08.854937"
+  },
+  {
+    "id": "c1c055fa1627",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/2026-duck-chess-championship-khachatryan-wins",
+        "title": "2026 Duck Chess Championship Khachatryan Wins",
+        "date": "2026-09-05T09:31:24.597928",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-09-05T09:31:24.597928",
+    "hittad": "2026-09-06T09:32:08.854943"
+  },
+  {
+    "id": "9efc81dad8ff",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/lazavik-maghsoodloo-terry-3-0-thursday-09-03-2026",
+        "title": "Lazavik Maghsoodloo Terry 3 0 Thursday 09 03 2026",
+        "date": "2026-09-05T09:31:24.597958",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-09-05T09:31:24.597958",
+    "hittad": "2026-09-06T09:32:08.854950"
+  },
+  {
+    "id": "f75666681b3f",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/collegiate-chess-league-fall-2026-registration",
+        "title": "Collegiate Chess League Fall 2026 Registration",
+        "date": "2026-09-05T09:31:24.597983",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-09-05T09:31:24.597983",
+    "hittad": "2026-09-06T09:32:08.854956"
+  },
+  {
+    "id": "03a4a83712c7",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/opening-encyclopaedia-2026-review-nagesh-havanur",
-        "title": "Opening Encyclopaedia 2026: Introduction and Open Games",
-        "date": "Thu, 03 Sep 2026 12:00:00 GMT",
+        "url": "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-30-use-folders",
+        "title": "ChessBase´26 – Tips for Beginners, part 30: Use \"Folders\"",
+        "date": "Sun, 06 Sep 2026 07:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "The Opening Encyclopaedia 2026 presents you with a wealth of new ideas for your opening repertoire. From May 2025 to March 2026, 62 new repertoire suggestions and 46 new videos have been added to the Opening Encyclopaedia! In total, you have access to 1586 opening articles, 100 videos and 8274 surveys covering a period of over 26 years!"
+        "_rss_content": "ChessBase´26 is amazingly versatile and often surprisingly user-friendly — as the first 29 parts of this tutorial series have already shown! One particularly important feature in this context is the “Folders” window, which lets you quickly locate anything you want to use within your storage directories. In this episode, we’ll show you how to activate the window (in case it’s been disabled) and what you can view and work with there."
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Thu, 03 Sep 2026 12:00:00 GMT",
-    "hittad": "2026-09-04T09:45:24.184035"
+    "datum": "Sun, 06 Sep 2026 07:00:00 GMT",
+    "hittad": "2026-09-06T09:32:08.854966"
   },
   {
-    "id": "a004e5450a26",
+    "id": "3af1ee37f686",
     "status": "pending",
     "rubriker": [
       {
-        "source": "FIDE",
-        "url": "https://www.fide.com/category/official-documents/",
-        "title": "Official Documents",
-        "date": "2026-09-03T09:44:55.739309",
-        "tag": "FIDE"
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/pouya-idani-represents-france-2026",
+        "title": "Pouya Idani switches federations from Iran to France",
+        "date": "Sat, 05 Sep 2026 18:15:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Iranian grandmaster Pouya Idani has switched federations and will now represent France. The 30-year-old, who has lived in Brest since 2023 and has long been active in French club chess, enters the country's top group of players with a rating above 2600. Idani, a former World Under-18 champion and Iranian Olympiad representative, will nevertheless have to wait before becoming eligible for the French national team. | Photo: Amruta Mokal"
       }
     ],
-    "kalla_display": "FIDE",
-    "datum": "2026-09-03T09:44:55.739309",
-    "hittad": "2026-09-04T09:45:24.184039"
+    "kalla_display": "ChessBase",
+    "datum": "Sat, 05 Sep 2026 18:15:00 GMT",
+    "hittad": "2026-09-06T09:32:08.854974"
   },
   {
-    "id": "4f3c3d6ea27d",
+    "id": "8ea44db8d218",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/ettantopp/2026/09/dam-sm-ostensson-tog-hem-snabbschacket/?utm_source=rss&utm_medium=rss&utm_campaign=dam-sm-ostensson-tog-hem-snabbschacket",
+        "title": "Dam-SM: Östensson tog hem snabbschacket",
+        "date": "Sun, 06 Sep 2026 07:18:03 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Efter fyra ronder så ledde Lavinia Valcu, Solna-Sundbyberg SS Dam-SM i snabbschack med full pott &#8211; fyra segrar. Sedan följde ett dramatiskt parti mellan Lavinia och Julia Östensson, Uppsala SSS [&#8230;] Inlägget Dam-SM: Östensson tog hem snabbschacket dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Sun, 06 Sep 2026 07:18:03 +0000",
+    "hittad": "2026-09-06T09:32:08.854980"
+  },
+  {
+    "id": "bd992e75cffb",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/damschack/2026/09/har-foljer-du-dam-sm-i-helgen/?utm_source=rss&utm_medium=rss&utm_campaign=har-foljer-du-dam-sm-i-helgen",
+        "title": "Här följer du Dam-SM i helgen",
+        "date": "Fri, 04 Sep 2026 18:45:38 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Med över 50 starter och flera titelhållare på plats blir årets Dam-SM i blixt och snabbschack en spännande turnering. Förutom kampen om medaljerna ligger det också en plats till VM [&#8230;] Inlägget Här följer du Dam-SM i helgen dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Fri, 04 Sep 2026 18:45:38 +0000",
+    "hittad": "2026-09-06T09:32:08.854986"
+  },
+  {
+    "id": "bae8a473bf04",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/ettan/2026/09/tavlings-och-regelkommitten-far-ny-ordforande/?utm_source=rss&utm_medium=rss&utm_campaign=tavlings-och-regelkommitten-far-ny-ordforande",
+        "title": "Tävlings- och regelkommittén får ny ordförande",
+        "date": "Thu, 03 Sep 2026 09:18:24 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Tävlings- och regelkommittén (TK) har fått en ny ordförande. Det är Kenneth Fahlberg från Njurunda utanför Sundsvall. Kenneth är sportjournalist på Sundsvalls Tidning. Till vardags representerar han Fagerviks Schackklubb. TK [&#8230;] Inlägget Tävlings- och regelkommittén får ny ordförande dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Thu, 03 Sep 2026 09:18:24 +0000",
+    "hittad": "2026-09-06T09:32:08.854992"
+  },
+  {
+    "id": "1cf3287a1a8a",
     "status": "pending",
     "rubriker": [
       {
         "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/interview-de-timur-turlov-candidat-a-la-presidence-de-la-fide-10070.html",
-        "title": "Interview de Timur Turlov, candidat à la présidence de la FIDE",
-        "date": "2026-09-03T09:45:15.820730",
+        "url": "https://www.europe-echecs.com/art/ian-nepomniachtchi-exprime-ses-doutes-apres-sa-defaite-contre-aaron-mendes-14-ans-10071.html",
+        "title": "Lire l'articleIan Nepomniachtchi exprime ses doutes après sa défaite contre Aaron Mendes, 14 ans5",
+        "date": "2026-09-05T09:31:55.344632",
         "tag": "Europe Echecs"
       }
     ],
     "kalla_display": "Europe Echecs",
-    "datum": "2026-09-03T09:45:15.820730",
-    "hittad": "2026-09-04T09:45:24.184047"
-  },
-  {
-    "id": "f36d12b8dc62",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/le-grand-maitre-iranien-pouya-idani-joue-desormais-pour-la-france-10065.html",
-        "title": "Lire l'articleLe grand maître iranien Pouya Idani joue désormais pour la France2",
-        "date": "2026-09-03T09:45:15.820774",
-        "tag": "Europe Echecs"
-      }
-    ],
-    "kalla_display": "Europe Echecs",
-    "datum": "2026-09-03T09:45:15.820774",
-    "hittad": "2026-09-04T09:45:24.184052"
+    "datum": "2026-09-05T09:31:55.344632",
+    "hittad": "2026-09-06T09:32:08.854998"
   }
 ]
