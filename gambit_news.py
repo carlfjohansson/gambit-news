@@ -1203,9 +1203,18 @@ class EnglishChessFederationSource(NewsSource):
 # === CHESS NEWS NETWORK (RSS) ===
 # Tillagd 2026-09-06, se kommentar vid Dansk Skak Union ovan.
 class ChessNewsNetworkSource(NewsSource):
+    # OBS (bugg 17, 2026-09-07): sajten är en Next.js-app där artikeltexten
+    # laddas in med JavaScript EFTER sidladdning - HTML:en som `requests`
+    # (utan JS-motor) ser innehåller bara meny/metadata, aldrig brödtexten.
+    # Därför gav las_artikeltext() alltid tomt/oläsbart resultat här.
+    # Lösning: sajtens egen publika JSON-endpoint /api/articles innehåller
+    # ALLA artiklar med fullständig brödtext (fältet "body", en lista av
+    # stycken), och "id" i varje post är exakt samma slug som ligger sist
+    # i artikelns URL - så vi kan slå upp texten direkt utan att skrapa HTML.
     def __init__(self):
         super().__init__("Chess News Network", "https://chessnewsnetwork.com/rss.xml", "Chess News Network", True)
         self.request_delay = 4
+        self._api_artiklar_cache = None
 
     def fetch_articles(self):
         import xml.etree.ElementTree as ET
@@ -1241,7 +1250,36 @@ class ChessNewsNetworkSource(NewsSource):
         logger.info(f"📰 {self.name}: Extraherade {len(articles)} artiklar")
         return articles
 
+    def _hamta_api_artiklar(self):
+        """Hämtar och cachar sajtens /api/articles-lista (en gång per körning)."""
+        if self._api_artiklar_cache is not None:
+            return self._api_artiklar_cache
+        try:
+            resp = self.safe_request_with_backoff("https://chessnewsnetwork.com/api/articles")
+            if resp:
+                self._api_artiklar_cache = resp.json()
+            else:
+                self._api_artiklar_cache = []
+        except Exception as e:
+            logger.error(f"❌ {self.name}: kunde inte hämta /api/articles - {e}")
+            self._api_artiklar_cache = []
+        return self._api_artiklar_cache
+
     def parse_article_content(self, article_url):
+        slug = article_url.rstrip('/').split('/')[-1]
+        for artikel in self._hamta_api_artiklar():
+            if artikel.get('id') == slug:
+                stycken = artikel.get('body') or []
+                text = "\n\n".join(
+                    re.sub(r'<[^>]+>', '', stycke).strip()
+                    for stycke in stycken if stycke and stycke.strip()
+                )
+                if len(text) >= 80:
+                    return text
+                break
+        # Reservlösning om artikeln av någon anledning saknas i API-listan
+        # (t.ex. hunnit tas bort) - då blir det troligen fortfarande för
+        # kort/tomt, men bättre än att krascha.
         return self.las_artikeltext(article_url, [
             'article', '.entry-content', '.post-content', '#content', 'main',
         ])
