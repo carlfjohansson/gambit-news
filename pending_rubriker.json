@@ -1,111 +1,278 @@
 [
   {
-    "id": "bde598e2646f",
+    "id": "2831336bdffd",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-3",
-        "title": "2026 Tech Mahindra Global Chess League Day 3",
-        "date": "2026-09-07T09:51:26.258708",
+        "url": "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-5",
+        "title": "2026 Tech Mahindra Global Chess League Day 5",
+        "date": "2026-09-09T09:51:42.996038",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-09-07T09:51:26.258708",
-    "hittad": "2026-09-08T09:52:49.948925"
+    "datum": "2026-09-09T09:51:42.996038",
+    "hittad": "2026-09-10T09:53:10.191901"
   },
   {
-    "id": "4c677abbdeb0",
+    "id": "cfe371378b8f",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/how-to-watch-fide-presidential-debate-2026",
-        "title": "How To Watch Fide Presidential Debate 2026",
-        "date": "2026-09-07T09:51:26.258758",
+        "url": "https://www.chess.com/news/view/announcing-judit-polgar-chess-festival-2026",
+        "title": "Announcing Judit Polgar Chess Festival 2026",
+        "date": "2026-09-09T09:51:42.996073",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-09-07T09:51:26.258758",
-    "hittad": "2026-09-08T09:52:49.948947"
+    "datum": "2026-09-09T09:51:42.996073",
+    "hittad": "2026-09-10T09:53:10.191920"
   },
   {
-    "id": "ca32e6490a98",
+    "id": "282ecf0e418b",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-4",
+        "title": "2026 Tech Mahindra Global Chess League Day 4",
+        "date": "2026-09-09T09:51:42.996100",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-09-09T09:51:42.996100",
+    "hittad": "2026-09-10T09:53:10.191929"
+  },
+  {
+    "id": "1ead2dd485cf",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/liem-le-wins-titled-tuesday-september-8-2026",
+        "title": "Liem Le Wins Titled Tuesday September 8 2026",
+        "date": "2026-09-09T09:51:42.996132",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-09-09T09:51:42.996132",
+    "hittad": "2026-09-10T09:53:10.191938"
+  },
+  {
+    "id": "66568030c264",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/announcing-game-review-course-check",
+        "title": "Announcing Game Review Course Check",
+        "date": "2026-09-09T09:51:42.996159",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-09-09T09:51:42.996159",
+    "hittad": "2026-09-10T09:53:10.191947"
+  },
+  {
+    "id": "a9eb42eb483a",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/global-chess-league-carlsen-s-pipers-take-the-lead",
-        "title": "Global Chess League: Carlsen’s Pipers Take the Lead",
-        "date": "Tue, 08 Sep 2026 09:23:39 GMT",
+        "url": "https://en.chessbase.com/post/legends-prodigies-live",
+        "title": "Legends & Prodigies, Round 6 - Live!",
+        "date": "Thu, 10 Sep 2026 10:51:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "The Alpine APL Pipers, with Magnus Carlsen on the icon board, took sole lead in the standings on day three of the Global Chess League in Bengaluru. In their first match of the day, Carlsen beat Viswanathan Anand on time (pictured), but the Pipers nevertheless lost to the PBG Alaskan Knights. Carlsen's team then bounced back with a 15-3 victory over the previously leading FYERS American Gambits. After four of ten matches, the Pipers lead the table with nine match points, followed by four teams on six. | Photos: Global Chess League"
+        "_rss_content": "The second half of the \"Legends & Prodigies\" tournament in Madrid begins on Thursday morning with round six. After five rounds, David Antón leads with 4/5, half a point ahead of defending champion Faustino Oro. In round six, Oro has Black against Diego Flores, whom he defeated in the opening round, while Antón faces José Cuenca with White. The third game is José Martínez v Ivan Sokolov. | Live with commentary from 11:00 CEST. | Photo: Mar Melero"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Tue, 08 Sep 2026 09:23:39 GMT",
-    "hittad": "2026-09-08T09:52:49.948957"
+    "datum": "Thu, 10 Sep 2026 10:51:00 GMT",
+    "hittad": "2026-09-10T09:53:10.191956"
   },
   {
-    "id": "8f500c3f69fa",
+    "id": "bb8278e60f06",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/philidor-at-300-chess-master-musician-and-pioneer",
-        "title": "Philidor at 300: Chess Master, Musician and Pioneer",
-        "date": "Mon, 07 Sep 2026 20:00:00 GMT",
+        "url": "https://en.chessbase.com/post/legends-prodigies-david-antn-scores-twice-to-take-sole-lead",
+        "title": "Legends & Prodigies: David Antón scores twice to take sole lead",
+        "date": "Thu, 10 Sep 2026 09:32:49 GMT",
         "tag": "ChessBase",
-        "_rss_content": "François-André Danican, better known as Philidor, was born 300 years ago today. A celebrated musician and the greatest chess player of his age, he made his living from chess in Paris and London, performed blindfold exhibitions in Berlin and, at the invitation of Frederick II, visited Sanssouci Palace. A look back at the remarkable life of one of the first great names in chess history. | Picture: François-André Philidor (1726–1795) by Augustin de Saint-Aubin and Charles-Nicolas Cochin"
+        "_rss_content": "After six draws the previous day, the players at the Legends & Prodigies tournament in Madrid seemed ready for a fight: rounds four and five produced just one draw in six games. Faustino Oro beat Ivan Sokolov before drawing with Jose Eduardo Martinez Alcantara, while David Antón scored two wins, defeating Diego Flores and Sokolov. The experienced Spaniard now leads the young Argentine by half a point. | Photo: David Antón winning the 2025 Spanish Championship | Photo: Spanish Chess Federation"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Mon, 07 Sep 2026 20:00:00 GMT",
-    "hittad": "2026-09-08T09:52:49.948967"
+    "datum": "Thu, 10 Sep 2026 09:32:49 GMT",
+    "hittad": "2026-09-10T09:53:10.191961"
   },
   {
-    "id": "63ce56120a61",
+    "id": "6651d7636c5c",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/review-opening-encyclopedia-2",
+        "title": "Review: Opening Encyclopedia 2026",
+        "date": "Wed, 09 Sep 2026 21:00:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "The ChessBase Opening Encyclopedia 2026 is one of the company’s flagship products alongside the Mega Database and the ChessBase database program - currently ChessBase'26. For years, these programs have formed part of the essential toolkit for everyday chess work. From the very beginning, the Opening Encyclopedia has played a key role by providing a fast and efficient overview of the entire spectrum of chess openings. Lukas Köpl took a closer look at the latest edition of the Opening Encyclopedia and summed up his impressions."
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Wed, 09 Sep 2026 21:00:00 GMT",
+    "hittad": "2026-09-10T09:53:10.191970"
+  },
+  {
+    "id": "69c50a32b2d1",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/chessbase-summer-special-part-10",
+        "title": "ChessBase Summer-Special! – Part 10",
+        "date": "Wed, 09 Sep 2026 15:00:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Dear chess friends! This week's Summer Special offers you a real powerhouse: Fritz 21 and the Openingbook 2026 are available this week (until September 13, 2026) for €189.90 – save around €50!"
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Wed, 09 Sep 2026 15:00:00 GMT",
+    "hittad": "2026-09-10T09:53:10.191984"
+  },
+  {
+    "id": "9d688583aad6",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/oro-and-antn-guijarro-share-the-lead-in-madrid",
+        "title": "Oro and Antón Guijarro share the lead in Madrid",
+        "date": "Wed, 09 Sep 2026 10:35:07 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "There were no winners on the second day of the Legends & Prodigies tournament in Madrid. All six games from rounds two and three ended in draws, including the third-round encounter between Faustino Oro and David Antón Guijarro, the two players who had won their opening games. | Photo: Faustino Oro at the 2026 Wijk aan Zee tournament | Photo: Nils Rohde"
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Wed, 09 Sep 2026 10:35:07 GMT",
+    "hittad": "2026-09-10T09:53:10.191993"
+  },
+  {
+    "id": "03bfb91b4c06",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/andrew-martin-the-evans-gambit-is-still-dangerous",
+        "title": "Andrew Martin - The Evans Gambit is still dangerous",
+        "date": "Wed, 09 Sep 2026 07:05:19 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Andrew Martin presents the Evans Gambit as a dangerous and highly practical weapon for club players, especially those rated below 1800. Using a historic game by William Davies Evans, he shows how White gives up a pawn for rapid development, central control and direct attacking chances against the black king. Martin also explains why the opening remains relevant today despite modern engine analysis, with even top players such as Magnus Carlsen facing it in recent practice. The course is designed not only to teach a playable repertoire, but also to sharpen tactical vision and help players enjoy dynamic attacking chess."
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Wed, 09 Sep 2026 07:05:19 GMT",
+    "hittad": "2026-09-10T09:53:10.192000"
+  },
+  {
+    "id": "9fc25ed6dfc5",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/mind-vs-machine",
+        "title": "Mind vs Machine",
+        "date": "Tue, 08 Sep 2026 19:00:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "1997: Kasparov vs Deep Blue. We all know the story. But here is a new version told by three-time National Book Award finalist Steve Sheinkin, using first-hand accounts from grandmaster Maurice Ashley, with riveting illustrations by Eisner winner Thien Pham. The narrative, in comic book form, captures the excitement and suspense of a classic sports showdown and explores thought-provoking themes about where humanity stands at the rise of AI."
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Tue, 08 Sep 2026 19:00:00 GMT",
+    "hittad": "2026-09-10T09:53:10.192007"
+  },
+  {
+    "id": "b8f56bb688ea",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettan/2026/09/vitalij-sivuk-tvaa-i-gazi-open-i-turkiet/?utm_source=rss&utm_medium=rss&utm_campaign=vitalij-sivuk-tvaa-i-gazi-open-i-turkiet",
-        "title": "Vitalij Sivuk tvåa i Gazi Open i Turkiet",
-        "date": "Tue, 08 Sep 2026 09:15:42 +0000",
+        "url": "https://schack.se/nyhet/junior-och-ungdom/2026/09/folj-svenska-skollagen-i-nm-i-helgen/?utm_source=rss&utm_medium=rss&utm_campaign=folj-svenska-skollagen-i-nm-i-helgen",
+        "title": "Följ svenska skollagen i NM i helgen",
+        "date": "Thu, 10 Sep 2026 05:15:01 +0000",
         "tag": "Svenska Schackförbundet",
-        "_rss_content": "Den dubble svenske mästaren Vitalij Sivuk (2023 och 2024) slutade tvåa i den nya turneringen Gazi International Chess Tournament i Turkiet som avslutades i helgen. Värdorten Gaziantep (södra Turkiet) är [&#8230;] Inlägget Vitalij Sivuk tvåa i Gazi Open i Turkiet dök först upp på Sveriges Schackförbund ."
+        "_rss_content": "Nordiska mästerskapet för skollag avgörs på Scandic hotel Nord i Helsingborg kommande helg, 11–13 september. Sverige har fyra lag med: Engelska skolan Norr och Berzeliusskolan i U17-klassen samt Adolf Fredriks [&#8230;] Inlägget Följ svenska skollagen i NM i helgen dök först upp på Sveriges Schackförbund ."
       }
     ],
     "kalla_display": "Schack.se",
-    "datum": "Tue, 08 Sep 2026 09:15:42 +0000",
-    "hittad": "2026-09-08T09:52:49.948977"
+    "datum": "Thu, 10 Sep 2026 05:15:01 +0000",
+    "hittad": "2026-09-10T09:53:10.192015"
   },
   {
-    "id": "ea77943205ec",
+    "id": "43d90ced0ff3",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/schack-i-skolan/2026/09/framgangsrika-ies-taby-diplomerades/?utm_source=rss&utm_medium=rss&utm_campaign=framgangsrika-ies-taby-diplomerades",
-        "title": "Framgångsrika IES Täby diplomerades",
-        "date": "Tue, 08 Sep 2026 07:53:49 +0000",
+        "url": "https://schack.se/nyhet/internationellt/2026/09/strul-i-debatten-en-av-fide-kandidaterna-forsvann/?utm_source=rss&utm_medium=rss&utm_campaign=strul-i-debatten-en-av-fide-kandidaterna-forsvann",
+        "title": "Strul i debatten: En av FIDE-kandidaterna försvann",
+        "date": "Wed, 09 Sep 2026 16:50:09 +0000",
         "tag": "Svenska Schackförbundet",
-        "_rss_content": "Det blev en bra start på veckan för Internationella Engelska Skolan Täby då de tidigt på måndagsmorgonen den 7 september blev uppvaktade med blommor och diplom av generalsekreterare Håkan Östling [&#8230;] Inlägget Framgångsrika IES Täby diplomerades dök först upp på Sveriges Schackförbund ."
+        "_rss_content": "Det blev tekniskt strul när de tre kandidaterna till ny FIDE-president möttes i valdebatten på onsdagen. En debatt som sändes på Chess.coms Youtubekanal. Det började enligt plan när trion Wadim [&#8230;] Inlägget Strul i debatten: En av FIDE-kandidaterna försvann dök först upp på Sveriges Schackförbund ."
       }
     ],
     "kalla_display": "Schack.se",
-    "datum": "Tue, 08 Sep 2026 07:53:49 +0000",
-    "hittad": "2026-09-08T09:52:49.948984"
+    "datum": "Wed, 09 Sep 2026 16:50:09 +0000",
+    "hittad": "2026-09-10T09:53:10.192021"
   },
   {
-    "id": "ab3c001360b3",
+    "id": "20e03891dc19",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/distrikt-och-klubb/2026/09/distriktskartlaggning-framtidens-ledare-efterlyses/?utm_source=rss&utm_medium=rss&utm_campaign=distriktskartlaggning-framtidens-ledare-efterlyses",
+        "url": "https://schack.se/nyhet/internationellt/2026/09/16-00-kandidaterna-till-ny-fide-president-mots-i-debatt/?utm_source=rss&utm_medium=rss&utm_campaign=16-00-kandidaterna-till-ny-fide-president-mots-i-debatt",
+        "title": "16.00: Kandidaterna till ny FIDE-president möts i debatt",
+        "date": "Wed, 09 Sep 2026 07:47:46 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "När ryssen Arkadij Dvorkovitj hamnade på EU:s sanktionslista i somras valde han att kliva av som FIDE-president. Därmed står dörren öppen för en ny president i världsschackförbundet efter ryssens åtta [&#8230;] Inlägget 16.00: Kandidaterna till ny FIDE-president möts i debatt dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Wed, 09 Sep 2026 07:47:46 +0000",
+    "hittad": "2026-09-10T09:53:10.192025"
+  },
+  {
+    "id": "13c74d60a5ad",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/damschack/2026/09/damschacksprojektet-ar-i-mal/?utm_source=rss&utm_medium=rss&utm_campaign=damschacksprojektet-ar-i-mal",
+        "title": "Damschacksprojektet är i mål",
+        "date": "Tue, 08 Sep 2026 10:21:13 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Under våren 2026 har Sveriges Schackförbund genomfört ett omfattande projekt för att få en samlad och faktabaserad bild av damschackets nuläge, utmaningar och möjligheter i Sverige. Nu är arbetet klart [&#8230;] Inlägget Damschacksprojektet är i mål dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Tue, 08 Sep 2026 10:21:13 +0000",
+    "hittad": "2026-09-10T09:53:10.192029"
+  },
+  {
+    "id": "0fe6a5f443c6",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/ettan/2026/09/distriktskartlaggning-framtidens-ledare-efterlyses/?utm_source=rss&utm_medium=rss&utm_campaign=distriktskartlaggning-framtidens-ledare-efterlyses",
         "title": "Distriktskartläggning: ”Framtidens ledare” efterlyses",
         "date": "Mon, 07 Sep 2026 15:37:15 +0000",
         "tag": "Svenska Schackförbundet",
@@ -114,361 +281,276 @@
     ],
     "kalla_display": "Schack.se",
     "datum": "Mon, 07 Sep 2026 15:37:15 +0000",
-    "hittad": "2026-09-08T09:52:49.948991"
+    "hittad": "2026-09-10T09:53:10.192032"
   },
   {
-    "id": "1729e74afc0f",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/damschack/2026/09/dam-sm-ostensson-tog-hem-snabbschacket/?utm_source=rss&utm_medium=rss&utm_campaign=dam-sm-ostensson-tog-hem-snabbschacket",
-        "title": "Dam-SM: Östensson tog hem snabbschacket",
-        "date": "Sun, 06 Sep 2026 07:18:03 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Efter fyra ronder så ledde Lavinia Valcu, Solna-Sundbyberg SS Dam-SM i snabbschack med full pott &#8211; fyra segrar. Sedan följde ett dramatiskt parti mellan Lavinia och Julia Östensson, Uppsala SSS [&#8230;] Inlägget Dam-SM: Östensson tog hem snabbschacket dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Sun, 06 Sep 2026 07:18:03 +0000",
-    "hittad": "2026-09-08T09:52:49.949001"
-  },
-  {
-    "id": "bb6c34d08ab9",
+    "id": "9d26030b6df0",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/global-chess-league-2026-day-3",
-        "title": "SpotlightTop storyDevansh Singh·6 hours agoMagnus Flags Vishy & Alpine Pipers Grab the Sole Lead on GCL 2026 Day 3",
-        "date": "2026-09-07T09:51:47.658081",
+        "url": "https://www.chessbase.in/news/global-chess-league-2026-day-5",
+        "title": "SpotlightTop storyDevansh Singh·4 hours agoGCL 2026 Day 5: Sindarov Powers FYERS American Gambits to the Top",
+        "date": "2026-09-09T09:52:02.910666",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-09-07T09:51:47.658081",
-    "hittad": "2026-09-08T09:52:49.949008"
+    "datum": "2026-09-09T09:52:02.910666",
+    "hittad": "2026-09-10T09:53:10.192036"
   },
   {
-    "id": "1e37ac571b6c",
+    "id": "02ac4f845d5b",
     "status": "pending",
     "rubriker": [
       {
         "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/elon-musk-relance-le-debat-les-echecs-peuvent-ils-etre-totalement-resolus-10075.html",
-        "title": "Lire l'articleElon Musk relance le débat : les échecs peuvent-ils être totalement résolus ?6",
-        "date": "2026-09-07T09:51:57.594937",
+        "url": "https://www.europe-echecs.com/art/kasparov-et-topalov-vont-raviver-leur-longue-rivalite-le-temps-d-un-match-a-saint-louis-10076.html",
+        "title": "Kasparov et Topalov vont raviver leur longue rivalité le temps d'un match à Saint-Louis",
+        "date": "2026-09-09T09:52:14.312036",
         "tag": "Europe Echecs"
       }
     ],
     "kalla_display": "Europe Echecs",
-    "datum": "2026-09-07T09:51:57.594937",
-    "hittad": "2026-09-08T09:52:49.949016"
+    "datum": "2026-09-09T09:52:14.312036",
+    "hittad": "2026-09-10T09:53:10.192040"
   },
   {
-    "id": "7850fa5e3611",
+    "id": "53ee4246edbd",
     "status": "pending",
     "rubriker": [
       {
         "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/09/08/grannys-house-cup-og-kvindelandsholdsmatch/?utm_source=rss&utm_medium=rss&utm_campaign=grannys-house-cup-og-kvindelandsholdsmatch",
-        "title": "Grannys House Cup og kvindelandsholdsmatch",
-        "date": "Tue, 08 Sep 2026 08:30:09 +0000",
+        "url": "https://nyheder.skak.dk/2026/09/09/skaktraening-videnskabeligt-studie/?utm_source=rss&utm_medium=rss&utm_campaign=skaktraening-videnskabeligt-studie",
+        "title": "Skaktræning – videnskabeligt studie",
+        "date": "Wed, 09 Sep 2026 09:28:13 +0000",
         "tag": "Dansk Skak Union",
-        "_rss_content": "Lørdag d. 5. september fejrede Skakklubben Odysseus 50 års jubilæum på Grønnemoseskolen. Jens Hornsgaard skriver om jubilæet: Odysseus fejrede lørdag den 5. september sit 50 års jubilæum med en stor hurtigskak-turnering,&#160;Granny&#8217;s House Cup, med 54 deltagere. Gode præmier havde lokket mange til. Heriblandt to stormestre (Jonny Hector og Sune Berg Hansen) og en del IM&#8217;ere.&#160;Det [&#8230;]"
+        "_rss_content": "Træning virker, men ikke alt træning virker lige godt. Det er den meget overordnede konklusion på et videnskabeligt forsøg, der bygger på 44.213 skakspillere på Chess.com, der i marts 2024 var villige til at medvirke i forsøget. Deltagerne skulle have været aktive i mindst 6 måneder med et stabilt ratingtal. Undersøgelsen ser på hvordan forskellige [&#8230;]"
       }
     ],
     "kalla_display": "Dansk Skak Union",
-    "datum": "Tue, 08 Sep 2026 08:30:09 +0000",
-    "hittad": "2026-09-08T09:52:49.949022"
+    "datum": "Wed, 09 Sep 2026 09:28:13 +0000",
+    "hittad": "2026-09-10T09:53:10.192044"
   },
   {
-    "id": "5287861c3a15",
+    "id": "3dc900239d6a",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/09/07/kort-nyt-uge-36-8/?utm_source=rss&utm_medium=rss&utm_campaign=kort-nyt-uge-36-8",
-        "title": "Kort Nyt uge 36",
-        "date": "Mon, 07 Sep 2026 12:22:40 +0000",
-        "tag": "Dansk Skak Union",
-        "_rss_content": "Norske FM Nicolai Østensen (2404) vandt Maia Chess Open i Portugal som eneste spiller med 7½ point. Dermed scorede Østensen sin tredje IM-norm i år. Den første scorede han i Prag i slutningen af februar, nummer to kom i ØBRO &#38; CXU International 2026 i juli måned og med den tredje i Portugal, blive han udnævnt til [&#8230;]"
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/09/10/asane-sjakklubb-soker-spillere/",
+        "title": "Åsane Sjakklubb søker spillere",
+        "date": "Thu, 10 Sep 2026 06:50:58 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Åsane Sjakklubb i Bergen startet opp igjen i august 2026 etter å ha lagt nede i rundt 20 år. Nå søker klubben flere spillere: Åsane Sjakklubb søker spillere Åsane Sjakklubb ønsker å stille lag i Vestlandsserien kommende sesong, men vi er usikre på om vi har nok spillere til å få en stabil tropp. Vestlandsserien Les mer"
       }
     ],
-    "kalla_display": "Dansk Skak Union",
-    "datum": "Mon, 07 Sep 2026 12:22:40 +0000",
-    "hittad": "2026-09-08T09:52:49.949028"
+    "kalla_display": "Bergensjakk",
+    "datum": "Thu, 10 Sep 2026 06:50:58 +0000",
+    "hittad": "2026-09-10T09:53:10.192048"
   },
   {
-    "id": "bd810023506f",
+    "id": "d148ca2bfaf9",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/alpine-apl-pipers-stay-undefeated-in-tech-mahindra-global-chess-league",
-        "title": "Alpine APL Pipers Stay Undefeated in Tech Mahindra Global Chess League",
-        "date": "Mon, 07 Sep 2026 18:02:27 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "GM Magnus Carlsen's team remains perfect after a win over GM Ian Nepomniachtchi's Ganges Grandmasters"
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/09/09/global-chess-league-2026-seriespillet-er-halvveis/",
+        "title": "Global Chess League 2026 – Seriespillet er halvveis",
+        "date": "Wed, 09 Sep 2026 05:23:43 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Etter fire dager av Global Chess League i indiske Bengaluru (Bangalore) er seriespillet så vidt passert halvveis. To av de seks lagene har spilt seks runder, mens de øvrige har spilt fem. Det er ganske jevnt på tabellen, hvor alle lagene har enten 9 eller 6 lagpoeng. Det er 3 lagpoeng for matchseier og 1 Les mer"
       }
     ],
-    "kalla_display": "Chess News Network",
-    "datum": "Mon, 07 Sep 2026 18:02:27 GMT",
-    "hittad": "2026-09-08T09:52:49.949035"
+    "kalla_display": "Bergensjakk",
+    "datum": "Wed, 09 Sep 2026 05:23:43 +0000",
+    "hittad": "2026-09-10T09:53:10.192052"
   },
   {
-    "id": "b9f0ea0c2e27",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/fide-commission-for-women-s-chess-to-meet-during-chess-olympiad",
-        "title": "FIDE Commission for Women’s Chess to Meet During Chess Olympiad",
-        "date": "Mon, 07 Sep 2026 14:09:56 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "The FIDE Commission for Women’s Chess will hold its 2026 meeting during the FIDE Chess Olympiad in Uzbekistan, focusing on opportunities for women in chess beyond competitive play."
-      }
-    ],
-    "kalla_display": "Chess News Network",
-    "datum": "Mon, 07 Sep 2026 14:09:56 GMT",
-    "hittad": "2026-09-08T09:52:49.949041"
-  },
-  {
-    "id": "6c8d7e2e9d1a",
+    "id": "1392fa405992",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/a-century-of-change-the-evolution-of-the-world-chess-championship-format",
-        "title": "A Century of Change: The Evolution of the World Chess Championship Format",
-        "date": "Mon, 07 Sep 2026 13:25:00 GMT",
+        "url": "https://chessnewsnetwork.com/article/global-chess-league-reaches-midpoint-with-all-teams-in-contention",
+        "title": "Global Chess League Reaches Midpoint with All Teams in Contention",
+        "date": "Wed, 09 Sep 2026 19:38:39 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "The World Chess Championship format has undergone significant changes over the last century, from the early match format to the current system of tournaments and matches."
+        "_rss_content": "The 2026 Tech Mahindra Global Chess League has reached its halfway point with all teams still in the running."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Mon, 07 Sep 2026 13:25:00 GMT",
-    "hittad": "2026-09-08T09:52:49.949046"
+    "datum": "Wed, 09 Sep 2026 19:38:39 GMT",
+    "hittad": "2026-09-10T09:53:10.192055"
   },
   {
-    "id": "81eddac1ebae",
+    "id": "952365043dcc",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/3rd-leak-appears-to-show-glukhovsky-fixing-african-election-and-paying-to-stop-r",
-        "title": "3rd Leak Appears to Show Glukhovsky Fixing African Election and Paying to Stop Rosenstein",
-        "date": "Mon, 07 Sep 2026 10:38:56 GMT",
+        "url": "https://chessnewsnetwork.com/article/fide-calls-for-candidates-for-athletes-commission-elections",
+        "title": "FIDE Calls for Candidates for Athletes Commission Elections",
+        "date": "Wed, 09 Sep 2026 14:58:00 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "A third leaked recording appears to show Mark Glukhovsky discussing payment for information that could be used against FIDE presidential rival Wadim Rosenstein, while also claiming involvement in a closely fought African chess election."
+        "_rss_content": "FIDE has opened the call for candidates for the upcoming elections to the FIDE Athletes Commission, which represents the interests and perspectives of players within FIDE."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Mon, 07 Sep 2026 10:38:56 GMT",
-    "hittad": "2026-09-08T09:52:49.949052"
+    "datum": "Wed, 09 Sep 2026 14:58:00 GMT",
+    "hittad": "2026-09-10T09:53:10.192059"
   },
   {
-    "id": "93ba0baf3631",
+    "id": "58069e39d9fb",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/breaking-rosenstein-left-presedential-debate",
+        "title": "BREAKING: Rosenstein left Presidential Debate",
+        "date": "Wed, 09 Sep 2026 14:56:00 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Wadim Rosenstein left Chess.com's live FIDE presidential debate shortly after delivering his opening statement"
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Wed, 09 Sep 2026 14:56:00 GMT",
+    "hittad": "2026-09-10T09:53:10.192063"
+  },
+  {
+    "id": "c68390bf9ac1",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/fide-releases-list-of-voting-member-federations-for-2026-general-assembly",
+        "title": "FIDE Releases List of Voting Member Federations for 2026 General Assembly",
+        "date": "Wed, 09 Sep 2026 12:50:00 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "FIDE publishes lists of member federations with voting rights and suspended federations ahead of the 2026 General Assembly"
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Wed, 09 Sep 2026 12:50:00 GMT",
+    "hittad": "2026-09-10T09:53:10.192067"
+  },
+  {
+    "id": "1d20520bbaa1",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/the-role-of-seconds-and-preparation-teams-at-elite-chess-events",
+        "title": "The Role of Seconds and Preparation Teams at Elite Chess Events",
+        "date": "Wed, 09 Sep 2026 10:14:00 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "The use of seconds and preparation teams has become a crucial aspect of elite chess, providing players with valuable support and expertise in areas such as opening analysis and endgame study."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Wed, 09 Sep 2026 10:14:00 GMT",
+    "hittad": "2026-09-10T09:53:10.192070"
+  },
+  {
+    "id": "527db47b8739",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/alpine-pipers-regain-lead-in-tech-mahindra-global-chess-league",
+        "title": "Alpine Pipers Regain Lead in Tech Mahindra Global Chess League",
+        "date": "Tue, 08 Sep 2026 14:42:42 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "The Alpine Pipers suffered their first loss but still took the sole lead in the 2026 Tech Mahindra Global Chess League"
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Tue, 08 Sep 2026 14:42:42 GMT",
+    "hittad": "2026-09-10T09:53:10.192074"
+  },
+  {
+    "id": "8123e47ea7d6",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/setting-the-table-what-to-expect-from-wednesdays-fide-presidential-debate",
+        "title": "Setting the Table: What to Expect From Wednesday's FIDE Presidential Debate",
+        "date": "Tue, 08 Sep 2026 12:23:31 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "For the first time in a campaign that's mostly played out through dueling statements, formal complaints, and leaked recordings, all three FIDE presidential candidates will actually stand on the same stage."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Tue, 08 Sep 2026 12:23:31 GMT",
+    "hittad": "2026-09-10T09:53:10.192077"
+  },
+  {
+    "id": "4dc4f817d28e",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/polar-chess-expedition-makes-history-in-antarctica",
+        "title": "Polar Chess Expedition Makes History in Antarctica",
+        "date": "Tue, 08 Sep 2026 10:54:22 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "First FIDE-rated chess tournament held in Antarctica and at the Geographic South Pole"
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Tue, 08 Sep 2026 10:54:22 GMT",
+    "hittad": "2026-09-10T09:53:10.192080"
+  },
+  {
+    "id": "7bb7983a11e8",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/leyendas-prodigios-2026-directo",
-        "title": "Leyendas y Prodigios: Ronda 2",
-        "date": "Tue, 08 Sep 2026 11:00:00 GMT",
+        "url": "https://es.chessbase.com/post/chessbase-especial-verano-10",
+        "title": "Descuentos de verano: ¡Fritz 21 y la Enciclopedia de Aperturas 2026!",
+        "date": "Wed, 09 Sep 2026 19:15:00 GMT",
         "tag": "ChessBase España",
-        "_rss_content": "La segunda edición del torneo «Leyendas y Prodigios» se está jugando en Madrid del 7 al 12 de septiembre, con el regreso de Faustino Oro al torneo que ganó el año pasado. El adolescente argentino se enfrenta a David Antón, José Martínez, Iván Sokolov, Diego Flores y Pepe Cuenca en un cerrado a doble vuelta entre seis participantes. | Sigue las partidas en directo a partir de las 17:00 hora de Madrid (12:00 Buenos Aires, 9:00 Ciudad de México)"
+        "_rss_content": "¡Queridos amigos ajedrecistas! Tenemos otra oferta fantástica para ustedes. Solo esta semana, hasta el 13 de septiembre de 2026, podrán adquirir un par de recursos espectaculares a un precio de locura: Fritz 21 + la Enciclopedia de Aperturas 2026 con un descuento de 50 euros. ¡Imperdible!"
       }
     ],
     "kalla_display": "ChessBase España",
-    "datum": "Tue, 08 Sep 2026 11:00:00 GMT",
-    "hittad": "2026-09-08T09:52:49.949059"
+    "datum": "Wed, 09 Sep 2026 19:15:00 GMT",
+    "hittad": "2026-09-10T09:53:10.192084"
   },
   {
-    "id": "6c17fd9d6842",
+    "id": "4ff89f433bf8",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/rapidez-super-computadoras-hoy",
-        "title": "¿Cuán rápidas son las supercomputadoras de hoy?",
-        "date": "Mon, 07 Sep 2026 21:45:00 GMT",
+        "url": "https://es.chessbase.com/post/principio-parsimonia-capablanca-uvencio-blanco",
+        "title": "El principio de parsimonia según Capablanca",
+        "date": "Tue, 08 Sep 2026 20:00:00 GMT",
         "tag": "ChessBase España",
-        "_rss_content": "A principios de la década de 1980, cuando apenas comenzaba mi carrera como periodista de televisión, hice un reportaje sobre la computadora más rápida del mundo. La Cray-1 costaba ocho millones de dólares y podía realizar 130 millones de operaciones de punto flotante por segundo. Eso era suficiente para calcular el tiempo, pero también para ganar dos campeonatos mundiales consecutivos de ajedrez por computadora. ¿Cuánto más rápidas son las supercomputadoras de hoy? Intenta adivinarlo: definitivamente no vas a acertar."
+        "_rss_content": "El principio de parsimonia propone buscar la explicación más simple y eficiente sin sacrificar rigor. Aplicado al ajedrez, este criterio encuentra en José Raúl Capablanca una expresión ejemplar: claridad posicional, economía de medios y técnica precisa. El texto explora cómo su estilo refleja una forma de pensamiento que privilegia lo esencial sobre la complicación innecesaria. | Imagen (IA): Uvencio Blanco"
       }
     ],
     "kalla_display": "ChessBase España",
-    "datum": "Mon, 07 Sep 2026 21:45:00 GMT",
-    "hittad": "2026-09-08T09:52:49.949065"
+    "datum": "Tue, 08 Sep 2026 20:00:00 GMT",
+    "hittad": "2026-09-10T09:53:10.192088"
   },
   {
-    "id": "c926c3ae8b07",
+    "id": "991f6074b9ee",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Kenya Chess Masala",
-        "url": "https://kenyachessmasala.com/2026/09/kicc-mini-chess-grand-prix-jon-madol-panthou-crowned-winner.html",
-        "title": "KICC Mini Chess Grand Prix – Jon Madol Panthou crowned winner",
-        "date": "Sun, 06 Sep 2026 10:14:13 +0000",
-        "tag": "Kenya Chess Masala",
-        "_rss_content": "KICC Mini Chess Grand Prix &#8211; Jon Madol Panthou crowned winner The KICC Mini Chess Grand Prix ended with Jon Garang Madol Panthou of South Sudan crowned champion, scoring 6 points from 6 rounds, beating a strong field of just over 200 participants. Cyprian Mbaabu scored six points as well to tie for first place [...] The post KICC Mini Chess Grand Prix &#8211; Jon Madol Panthou crowned winner appeared first on Kenya Chess Masala ."
+        "source": "ChessBase España",
+        "url": "https://es.chessbase.com/post/expedicion-polar-fide-2026-anuncio",
+        "title": "La chilena Damaris Abarca participará en histórica serie de torneos en la Antártida y el Polo Sur",
+        "date": "Mon, 07 Sep 2026 18:55:00 GMT",
+        "tag": "ChessBase España",
+        "_rss_content": "La «Polar Chess Expedition» llevará el ajedrez hasta uno de los escenarios más extremos del planeta. Seis jugadores, representantes de los seis continentes habitados, disputarán un torneo válido para el rating FIDE en la Antártida y el polo sur geográfico. Encabezado por Nigel Short, el proyecto combina competición, aventura y vocación, con el propósito de certificar el torneo de ajedrez más austral de la historia."
       }
     ],
-    "kalla_display": "Kenya Chess Masala",
-    "datum": "Sun, 06 Sep 2026 10:14:13 +0000",
-    "hittad": "2026-09-08T09:52:49.949070"
-  },
-  {
-    "id": "2bc94bbd696d",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Kenya Chess Masala",
-        "url": "https://kenyachessmasala.com/2026/09/africa-junior-chess-2026-kenya-silver-bronze.html",
-        "title": "2026 Africa Junior Chess Championship: Kenya Wins Silver & Bronze",
-        "date": "Sat, 05 Sep 2026 06:56:36 +0000",
-        "tag": "Kenya Chess Masala",
-        "_rss_content": "2026 Africa Junior Chess Championship The 2026 Africa Junior Chess Championship ended last weekend at the King&#8217;s Conference Centre in Bujumbura, the capital of Burundi, with Jaime Sonhy of Angola winning the event by scoring 8 points out of nine rounds. Alvin Muhirwa of Uganda clinched the silver with 8 points. Jadon Simiyu, the [...] The post 2026 Africa Junior Chess Championship: Kenya Wins Silver &#038; Bronze appeared first on Kenya Chess Masala ."
-      }
-    ],
-    "kalla_display": "Kenya Chess Masala",
-    "datum": "Sat, 05 Sep 2026 06:56:36 +0000",
-    "hittad": "2026-09-08T09:52:49.949076"
-  },
-  {
-    "id": "a0b62b237f43",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Kenya Chess Masala",
-        "url": "https://kenyachessmasala.com/2026/08/2026-kenya-national-deaf-chess-championship.html",
-        "title": "2026 Kenya National Deaf Chess Championship",
-        "date": "Wed, 26 Aug 2026 18:04:45 +0000",
-        "tag": "Kenya Chess Masala",
-        "_rss_content": "2026 Kenya National Deaf Chess Championship The 2026 Kenya National Deaf Chess Championship at the Clarion Hotel in Nairobi saw a total of 21 players in the Open Section and 12 in the Ladies Section fighting for top honours. Samuel Kariuki won the Open Section with 5.5 points out of six rounds to win KES [...] The post 2026 Kenya National Deaf Chess Championship appeared first on Kenya Chess Masala ."
-      }
-    ],
-    "kalla_display": "Kenya Chess Masala",
-    "datum": "Wed, 26 Aug 2026 18:04:45 +0000",
-    "hittad": "2026-09-08T09:52:49.949081"
-  },
-  {
-    "id": "146e10c5a29d",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Kenya Chess Masala",
-        "url": "https://kenyachessmasala.com/2026/08/kitale-open-2026-alan-chumba-crowned-winner.html",
-        "title": "Kitale Open 2026 – Alan Chumba crowned winner",
-        "date": "Sun, 23 Aug 2026 11:07:32 +0000",
-        "tag": "Kenya Chess Masala",
-        "_rss_content": "Kitale Open 2026 &#8211; Alan Chumba crowned winner The 2026 Kitale Open ended with 2025 Kenya National Blitz Champion Allan Chumba winning it with 5.5 points out of six rounds. He went home with KES 30,000 in prize money and gained an impressive 2093 TPR, boosting his chances of qualifying for the 2026 Kenya National [...] The post Kitale Open 2026 &#8211; Alan Chumba crowned winner appeared first on Kenya Chess Masala ."
-      }
-    ],
-    "kalla_display": "Kenya Chess Masala",
-    "datum": "Sun, 23 Aug 2026 11:07:32 +0000",
-    "hittad": "2026-09-08T09:52:49.949086"
-  },
-  {
-    "id": "4f8f89d7a24b",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Kenya Chess Masala",
-        "url": "https://kenyachessmasala.com/2026/08/68th-nairobi-chess-club-championship-cm-garang-panthou-madol-crowned-winner.html",
-        "title": "68th Nairobi Chess Club Championship – CM Garang Panthou Madol crowned winner",
-        "date": "Sat, 15 Aug 2026 17:31:34 +0000",
-        "tag": "Kenya Chess Masala",
-        "_rss_content": "68th Nairobi Chess Club Championship &#8211; CM Garang Panthou Madol crowned winner The 68th Nairobi Chess Club Championship concluded with CM Garang Panthou Madol of South Sudan claiming victory, scoring 3.5 points in four gruelling rounds against some of the region&#8217;s top players. Twelve-year-old Muli Faraja Mumo also finished with 3.5 points, tying for first [...] The post 68th Nairobi Chess Club Championship &#8211; CM Garang Panthou Madol crowned winner appeared first on Kenya Chess Masala ."
-      }
-    ],
-    "kalla_display": "Kenya Chess Masala",
-    "datum": "Sat, 15 Aug 2026 17:31:34 +0000",
-    "hittad": "2026-09-08T09:52:49.949092"
-  },
-  {
-    "id": "78c1c5d7359e",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Kenya Chess Masala",
-        "url": "https://kenyachessmasala.com/2026/08/2026-eastern-uganda-region-chess-championship-im-emojong-crowned-winner.html",
-        "title": "2026 Eastern Uganda Region Chess Championship IM Emojong crowned winner",
-        "date": "Sun, 02 Aug 2026 09:20:55 +0000",
-        "tag": "Kenya Chess Masala",
-        "_rss_content": "2026 Eastern Uganda Region Chess Championship IM Emojong crowned winner The 2026 Eastern Uganda Region Chess Championship concluded on a high note, with IM Elijah Emojong emerging victorious after scoring an impressive 5.5 points out of six rounds. He outperformed a formidable field of over 70 participants to take home UGX 2.5 million (approximately USD [...] The post 2026 Eastern Uganda Region Chess Championship IM Emojong crowned winner appeared first on Kenya Chess Masala ."
-      }
-    ],
-    "kalla_display": "Kenya Chess Masala",
-    "datum": "Sun, 02 Aug 2026 09:20:55 +0000",
-    "hittad": "2026-09-08T09:52:49.949097"
-  },
-  {
-    "id": "39dee48325ea",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Kenya Chess Masala",
-        "url": "https://kenyachessmasala.com/2026/08/path-to-russia-chess-tournament.html",
-        "title": "Path to Russia Chess Tournament",
-        "date": "Sat, 01 Aug 2026 08:23:12 +0000",
-        "tag": "Kenya Chess Masala",
-        "_rss_content": "Path to Russia Chess Tournament The Path to Russia Chess Tournament, held on 25th August 2026 at The Goan Gymkhana Club, ended with Peter Majur emerging victorious with 7.5 points out of 8, beating a field of 20 players. He won KES 20,000 as the first prize. Austin Walela was second with 6.5 points to [...] The post Path to Russia Chess Tournament appeared first on Kenya Chess Masala ."
-      }
-    ],
-    "kalla_display": "Kenya Chess Masala",
-    "datum": "Sat, 01 Aug 2026 08:23:12 +0000",
-    "hittad": "2026-09-08T09:52:49.949103"
-  },
-  {
-    "id": "87659a1a6e44",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Kenya Chess Masala",
-        "url": "https://kenyachessmasala.com/2026/07/2026-zone-4-4-individual-championship.html",
-        "title": "2026 Zone 4.4 Individual Championship",
-        "date": "Sun, 26 Jul 2026 12:56:04 +0000",
-        "tag": "Kenya Chess Masala",
-        "_rss_content": "2026 Zone 4.4 Individual Championship The 2026 Zone 4.4 Individual Championship, held from 20th to 25th July 2026 at the Harmony Hotel, in Addis Ababa, Ethiopia, was a great success for Kenya. WFM Sasha Mongeli clinched the gold with six points out of seven rounds, earning USD 1,000, while her compatriot WFM Joyce Nyaruai secured [...] The post 2026 Zone 4.4 Individual Championship appeared first on Kenya Chess Masala ."
-      }
-    ],
-    "kalla_display": "Kenya Chess Masala",
-    "datum": "Sun, 26 Jul 2026 12:56:04 +0000",
-    "hittad": "2026-09-08T09:52:49.949109"
-  },
-  {
-    "id": "f28121cd9e1f",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Kenya Chess Masala",
-        "url": "https://kenyachessmasala.com/2026/07/2026-coast-open-chess-championship.html",
-        "title": "2026 Coast Open Chess Championship- FM Wanyama is the winner",
-        "date": "Sun, 19 Jul 2026 15:09:03 +0000",
-        "tag": "Kenya Chess Masala",
-        "_rss_content": "2026 Coast Open Chess Championship &#8211; FM Wanyama is the winner FM Harold Wanyama of Uganda came out of semi-retirement to win the 2026 Coast Open Chess Championship, scoring 5.5 points in six rounds. He took home KES 75,000 and a DGT chess board for his efforts. FM Jadon Simiyu, the 2025 Kenya National Champion, [...] The post 2026 Coast Open Chess Championship- FM Wanyama is the winner appeared first on Kenya Chess Masala ."
-      }
-    ],
-    "kalla_display": "Kenya Chess Masala",
-    "datum": "Sun, 19 Jul 2026 15:09:03 +0000",
-    "hittad": "2026-09-08T09:52:49.949115"
-  },
-  {
-    "id": "6de894df5e2d",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Kenya Chess Masala",
-        "url": "https://kenyachessmasala.com/2026/07/1st-nairobi-chess-club-gp-peter-majur-crowned-champion.html",
-        "title": "1st Nairobi Chess Club Grand Prix – Peter Majur crowned Champion",
-        "date": "Tue, 07 Jul 2026 12:26:25 +0000",
-        "tag": "Kenya Chess Masala",
-        "_rss_content": "1st Nairobi Chess Club Grand Prix &#8211; Peter Majur crowned Champion Peter Majur of South Sudan powered his way to victory in the 1st Nairobi Chess Club Grand Prix with a perfect score of six points out of six rounds to go home with KES 30,000 (USD 230). Ngong Atem Gak, originally from South Sudan, [...] The post 1st Nairobi Chess Club Grand Prix &#8211; Peter Majur crowned Champion appeared first on Kenya Chess Masala ."
-      }
-    ],
-    "kalla_display": "Kenya Chess Masala",
-    "datum": "Tue, 07 Jul 2026 12:26:25 +0000",
-    "hittad": "2026-09-08T09:52:49.949120"
+    "kalla_display": "ChessBase España",
+    "datum": "Mon, 07 Sep 2026 18:55:00 GMT",
+    "hittad": "2026-09-10T09:53:10.192091"
   }
 ]
