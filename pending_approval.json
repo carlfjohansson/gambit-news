@@ -1,62 +1,77 @@
 [
   {
-    "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/mind-vs-machine",
-    "original_title": "Mind vs Machine",
-    "swedish_title": "Kasparov mot Deep Blue blir tecknad serieroman",
-    "swedish_content": "En ny grafisk roman skildrar den historiska matchen mellan Garry Kasparov och IBM:s superdator Deep Blue 1997. Boken \"Mind vs. Machine: The Chess Match That Changed the World\" är skapad av Maurice Ashley, förste svarte stormästaren, tillsammans med författaren Steve Sheinkin och illustratören Thien Pham. Verket ges ut av Roaring Brook, omfattar 240 sidor och kostar 22,99 dollar i inbunden version och 14,99 dollar som pocket.\n\nBerättelsen inleds med en prolog i nutida Brooklyn där Ashley själv agerar allvetande berättare, innan handlingen förflyttar sig till 1997 och Kasparovs resa från Moskva till New York för mötet med Deep Blue, utvecklad av IBM och ingenjören Feng-hsiung Hsu. Vid tidpunkten hade Kasparov inte förlorat en match på tolv år, och ingen dator hade tidigare besegrat en stormästare i turneringsspel.\n\nChessBases grundare Frederic Friedel förekommer också i boken, kopplat till ett känt ögonblick från matchens andra parti. Efter partiet upptäckte ChessBase-teamet och IM Malcolm Pein att Kasparov faktiskt hade haft en remimöjlighet genom en ständig schack efter drag 45 – en upptäckt som gjordes efter att Kasparov redan gett upp partiet.",
-    "date": "Tue, 08 Sep 2026 19:00:00 GMT",
-    "tag": "ChessBase",
-    "processed_at": "2026-09-10T13:19:29.907806"
+    "source": "Chess.com",
+    "original_url": "https://www.chess.com/news/view/2026-clutch-chess-legends-kasparov-topalov-day-1",
+    "original_title": "2026 Clutch Chess Legends Kasparov Topalov Day 1",
+    "swedish_title": "Topalov leder Kasparov efter första dagen i Clutch Chess",
+    "swedish_content": "Veselin Topalov tog ledningen med 2,5–1,5 poäng efter första dagen av matchen Clutch Chess: The Legends mot Garry Kasparov på Saint Louis Chess Club. De två före detta världsmästarna möts i en tolv partier lång match i Chess960, spelad över tre dagar den 11–13 september.\n\nFörsta dagen bjöd på två snabbschackpartier och två blixtpartier. Kasparov hade fördelaktiga ställningar i flera av partierna men brottades med tidsnöd, medan Topalov visade god motståndskraft och utnyttjade sina chanser. Dagens startposition var nummer 742 i Chess960-systemet.\n\nMatchen använder Clutch Chess-poängsystemet, utvecklat av GM Maurice Ashley, där vinster ger mer värde ju längre matchen fortskrider – en vinst ger 1 poäng dag ett, 2 poäng dag två och 3 poäng dag tre. Utöver detta finns bonuspengar på upp till 24 000 dollar som rullas över till de sista två partierna vid remi. Den totala prissumman uppgår till 144 000 dollar.\n\nDe två spelarna har en färgstark historia mot varandra. En av Kasparovs mest hyllade segrar i karriären kom mot Topalov i Wijk aan Zee 1999, medan Topalov besegrade Kasparov i dennes sista professionella parti i klassiskt schack, i Linares 2005. I det tidigare mötet mellan dem i Chess960-format, 960 Champions Showdown i St. Louis 2018, vann Topalov med 14,5–11,5.\n\nMatchen fortsätter med andra dagens partier lördagen den 12 september klockan 19.00 svensk tid.",
+    "date": "2026-09-11T09:27:24.734696",
+    "tag": "Chess.com",
+    "processed_at": "2026-09-12T12:37:26.635627",
+    "alla_kallor": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/2026-clutch-chess-legends-kasparov-topalov-day-1"
+      },
+      {
+        "source": "TWIC",
+        "url": "https://theweekinchess.com/chessnews/events/clutch-chess-the-legends-2026"
+      },
+      {
+        "source": "ChessBase España",
+        "url": "https://es.chessbase.com/post/clutch-chess-showdown-2026-directo"
+      }
+    ],
+    "alla_urler": [
+      "https://www.chess.com/news/view/2026-clutch-chess-legends-kasparov-topalov-day-1",
+      "https://theweekinchess.com/chessnews/events/clutch-chess-the-legends-2026",
+      "https://es.chessbase.com/post/clutch-chess-showdown-2026-directo"
+    ]
   },
   {
-    "source": "Schack.se",
-    "original_url": "https://schack.se/nyhet/internationellt/2026/09/strul-i-debatten-en-av-fide-kandidaterna-forsvann/?utm_source=rss&utm_medium=rss&utm_campaign=strul-i-debatten-en-av-fide-kandidaterna-forsvann",
-    "original_title": "Strul i debatten: En av FIDE-kandidaterna försvann",
-    "swedish_title": "Tekniskt strul i FIDE-debatt – kandidat försvann",
-    "swedish_content": "Tekniska problem drabbade valdebatten mellan de tre FIDE-presidentkandidaterna på onsdagen, sänd på Chess.coms Youtubekanal. Efter att Wadim Rosenstein, Jan Henric Buettner och Timur Turlov inlett med kortare presentationer försvann plötsligt Rosenstein från sändningen. Programledaren Maurice Ashley meddelade efter 45 minuter att kontakten med Rosenstein tappats tidigt och att ingen teknisk lösning gick att hitta. Det var oklart om felet låg hos Chess.com eller hos Rosenstein, som aldrig återkom i sändningen efter sina inledande två minuter.",
-    "date": "Wed, 09 Sep 2026 16:50:09 +0000",
-    "tag": "Svenska Schackförbundet",
-    "processed_at": "2026-09-10T13:19:47.093856"
+    "source": "Chess.com",
+    "original_url": "https://www.chess.com/news/view/fide-presidential-debate-recap-2026",
+    "original_title": "Fide Presidential Debate Recap 2026",
+    "swedish_title": "Rosenstein lämnade FIDE-debatten i förtid",
+    "swedish_content": "Buettner och Turlov drabbade samman om FIDE:s finansiering när Chess.com den 9 september höll den första direktsända presidentdebatten inför FIDE-valet 2026. Debatten, som leddes av GM Maurice Ashley, varade i cirka 90 minuter och kom bara 17 dagar innan FIDE:s presidentval i Samarkand, Uzbekistan, den 26 september.\n\nTredje kandidaten Wadim Rosenstein försvann från sändningen strax efter sitt inledningsanförande och återkom aldrig, trots att Chess.coms team upprepade gånger försökte få tag i honom. I sitt öppningsanförande kritiserade Rosenstein hur valet framställs som \"en tävling mellan två kandidater\" samt Elektorala kommissionens senaste beslut. Debatten blev därmed i praktiken en duell mellan Jan Henric Buettner och Timur Turlov.\n\nBuettner förespråkade en mer kommersiell och självförsörjande organisation med tydligare roller för exempelvis en CEO och CFO, och mindre makt hos presidenten. Turlov, som beskrev sig som FIDE:s \"finansiella garant\", menade att omedelbara investeringar krävs för att driva tillväxt och lyfte fram sin erfarenhet av att leda ett börsnoterat bolag med över 10 000 anställda.\n\nDe två kandidaterna var även oense om FIDE:s roll inom onlineschack, fusklarmering och skolprogram, men enades om vikten av att bevara klassiskt schack samtidigt som snabbare format utvecklas. Turlov kandiderar tillsammans med femfaldige världsmästaren Viswanathan Anand, Buettner med IM Malcolm Pein och Rosenstein med affärsmannen Gordon Tang.",
+    "date": "2026-09-11T09:27:24.734827",
+    "tag": "Chess.com",
+    "processed_at": "2026-09-12T12:37:47.385165",
+    "alla_kallor": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/fide-presidential-debate-recap-2026"
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/a-recap-of-the-fide-presidential-debate"
+      }
+    ],
+    "alla_urler": [
+      "https://www.chess.com/news/view/fide-presidential-debate-recap-2026",
+      "https://chessnewsnetwork.com/article/a-recap-of-the-fide-presidential-debate"
+    ]
+  },
+  {
+    "source": "Europe Echecs",
+    "original_url": "https://www.europe-echecs.com/art/carlsen-je-suis-encore-plus-certain-qu-avant-de-ne-jamais-revenir-disputer-le-championnat-du-monde-classique-10077.html",
+    "original_title": "Lire l'articleCarlsen : « Je suis encore plus certain qu'avant de ne jamais revenir disputer le championnat du...1",
+    "swedish_title": "Carlsen utesluter definitivt VM-comeback i klassiskt schack",
+    "swedish_content": "I en intervju med Indian Express säger Magnus Carlsen att han nu är \"ännu mer säker än tidigare\" på att han aldrig kommer att spela VM-match i klassiskt schack igen. Norrmannen, som blev far för första gången nyligen, förklarar att han vill fortsätta spela schack men på sina egna villkor – med färre bindningar, varierade format och utan den utdragna och stressiga förberedelsen som en VM-match kräver.\n\nCarlsen upprepar sin tidigare kritik mot VM-matchformatet: att spela i klassisk tempo, som han kallar det mest utjämnande formatet, med ett begränsat antal partier, gör det enligt honom till ett dåligt sätt att utse världens bäste spelare. Beslutet att inte försvara VM-titeln fattades redan 2022, varpå Ian Nepomniachtchi och Ding Liren möttes om titeln. Carlsen betonar samtidigt att beskedet inte innebär att han lägger av med schack helt.",
+    "date": "2026-09-11T09:28:00.810744",
+    "tag": "Europe Echecs",
+    "processed_at": "2026-09-12T12:38:01.885215",
+    "bild_filnamn": "bildbanken-A0TDJJlcBu.jpg",
+    "bild_kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
   },
   {
     "source": "Dansk Skak Union",
-    "original_url": "https://nyheder.skak.dk/2026/09/09/skaktraening-videnskabeligt-studie/?utm_source=rss&utm_medium=rss&utm_campaign=skaktraening-videnskabeligt-studie",
-    "original_title": "Skaktræning – videnskabeligt studie",
-    "swedish_title": "Studie: All schackträning ger inte samma effekt",
-    "swedish_content": "En vetenskaplig studie baserad på 44 213 schackspelare på Chess.com visar att träning fungerar, men att olika träningsaktiviteter påverkar ratingen olika mycket. Deltagarna skulle ha varit aktiva i minst sex månader med ett stabilt ratingtal, och studien genomfördes i mars 2024. Forskarna bakom studien är psykologer från University of Pennsylvania i USA.",
-    "date": "Wed, 09 Sep 2026 09:28:13 +0000",
+    "original_url": "https://nyheder.skak.dk/2026/09/11/historisk-skakmatch-i-koebenhavn/?utm_source=rss&utm_medium=rss&utm_campaign=historisk-skakmatch-i-koebenhavn",
+    "original_title": "Historisk skakmatch i København",
+    "swedish_title": "Grönland spelar historisk träningsmatch i Köpenhamn",
+    "swedish_content": "Grönlands schacklandslag möter ett utvalt danskt lag i en träningsmatch fredagen den 11 september i Det Grønlandske Hus i Köpenhamn, klockan 10.00–14.00. Stormästare Henrik Danielsen tränar det grönländska laget och har arrangerat matchen som en del av förberedelserna inför schack-OS i Uzbekistan, där Grönland för första gången deltar under egen flagg. TV 2 bevakar evenemanget på plats.",
+    "date": "Fri, 11 Sep 2026 06:34:24 +0000",
     "tag": "Dansk Skak Union",
-    "processed_at": "2026-09-10T13:20:01.101912"
-  },
-  {
-    "source": "Chess News Network",
-    "original_url": "https://chessnewsnetwork.com/article/breaking-rosenstein-left-presedential-debate",
-    "original_title": "BREAKING: Rosenstein left Presidential Debate",
-    "swedish_title": "Rosenstein lämnade FIDE-debatten i förtid",
-    "swedish_content": "Wadim Rosenstein lämnade Chess.coms livesända FIDE-presidentdebatt strax efter sitt inledningsanförande, medan Jan Henric Buettner och Timur Turlov stannade kvar under resten av den 90 minuter långa sändningen. Debatten, som leddes av GM Maurice Ashley, skulle bli första gången alla tre kandidater sågs tillsammans i kampanjen, som annars mest bestått av utspel, formella klagomål och juridiska dokument snarare än direkt konfrontation. I praktiken uteblev den konfrontationen även denna gång. Ingen förklaring till Rosensteins tidiga avgång har bekräftats offentligt.",
-    "date": "Wed, 09 Sep 2026 14:56:00 GMT",
-    "tag": "Chess News Network",
-    "processed_at": "2026-09-10T13:20:13.914745"
-  },
-  {
-    "source": "Chess News Network",
-    "original_url": "https://chessnewsnetwork.com/article/the-role-of-seconds-and-preparation-teams-at-elite-chess-events",
-    "original_title": "The Role of Seconds and Preparation Teams at Elite Chess Events",
-    "swedish_title": "Sekonderande schackspelare – tradition sedan tidigt 1900-tal",
-    "swedish_content": "Användningen av sekonder inom elitschack går tillbaka till tidigt 1900-tal, då spelare som José Capablanca och Emanuel Lasker anlitade assistenter inför matcher. Med tiden har rollen utvecklats från enbart starka schackspelare till specialiserade team med experter inom öppningsteori och slutspel, samt datoranalytiker. Under pågående partier är det dock enligt reglerna inte tillåtet för spelare att ta emot hjälp från sina sekonder eller andra externa källor.",
-    "date": "Wed, 09 Sep 2026 10:14:00 GMT",
-    "tag": "Chess News Network",
-    "processed_at": "2026-09-10T13:20:25.466556"
-  },
-  {
-    "source": "ChessBase España",
-    "original_url": "https://es.chessbase.com/post/principio-parsimonia-capablanca-uvencio-blanco",
-    "original_title": "El principio de parsimonia según Capablanca",
-    "swedish_title": "Ockhams rakkniv – enklare tänkande enligt Capablanca",
-    "swedish_content": "En artikel med rubriken \"El principio de parsimonia según Capablanca\" argumenterar för att memorera oändlig öppningsteori kanske inte är den bästa vägen till schacklig förbättring, och att ett idébaserat repertoar istället kan förändra spelarens sätt att tänka. Texten utgår från \"parsimoniprincipen\" – populärt känd som Ockhams rakkniv, uppkallad efter den franciskanske filosofen Wilhelm av Ockham på 1300-talet – som säger att man vid konkurrerande förklaringar till samma fenomen bör välja den enklaste, det vill säga den som kräver minst antal obevisade antaganden. Principen innebär inte att verkligheten alltid är enkel, utan fungerar som en effektivitetsregel som hjälper till att undvika att slösa tid på onödigt komplicerade eller godtyckliga hypoteser. Som exempel ges ett krossat vattenglas i ett kök nära ett öppet fönster: förklaringen att vinden blåst in och vält glaset kräver få kända antaganden, medan en förklaring med osynliga andar som lyfter och kastar glaset kräver flera obevisade antaganden och därmed är mindre parsimonios.",
-    "date": "Tue, 08 Sep 2026 20:00:00 GMT",
-    "tag": "ChessBase España",
-    "processed_at": "2026-09-10T13:20:48.597286"
+    "processed_at": "2026-09-12T12:38:15.381436"
   }
 ]
