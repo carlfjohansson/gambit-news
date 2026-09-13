@@ -1,481 +1,193 @@
 [
   {
-    "id": "85464db6bae3",
+    "id": "fa0b8fc1aa15",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-clutch-chess-legends-kasparov-topalov-day-1",
-        "title": "2026 Clutch Chess Legends Kasparov Topalov Day 1",
-        "date": "2026-09-11T09:27:24.734696",
+        "url": "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-8",
+        "title": "2026 Tech Mahindra Global Chess League Day 8",
+        "date": "2026-09-12T10:23:31.703962",
         "tag": "Chess.com"
       },
-      {
-        "source": "TWIC",
-        "url": "https://theweekinchess.com/chessnews/events/clutch-chess-the-legends-2026",
-        "title": "Clutch Chess: The Legends 2026 - Games and results",
-        "date": "Fri Sep 11 14:38:00 2026",
-        "tag": "TWIC",
-        "_rss_content": "Clutch Chess: The Legends is a match between Garry Kasparov and Veselin Topalov held over three days at the Saint Louis Chess Club. The games are Chess960. There are two time controls: Rapid (Games 1, 2, 5, 6, 9 and 10) 25+10spm and Blitz (3, 4, 7, 8, 11 and 12) 5m+3spm. The Clutch Chess is all about the scoring; day one has a normal score, day 2 has double day 1 and day 3 is triple day one, the idea being that there is a building excitement. There's also bonus money, up to $24,000 that rolls over to the final two games if there's a draw. I cannot currently display Chess960 games, I'm working on that for the future, but I will have a PGN file that is updated and the score will also be updated here."
-      },
-      {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/clutch-chess-showdown-2026-directo",
-        "title": "Clutch Chess - Kasparov vs. Topalov: Día 1",
-        "date": "Fri, 11 Sep 2026 18:45:00 GMT",
-        "tag": "ChessBase España",
-        "_rss_content": "Garry Kasparov y Veselin Topalov se enfrentan en Saint Louis del 11 al 13 de septiembre en «Clutch Chess: The Legends». Los dos exintegrantes de la élite del ajedrez disputan un match a 12 partidas de Ajedrez 960, en el que el valor de las victorias aumenta con cada jornada. | Sigue las partidas en directo desde las 19:00 hora de Madrid (14:00 Buenos Aires, 11:00 Ciudad de México)"
-      }
-    ],
-    "kalla_display": "Chess.com + ChessBase España + TWIC",
-    "datum": "2026-09-11T09:27:24.734696",
-    "hittad": "2026-09-12T09:28:54.848877"
-  },
-  {
-    "id": "6b32531c2e32",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/lazavik-duda-taher-3-0-thursday-09-10-2026",
-        "title": "Lazavik Duda Taher 3 0 Thursday 09 10 2026",
-        "date": "2026-09-11T09:27:24.734767",
-        "tag": "Chess.com"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/tiebreaks-decide-3-0-thursday-lazavik-duda-taher-triumph",
-        "title": "Tiebreaks Decide 3 0 Thursday: Lazavik, Duda, Taher Triumph",
-        "date": "Fri, 11 Sep 2026 12:00:00 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Tiebreaks decided the winners of the 3 0 Thursday tournaments on Chess.com, with GMs Lazavik, Duda, and Taher emerging victorious."
-      }
-    ],
-    "kalla_display": "Chess News Network + Chess.com",
-    "datum": "2026-09-11T09:27:24.734767",
-    "hittad": "2026-09-12T09:28:54.848900"
-  },
-  {
-    "id": "1e828f86857f",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/fide-presidential-debate-recap-2026",
-        "title": "Fide Presidential Debate Recap 2026",
-        "date": "2026-09-11T09:27:24.734827",
-        "tag": "Chess.com"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/a-recap-of-the-fide-presidential-debate",
-        "title": "A Recap of the FIDE Presidential Debate",
-        "date": "Thu, 10 Sep 2026 09:53:00 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "A recap on the 2026 FIDE Presidential Debate where Jan Henric Buettner and Timur Turlov showcased their contrasting visions on how to make FIDE more professional, financially sustainable and better equipped to support its member federations."
-      }
-    ],
-    "kalla_display": "Chess News Network + Chess.com",
-    "datum": "2026-09-11T09:27:24.734827",
-    "hittad": "2026-09-12T09:28:54.848911"
-  },
-  {
-    "id": "422274f51237",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-6",
-        "title": "2026 Tech Mahindra Global Chess League Day 6",
-        "date": "2026-09-11T09:27:24.734845",
-        "tag": "Chess.com"
-      },
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/global-chess-league-three-teams-tied-for-the-lead",
-        "title": "Global Chess League: Three teams tied for the lead",
-        "date": "Fri, 11 Sep 2026 10:04:28 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Six teams, 36 world-class players, 20 minutes for the entire game, an increment only from move 40, 4 points for a win with Black, 3 for a win with White, 1 for a draw, 18 to 24 games per day, and a prize fund of $1 million – the Global Chess League is a chess spectacle. And it is heading for an exciting finish: the top two teams in the preliminary stage qualify for the final, and after eight of ten team matches, three teams are tied for the lead. | Photo: In one of the day's many top-level encounters, Magnus Carlsen defeated Vishy Anand | Photo: Global Chess League"
-      }
-    ],
-    "kalla_display": "Chess.com + ChessBase",
-    "datum": "2026-09-11T09:27:24.734845",
-    "hittad": "2026-09-12T09:28:54.848919"
-  },
-  {
-    "id": "31e4143232bb",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/announcing-wesley-sos-1e4-e5-part-1-course",
-        "title": "Announcing Wesley Sos 1E4 E5 Part 1 Course",
-        "date": "2026-09-11T09:27:24.734801",
-        "tag": "Chess.com"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/gm-wesley-so-releases-new-course-on-responding-to-1-e4",
-        "title": "GM Wesley So Releases New Course on Responding to 1.e4",
-        "date": "Fri, 11 Sep 2026 09:28:00 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "GM Wesley So has released a new course on building a solid repertoire against the opening move 1.e4."
-      }
-    ],
-    "kalla_display": "Chess News Network + Chess.com",
-    "datum": "2026-09-11T09:27:24.734801",
-    "hittad": "2026-09-12T09:28:54.848926"
-  },
-  {
-    "id": "be8d198502ce",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/naroditsky-fellowship-applications-open-2027",
-        "title": "Naroditsky Fellowship Applications Open 2027",
-        "date": "2026-09-11T09:27:24.734861",
-        "tag": "Chess.com"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/applications-open-for-inaugural-50-000-naroditsky-fellowship",
-        "title": "Applications Open for Inaugural $50,000 Naroditsky Fellowship",
-        "date": "Thu, 10 Sep 2026 17:50:00 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "The Naroditsky Fellowship is now accepting applications from elite American junior players."
-      }
-    ],
-    "kalla_display": "Chess News Network + Chess.com",
-    "datum": "2026-09-11T09:27:24.734861",
-    "hittad": "2026-09-12T09:28:54.848933"
-  },
-  {
-    "id": "433a81f99c68",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/solomon-islands-chess-federation-demands-retraction-from-buettner-over-debate-co",
-        "title": "Solomon Islands Chess Federation Demands Retraction From Buettner Over Debate Comments",
-        "date": "Fri, 11 Sep 2026 19:20:00 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "The Solomon Islands Chess Federation has issued a public statement demanding a correction, retraction, and apology from FIDE presidential candidate Jan Henric Buettner, over comments he made about the federation during last week's Chess.com-hosted presidential debate."
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/after-a-flat-debate-the-questions-about-buettners-readiness-get-louder",
-        "title": "After a Flat Debate, the Questions About Buettner's Readiness Get Louder",
-        "date": "Thu, 10 Sep 2026 10:43:00 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Wednesday's FIDE presidential debate is mostly being remembered for Wadim Rosenstein's abrupt exit, but the two candidates who actually stayed for the full 90 minutes didn't exactly make the case that his departure was the only problem."
-      }
-    ],
-    "kalla_display": "Chess News Network",
-    "datum": "Fri, 11 Sep 2026 19:20:00 GMT",
-    "hittad": "2026-09-12T09:28:54.848941"
-  },
-  {
-    "id": "0cf85fe7732b",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-7",
-        "title": "2026 Tech Mahindra Global Chess League Day 7",
-        "date": "2026-09-11T09:27:24.734738",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-09-11T09:27:24.734738",
-    "hittad": "2026-09-12T09:28:54.848951"
-  },
-  {
-    "id": "c6c5537c646c",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/25-years-ago-chessbase-news",
-        "title": "25 years ago  –  ChessBase news",
-        "date": "Sat, 12 Sep 2026 08:00:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "\"Yesterday, in one of the most horrifying terrorist atrocities in history, the World Trade Center in New York was destroyed...\" Those were the words with which we launched our brand new database-driven news page, on September 12, 2001. It was the very first report we filed. It had a special meaning for the world – but also for chess. Exactly six years earlier the World Chess Championship had been staged on the Observation Deck on the 107th floor."
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Sat, 12 Sep 2026 08:00:00 GMT",
-    "hittad": "2026-09-12T09:28:54.848958"
-  },
-  {
-    "id": "c57cbabac8f5",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/review-mastering-calculation-by-kostya-kavutskiy",
-        "title": "Review: Mastering Calculation by Kostya Kavutskiy",
-        "date": "Sat, 12 Sep 2026 07:00:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Kostya Kavutskiy is the latest \"Fritz Trainer\" to join the ChessBase team of authors. An International Master, renowned FIDE trainer and chess author, he made his ChessBase debut with the video course \"Mastering Calculation\" and has already followed it up with \"The Fundamentals of Positional Play\". Jochen Schwarz, a club player from Bremen and a connoisseur of the FritzTrainer series, took a close look at both courses and also examined how they compare with similar courses by established authors such as Robert Ris and Ivan Sokolov."
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Sat, 12 Sep 2026 07:00:00 GMT",
-    "hittad": "2026-09-12T09:28:54.848965"
-  },
-  {
-    "id": "23921a0a6bd7",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/legends-prodigies-oro-loses-anton-guijarro-leads-by-one-point",
-        "title": "Legends & Prodigies: Oro loses – Anton Guijarro leads by one point",
-        "date": "Fri, 11 Sep 2026 08:38:28 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "David Anton Guijarro heads into the final stage of the Legends & Prodigies tournament in Madrid with a one-point lead. Three rounds remain, and the Spaniard is a full point ahead of Faustino Oro, who lost to his compatriot Diego Flores in round six and drew with Jose Cuenca Jiminez in yesterday’s second round. Anton Guijarro drew both of his games, against Cuenca and Jose Martinez Alcantara. The two leaders will face each other in this morning’s round. Cuenca Jiminez plays Ivan Sokolov, while Flores faces Martinez Alcantara. | Photo: Ivan Sokolov, who scored his first win in round six against Martinez, pictured during a simultaneous exhibition in Salzgitter-Bad a year ago | Photo: Arne Kähler"
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Fri, 11 Sep 2026 08:38:28 GMT",
-    "hittad": "2026-09-12T09:28:54.848971"
-  },
-  {
-    "id": "5fa9180b6bc8",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/distrikt-och-klubb/2026/09/allians-eldsjal-har-lamnat-jordelivet/?utm_source=rss&utm_medium=rss&utm_campaign=allians-eldsjal-har-lamnat-jordelivet",
-        "title": "Allians eldsjäl har lämnat jordelivet",
-        "date": "Fri, 11 Sep 2026 15:13:10 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Mathias Kardell, ordförande i Schacksällskapet Allians, har kontaktat redaktionen med ett tråkigt besked. En av det svenska schackets många eldsjälar som ofta jobbar i det tysta, Anders Larsson, har lämnat [&#8230;] Inlägget Allians eldsjäl har lämnat jordelivet dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Fri, 11 Sep 2026 15:13:10 +0000",
-    "hittad": "2026-09-12T09:28:54.848977"
-  },
-  {
-    "id": "743b28c85507",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettan3/2026/09/strategispel-schack-och-krig/?utm_source=rss&utm_medium=rss&utm_campaign=strategispel-schack-och-krig",
-        "title": "Strategispel, schack och krig",
-        "date": "Thu, 10 Sep 2026 18:42:36 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Som ett inslag i Armémuseums serie &#8221;Brännpunkt&#8221;, där intressanta föreläsare bjuds in att prata om aktuella teman, deltog Håkan Östling, generalsekreterare SSF, nyligen i ett öppet samtal med Björn Sjöblom, [&#8230;] Inlägget Strategispel, schack och krig dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Thu, 10 Sep 2026 18:42:36 +0000",
-    "hittad": "2026-09-12T09:28:54.848983"
-  },
-  {
-    "id": "c7b1f05e2d79",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/forbundsnytt/2026/09/ssf-anlitar-schackpedagog-i-vastmanland/?utm_source=rss&utm_medium=rss&utm_campaign=ssf-anlitar-schackpedagog-i-vastmanland",
-        "title": "SSF anlitar schackpedagog i Västmanland",
-        "date": "Thu, 10 Sep 2026 17:23:50 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Västmanlands Schackförbund har engagerat fritidspedagogen Andreas Backman i ett samarbete även med Sveriges Schackförbund, där Andreas under hösten till att börja med, kommer göra en klassisk konsulentansträngning på skolorna i [&#8230;] Inlägget SSF anlitar schackpedagog i Västmanland dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Thu, 10 Sep 2026 17:23:50 +0000",
-    "hittad": "2026-09-12T09:28:54.848988"
-  },
-  {
-    "id": "fb2dd7e33d3f",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/sverige/2026/09/storre-prispott-sa-mycket-far-vinnarna-i-sm-i-blixt-snabbschack/?utm_source=rss&utm_medium=rss&utm_campaign=storre-prispott-sa-mycket-far-vinnarna-i-sm-i-blixt-snabbschack",
-        "title": "Större prispott – så mycket får vinnarna i SM i blixt & snabbschack",
-        "date": "Thu, 10 Sep 2026 10:27:48 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "10&#160;000 kronor i snabbschacks-SM och 8&#160;000 kronor i blixt-SM – samt bidrag för att representera Sverige i VM. Det är vad som väntar segrarna i SM i blixt &#38; snabbschack [&#8230;] Inlägget Större prispott – så mycket får vinnarna i SM i blixt &amp; snabbschack dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Thu, 10 Sep 2026 10:27:48 +0000",
-    "hittad": "2026-09-12T09:28:54.848995"
-  },
-  {
-    "id": "a0a68951ffe9",
-    "status": "pending",
-    "rubriker": [
       {
         "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/test-your-skills-with-positions-from-the-chola-chess-camp-5th-edition",
-        "title": "SpotlightTop storyRasika Ratnaparkhi·5 hours agoTest your skills with positions from the Chola Chess camp: 5th Edition",
-        "date": "2026-09-11T09:27:48.443080",
+        "url": "https://www.chessbase.in/news/global-chess-league-day-8",
+        "title": "SpotlightTop storyRasika Ratnaparkhi·5 hours agoGCL 2026 Day 8: Firouzja hands Carlsen his first loss of the Season",
+        "date": "2026-09-12T10:23:50.799831",
         "tag": "ChessBase India"
+      },
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/09/13/global-chess-league-2026-seriespillet/",
+        "title": "Global Chess League 2026 – Seriespillet",
+        "date": "Sun, 13 Sep 2026 04:59:34 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "De 10 rundene av seriespillet i Global Chess League i indiske Bengaluru (Bangalore) er ferdigspilt. Førsteplass gikk til Ganges Grandmasters, med GM Magnus Carlsen (2803) sitt Alpine APL Pipers på andreplass. Disse to lagene møtes dermed i søndagens finale. Bronsefinalen går mellom FYERS American Gambits og CheQ Mumba Masters, som ble hhv. nummer tre og Les mer"
       }
     ],
-    "kalla_display": "ChessBase India",
-    "datum": "2026-09-11T09:27:48.443080",
-    "hittad": "2026-09-12T09:28:54.849003"
+    "kalla_display": "Bergensjakk + Chess.com + ChessBase India",
+    "datum": "2026-09-12T10:23:31.703962",
+    "hittad": "2026-09-13T10:24:56.588536"
   },
   {
-    "id": "9ad59428f373",
+    "id": "28631a168457",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/murzin-et-mishra-envisagent-de-changer-de-federation-faute-de-soutien-10078.html",
-        "title": "Murzin et Mishra envisagent de changer de fédération faute de soutien",
-        "date": "2026-09-11T09:28:00.810706",
-        "tag": "Europe Echecs"
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/2026-clutch-chess-legends-kasparov-topalov-day-2",
+        "title": "2026 Clutch Chess Legends Kasparov Topalov Day 2",
+        "date": "2026-09-12T10:23:31.703928",
+        "tag": "Chess.com"
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/topalov-takes-commanding-lead-in-clutch-chess-match",
+        "title": "Topalov Takes Commanding Lead in Clutch Chess Match",
+        "date": "Sun, 13 Sep 2026 04:37:46 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Veselin Topalov leads Garry Kasparov 8.5-3.5 after two days of play in the 2026 Clutch Chess: The Legends Chess960 match."
       }
     ],
-    "kalla_display": "Europe Echecs",
-    "datum": "2026-09-11T09:28:00.810706",
-    "hittad": "2026-09-12T09:28:54.849010"
+    "kalla_display": "Chess News Network + Chess.com",
+    "datum": "2026-09-12T10:23:31.703928",
+    "hittad": "2026-09-13T10:24:56.588553"
   },
   {
-    "id": "a9e1176085ae",
+    "id": "9bcdcbce8632",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/carlsen-je-suis-encore-plus-certain-qu-avant-de-ne-jamais-revenir-disputer-le-championnat-du-monde-classique-10077.html",
-        "title": "Lire l'articleCarlsen : « Je suis encore plus certain qu'avant de ne jamais revenir disputer le championnat du...1",
-        "date": "2026-09-11T09:28:00.810744",
-        "tag": "Europe Echecs"
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-31-endgame-expert-with-the-livebook",
+        "title": "ChessBase´26 – Tips for Beginners, part 31: Endgame expert with the \"LiveBook\"",
+        "date": "Sun, 13 Sep 2026 07:00:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "How do you train endgames? To be honest, the question might be better phrased as: Do you even train endgames at all? After all, the magical richness of the final phase of a game is something not everyone appreciates. This makes it all the more important that training is enjoyable and not bogged down by unnecessarily long searches for the right solution. In this regard, the LiveBook feature of ChessBase´26 may not be familiar to everyone. All the more reason, then, to introduce this highly practical tool in this tutorial."
       }
     ],
-    "kalla_display": "Europe Echecs",
-    "datum": "2026-09-11T09:28:00.810744",
-    "hittad": "2026-09-12T09:28:54.849015"
+    "kalla_display": "ChessBase",
+    "datum": "Sun, 13 Sep 2026 07:00:00 GMT",
+    "hittad": "2026-09-13T10:24:56.588561"
   },
   {
-    "id": "cc2a9e41781d",
+    "id": "d42044fd7713",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/salesforce-to-power-the-future-of-chess",
+        "title": "Salesforce to power the future of chess",
+        "date": "Sat, 12 Sep 2026 15:32:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "It is the biggest contract in FIDE's history with a private entity: Salesforce is becoming the title sponsor and technological partner of the International Chess Federation. The partnership brings the Agentforce 360 portfolio, including Slack, to the world’s largest chess events and forums, powering real-time player rankings and AI-driven fan experiences for over 800 million global fans. Press release."
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Sat, 12 Sep 2026 15:32:00 GMT",
+    "hittad": "2026-09-13T10:24:56.588568"
+  },
+  {
+    "id": "de54ec787d8b",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/junior-och-ungdom/2026/09/skollags-nm-bra-svensklage-infor-avslutningen-i-u17/?utm_source=rss&utm_medium=rss&utm_campaign=skollags-nm-bra-svensklage-infor-avslutningen-i-u17",
+        "title": "Skollags-NM: Bra svenskläge inför avslutningen i U17",
+        "date": "Sun, 13 Sep 2026 08:00:51 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Efter fredagens och lördagens spel i Skollags-NM så har de svenska skolorna placerat sig starkt inför den avslutande söndagen. I U17-kategorin var ställningen inför söndagen: Berzeliusskolan, Sverige 10 partipoäng. Engelska [&#8230;] Inlägget Skollags-NM: Bra svenskläge inför avslutningen i U17 dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Sun, 13 Sep 2026 08:00:51 +0000",
+    "hittad": "2026-09-13T10:24:56.588574"
+  },
+  {
+    "id": "7cf17184da8a",
     "status": "pending",
     "rubriker": [
       {
         "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/09/11/historisk-skakmatch-i-koebenhavn/?utm_source=rss&utm_medium=rss&utm_campaign=historisk-skakmatch-i-koebenhavn",
-        "title": "Historisk skakmatch i København",
-        "date": "Fri, 11 Sep 2026 06:34:24 +0000",
+        "url": "https://nyheder.skak.dk/2026/09/13/groenlandsk-sejr-paa-8-4/?utm_source=rss&utm_medium=rss&utm_campaign=groenlandsk-sejr-paa-8-4",
+        "title": "Grønlandsk sejr på 8 – 4",
+        "date": "Sun, 13 Sep 2026 09:07:56 +0000",
         "tag": "Dansk Skak Union",
-        "_rss_content": "Stormester Henrik Danielsen skriver til skak.dk: Historisk skakmatch i København TV 2 kigger forbi – og alle interesserede er velkomne Fredag den 11. september spiller Grønlands skaklandshold en træningsmatch mod et udvalgt dansk hold i Det Grønlandske Hus, Løvstræde 6 i København. Matchen spilles fra kl. 10.00 til 14.00. Jeg står for træningen af de [&#8230;]"
+        "_rss_content": "Stormester Henrik Daneilsen skriver til skak.dk: Under Grønlands flag – den sidste prøve før skak-OLStoltheden over snart at skulle repræsentere Grønland prægede den sidste træningsdag i Det Grønlandske Hus i København. Om få dage rejser holdet til Usbekistan for at deltage ved skak-OL – for første gang under det grønlandske flag. Inden afrejsen ventede en [&#8230;]"
       }
     ],
     "kalla_display": "Dansk Skak Union",
-    "datum": "Fri, 11 Sep 2026 06:34:24 +0000",
-    "hittad": "2026-09-12T09:28:54.849018"
+    "datum": "Sun, 13 Sep 2026 09:07:56 +0000",
+    "hittad": "2026-09-13T10:24:56.588580"
   },
   {
-    "id": "3dafee8d71c7",
+    "id": "d10174c176a2",
     "status": "pending",
     "rubriker": [
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/09/11/sotra-sk-hurtig-september-2026/",
-        "title": "Sotra SK Hurtig September 2026",
-        "date": "Fri, 11 Sep 2026 05:02:57 +0000",
+        "url": "https://bergensjakk.no/2026/09/13/apent-nordnorsk-mesterskap-i-lynsjakk-2026/",
+        "title": "Åpent Nordnorsk Mesterskap i lynsjakk 2026",
+        "date": "Sun, 13 Sep 2026 04:59:25 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "Sotra Sjakklubb arrangerte torsdag 10. september 2026 hurtigsjakkturneringen Sotra SK Hurtig September. Martin Orvedal vant alle sine seks partier og tok en overlegen førsteplass, to hele poeng foran Stig K. Martinsen og Tom Georg Eriksen . Les mer om turneringen hos Sotra Sjakklubb. Sotra SK Hurtig September 2026 1. Martin Orvedal Søråshøgda 6.0/6 2. Stig Les mer"
+        "_rss_content": "Åpent Nordnorsk Mesterskap i lynsjakk ble spilt i Sortland 11-12. september 2026. Arrangøren Sortland Sjakklubb kunne notere seg for 54 deltakere, omtrent som i fjor. Vinner ble en av de største favorittene, Torbjørn Valvåg fra Tromsø. Han tok 14 poeng på 17 runder uten en eneste remis. Valvåg forsvarte dermed sin nordnorske mestertittel i lynsjakk Les mer"
       }
     ],
     "kalla_display": "Bergensjakk",
-    "datum": "Fri, 11 Sep 2026 05:02:57 +0000",
-    "hittad": "2026-09-12T09:28:54.849022"
+    "datum": "Sun, 13 Sep 2026 04:59:25 +0000",
+    "hittad": "2026-09-13T10:24:56.588586"
   },
   {
-    "id": "bf09a0e5e0f2",
+    "id": "af8567debbfe",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/poland-held-to-a-draw-by-mongolia-as-the-olympiad-for-people-with-disabilities-o",
-        "title": "Poland Held to a Draw by Mongolia as the Olympiad for People with Disabilities Opens in Samarkand",
-        "date": "Fri, 11 Sep 2026 19:28:48 GMT",
+        "url": "https://chessnewsnetwork.com/article/eight-teams-maintain-perfect-records-at-3rd-fide-chess-olympiad-for-people-with",
+        "title": "Eight Teams Maintain Perfect Records at 3rd FIDE Chess Olympiad for People with Disabilities",
+        "date": "Sun, 13 Sep 2026 06:25:37 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "The 3rd FIDE Chess Olympiad for People with Disabilities got underway in Samarkand on September 11, and top seed Poland didn't get the start its history in this event would suggest."
+        "_rss_content": "The 3rd FIDE Chess Olympiad for People with Disabilities continued in Samarkand, with eight teams maintaining perfect records after Round 2."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Fri, 11 Sep 2026 19:28:48 GMT",
-    "hittad": "2026-09-12T09:28:54.849044"
+    "datum": "Sun, 13 Sep 2026 06:25:37 GMT",
+    "hittad": "2026-09-13T10:24:56.588596"
   },
   {
-    "id": "f3a00c1d1dd2",
+    "id": "a1aabfc9031f",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/the-origins-and-evolution-of-the-sicilian-defense",
-        "title": "The Origins and Evolution of the Sicilian Defense",
-        "date": "Fri, 11 Sep 2026 17:03:56 GMT",
+        "url": "https://chessnewsnetwork.com/article/alpine-apl-pipers-to-face-ganges-grandmasters-in-gcl-season-4-final",
+        "title": "Alpine APL Pipers to Face Ganges Grandmasters in GCL Season 4 Final",
+        "date": "Sun, 13 Sep 2026 06:13:06 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "A historical overview of the Sicilian Defense, one of the most popular chess openings"
+        "_rss_content": "Defending champions Alpine APL Pipers will face Ganges Grandmasters in the Season 4 final of the Global Chess League"
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Fri, 11 Sep 2026 17:03:56 GMT",
-    "hittad": "2026-09-12T09:28:54.849052"
+    "datum": "Sun, 13 Sep 2026 06:13:06 GMT",
+    "hittad": "2026-09-13T10:24:56.588603"
   },
   {
-    "id": "9ff0857f53b3",
+    "id": "22011c476b87",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/salesforce-partners-with-fide-as-title-sponsor-and-technological-partner",
-        "title": "Salesforce Partners with FIDE as Title Sponsor and Technological Partner",
-        "date": "Thu, 10 Sep 2026 17:10:00 GMT",
+        "url": "https://chessnewsnetwork.com/article/fide-needs-a-business-model-not-a-benefactor",
+        "title": "FIDE Needs a Business Model, Not a Benefactor",
+        "date": "Sat, 12 Sep 2026 13:30:48 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "FIDE announces multi-year partnership with Salesforce, utilizing Agentforce 360 to power real-time player rankings and AI-driven fan experiences."
+        "_rss_content": "FIDE should build a sustainable financial model instead of depending on Timur Turlov or his company to serve as its financial safety net."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Thu, 10 Sep 2026 17:10:00 GMT",
-    "hittad": "2026-09-12T09:28:54.849059"
-  },
-  {
-    "id": "62dcaf355366",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/gambits-maintain-lead-in-global-chess-league-standings",
-        "title": "Gambits Maintain Lead in Global Chess League Standings",
-        "date": "Thu, 10 Sep 2026 10:14:00 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "FYERS American Gambits defeat Triveni Continental Kings to stay ahead of Alpine APL Pipers and Ganges Grandmasters in GCL standings"
-      }
-    ],
-    "kalla_display": "Chess News Network",
-    "datum": "Thu, 10 Sep 2026 10:14:00 GMT",
-    "hittad": "2026-09-12T09:28:54.849065"
-  },
-  {
-    "id": "1da989793c7d",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/academia-de-campeones-jan-markos-4",
-        "title": "Academia de campeones (4): En busca del dominio total",
-        "date": "Fri, 11 Sep 2026 20:00:00 GMT",
-        "tag": "ChessBase España",
-        "_rss_content": "¿Cuál es el alma del ajedrez? André Philidor respondió en el siglo XVIII: «¡Los peones!». Aaron Nimzowitsch, hace un siglo, afirmó: «La sobreprotección de las casillas estratégicamente importantes». La respuesta de Jan Markos a esta pregunta es bastante distinta. Está convencido de que la esencia del ajedrez se manifiesta mejor en la búsqueda del dominio sobre el oponente."
-      }
-    ],
-    "kalla_display": "ChessBase España",
-    "datum": "Fri, 11 Sep 2026 20:00:00 GMT",
-    "hittad": "2026-09-12T09:28:54.849069"
+    "datum": "Sat, 12 Sep 2026 13:30:48 GMT",
+    "hittad": "2026-09-13T10:24:56.588609"
   }
 ]
