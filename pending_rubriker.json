@@ -1,342 +1,225 @@
 [
   {
-    "id": "fb3ae1182147",
+    "id": "158fdd6bc3a5",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/ganges-grandmasters-win-2026-tech-mahindra-global-chess-league",
-        "title": "Ganges Grandmasters Win 2026 Tech Mahindra Global Chess League",
-        "date": "2026-09-13T10:47:53.823069",
+        "url": "https://www.chess.com/news/view/fide-bans-minor-for-2-years-after-phone-with-chess-com-open-found-hidden-in-shoe",
+        "title": "Fide Bans Minor For 2 Years After Phone With Chess Com Open Found Hidden In Shoe",
+        "date": "2026-09-14T10:11:09.716367",
         "tag": "Chess.com"
-      },
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/ganges-grandmasters-win-global-chess-league-in-dramatic-final",
-        "title": "Ganges Grandmasters win Global Chess League in dramatic final",
-        "date": "Mon, 14 Sep 2026 12:10:28 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "The Ganges Grandmasters have won the fourth season of the Tech Mahindra Global Chess League. In the final in Bengaluru, Ian Nepomniachtchi's team defeated defending champions Alpine APL Pipers 4-2. After the first match ended 3-3, the Grandmasters won the second, with Nepomniachtchi scoring a spectacular victory over Magnus Carlsen and Stavroula Tsolakidou beating Humpy Koneru to seal the title. Viswanathan Anand and his PBG Alaskan Knights had already been eliminated before the final day. | Photos and videos: ChessBase India"
-      },
-      {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/09/14/global-chess-league-2026-finaler/",
-        "title": "Global Chess League 2026 – Finaler",
-        "date": "Mon, 14 Sep 2026 05:53:13 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "Ganges Grandmasters er vinnere av Global Chess League i indiske Bengaluru (Bangalore) etter seier mot GM Magnus Carlsen (2803) sitt Alpine APL Pipers i finalen. Den første av de to finalematchene endte 3-3. Her spilte Carlsen en feilfri remis med svart mot GM Ian Nepomniachtchi (FID 2729). Finalematch nummer to ga seier 4-2 til Ganges Les mer"
-      }
-    ],
-    "kalla_display": "Bergensjakk + Chess.com + ChessBase",
-    "datum": "2026-09-13T10:47:53.823069",
-    "hittad": "2026-09-14T10:49:18.966838"
-  },
-  {
-    "id": "07f77b4dda7a",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-clutch-chess-legends-kasparov-topalov-day-3",
-        "title": "2026 Clutch Chess Legends Kasparov Topalov Day 3",
-        "date": "2026-09-13T10:47:53.823033",
-        "tag": "Chess.com"
-      },
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/clutch-chess-kasparov-and-topalov-play-chess960-day-1-live",
-        "title": "Clutch Chess: Kasparov and Topalov play Chess960, Day 3 – Live!",
-        "date": "Sun, 13 Sep 2026 18:35:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Garry Kasparov and Veselin Topalov will face each other in “Clutch Chess: The Legends” in Saint Louis from 11 to 13 September. The two former members of the chess elite will play a twelve-game Chess960 match, with wins becoming more valuable on each successive day. The encounter follows Kasparov’s victory over Viswanathan Anand last year and renews a rivalry that was already revived in Saint Louis in 2018 with a Chess960 match. | Photos: St. Louis Chess Club, Austin Fuller | Live with commentary from 18:40 CEST / 17:40 BST / 12:40 ET / 22:10 IST."
       },
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/topalov-wins-2026-clutch-chess-the-legends-chess960-match",
-        "title": "Topalov Wins 2026 Clutch Chess: The Legends Chess960 Match",
-        "date": "Mon, 14 Sep 2026 04:52:30 GMT",
+        "url": "https://chessnewsnetwork.com/article/minor-chess-player-receives-two-year-ban-for-cheating",
+        "title": "Minor Chess Player Receives Two-Year Ban for Cheating",
+        "date": "Tue, 15 Sep 2026 04:25:14 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "GM Veselin Topalov wins the 2026 Clutch Chess: The Legends Chess960 match against GM Garry Kasparov."
+        "_rss_content": "A minor chess player has been banned for two years after being caught with a hidden phone during a tournament in Slovenia."
       }
     ],
-    "kalla_display": "Chess News Network + Chess.com + ChessBase",
-    "datum": "2026-09-13T10:47:53.823033",
-    "hittad": "2026-09-14T10:49:18.966858"
+    "kalla_display": "Chess News Network + Chess.com",
+    "datum": "2026-09-14T10:11:09.716367",
+    "hittad": "2026-09-15T10:12:35.743993"
   },
   {
-    "id": "82565ace0bd6",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/legends-prodigies-david-anton-wins-convincingly-oro-finishes-third",
-        "title": "Legends & Prodigies: David Anton wins convincingly, Oro finishes third",
-        "date": "Mon, 14 Sep 2026 08:38:36 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "David Anton (pictured) won the second edition of the Legends & Prodigies tournament in Madrid unbeaten, finishing 1½ points clear of the field. Five wins and five draws gave him a world-class performance rating of 2756. Defending champion Faustino Oro faded somewhat in the second half of the tournament and had to settle for third place behind Jose Martinez Alcantara. | Photos: ECU (title photo), ChessBase India / Amruta Mokal"
-      },
-      {
-        "source": "TWIC",
-        "url": "https://theweekinchess.com/chessnews/events/legends-and-prodigies-ii-2026",
-        "title": "Legends and Prodigies II 2026 - Games and results",
-        "date": "Sun Sep 13 17:20:00 2026",
-        "tag": "TWIC",
-        "_rss_content": "The second Legends and Prodigies tournament took place in Madrid Mon 7th to Sat 12th Sep 2026. David Anton Guijarro was a convincing winner with a score of 7.5/10 a point and a half clear of Jose Eduardo Martinez Alcantara, prodogy Faustino Oro finished on 5.5 points. Francisco Fiorito won the B-tournament with 7/9."
-      }
-    ],
-    "kalla_display": "ChessBase + TWIC",
-    "datum": "Mon, 14 Sep 2026 08:38:36 GMT",
-    "hittad": "2026-09-14T10:49:18.966866"
-  },
-  {
-    "id": "2e10294fce42",
+    "id": "32e591857f0f",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/first-fide-rated-chess-tournament-antarctica-south-pole",
-        "title": "First Fide Rated Chess Tournament Antarctica South Pole",
-        "date": "2026-09-13T10:47:53.822987",
+        "url": "https://www.chess.com/news/view/nakamura-wins-bullet-brawl-sept-12",
+        "title": "Nakamura Wins Bullet Brawl Sept 12",
+        "date": "2026-09-14T10:11:09.716413",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-09-13T10:47:53.822987",
-    "hittad": "2026-09-14T10:49:18.966871"
+    "datum": "2026-09-14T10:11:09.716413",
+    "hittad": "2026-09-15T10:12:35.744010"
   },
   {
-    "id": "4fe3f19da4f7",
+    "id": "3c72ca91ad4d",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/review-all-new-releases-in-august-2",
-        "title": "Review: All new releases in August!",
-        "date": "Sun, 13 Sep 2026 15:00:00 GMT",
+        "url": "https://en.chessbase.com/post/salesforce-fide-world-championship-match-2026",
+        "title": "Salesforce FIDE World Championship Match 2026",
+        "date": "Mon, 14 Sep 2026 18:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "August brings a range of new chess training products covering different areas of the game. The main topics include active opening repertoires, calculation and strategic decision-making. There are also two new courses on positional play, as well as updated databases on the Petroff Defence. The courses by Bahne Fuhrmann, Andrew Martin and Kostya Kavutskiy combine theoretical explanations with annotated games and practical exercises. With material aimed at different playing strengths, the new releases offer both concrete repertoire advice and more in-depth training. | All photos: ChessBase"
+        "_rss_content": "FIDE is pleased to announce the regulations for the Salesforce FIDE World Championship Match 2026, confirming the venue, format, schedule, and prize distribution for the meeting between reigning World Champion Grandmaster Gukesh D and his challenger, Grandmaster Javokhir Sindarov. The match will be held at the Fondation Martin Bodmer in Cologny, Geneva, Switzerland, from 22 November to 13 December 2026, bringing a World Championship match back to Switzerland for the first time since Brissago in 2004."
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Sun, 13 Sep 2026 15:00:00 GMT",
-    "hittad": "2026-09-14T10:49:18.966875"
+    "datum": "Mon, 14 Sep 2026 18:00:00 GMT",
+    "hittad": "2026-09-15T10:12:35.744018"
   },
   {
-    "id": "17a83fae0021",
+    "id": "28a51b5486fc",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/samarkand-ready-for-a-record-breaking-chess-olympiad",
+        "title": "Samarkand ready for a record-breaking Chess Olympiad",
+        "date": "Mon, 14 Sep 2026 14:00:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "For centuries, Samarkand stood at the crossroads of civilisations. Merchants, scholars and travellers crossed the ancient Silk Road, carrying ideas and cultures from one part of the world to another. Now, another kind of journey will bring the world to the legendary city: 400 chess teams from across the globe will gather for the 46th FIDE Chess Olympiad."
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Mon, 14 Sep 2026 14:00:00 GMT",
+    "hittad": "2026-09-15T10:12:35.744025"
+  },
+  {
+    "id": "1610b34afb2a",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/schack-i-skolan/2026/09/skollags-nm-svensk-dubbelseger-i-u17-kategorin/?utm_source=rss&utm_medium=rss&utm_campaign=skollags-nm-svensk-dubbelseger-i-u17-kategorin",
-        "title": "Skollags-NM: Svensk dubbelseger i U17-kategorin",
-        "date": "Sun, 13 Sep 2026 20:46:09 +0000",
+        "url": "https://schack.se/nyhet/internationellt/2026/09/fide-profilen-georgios-makropoulos-ar-dod/?utm_source=rss&utm_medium=rss&utm_campaign=fide-profilen-georgios-makropoulos-ar-dod",
+        "title": "FIDE-profilen Georgios Makropoulos är död",
+        "date": "Tue, 15 Sep 2026 09:11:06 +0000",
         "tag": "Svenska Schackförbundet",
-        "_rss_content": "Skollags-NM i Helsingborg som avgjordes i helgen, blev en stor succé för Sverige. I den äldsta klassen, U17, dubbelsegrade Berzeliussskolan från Linköping och Engelska Skolan Norr från Stockholm före skolor [&#8230;] Inlägget Skollags-NM: Svensk dubbelseger i U17-kategorin dök först upp på Sveriges Schackförbund ."
+        "_rss_content": "Georgios Makropoulos som i flera decennier arbetade inom FIDE som vicepresident, generalsekreterare och vice ordförande är död. Det meddelar europeiska schackförbundet, ECU, på sin Facebooksida på tisdagen. Georgios Makropoulos tävlade [&#8230;] Inlägget FIDE-profilen Georgios Makropoulos är död dök först upp på Sveriges Schackförbund ."
       }
     ],
     "kalla_display": "Schack.se",
-    "datum": "Sun, 13 Sep 2026 20:46:09 +0000",
-    "hittad": "2026-09-14T10:49:18.966880"
+    "datum": "Tue, 15 Sep 2026 09:11:06 +0000",
+    "hittad": "2026-09-15T10:12:35.744032"
   },
   {
-    "id": "ccba30d0464a",
+    "id": "b5227ebcff57",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/sverige/2026/09/stockholm-grand-prix-blir-granne-med-globen/?utm_source=rss&utm_medium=rss&utm_campaign=stockholm-grand-prix-blir-granne-med-globen",
+        "title": "Stockholm Grand Prix blir granne med Globen",
+        "date": "Mon, 14 Sep 2026 16:06:25 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Stockholm Grand Prix som ingår i Svenskt Grand Prix avgörs under allhelgonahelgen 30 oktober–1 november. Nu har arrangören Stockholms Schacksällskap publicerat årets inbjudan. Där framgår det att tävlingen flyttar till [&#8230;] Inlägget Stockholm Grand Prix blir granne med Globen dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Mon, 14 Sep 2026 16:06:25 +0000",
+    "hittad": "2026-09-15T10:12:35.744039"
+  },
+  {
+    "id": "09e16f7aa37f",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/7th-edition-of-pursue-your-chess-scholarship",
-        "title": "SpotlightTop storyRasika Ratnaparkhi·45 minutes agoThe 7th Edition of Pursue Your Chess Scholarship is here with Rs. 2 Lakh",
-        "date": "2026-09-13T10:48:14.240167",
+        "url": "https://www.chessbase.in/news/indian-teams-arrive-in-samarkand-for-46th-chess-olympiad",
+        "title": "SpotlightTop storyRasika Ratnaparkhi·31 minutes agoIndian Teams Arrive in Samarkand for 46th Chess Olympiad",
+        "date": "2026-09-14T10:11:30.802730",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-09-13T10:48:14.240167",
-    "hittad": "2026-09-14T10:49:18.966885"
+    "datum": "2026-09-14T10:11:30.802730",
+    "hittad": "2026-09-15T10:12:35.744045"
   },
   {
-    "id": "5e126698ec68",
+    "id": "6be1b6dd6ca1",
     "status": "pending",
     "rubriker": [
       {
         "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/olympiades-2026-presentation-10081.html",
-        "title": "Olympiades 202646e Olympiades d'Échecs : les meilleures nations du monde ont rendez-vous à Samarcande",
-        "date": "2026-09-13T10:48:24.631005",
+        "url": "https://www.europe-echecs.com/art/match-des-legendes-2026-bilan-10083.html",
+        "title": "Match des légendes 2026Veselin Topalov remporte le match des légendes contre Garry Kasparov",
+        "date": "2026-09-14T10:11:42.050995",
         "tag": "Europe Echecs"
       }
     ],
     "kalla_display": "Europe Echecs",
-    "datum": "2026-09-13T10:48:24.631005",
-    "hittad": "2026-09-14T10:49:18.966892"
+    "datum": "2026-09-14T10:11:42.050995",
+    "hittad": "2026-09-15T10:12:35.744056"
   },
   {
-    "id": "22355ce97db1",
+    "id": "f495cebd1880",
     "status": "pending",
     "rubriker": [
       {
         "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/coupe-de-france-marseille-et-saint-quentin-co-vainqueurs-apres-un-incroyable-imbroglio-10079.html",
-        "title": "Lire l'articleCoupe de France : Marseille et Saint-Quentin co-vainqueurs après un incroyable imbroglio",
-        "date": "2026-09-13T10:48:24.631043",
+        "url": "https://www.europe-echecs.com/art/tech-mahindra-global-chess-league-2026-bilan-10080.html",
+        "title": "Lire l'articleTech Mahindra Global Chess League 2026L'équipe Ganges Grandmasters remporte la saison 4 de la Global Chess League",
+        "date": "2026-09-14T10:11:42.051032",
         "tag": "Europe Echecs"
       }
     ],
     "kalla_display": "Europe Echecs",
-    "datum": "2026-09-13T10:48:24.631043",
-    "hittad": "2026-09-14T10:49:18.966897"
+    "datum": "2026-09-14T10:11:42.051032",
+    "hittad": "2026-09-15T10:12:35.744063"
   },
   {
-    "id": "db5b1af2dfc2",
+    "id": "ba81fb98bfd1",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/09/13/simon-bjoerk-vandt-holstebro-byturnering/?utm_source=rss&utm_medium=rss&utm_campaign=simon-bjoerk-vandt-holstebro-byturnering",
-        "title": "Simon Bjørk vandt Holstebro Byturnering",
-        "date": "Sun, 13 Sep 2026 19:29:46 +0000",
-        "tag": "Dansk Skak Union",
-        "_rss_content": "I weekenden d. 11-13. september blev Holstebro Byturnering Weekend EMT afholdt med 44 deltagere. I den øverste gruppe blev CM Simon Bjørk Haarh fra Læseforeningen (billedet øverst i artiklen) en klar og sikker vinder med imponerende 4½ af 5 og kunne derved tage førstepræmien på 2000kr med hjem. Simon Bjørk fortsætter derfor de fine takter, [&#8230;]"
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/tournoi-ferme-de-gmi-de-saragosse-2026-bilan-10082.html",
+        "title": "Lire l'articleTournoi fermé de GMI de Saragosse 2026Loïc Travadon décroche le titre de grand maître à Saragosse2",
+        "date": "2026-09-14T10:11:42.051056",
+        "tag": "Europe Echecs"
       }
     ],
-    "kalla_display": "Dansk Skak Union",
-    "datum": "Sun, 13 Sep 2026 19:29:46 +0000",
-    "hittad": "2026-09-14T10:49:18.966901"
+    "kalla_display": "Europe Echecs",
+    "datum": "2026-09-14T10:11:42.051056",
+    "hittad": "2026-09-15T10:12:35.744068"
   },
   {
-    "id": "cedd18b950bd",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/09/14/levanger-grand-prix-2026/",
-        "title": "Levanger Grand Prix 2026",
-        "date": "Mon, 14 Sep 2026 04:51:13 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "Levanger Sjakklubb arrangerte Levanger Grand Prix 11-13. september 2026. Turneringen hadde fem runder langsjakk og inngår i Norges Grand Prix 2026-27. Med hele 73 spillere ble det satt deltakerrekord for Levanger Grand Prix. GM Simen Agdestein var klar favoritt i A-gruppen, og stormesteren innfridde ved å vinne alle sine fem partier. CM Shadi Sian, Kristoffer Les mer"
-      }
-    ],
-    "kalla_display": "Bergensjakk",
-    "datum": "Mon, 14 Sep 2026 04:51:13 +0000",
-    "hittad": "2026-09-14T10:49:18.966904"
-  },
-  {
-    "id": "508cd12936f5",
+    "id": "22f99fc0c89f",
     "status": "pending",
     "rubriker": [
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/09/14/nordisk-mesterskap-for-skolelag-2026/",
-        "title": "Nordisk mesterskap for skolelag 2026",
-        "date": "Mon, 14 Sep 2026 04:51:03 +0000",
+        "url": "https://bergensjakk.no/2026/09/15/europamesterskapet-for-dove-starter/",
+        "title": "Europamesterskapet for døve starter",
+        "date": "Tue, 15 Sep 2026 05:00:27 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "Nordisk mesterskap for skolelag ble arrangert i Sverige 11-13. september 2026. Det ble spilt i klasser for barneskoler (U13) og ungdomsskoler (U17), med deltakere fra Norge, Danmark, Finland, Island og Sverige. Mesterskapet hadde 5 runder langsjakk med fire spillere på lagene. Klassen for barneskoler ble vunnet av danske Giersings Realskole B med 14&#189; individuelle poeng. Les mer"
+        "_rss_content": "I&#160;dag starter Europamesterskapet i sjakk for døve i Stavanger. Arrangør er Døves sjakkforening. Mesterskapet har to grupper, for lag og individuelt. Begge spiller syv runder fra 15. til 18. september 2026. Betenkningstid er 90 minutter med 30 sekunder tillegg pr. trekk. Lagmesterskapet har 10 lag påmeldt og spilles over 4 bord. Klare favoritter blir ukrainske Les mer"
       }
     ],
     "kalla_display": "Bergensjakk",
-    "datum": "Mon, 14 Sep 2026 04:51:03 +0000",
-    "hittad": "2026-09-14T10:49:18.966908"
+    "datum": "Tue, 15 Sep 2026 05:00:27 +0000",
+    "hittad": "2026-09-15T10:12:35.744075"
   },
   {
-    "id": "fa47b06e7ba2",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/09/14/apent-nordnorsk-mesterskap-i-hurtigsjakk-2026/",
-        "title": "Åpent Nordnorsk Mesterskap i hurtigsjakk 2026",
-        "date": "Mon, 14 Sep 2026 04:50:51 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "Åpent Nordnorsk Mesterskap i hurtigsjakk ble spilt i Sortland 12-13. september 2026. Sortland Sjakklubb var arrangør. Torbjørn Valvåg og Magnus Aanstad endte begge på 7&#189; poeng av 9. Valvåg vant innbyrdes oppgjør mot Aanstad i fjerde runde og tok dermed førsteplassen. Tromsøspilleren ble med dette dobbel nordnorsk mester, siden han også vant lynsjakkmesterskapet samme helg. Les mer"
-      }
-    ],
-    "kalla_display": "Bergensjakk",
-    "datum": "Mon, 14 Sep 2026 04:50:51 +0000",
-    "hittad": "2026-09-14T10:49:18.966912"
-  },
-  {
-    "id": "5d3ecc12f7a3",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/09/14/ntg-lyn-gp-september-2026/",
-        "title": "NTG Lyn-GP september 2026",
-        "date": "Mon, 14 Sep 2026 04:50:33 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "NTG Lyn-GP september ble spilt hos NTG i Bærum søndag 13. september 2026. Arrangører var NTG Sjakklinja og Dragen Sjakklubb. Turneringen inngår i Norges Grand Prix 2026-27. Det var et sterkt felt, hvor 16 av de 61 deltakerne var ratet over 2000. Vinner ble IM Håvard Haug, som nylig har fått tildelt IM-tittelen fra FIDE. Les mer"
-      }
-    ],
-    "kalla_display": "Bergensjakk",
-    "datum": "Mon, 14 Sep 2026 04:50:33 +0000",
-    "hittad": "2026-09-14T10:49:18.966916"
-  },
-  {
-    "id": "4fc13f9cde30",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "English Chess Federation",
-        "url": "https://www.englishchess.org.uk/ecf-agm-call-for-nominations-4/",
-        "title": "ECF AGM – Call for nominations",
-        "date": "Mon, 14 Sep 2026 08:28:17 +0000",
-        "tag": "English Chess Federation",
-        "_rss_content": "Nominations are invited for the positions detailed below, which will be the subject of elections to be held at the Annual General Meeting on 14th November 2026. Posts due for..."
-      }
-    ],
-    "kalla_display": "English Chess Federation",
-    "datum": "Mon, 14 Sep 2026 08:28:17 +0000",
-    "hittad": "2026-09-14T10:49:18.966919"
-  },
-  {
-    "id": "dd48f3aac6e9",
+    "id": "9694e14ac191",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/india-and-uzbekistan-collide-in-samarkand-with-a-world-title-still-to-come",
-        "title": "India and Uzbekistan Collide in Samarkand, With a World Title Still to Come",
-        "date": "Mon, 14 Sep 2026 10:48:50 GMT",
+        "url": "https://chessnewsnetwork.com/article/romanias-chess-federation-formally-endorses-rosenstein-for-fide-president",
+        "title": "Romania's Chess Federation Formally Endorses Rosenstein for FIDE President",
+        "date": "Tue, 15 Sep 2026 10:00:53 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "Defending champion India and host nation Uzbekistan arrive at the 46th Chess Olympiad seeded second and third, a genuine medal collision on its own terms."
+        "_rss_content": "The Romanian Chess Federation has thrown its official backing behind Wadim Rosenstein's FIDE presidential ticket, in a signed statement of support dated September 15 from Bucharest, published by Rosenstein on X with a simple \"Thank you, Romania.\""
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Mon, 14 Sep 2026 10:48:50 GMT",
-    "hittad": "2026-09-14T10:49:18.966923"
+    "datum": "Tue, 15 Sep 2026 10:00:53 GMT",
+    "hittad": "2026-09-15T10:12:35.744081"
   },
   {
-    "id": "c828072493fb",
+    "id": "6fae0d5b7c16",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/israel-cuba-and-czech-republic-share-the-lead-as-poland-claws-back",
-        "title": "Israel, Cuba, and Czech Republic Share the Lead as Poland Claws Back",
-        "date": "Mon, 14 Sep 2026 04:49:00 GMT",
+        "url": "https://chessnewsnetwork.com/article/tickets-now-available-for-46th-fide-chess-olympiad-in-samarkand",
+        "title": "Tickets Now Available for 46th FIDE Chess Olympiad in Samarkand",
+        "date": "Mon, 14 Sep 2026 19:57:50 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "Three rounds into the Olympiad for People with Disabilities in Samarkand, the tournament has a genuine three-way tie at the top, and the team that stumbled hardest on day one has already put itself back in the conversation."
+        "_rss_content": "Spectator tickets for the 46th FIDE Chess Olympiad in Samarkand, Uzbekistan, are now on sale, with various ticket categories available."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Mon, 14 Sep 2026 04:49:00 GMT",
-    "hittad": "2026-09-14T10:49:18.966926"
-  },
-  {
-    "id": "22c6048097a0",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/carlsen-and-nepomniachtchi-to-meet-in-tech-mahindra-global-chess-league-final",
-        "title": "Carlsen and Nepomniachtchi to Meet in Tech Mahindra Global Chess League Final",
-        "date": "Sun, 13 Sep 2026 13:41:50 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "The 2026 Tech Mahindra Global Chess League final matchup is set between Carlsen's Alpine APL Pipers and Nepomniachtchi's Ganges Grandmasters."
-      }
-    ],
-    "kalla_display": "Chess News Network",
-    "datum": "Sun, 13 Sep 2026 13:41:50 GMT",
-    "hittad": "2026-09-14T10:49:18.966930"
+    "datum": "Mon, 14 Sep 2026 19:57:50 GMT",
+    "hittad": "2026-09-15T10:12:35.744086"
   }
 ]
