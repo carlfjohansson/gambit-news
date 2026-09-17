@@ -2009,18 +2009,41 @@ class MultiNewsEngine:
        if len(articles) < 2 or not anthropic_client:
            return [[a] for a in articles]
 
+       def _snutt(a):
+           # En kort textsnutt (RSS-beskrivningen, om källan har en) ger
+           # modellen mer att gå på än bara rubriken - särskilt värdefullt
+           # när två källor beskriver samma sak på olika språk och
+           # rubrikerna därför ser helt olika ut ordmässigt.
+           text = (a.get('_rss_content') or '').strip()
+           if not text:
+               return ''
+           text = re.sub(r'\s+', ' ', text)[:160]
+           return f' — {text}'
+
        lista = "\n".join(
-           f"{i}. [{a['source']}] {a['title']}" for i, a in enumerate(articles)
+           f"{i}. [{a['source']}] {a['title']}{_snutt(a)}" for i, a in enumerate(articles)
        )
 
-       prompt = f"""Nedan är rubriker på schacknyheter från olika källor.
+       prompt = f"""Nedan är rubriker (ibland med en kort textsnutt) på schacknyheter
+från olika källor, på flera olika språk (svenska, engelska, franska, danska,
+norska, spanska med mera).
 
 Hitta de rubriker som handlar om EXAKT SAMMA händelse — samma parti, samma
-turneringsomgång, samma beslut, samma person i samma sammanhang.
+turneringsomgång/rond, samma beslut, samma person i samma sammanhang. Källor
+på olika språk beskriver ofta samma händelse med helt olika ord och en helt
+annan vinkel i själva rubriken - bedöm vad nyheten FAKTISKT handlar om, inte
+hur orden eller språket ser ut. Låt ALDRIG språket i sig vara skälet till att
+inte slå ihop två rubriker som beskriver samma sak.
 
-Var strikt. Två artiklar om samma turnering men olika ronder är INTE samma
-händelse. Två artiklar om samma spelare men olika saker är INTE samma händelse.
-Slå bara ihop när en läsare skulle uppfatta dem som samma nyhet.
+Var ändå strikt på VAD som räknas som samma händelse:
+- Samma turnering men olika ronder/dagar är INTE samma händelse.
+- Samma turnering och rond, men en artikel om en helt annan, specifik
+  detalj (t.ex. en enskild intervju, en enskild incident, ett enskilt
+  beslut) än en allmän sammanfattning av rondens resultat, är INTE samma
+  händelse - även om de handlar om samma dag.
+- Två artiklar om samma spelare men olika saker är INTE samma händelse.
+- Slå bara ihop när en läsare - oavsett vilket av språken hen läser - skulle
+  uppfatta dem som exakt samma nyhet.
 
 Svara med en rad per grupp som har fler än en artikel, med siffrorna
 kommaseparerade. Finns inga sådana grupper, svara med ordet INGA.
@@ -2338,6 +2361,123 @@ KÄLLOR: {kallnamn}
            # Alla källor, för sidfoten under artikeln
            "alla_kallor": [{"source": a['source'], "url": a['url']} for a in med_innehall],
            # Alla adresser, så att ingen av dem samlas in på nytt nästa körning
+           "alla_urler": [a['url'] for a in med_innehall],
+       }
+
+   def translate_digest_with_claude(self, grupp):
+       """Skriv EN artikel av FLERA OLIKA nyheter i samma sammanhang - inte
+       samma händelse, som translate_group_with_claude, utan olika delnyheter
+       som Carl Fredrik själv valt att slå ihop manuellt på
+       redaktionen/rubriker.php (t.ex. "hur gick rond 1?", "vem är Carlsens
+       favorit?" och "rumsproblem inför OS" om samma turnering). Se
+       run_oversatt_godkanda() - den här anropas bara när notisen har
+       "manuell": true, satt av rubriker.php:s ihopslagningsfunktion
+       (2026-09-17, Carl Fredriks förslag)."""
+       if not anthropic_client:
+           return None
+
+       texter = []
+       med_innehall = []
+       for art in grupp:
+           source = next((sr for sr in self.sources if sr.name == art['source']), None)
+           if not source:
+               continue
+           innehall = source.parse_article_content(art['url'])
+           if (not innehall or len(innehall) < 100) and art.get('_rss_content'):
+               innehall = art['_rss_content']
+           if innehall and len(innehall) >= 100:
+               med_innehall.append(art)
+               texter.append(f"--- KÄLLA: {art['source']} ---\nRUBRIK: {art['title']}\n{innehall[:2000]}")
+
+       if not med_innehall:
+           logger.warning("⚠️ Ingen av de manuellt sammanslagna artiklarna gick att läsa")
+           return None
+       if len(med_innehall) == 1:
+           # Bara en gick att läsa - då är det ingen samlingsartikel längre
+           return self.translate_article_with_claude(med_innehall[0])
+
+       samlad = "\n\n".join(texter)
+       max_chars = max(800, min(2400, int(len(samlad) * 0.35)))
+       max_chars = round(max_chars / 50) * 50
+
+       kallnamn = ", ".join(a['source'] for a in med_innehall)
+
+       prompt = f"""Du är en schackjournalist som skriver nyhetsnotiser på svenska.
+
+Nedan följer {len(med_innehall)} artiklar från olika källor. De handlar INTE
+om samma händelse - det är olika, separata nyheter som hör ihop genom sitt
+gemensamma sammanhang (t.ex. samma turnering eller händelseserie). Skriv EN
+samlad artikel som täcker alla delnyheterna, i en naturlig läsordning.
+
+SÅ HÄR SKRIVER DU:
+- Kort, samlande rubrik på svenska (max 10 ord) som fångar helheten - inte bara en av delnyheterna
+- Ge varje delnyhet ett eget stycke eller några egna meningar, med en naturlig övergång till nästa - som i en vanlig nyhetsartikel med flera ämnen, INGA underrubriker eller punktlistor mitt i texten
+- Rapportera varje delnyhet konkret och direkt. Skriv aldrig "Enligt [källa]" eller "[Källa] rapporterar"
+- Nämn inte att det finns flera källor - det står i sidfoten under artikeln
+- Behåll alla egennamn, turneringsnamn och förkortningar exakt som i originalen
+
+LÄNGDEN STYRS AV INNEHÅLLET:
+- {max_chars} tecken är ett TAK, inte något att sträva mot
+- Fler delnyheter betyder inte att varje del ska bli kort och hafsig - hellre färre ord per del än att tappa sammanhanget
+
+{SCHACKTERMER}
+
+FORMAT:
+RUBRIK: [din svenska rubrik]
+TEXT: [din svenska text]
+
+KÄLLOR: {kallnamn}
+
+{samlad}"""
+
+       try:
+           response = claude_message(
+               max_tokens=2400,
+               temperature=0.2,
+               messages=[{"role": "user", "content": prompt}]
+           )
+           claude_text = hamta_text(response)
+       except Exception as e:
+           logger.error(f"❌ Kunde inte skriva samlingsartikel: {e}")
+           return None
+
+       if "RUBRIK:" in claude_text and "TEXT:" in claude_text:
+           delar = claude_text.split("TEXT:", 1)
+           swedish_title = delar[0].replace("RUBRIK:", "").strip()
+           swedish_content = delar[1].strip()
+       else:
+           rader = claude_text.split("\n", 1)
+           swedish_title = rader[0].strip()
+           swedish_content = rader[1].strip() if len(rader) > 1 else claude_text
+
+       # Samma resonemang som i translate_group_with_claude (bugg 14).
+       if getattr(response, "stop_reason", None) == "max_tokens":
+           logger.warning(
+               f"⚠️ Claudes svar klipptes av (max_tokens) vid samlingsartikel om {kallnamn} - kortar till senaste hela meningen"
+           )
+           swedish_content = korta_vid_meningsslut(swedish_content, max(0, len(swedish_content) - 1))
+
+       tak = max(2200, int(max_chars * 1.4))
+       if len(swedish_content) > tak:
+           swedish_content = korta_vid_meningsslut(swedish_content, tak)
+
+       if not swedish_content or len(swedish_content) < 80:
+           logger.warning(f"⚠️ För kort/trasig samlingsartikel för {kallnamn} - hoppar över")
+           return None
+
+       huvud = med_innehall[0]
+       logger.info(f"📰 Skrev samlingsartikel av {len(med_innehall)} manuellt hopslagna källor: {swedish_title[:60]}")
+
+       return {
+           "source": huvud['source'],
+           "original_url": huvud['url'],
+           "original_title": huvud['title'],
+           "swedish_title": swedish_title,
+           "swedish_content": swedish_content,
+           "date": huvud['date'],
+           "tag": huvud['tag'],
+           "processed_at": datetime.now().isoformat(),
+           "alla_kallor": [{"source": a['source'], "url": a['url']} for a in med_innehall],
            "alla_urler": [a['url'] for a in med_innehall],
        }
 
@@ -3023,7 +3163,12 @@ TEXT: {text[:600]}"""
        lyckade_kandidater = []
        for kand in godkanda:
            grupp = kand['rubriker']
-           if len(grupp) > 1:
+           if kand.get('manuell') and len(grupp) > 1:
+               # Manuellt hopslagen på rubriker.php (2026-09-17) - olika
+               # nyheter i samma sammanhang, inte samma händelse. Se
+               # translate_digest_with_claude().
+               result = self.translate_digest_with_claude(grupp)
+           elif len(grupp) > 1:
                result = self.translate_group_with_claude(grupp)
            else:
                result = self.translate_article_with_claude(grupp[0])
