@@ -1,136 +1,136 @@
 [
   {
-    "id": "6ad9ec36d27c",
+    "id": "a196b669c3ba",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-1",
-        "title": "2026 Samarkand Chess Olympiad Round 1",
-        "date": "2026-09-16T10:07:27.557843",
+        "url": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-2",
+        "title": "2026 Samarkand Chess Olympiad Round 2",
+        "date": "2026-09-17T09:53:58.549902",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-09-16T10:07:27.557843",
-    "hittad": "2026-09-17T10:08:57.668830"
+    "datum": "2026-09-17T09:53:58.549902",
+    "hittad": "2026-09-18T09:55:33.710458"
   },
   {
-    "id": "97fcf14ea952",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/carlsen-calls-sindarov-significant-favorite-against-gukesh-rules-out-comeback",
-        "title": "Carlsen Calls Sindarov Significant Favorite Against Gukesh Rules Out Comeback",
-        "date": "2026-09-16T10:07:27.557890",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-09-16T10:07:27.557890",
-    "hittad": "2026-09-17T10:08:57.668845"
-  },
-  {
-    "id": "67b611192cbb",
+    "id": "d39a1a2fe8b7",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/chess-olympiad-2026-1-women",
-        "title": "Samarkand R1 (women): Nine teams from the top ten score 4-0 victories",
-        "date": "Thu, 17 Sep 2026 10:40:00 GMT",
+        "url": "https://en.chessbase.com/post/chess-olympiad-2026-2-women",
+        "title": "Samarkand R2 (women): Georgia only manage a draw against Montenegro",
+        "date": "Fri, 18 Sep 2026 10:35:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "India began their women's Chess Olympiad title defence in Samarkand as the top seeds, ahead of Georgia, Kazakhstan, China and the United States. The leading teams made a comfortable start, with nine of the top ten seeds winning 4–0 and no major upsets on individual boards. England's 11-year-old top board Bodhana Sivanandan also opened with a win, defeating Hanna Wilson of Barbados. | Photo: Michal Walusza / FIDE"
+        "_rss_content": "Georgia became the first leading team to drop match points in the Women's Chess Olympiad, as the second seeds were held to a 2–2 draw by Montenegro in round two. Alena Skvortsova and Aleksandra Milovic (pictured) scored the Montenegrins' two wins. The Czech Republic were also held by the United Arab Emirates, while Tajikistan and Kenya recorded notable match victories against higher-seeded opposition. | Photo: Michal Walusza / FIDE"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Thu, 17 Sep 2026 10:40:00 GMT",
-    "hittad": "2026-09-17T10:08:57.668853"
+    "datum": "Fri, 18 Sep 2026 10:35:00 GMT",
+    "hittad": "2026-09-18T09:55:33.710471"
   },
   {
-    "id": "0f82612cf977",
+    "id": "62a385e63700",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/chess-olympiad-2026-1",
-        "title": "Samarkand R1 (open): Favourites win comfortably, Thailand's Laohawirapap upsets Erigaisi",
-        "date": "Thu, 17 Sep 2026 07:00:00 GMT",
+        "url": "https://en.chessbase.com/post/chess-olympiad-2026-2",
+        "title": "Samarkand R2 (open): Despite close calls, all top teams grab wins",
+        "date": "Fri, 18 Sep 2026 07:25:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "The 46th Chess Olympiad began in Samarkand with 206 teams in the open section, where the United States, India, Uzbekistan and China are the leading seeds. The top 30 teams all won their opening matches, though a few strong grandmasters dropped points. Botswana produced the only team upset by holding Brazil to a draw, while Arjun Erigaisi suffered the biggest individual upset of the day, losing to Thailand's IM Prin Laohawirapap (pictured). | Photo: Rafal Oleksiewicz / FIDE"
+        "_rss_content": "All of the top 28 seeds won in round two of the open Chess Olympiad, but several favourites were pushed hard. The United States (pictured), India and the Netherlands all prevailed by 2½–1½, while El Salvador produced the biggest team upset by beating Cuba. Gukesh Dommaraju was held to a draw by Satria Duta Cahaia and slipped below 2700 on the live rating list. | Photo: Rafal Oleksiewicz / FIDE"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Thu, 17 Sep 2026 07:00:00 GMT",
-    "hittad": "2026-09-17T10:08:57.668861"
+    "datum": "Fri, 18 Sep 2026 07:25:00 GMT",
+    "hittad": "2026-09-18T09:55:33.710477"
   },
   {
-    "id": "a17b99f525ac",
+    "id": "92527aae7354",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/uzbekistan-silver-1992-olympiad",
-        "title": "That time Uzbekistan surprisingly won silver at the 1992 Chess Olympiad",
-        "date": "Wed, 16 Sep 2026 21:10:00 GMT",
+        "url": "https://en.chessbase.com/post/olympyad-people-disabilities-2026-final-report",
+        "title": "Poland crowned champions at Olympiad for People with Disabilities",
+        "date": "Fri, 18 Sep 2026 04:35:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "The 1992 Chess Olympiad in Manila was the first held after the dissolution of the Soviet Union. Suddenly, instead of one dominant USSR team, there were several very strong teams representing former Soviet republics. Russia continued the Soviet Union's run of success. The surprise team from Uzbekistan, with just one grandmaster, took silver ahead of Armenia. In the women's event, Georgia won the gold medal. | Photo: Gerhard Hund"
+        "_rss_content": "Poland won the 3rd FIDE Chess Olympiad for People with Disabilities in Samarkand after finishing unbeaten on 13 match points, ahead of Cuba and hosts Uzbekistan 1. The final round saw Poland defeat the Philippines 3½–½ to secure gold. The event featured a record 41 teams and was staged alongside the main FIDE Chess Olympiad for the first time. | Photos: Mark Livshitz and Rafal Oleksiewicz"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Wed, 16 Sep 2026 21:10:00 GMT",
-    "hittad": "2026-09-17T10:08:57.668866"
+    "datum": "Fri, 18 Sep 2026 04:35:00 GMT",
+    "hittad": "2026-09-18T09:55:33.710482"
   },
   {
-    "id": "d8309752922e",
+    "id": "9c0ba4ed935f",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/on-the-superfluity-of-words-2",
+        "title": "On the Superfluity of Words (2)",
+        "date": "Thu, 17 Sep 2026 19:00:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "In today's article we present a gem of chess composition. It is a study requires no words, no instruction or stipulation, such as, for example, \"White to move and win\". Everything is solved by simply analysing the diagram. Can you follow the logic that tells you everything abut this diagram? It is extensive, exacting, and truly dizzying."
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Thu, 17 Sep 2026 19:00:00 GMT",
+    "hittad": "2026-09-18T09:55:33.710486"
+  },
+  {
+    "id": "67081510c5ac",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/internationellt/2026/09/olympiaden-i-samarkand-ar-igang/?utm_source=rss&utm_medium=rss&utm_campaign=olympiaden-i-samarkand-ar-igang",
-        "title": "Olympiaden i Samarkand är igång!",
-        "date": "Wed, 16 Sep 2026 21:24:53 +0000",
+        "url": "https://schack.se/nyhet/internationellt/2026/09/tva-nya-segrar-for-sverige/?utm_source=rss&utm_medium=rss&utm_campaign=tva-nya-segrar-for-sverige",
+        "title": "Två nya segrar för Sverige…",
+        "date": "Fri, 18 Sep 2026 01:16:45 +0000",
         "tag": "Svenska Schackförbundet",
-        "_rss_content": "Schack-OS i Samarkand, Uzbekistan är igång. Och det gick som väntat bra för Sverige i den första ronden. I öppen klass så vann svenskarna med 4-0 mot nordvästafrikanska landet Mauritanien. [&#8230;] Inlägget Olympiaden i Samarkand är igång! dök först upp på Sveriges Schackförbund ."
+        "_rss_content": "Nu har Schack-OS kommit igång på riktigt. Sverige vann båda sina matcher även på torsdagen. Herrarna vann sin match i öppen klass mot Andorra med 3,5 &#8211; 0,5 efter att [&#8230;] Inlägget Två nya segrar för Sverige&#8230; dök först upp på Sveriges Schackförbund ."
       }
     ],
     "kalla_display": "Schack.se",
-    "datum": "Wed, 16 Sep 2026 21:24:53 +0000",
-    "hittad": "2026-09-17T10:08:57.668870"
+    "datum": "Fri, 18 Sep 2026 01:16:45 +0000",
+    "hittad": "2026-09-18T09:55:33.710491"
   },
   {
-    "id": "62b0dc498387",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/internationellt/2026/09/tvingades-sluta-da-dok-dvorkovitj-plotsligt-upp-igen/?utm_source=rss&utm_medium=rss&utm_campaign=tvingades-sluta-da-dok-dvorkovitj-plotsligt-upp-igen",
-        "title": "Tvingades sluta – då dök Dvorkovitj plötsligt upp igen",
-        "date": "Wed, 16 Sep 2026 19:58:14 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Ryssen Arkadij Dvorkovitj klev av som FIDE-president i somras när han hamnade på EU:s sanktionslista. Sedan Dvorkovitj lämnade chefsposten via bakdörren har det varit ganska tyst om honom. Fram till [&#8230;] Inlägget Tvingades sluta – då dök Dvorkovitj plötsligt upp igen dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Wed, 16 Sep 2026 19:58:14 +0000",
-    "hittad": "2026-09-17T10:08:57.668875"
-  },
-  {
-    "id": "c326207dfc55",
+    "id": "2128166565c6",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/46th-fide-chess-olympiad-day-1-photos",
-        "title": "SpotlightTop storyRasika Ratnaparkhi·37 minutes agoMoments from Day 1 of the 46th FIDE Chess Olympiad",
-        "date": "2026-09-16T10:07:48.265256",
+        "url": "https://www.chessbase.in/news/the-inspiring-journey-of-12-year-old-avirat-chauhan",
+        "title": "SpotlightTop storyDevansh Singh·2 hours agoFrom a Mobile Phone Game to an IM Norm: The Inspiring Journey of 12-Year-Old Avirat Chauhan",
+        "date": "2026-09-17T09:54:20.974783",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-09-16T10:07:48.265256",
-    "hittad": "2026-09-17T10:08:57.668887"
+    "datum": "2026-09-17T09:54:20.974783",
+    "hittad": "2026-09-18T09:55:33.710496"
+  },
+  {
+    "id": "06ff29818f4d",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/olympiades-2026-ronde-3-10089.html",
+        "title": "Olympiades 2026Ronde 3 : Qui réussira la passe de trois à Samarcande ?",
+        "date": "2026-09-17T09:54:31.262476",
+        "tag": "Europe Echecs"
+      }
+    ],
+    "kalla_display": "Europe Echecs",
+    "datum": "2026-09-17T09:54:31.262476",
+    "hittad": "2026-09-18T09:55:33.710511"
   },
   {
     "id": "e43b5190dcb5",
@@ -139,182 +139,149 @@
       {
         "source": "Europe Echecs",
         "url": "https://www.europe-echecs.com/art/olympiades-2026-ronde-2-10087.html",
-        "title": "Olympiades 2026Ronde 2 : Début des choses sérieuses à Samarcande",
-        "date": "2026-09-16T10:07:59.598704",
+        "title": "Lire l'articleOlympiades 2026Ronde 2 : Les choses sérieuses commencent à Samarcande9",
+        "date": "2026-09-17T09:54:31.262519",
         "tag": "Europe Echecs"
       }
     ],
     "kalla_display": "Europe Echecs",
-    "datum": "2026-09-16T10:07:59.598704",
-    "hittad": "2026-09-17T10:08:57.668894"
+    "datum": "2026-09-17T09:54:31.262519",
+    "hittad": "2026-09-18T09:55:33.710520"
   },
   {
-    "id": "a3dc288c66a0",
+    "id": "896dda1859d4",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/olympiades-2026-ronde-1-10086.html",
-        "title": "Lire l'articleOlympiades 202646e Olympiades à Samarcande : début des hostilités4",
-        "date": "2026-09-16T10:07:59.598749",
-        "tag": "Europe Echecs"
+        "source": "TWIC",
+        "url": "https://theweekinchess.com/chessnews/events/3rd-fide-chess-olympiad-for-people-with-disabilities-2026",
+        "title": "3rd FIDE Chess Olympiad for People with Disabilities 2026 - Games and Results",
+        "date": "Thu Sep 17 20:10:00 2026",
+        "tag": "TWIC",
+        "_rss_content": "The 3rd FIDE Chess Olympiad for People with Disabilities took place Fri 11th to Thu 17th Sep 2026. Poland beat Cuba in Round 5 to take the lead which they retained to the end, Cuba took the Silver medal and Uzbekistan 1 the Bronze."
       }
     ],
-    "kalla_display": "Europe Echecs",
-    "datum": "2026-09-16T10:07:59.598749",
-    "hittad": "2026-09-17T10:08:57.668900"
+    "kalla_display": "TWIC",
+    "datum": "Thu Sep 17 20:10:00 2026",
+    "hittad": "2026-09-18T09:55:33.710529"
   },
   {
-    "id": "2f7931cf805c",
+    "id": "2561793c4f5f",
     "status": "pending",
     "rubriker": [
       {
         "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/09/16/fin-dansk-start-ved-ol-i-sarmakand/?utm_source=rss&utm_medium=rss&utm_campaign=fin-dansk-start-ved-ol-i-sarmakand",
-        "title": "Fin dansk start ved OL i Samarkand",
-        "date": "Wed, 16 Sep 2026 17:38:28 +0000",
+        "url": "https://nyheder.skak.dk/2026/09/17/ol-2-runde/?utm_source=rss&utm_medium=rss&utm_campaign=ol-2-runde",
+        "title": "OL 2. runde",
+        "date": "Thu, 17 Sep 2026 16:51:36 +0000",
         "tag": "Dansk Skak Union",
-        "_rss_content": "Begge de danske hold ved den 46. Skakolympiade i Samarkand i Usbekistan kom flot i gang i første runde. De danske kvinder gjorde rent bord mod Cayman-øerne mens det danske hold i den åbne række måtte afgive en enkelt remis mod Nepal. KvinderækkenDanmark &#8211; Cayman-øerne 4 &#8211; 01. WFM Sarah Sima Derlich (2107) &#8211; WCM [&#8230;]"
+        "_rss_content": "Det blev en forventet dag ved 2. runde ved OL i Samarkand i Usbekistan. Det danske kvindehold var kommet på en hård opgave mod Aserbajdsjan, der er seedet som nummer 7. Det danske hold måtte da også inkassere fire nuller i den kamp. Danmark ligger efter de første to runder på en delt 88. plads. [&#8230;]"
       }
     ],
     "kalla_display": "Dansk Skak Union",
-    "datum": "Wed, 16 Sep 2026 17:38:28 +0000",
-    "hittad": "2026-09-17T10:08:57.668907"
+    "datum": "Thu, 17 Sep 2026 16:51:36 +0000",
+    "hittad": "2026-09-18T09:55:33.710536"
   },
   {
-    "id": "ba447c671fd9",
+    "id": "124676b75c25",
     "status": "pending",
     "rubriker": [
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/09/17/sjakk-ol-2026-1-runde/",
-        "title": "Sjakk-OL 2026 – 1. runde",
-        "date": "Thu, 17 Sep 2026 05:15:28 +0000",
+        "url": "https://bergensjakk.no/2026/09/18/sjakk-ol-2026-2-runde/",
+        "title": "Sjakk-OL 2026 – 2. runde",
+        "date": "Fri, 18 Sep 2026 05:25:15 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "Det norske laget i Åpen klasse i Sjakk-OL fikk en bra start, med seier 4-0 mot Nicaragua i første runde. GM Aksel Bu Kvaløy (2505) og IM Tor Fredrik Kaasen (2499) vant uten problemer, mens GM Elham Amar (2577) på andrebord måtte jobbe litt mer mot sin motstander. Det var ikke like enkelt på førstebord, Les mer"
+        "_rss_content": "Det norske laget i Åpen klasse i Sjakk-OL overbeviste også i andre runde, hvor det ble seier 3&#189;-&#189; mot New Zealand. GM Johan-Sebastian Christiansen (2656), GM Aksel Bu Kvaløy (2505) og IM Tor Fredrik Kaasen (2499) vant alle sine partier uten å stå dårligst underveis. GM Elham Amar (2577) på andrebord hadde større problemer, og Les mer"
       }
     ],
     "kalla_display": "Bergensjakk",
-    "datum": "Thu, 17 Sep 2026 05:15:28 +0000",
-    "hittad": "2026-09-17T10:08:57.668911"
+    "datum": "Fri, 18 Sep 2026 05:25:15 +0000",
+    "hittad": "2026-09-18T09:55:33.710543"
   },
   {
-    "id": "34dd86a291f8",
+    "id": "c97e78754ccc",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/three-huge-rating-gaps-three-different-endings-on-day-one",
-        "title": "Three Huge Rating Gaps, Three Different Endings on Day One",
-        "date": "Thu, 17 Sep 2026 07:52:50 GMT",
+        "url": "https://chessnewsnetwork.com/article/swedish-family-business",
+        "title": "Swedish Family Business",
+        "date": "Thu, 17 Sep 2026 20:34:00 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "Round one of the Olympiad produced its share of predictable results, but three games in particular showed just how differently a massive rating gap can actually play out over the board"
+        "_rss_content": "Sweden's women's team in Samarkand is a family affair in the most literal sense possible: GM Pia Cramling plays board one, her daughter WFM Anna Cramling plays board four, and Pia's husband, GM Juan Manuel Bellón López, captains the whole operation from the sidelines"
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Thu, 17 Sep 2026 07:52:50 GMT",
-    "hittad": "2026-09-17T10:08:57.668915"
+    "datum": "Thu, 17 Sep 2026 20:34:00 GMT",
+    "hittad": "2026-09-18T09:55:33.710549"
   },
   {
-    "id": "ff64709c4df0",
+    "id": "a47751af9b51",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/pakistan-forfeits-round-one-match-against-israel-at-the-olympiad",
-        "title": "Pakistan Forfeits Round One Match Against Israel at the Olympiad",
-        "date": "Thu, 17 Sep 2026 05:25:55 GMT",
+        "url": "https://chessnewsnetwork.com/article/rosenstein-sends-open-letter-to-malcolm-pein",
+        "title": "Rosenstein Sends Open Letter to Malcolm Pein",
+        "date": "Thu, 17 Sep 2026 19:47:00 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "Pakistan did not show up for its scheduled Round 1 match against Israel at the 46th Chess Olympiad in Samarkand, leaving all four boards unplayed and handing Israel a 4-0 walkover."
+        "_rss_content": "Wadim Rosenstein has taken a new approach to the increasingly bitter FIDE campaign: instead of another formal complaint, he published an open letter on social media addressed directly to Malcolm Pein."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Thu, 17 Sep 2026 05:25:55 GMT",
-    "hittad": "2026-09-17T10:08:57.668918"
+    "datum": "Thu, 17 Sep 2026 19:47:00 GMT",
+    "hittad": "2026-09-18T09:55:33.710555"
   },
   {
-    "id": "fc9ec6946246",
+    "id": "c59a5793862e",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/fide-recaps-day-1-of-the-olympiad",
-        "title": "FIDE Recaps Day 1 of the Olympiad",
-        "date": "Wed, 16 Sep 2026 18:58:20 GMT",
+        "url": "https://chessnewsnetwork.com/article/gukesh-slips-under-2700-and-montenegro-delivers-the-upset-of-the-tournament",
+        "title": "Gukesh Slips Under 2700, and Montenegro Delivers the Upset of the Tournament",
+        "date": "Thu, 17 Sep 2026 18:41:58 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "The 46th Chess Olympiad opened in Samarkand with 207 teams in the Open section and 191 in the Women's, and while most of the day went exactly the way the ratings predicted, round one still found room for a genuine shock at the very top of the field."
+        "_rss_content": "The second round of the Chess Olympiad in Samarkand saw the introduction of top players from leading teams, with several teams securing victories and some dropping points along the way."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Wed, 16 Sep 2026 18:58:20 GMT",
-    "hittad": "2026-09-17T10:08:57.668922"
+    "datum": "Thu, 17 Sep 2026 18:41:58 GMT",
+    "hittad": "2026-09-18T09:55:33.710561"
   },
   {
-    "id": "2d988ca43f10",
+    "id": "2e454d7324a8",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/fide-responds-to-visa-issues-but-questions-grow-over-its-handling-of-the-2026-ol",
-        "title": "FIDE Responds to Visa Issues, but Questions Grow Over Its Handling of the 2026 Olympiad",
-        "date": "Wed, 16 Sep 2026 17:09:00 GMT",
+        "url": "https://chessnewsnetwork.com/article/why-the-european-chess-union-just-had-to-deny-endorsing-anyone",
+        "title": "Why the European Chess Union Just Had to Deny Endorsing Anyone",
+        "date": "Thu, 17 Sep 2026 14:15:41 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "FIDE’s response to the Samarkand visa controversy has done little to silence questions over whether the federation was adequately prepared to manage the logistical demands of its own flagship event."
+        "_rss_content": "The European Chess Union issued an unusual public clarification on September 17: \"there is no any decision to endorse any candidate for the upcoming FIDE elections,\" the statement read, adding that the ECU \"remains institutionally neutral, committed to serving all 54 member federations.\" I"
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Wed, 16 Sep 2026 17:09:00 GMT",
-    "hittad": "2026-09-17T10:08:57.668925"
+    "datum": "Thu, 17 Sep 2026 14:15:41 GMT",
+    "hittad": "2026-09-18T09:55:33.710567"
   },
   {
-    "id": "95c4fa48f275",
+    "id": "34b184b7f9c9",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/rosenstein-raises-alarm-over-last-minute-fide-election-changes-while-fide-blames",
-        "title": "Rosenstein Raises Alarm Over Last-Minute FIDE Election Changes while FIDE Blames Local Organizers for Disorganization",
-        "date": "Wed, 16 Sep 2026 14:35:59 GMT",
+        "url": "https://chessnewsnetwork.com/article/turlovs-own-company-becomes-world-championship-sponsor-nine-days-before-the-elec",
+        "title": "Turlov's Own Company Becomes World Championship Sponsor, Nine Days Before the Election",
+        "date": "Thu, 17 Sep 2026 13:10:00 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "FIDE presidential candidate Wadim Rosenstein has stated that FIDE is considering last-minute changes to the upcoming election while shifting responsibility for organizational problems in Samarkand onto local organizers."
+        "_rss_content": "FIDE and Freedom Holding Corp announced Wednesday that Freedom has become General Partner of the Salesforce FIDE World Championship Match 2026."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Wed, 16 Sep 2026 14:35:59 GMT",
-    "hittad": "2026-09-17T10:08:57.668929"
-  },
-  {
-    "id": "7cdd5f2daa74",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/the-drama-continues-team-montenegro-denied-rooms",
-        "title": "The Drama Continues: Team Montenegro Denied Rooms",
-        "date": "Wed, 16 Sep 2026 10:20:41 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "India's hotel troubles in Samarkand weren't an isolated incident. A leaked email and a pointed public post from a longtime chess administrator suggest the Olympiad's accommodation problems reached considerably further than one delegation, and raise real questions about who was actually responsible for fixing it."
-      }
-    ],
-    "kalla_display": "Chess News Network",
-    "datum": "Wed, 16 Sep 2026 10:20:41 GMT",
-    "hittad": "2026-09-17T10:08:57.668932"
-  },
-  {
-    "id": "54ec6f9bcbdc",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/pisa-2025-emergencia-cognitiva-uvencio-blanco",
-        "title": "PISA 2025 y la emergencia cognitiva",
-        "date": "Wed, 16 Sep 2026 14:20:00 GMT",
-        "tag": "ChessBase España",
-        "_rss_content": "Los resultados del informe PISA 2025 vuelven a poner el foco en dos competencias esenciales: la lectura y las matemáticas, que registran niveles históricamente bajos en numerosos sistemas educativos. El texto analiza este deterioro, sus vínculos con la distracción digital, las desigualdades y la formación docente, y plantea al ajedrez como una herramienta afín al razonamiento matemático, la comprensión, la atención sostenida y la resolución de problemas. | Imagen (IA): Uvencio Blanco"
-      }
-    ],
-    "kalla_display": "ChessBase España",
-    "datum": "Wed, 16 Sep 2026 14:20:00 GMT",
-    "hittad": "2026-09-17T10:08:57.668936"
+    "datum": "Thu, 17 Sep 2026 13:10:00 GMT",
+    "hittad": "2026-09-18T09:55:33.710573"
   }
 ]
