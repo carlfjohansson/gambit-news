@@ -1,387 +1,322 @@
 [
   {
-    "id": "021c1a103406",
+    "id": "ecb9a1f6edb8",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-3",
-        "title": "2026 Samarkand Chess Olympiad Round 3",
-        "date": "2026-09-18T08:38:45.855029",
+        "url": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-4",
+        "title": "2026 Samarkand Chess Olympiad Round 4",
+        "date": "2026-09-19T08:46:31.284632",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-09-18T08:38:45.855029",
-    "hittad": "2026-09-19T08:40:22.104895"
+    "datum": "2026-09-19T08:46:31.284632",
+    "hittad": "2026-09-20T08:47:58.226871"
   },
   {
-    "id": "b05894011530",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/ashraf-sarana-xiong-3-0-thursday-09-17-2026",
-        "title": "Ashraf Sarana Xiong 3 0 Thursday 09 17 2026",
-        "date": "2026-09-18T08:38:45.855069",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-09-18T08:38:45.855069",
-    "hittad": "2026-09-19T08:40:22.104911"
-  },
-  {
-    "id": "4f5e22cbff9f",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/announcing-local-clubs",
-        "title": "Announcing Local Clubs",
-        "date": "2026-09-18T08:38:45.855094",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-09-18T08:38:45.855094",
-    "hittad": "2026-09-19T08:40:22.104918"
-  },
-  {
-    "id": "e49ab78e60d9",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/announcing-grandmasters-theatrical-release",
-        "title": "Announcing Grandmasters Theatrical Release",
-        "date": "2026-09-18T08:38:45.855119",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-09-18T08:38:45.855119",
-    "hittad": "2026-09-19T08:40:22.104929"
-  },
-  {
-    "id": "fb42ffa5ea8c",
+    "id": "40e5a39c8869",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/chess-olympiad-2026-3",
-        "title": "Samarkand R3 (open): Top ten stay perfect after tense third round",
-        "date": "Sat, 19 Sep 2026 07:15:00 GMT",
+        "url": "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-32-training-with-style",
+        "title": "ChessBase´26 – Tips for Beginners, part 32: Training with style",
+        "date": "Sun, 20 Sep 2026 07:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "The top ten teams in the open section of the Chess Olympiad all remain perfect after round three, although several were pushed hard by lower-seeded opposition. The United States, Germany, the Netherlands (pictured), Hungary and Armenia all won by 2½–1½, while 11th-seeded England were held by Lithuania. Singapore and Kyrgyzstan produced the biggest team upsets, defeating Norway and Brazil respectively, as 21 teams moved into round four on 6/6 match points. | Photo: Rafal Oleksiewicz / FIDE"
+        "_rss_content": "It’s once again time to think about aesthetics in ChessBase´26 training: Have you ever noticed the “Style” option? If not, in this episode we’ll explain briefly and concisely how you can better adapt your screen display to your own taste."
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Sat, 19 Sep 2026 07:15:00 GMT",
-    "hittad": "2026-09-19T08:40:22.104937"
+    "datum": "Sun, 20 Sep 2026 07:00:00 GMT",
+    "hittad": "2026-09-20T08:47:58.226890"
   },
   {
-    "id": "2ae4edff511d",
+    "id": "a3f5b79e7008",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/review-master-class-band-20-bent-larsen",
-        "title": "Review: Master Class Vol. 20 – Bent Larsen",
-        "date": "Sat, 19 Sep 2026 07:00:00 GMT",
+        "url": "https://en.chessbase.com/post/chess-olympiad-2026-4",
+        "title": "Samarkand R4 (open): Eight-way tie at the top as favourites hold firm",
+        "date": "Sun, 20 Sep 2026 04:25:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "The Master Class series combines biography, a collection of games and Fritz Trainer material on a chess legend in a multimedia format. Several authors contribute to each volume, presenting the master in their respective areas of expertise. Jochen Schwarz, a club player from Bremen, has followed the Master Class series since its first volume and has taken a look at the latest edition, devoted to Danish grandmaster Bent Larsen. He also compares it with earlier volumes in the series."
+        "_rss_content": "The leading group in the open section of the Chess Olympiad was reduced to eight teams after round four, with China, Uzbekistan, Germany and Armenia still unbeaten on every individual board. Lithuania supplied the main surprise of the day by beating Croatia 3–1. With all eight co-leaders now paired against one another, Sunday's fifth round is set to reshape the top of the standings. | Pictured: China's Wei Yi | Photo: Michal Walusza / FIDE"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Sat, 19 Sep 2026 07:00:00 GMT",
-    "hittad": "2026-09-19T08:40:22.104943"
+    "datum": "Sun, 20 Sep 2026 04:25:00 GMT",
+    "hittad": "2026-09-20T08:47:58.226901"
   },
   {
-    "id": "44f89ce4072b",
+    "id": "602907480709",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/chessbase-finally-on-mac",
-        "title": "ChessBase – finally on Mac!",
-        "date": "Fri, 18 Sep 2026 19:00:00 GMT",
+        "url": "https://en.chessbase.com/post/chess-olympiad-2026-interviews-2",
+        "title": "ChessBase interviews from Samarkand: \"How many databases? Hundreds!\"",
+        "date": "Sat, 19 Sep 2026 19:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "Our database program – used by everyone, from the World Champion to lowly club players – will now be available for Mac users. The new version has been developed from the ground up: modern, built for fast access to what matters. The official release is November 2026. Register now to make sure you don’t miss the launch of a new era in chess study."
+        "_rss_content": "ChessBase has a team on-site at the Chess Olympiad in Samarkand. Visitors to the ChessBase stand can find out more about ChessBase for Mac. Arne Kähler and Veronika Exler are also conducting interviews. Svitlana Demchenko has hundreds of databases, Nikita Vitiugov considers himself to be one of the best chefs among chess players, while Gloria Yepez does not enjoy playing blitz! | Photo: ChessBase"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Fri, 18 Sep 2026 19:00:00 GMT",
-    "hittad": "2026-09-19T08:40:22.104950"
+    "datum": "Sat, 19 Sep 2026 19:00:00 GMT",
+    "hittad": "2026-09-20T08:47:58.226910"
   },
   {
-    "id": "4fae381c8d0b",
+    "id": "eaa7ad4617df",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/internationellt/2026/09/motgang-med-liten-marginal-i-tredje-ronden/?utm_source=rss&utm_medium=rss&utm_campaign=motgang-med-liten-marginal-i-tredje-ronden",
-        "title": "Motgång med liten marginal i tredje ronden",
-        "date": "Sat, 19 Sep 2026 06:09:06 +0000",
+        "url": "https://schack.se/nyhet/internationellt/2026/09/rond-5-sverige-stalls-mot-uruguay-och-singapore/?utm_source=rss&utm_medium=rss&utm_campaign=rond-5-sverige-stalls-mot-uruguay-och-singapore",
+        "title": "Rond 5: Sverige ställs mot Uruguay och Singapore",
+        "date": "Sun, 20 Sep 2026 07:19:32 +0000",
         "tag": "Svenska Schackförbundet",
-        "_rss_content": "Efter två inledande segrar för de svenska lagen så blev det dessvärre två förluster på den tredje speldagen, fredagen i Schack-OS i Samarkand. I öppen klass så vann Armenien mot [&#8230;] Inlägget Motgång med liten marginal i tredje ronden dök först upp på Sveriges Schackförbund ."
+        "_rss_content": "De svenska laget i öppen klass vann med 3-1 mot Sydafrika på lördagen, för damerna så blev det oavgjort mot Costa Rica, alltså 2-2. Detta innebär att de svenska herrarna [&#8230;] Inlägget Rond 5: Sverige ställs mot Uruguay och Singapore dök först upp på Sveriges Schackförbund ."
       }
     ],
     "kalla_display": "Schack.se",
-    "datum": "Sat, 19 Sep 2026 06:09:06 +0000",
-    "hittad": "2026-09-19T08:40:22.104958"
+    "datum": "Sun, 20 Sep 2026 07:19:32 +0000",
+    "hittad": "2026-09-20T08:47:58.226919"
   },
   {
-    "id": "6a74b763c21b",
+    "id": "e4410cfa293a",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/forbundsnytt/2026/09/johanna-lundstrom-och-stefan-hakansson-lamnar-forbundsstyrelsen/?utm_source=rss&utm_medium=rss&utm_campaign=johanna-lundstrom-och-stefan-hakansson-lamnar-forbundsstyrelsen",
-        "title": "Johanna Lundström och Stefan Håkansson lämnar Förbundsstyrelsen",
-        "date": "Fri, 18 Sep 2026 17:38:57 +0000",
+        "url": "https://schack.se/nyhet/internationellt/2026/09/nar-alla-vannerna-gatt-hem/?utm_source=rss&utm_medium=rss&utm_campaign=nar-alla-vannerna-gatt-hem",
+        "title": "När alla vännerna gått hem…",
+        "date": "Sat, 19 Sep 2026 17:58:27 +0000",
         "tag": "Svenska Schackförbundet",
-        "_rss_content": "Johanna Lundström och Stefan Håkansson har valt att lämna sina uppdrag som ledamöter i Sveriges Schackförbunds Förbundsstyrelse. Båda har flera uppdrag inom svenskt schack, bland annat som ordförande i Smålands [&#8230;] Inlägget Johanna Lundström och Stefan Håkansson lämnar Förbundsstyrelsen dök först upp på Sveriges Schackförbund ."
+        "_rss_content": "Sista partiet är avgjort i den fjärde omgången av Schack-OS i Samarkand. Bara en spelare sitter kvar – Vasilij Ivantjuk. Den ukrainske legendaren är en av schackvärldens mest populära spelare [&#8230;] Inlägget När alla vännerna gått hem&#8230; dök först upp på Sveriges Schackförbund ."
       }
     ],
     "kalla_display": "Schack.se",
-    "datum": "Fri, 18 Sep 2026 17:38:57 +0000",
-    "hittad": "2026-09-19T08:40:22.104963"
+    "datum": "Sat, 19 Sep 2026 17:58:27 +0000",
+    "hittad": "2026-09-20T08:47:58.226926"
   },
   {
-    "id": "c7a223ad6479",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/internationellt/2026/09/darfor-far-belarus-tavla-i-schack-os-igen/?utm_source=rss&utm_medium=rss&utm_campaign=darfor-far-belarus-tavla-i-schack-os-igen",
-        "title": "Därför får Belarus tävla i Schack-OS igen",
-        "date": "Fri, 18 Sep 2026 16:46:47 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Ryssland som startade invasionskriget mot Ukraina 2022 är fortfarande bojkottat och tillåts inte ställa upp i Schack-OS i Samarkand. Däremot är Belarus tillbaka efter att ha varit utestängt både 2022 [&#8230;] Inlägget Därför får Belarus tävla i Schack-OS igen dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Fri, 18 Sep 2026 16:46:47 +0000",
-    "hittad": "2026-09-19T08:40:22.104968"
-  },
-  {
-    "id": "aae2062894d2",
+    "id": "ac1c363707be",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/46th-fide-chess-olympiad-round-3-report",
-        "title": "SpotlightTop storyDevansh Singh·3 hours ago46th Chess Olympiad R3: India Scores Double Victory Over Italy and Greece",
-        "date": "2026-09-18T08:39:08.779512",
+        "url": "https://www.chessbase.in/news/46th-fide-chess-olympiad-round-4-report",
+        "title": "SpotlightTop storyDevansh Singh·15 hours ago46th Chess Olympiad R4: Gukesh defeats Shirov as both Indian teams score 3-1 victories",
+        "date": "2026-09-19T08:46:52.025899",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-09-18T08:39:08.779512",
-    "hittad": "2026-09-19T08:40:22.104972"
+    "datum": "2026-09-19T08:46:52.025899",
+    "hittad": "2026-09-20T08:47:58.226932"
   },
   {
-    "id": "e8b0d9600689",
+    "id": "10bc1f96b084",
     "status": "pending",
     "rubriker": [
       {
         "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/olympiades-2026-ronde-4-10090.html",
-        "title": "Olympiades 2026Ronde 4 : Chocs en stock à Samarcande",
-        "date": "2026-09-18T08:39:19.477302",
+        "url": "https://www.europe-echecs.com/art/olympiades-2026-ronde-5-10091.html",
+        "title": "Olympiades 2026Ronde 5 : La France en embuscade derrière les favoris",
+        "date": "2026-09-19T08:47:02.606615",
         "tag": "Europe Echecs"
       }
     ],
     "kalla_display": "Europe Echecs",
-    "datum": "2026-09-18T08:39:19.477302",
-    "hittad": "2026-09-19T08:40:22.104975"
+    "datum": "2026-09-19T08:47:02.606615",
+    "hittad": "2026-09-20T08:47:58.226943"
   },
   {
-    "id": "7b27a862ccc3",
+    "id": "e05f037ea30a",
     "status": "pending",
     "rubriker": [
       {
         "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/09/18/live-fra-lemvig/?utm_source=rss&utm_medium=rss&utm_campaign=live-fra-lemvig",
-        "title": "Live fra Lemvig",
-        "date": "Fri, 18 Sep 2026 19:20:42 +0000",
+        "url": "https://nyheder.skak.dk/2026/09/19/allan-stig-danmarksmester-i-hurtigskak-2026/?utm_source=rss&utm_medium=rss&utm_campaign=allan-stig-danmarksmester-i-hurtigskak-2026",
+        "title": "Allan Stig danmarksmester i hurtigskak 2026",
+        "date": "Sat, 19 Sep 2026 18:46:58 +0000",
         "tag": "Dansk Skak Union",
-        "_rss_content": "I anledningen af Lemvig Skakklubs 125-års jubilæum arrangerer klubben i samarbejde med Dansk Skak Union DM i Hurtigskak og DM i Lynskak den 19. og 20. september. Livetransmissionen er lagt i sikre hænder hos Kasper Jerwiarz, der lørdag den 19. september sender hurtigskakken efter følgende program: 11.00 1. runde11.45 2. runde12.30 3. runde13.15 4. runde14.00 [&#8230;]"
+        "_rss_content": "Stormester Allan Stig Rasmussen var forhåndsfavorit ved DM i Hurtigskak, der i dag blev spillet i flotte omgivelser i Hotel Lidenlund i Lemvig. Stormesteren måtte dog ud i en helt ekstraordinær god præstation for at holde FM Vitus Bondo Medhus bag sig. Med 8½ af 9 endte Allan Stig et halvt point foran Vitus, som [&#8230;]"
       }
     ],
     "kalla_display": "Dansk Skak Union",
-    "datum": "Fri, 18 Sep 2026 19:20:42 +0000",
-    "hittad": "2026-09-19T08:40:22.104979"
+    "datum": "Sat, 19 Sep 2026 18:46:58 +0000",
+    "hittad": "2026-09-20T08:47:58.226950"
   },
   {
-    "id": "b34bc9909b46",
+    "id": "c1993536aca6",
     "status": "pending",
     "rubriker": [
       {
         "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/09/18/ol-3-runde-taet-kamp-mod-usa/?utm_source=rss&utm_medium=rss&utm_campaign=ol-3-runde-taet-kamp-mod-usa",
-        "title": "OL 3. runde – Tæt kamp mod USA",
-        "date": "Fri, 18 Sep 2026 16:11:41 +0000",
+        "url": "https://nyheder.skak.dk/2026/09/19/ol-4-runde-sejr-og-uafgjort/?utm_source=rss&utm_medium=rss&utm_campaign=ol-4-runde-sejr-og-uafgjort",
+        "title": "OL 4. runde – sejr og uafgjort",
+        "date": "Sat, 19 Sep 2026 17:48:56 +0000",
         "tag": "Dansk Skak Union",
-        "_rss_content": "De danske kvinder levede op til favoritværdigheden mod Zimbabwe, der blev sat til vægs med ½ &#8211; 3½. De tre danske sejre var meget stilrene med spil til et mål, mens Sofie Bech Durrfeld spillede et rigtig cafeskak-parti, hvor hun stod til tab, da der blev taget remis. Se partiet her. Alle de danske kvinde [&#8230;]"
+        "_rss_content": "Samlet set var det en ok dag for de danske hold ved OL i Samarkand i Usbekistan. Fem remiser og tre sejre blev den danske pointhøst. Det danske kvindehold levede mere end op til favoritværdigheden og slog Panama med hele 3½ &#8211; ½. KvinderækkenPanama &#8211; Danmark ½ 3½1. IM Ashley Alexandra Castillo Beitia (2087) &#8211; [&#8230;]"
       }
     ],
     "kalla_display": "Dansk Skak Union",
-    "datum": "Fri, 18 Sep 2026 16:11:41 +0000",
-    "hittad": "2026-09-19T08:40:22.104983"
+    "datum": "Sat, 19 Sep 2026 17:48:56 +0000",
+    "hittad": "2026-09-20T08:47:58.226957"
   },
   {
-    "id": "96b4c9cada64",
+    "id": "f73519bd7ca4",
     "status": "pending",
     "rubriker": [
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/09/19/sjakk-ol-2026-3-runde/",
-        "title": "Sjakk-OL 2026 – 3. runde",
-        "date": "Sat, 19 Sep 2026 05:24:15 +0000",
+        "url": "https://bergensjakk.no/2026/09/20/sjakk-ol-2026-4-runde/",
+        "title": "Sjakk-OL 2026 – 4. runde",
+        "date": "Sun, 20 Sep 2026 05:37:27 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "Tredje runde av Sjakk-OL ble en nedtur for det norske herrelaget, med tap 1&#189;-2&#189; i en jevn kamp mot Singapore. GM Elham Amar (2577) var først ferdig, da han spilte en rask remis med hvit mot GM Jagadeesh Siddharth (SGP 2497). Det virker noe merkelig at kompromissløse Amar gikk inn i denne varianten, da svart Les mer"
+        "_rss_content": "Det norske herrelaget i Sjakk-OL revansjerte seg i fjerde runde med overbevisende 3&#189;-&#189; mot Kirgisistan. GM Johan-Sebastian Christiansen (2656), GM Elham Amar (2577) og GM Frode Urkedal (2571) vant alle sine partier, mens GM Aksel Bu Kvaløy (2505) fikk remis i det som så ut som et tapt sluttspill. Både Christiansen og Amar sto til Les mer"
       }
     ],
     "kalla_display": "Bergensjakk",
-    "datum": "Sat, 19 Sep 2026 05:24:15 +0000",
-    "hittad": "2026-09-19T08:40:22.104986"
+    "datum": "Sun, 20 Sep 2026 05:37:27 +0000",
+    "hittad": "2026-09-20T08:47:58.226963"
   },
   {
-    "id": "857e1903de91",
+    "id": "10bc225f29a7",
     "status": "pending",
     "rubriker": [
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/09/19/europamesterskapet-for-dove-2026/",
-        "title": "Europamesterskapet for døve 2026",
-        "date": "Sat, 19 Sep 2026 05:24:02 +0000",
+        "url": "https://bergensjakk.no/2026/09/20/geilo-sjakkfestival-iii-2026-maraton-hurtigsjakk/",
+        "title": "Geilo Sjakkfestival III 2026 – Maraton-hurtigsjakk",
+        "date": "Sun, 20 Sep 2026 05:37:19 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "Europamesterskapet i sjakk for døve ble spilt i Stavanger 15. til 18. september 2026 med Døves sjakkforening som arrangør. Mesterskapet hadde to grupper, for lag og individuelt. Begge spilte syv runder med betenkningstid 90 minutter med 30 sekunder tillegg pr. trekk. Lagmesterskapet ble vunnet av favorittene &#171;Nezlami&#187; Donetsk fra Ukraina. Laget fikk et overraskende tap Les mer"
+        "_rss_content": "Årets tredje utgave av Geilo Sjakkfestival inneholdt nyvinningen Maraton-hurtigsjakk. Turneringen ble spilt lørdag 19. september 2026 og hadde 11 runder med betenkningstid 10 + 5. Arrangør var Hallingskarvet Sjakklubb med assistanse fra Søråshøgda Sjakklubb. A-gruppen ble dominert av de to høyest ratede, GM Torbjørn Ringdal Hansen og Bogi Palsson. Innbyrdes oppgjør ble vunnet av stormesteren, Les mer"
       }
     ],
     "kalla_display": "Bergensjakk",
-    "datum": "Sat, 19 Sep 2026 05:24:02 +0000",
-    "hittad": "2026-09-19T08:40:22.104990"
+    "datum": "Sun, 20 Sep 2026 05:37:19 +0000",
+    "hittad": "2026-09-20T08:47:58.226969"
   },
   {
-    "id": "d7e8db3eb179",
+    "id": "eb9ae4d7e46c",
     "status": "pending",
     "rubriker": [
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/09/19/geilo-sjakkfestival-iii-2026-sakte-lyn/",
-        "title": "Geilo Sjakkfestival III 2026 – Sakte lyn",
-        "date": "Sat, 19 Sep 2026 05:23:54 +0000",
+        "url": "https://bergensjakk.no/2026/09/20/freestyle-ngp-lynsjakk-stjernen-2026/",
+        "title": "Freestyle (NGP), lynsjakk, Stjernen 2026",
+        "date": "Sun, 20 Sep 2026 05:36:59 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "Årets tredje utgave av Geilo Sjakkfestival arrangeres denne helgen, med syv turneringer over tre dager. Bak festivalen står Hallingskarvet Sjakklubb med assistanse fra Søråshøgda Sjakklubb. Festivalen startet fredag 18. september 2026 med Sakte lyn, som besto av syv runder med betenkningstid 5 minutter med 3 sekunder tillegg. I A-gruppen gikk den klare favoritten til topps, Les mer"
+        "_rss_content": "Sjakklubben Stjernen arrangerte Freestyle (NGP), lynsjakk, Stjernen lørdag 19. september 2026. Dette skal være første gang en lynsjakkturnering i Freestyle/Fischerrandom/Chess 960 inngår i Norges Grand Prix. Spillested var Stjernens lokaler i Seilduksgata i Oslo. Vinner ble CM Ask Amundsen, som etter et overraskende tap i første runde tok 7&#189; poeng på de resterende 8 partiene. Les mer"
       }
     ],
     "kalla_display": "Bergensjakk",
-    "datum": "Sat, 19 Sep 2026 05:23:54 +0000",
-    "hittad": "2026-09-19T08:40:22.104993"
+    "datum": "Sun, 20 Sep 2026 05:36:59 +0000",
+    "hittad": "2026-09-20T08:47:58.226975"
   },
   {
-    "id": "6ad3c7702f0d",
+    "id": "c65632929721",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/one-blunder-filled-game-reignites-an-old-debate-about-who-belongs-at-the-olympia",
-        "title": "One Blunder-Filled Game Reignites an Old Debate About Who Belongs at the Olympiad",
-        "date": "Sat, 19 Sep 2026 06:47:00 GMT",
+        "url": "https://chessnewsnetwork.com/article/eight-teams-still-perfect-after-round-four",
+        "title": "Eight Teams Still Perfect After Round Four",
+        "date": "Sun, 20 Sep 2026 08:22:45 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "A single viral position was all it took to restart one of chess's more recurring arguments this week: should the Olympiad, open by design to any federation that wants to send a team, have some kind of floor on who's actually allowed to sit at the board?"
+        "_rss_content": "Round four in Samarkand didn't produce a single upset among the tournament's top boards, but it did settle into a genuinely crowded picture at the summit: eight teams remain unbeaten after four rounds, and the day's best individual story came from a player who, by rights, should have lost."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Sat, 19 Sep 2026 06:47:00 GMT",
-    "hittad": "2026-09-19T08:40:22.104996"
+    "datum": "Sun, 20 Sep 2026 08:22:45 GMT",
+    "hittad": "2026-09-20T08:47:58.226981"
   },
   {
-    "id": "6c29fee3acf6",
+    "id": "0519efc44871",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/lazavik-defends-gender-split-training-camps-says-women-dont-understand-what-men",
-        "title": "Lazavik Defends Gender-Split Training Camps, Says Women \"Don't Understand\" What Men Are Taught",
-        "date": "Sat, 19 Sep 2026 04:45:00 GMT",
+        "url": "https://chessnewsnetwork.com/article/putin-endorses-turlov-for-fide-president",
+        "title": "Putin Endorses Turlov for FIDE President",
+        "date": "Sun, 20 Sep 2026 07:41:40 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "Denis Lazavik, Belarus's top-ranked player, used a recent interview with streamer Chess Yaroslav to defend the decision to split Mikhail Shereshevsky's chess training camps into separate men's and women's groups, arguing there's a fundamental gap in understanding between the two that makes joint training unworkable."
+        "_rss_content": "Russian independent outlet Agentstvo has reported that Vladimir Putin and Kazakh President Kassym-Jomart Tokayev discussed the FIDE presidency directly during a bilateral meeting in Omsk in late July, and that Kirsan Ilyumzhinov's withdrawal from the race just two days later followed from that conversation."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Sat, 19 Sep 2026 04:45:00 GMT",
-    "hittad": "2026-09-19T08:40:22.105000"
+    "datum": "Sun, 20 Sep 2026 07:41:40 GMT",
+    "hittad": "2026-09-20T08:47:58.226987"
   },
   {
-    "id": "2e0e12c1be2a",
+    "id": "9a4f585b6094",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/ashraf-xiong-and-sarana-dominate-3-0-thursday-event",
-        "title": "Ashraf, Xiong, and Sarana Dominate 3 0 Thursday Event",
-        "date": "Sat, 19 Sep 2026 03:38:54 GMT",
+        "url": "https://chessnewsnetwork.com/article/wadim-promises-magnus-carlsen-return",
+        "title": "Rosenstein Promises Magnus Carlsen Return",
+        "date": "Sat, 19 Sep 2026 09:46:00 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "FM Artin Ashraf, GM Jeffery Xiong, and GM Alexey Sarana had dominant performances in the 3 0 Thursday event on Chess.com."
+        "_rss_content": "Wadim Rosenstein told Reuters this week that, if elected FIDE president, he would push to bring Magnus Carlsen back into the classical World Championship cycle, alongside a platform built around governance reform, greater transparency, and tougher conflict-of-interest rules."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Sat, 19 Sep 2026 03:38:54 GMT",
-    "hittad": "2026-09-19T08:40:22.105004"
+    "datum": "Sat, 19 Sep 2026 09:46:00 GMT",
+    "hittad": "2026-09-20T08:47:58.226992"
   },
   {
-    "id": "14af9b1fbf93",
+    "id": "5cf31266654e",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/blohbergers-rough-week-continues-and-the-womens-section-has-its-day-of-shocks",
-        "title": "Blohberger's Rough Week Continues, and the Women's Section Has Its Day of Shocks",
-        "date": "Fri, 18 Sep 2026 19:54:00 GMT",
+        "url": "https://chessnewsnetwork.com/article/olympiad-round-4-opens-with-makropoulos-tribute",
+        "title": "Olympiad Round 4 Opens with Makropoulos Tribute",
+        "date": "Sat, 19 Sep 2026 09:43:30 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "Round three in Samarkand kept most of the tournament's favorites on track, but it produced two genuinely major upsets in the Women's section and one very unlucky repeat customer in the Open."
+        "_rss_content": "Round four of the Chess Olympiad in Samarkand opened with a minute of silence for Georgios Makropoulos, who died earlier this week at 72 after devoting most of his adult life to the sport."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Fri, 18 Sep 2026 19:54:00 GMT",
-    "hittad": "2026-09-19T08:40:22.105007"
+    "datum": "Sat, 19 Sep 2026 09:43:30 GMT",
+    "hittad": "2026-09-20T08:47:58.226998"
   },
   {
-    "id": "cb8e5eb3a61d",
+    "id": "7fa96a6938ea",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/nishimura-libros-uvencio-blanco",
-        "title": "Nishimura nos presenta: Paciencia, Encasillado y Eurípides",
-        "date": "Fri, 18 Sep 2026 22:00:00 GMT",
+        "url": "https://es.chessbase.com/post/campeonato-del-mundo-2026-detalles",
+        "title": "Confirman detalles sobre el match por el Campeonato del Mundo: se jugará en la Biblioteca Bodmeriana de Ginebra",
+        "date": "Sat, 19 Sep 2026 19:00:00 GMT",
         "tag": "ChessBase España",
-        "_rss_content": "La literatura ajedrecística latinoamericana ha estado tradicionalmente concentrada en la crónica de torneos y el análisis técnico, con pocas incursiones en terrenos filosóficos, pedagógicos o culturales. En ese panorama, la obra del peruano José Kazúo Nishimura Pizarro propone una mirada distinta: desde la diáspora en Japón, utiliza el ajedrez como espacio narrativo para explorar la ética, la identidad, la resiliencia y la experiencia humana. | Imágenes provistas por cortesía de José Kazúo Nishimura Pizarro"
+        "_rss_content": "La FIDE se complace en anunciar el reglamento del Campeonato Mundial FIDE Salesforce 2026, que confirma la sede, el formato, el calendario y la distribución de premios del duelo entre el vigente campeón mundial, el gran maestro Gukesh Dommaraju, y su retador, el gran maestro Javokhir Sindarov. El encuentro se disputará en la Fondation Martin Bodmer, en Cologny, Ginebra, Suiza, del 22 de noviembre al 13 de diciembre de 2026, y supondrá el regreso de un match por el Campeonato Mundial a Suiza por primera vez desde Brissago 2004."
       }
     ],
     "kalla_display": "ChessBase España",
-    "datum": "Fri, 18 Sep 2026 22:00:00 GMT",
-    "hittad": "2026-09-19T08:40:22.105010"
+    "datum": "Sat, 19 Sep 2026 19:00:00 GMT",
+    "hittad": "2026-09-20T08:47:58.227004"
   },
   {
-    "id": "51dcb7e2dc74",
+    "id": "06075f87f15d",
     "status": "pending",
     "rubriker": [
       {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/olympyad-people-disabilities-2026-reportaje",
-        "title": "Polonia, Cuba y Uzbekistán suben al podio en la Olimpiada de Ajedrez para personas con discapacidad",
-        "date": "Fri, 18 Sep 2026 18:30:00 GMT",
-        "tag": "ChessBase España",
-        "_rss_content": "Polonia ganó la 3.ª Olimpiada de Ajedrez para Personas con Discapacidad en Samarcanda tras terminar invicta con 13 puntos de match, por delante de Cuba y del equipo anfitrión, Uzbekistán 1. En la última ronda, Polonia derrotó a Filipinas por 3½–½ para quedarse con la medalla de oro. El torneo contó con una cifra récord de 41 equipos y, por primera vez, se disputó paralelamente a la principal Olimpiada de Ajedrez de la FIDE. | Fotos: Mark Livshitz y Rafal Oleksiewicz"
+        "source": "Kenya Chess Masala",
+        "url": "https://kenyachessmasala.com/2026/09/kenya-at-the-3rd-pwd-chess-olympiad.html",
+        "title": "Kenya at the 3rd PWD Chess Olympiad",
+        "date": "Sat, 19 Sep 2026 10:51:31 +0000",
+        "tag": "Kenya Chess Masala",
+        "_rss_content": "Kenya at the 3rd PWD Chess Olympiad Kenya is among the five privileged countries selected to present a team at the 3rd PWD Chess Olympiad, taking place in Samarkand, Uzbekistan, from 10th to 18th September 2026. The team comprises experienced players selected earlier this year based on their ratings to meet the participation deadline. The [...] The post Kenya at the 3rd PWD Chess Olympiad appeared first on Kenya Chess Masala ."
       }
     ],
-    "kalla_display": "ChessBase España",
-    "datum": "Fri, 18 Sep 2026 18:30:00 GMT",
-    "hittad": "2026-09-19T08:40:22.105014"
+    "kalla_display": "Kenya Chess Masala",
+    "datum": "Sat, 19 Sep 2026 10:51:31 +0000",
+    "hittad": "2026-09-20T08:47:58.227009"
   }
 ]
