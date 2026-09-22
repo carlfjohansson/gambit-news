@@ -1,83 +1,121 @@
 [
   {
-    "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/move-to-bring-chess-to-five-thousand-refugee-children",
-    "original_title": "Move to bring chess to 5,000 refugee children",
-    "swedish_title": "Schackinitiativ vill nå 5 000 flyktingbarn i Bangladesh",
-    "swedish_content": "Välgörenhetsorganisationen Movement in Refuge (MiR) vill utöka sitt schackprojekt för flyktingbarn i Cox's Bazar i Bangladesh, förutsatt att ytterligare finansiering säkras. Målet är att på sikt kunna ta med ett ungdomslag från lägren till nästa Olympiad. I augusti introducerades schack för ungdomar i de 34 lägren genom FIDE-MiR Chess for Protection Programme, ett samarbete mellan MiR, FIDE, Himalayan Chess Academy och Nepals kvinnliga mästare Monalisha Khamboo. Cox's Bazar är världens största flyktingläger, med över 500 000 unga som har liten eller ingen tillgång till organiserad idrott eller fritidsaktivitet, många av dem traumatiserade efter flykten undan folkmordet i grannlandet Myanmar.\n\nMiR:s grundare och direktör Magnus Wolfe-Murray reser denna vecka (22–27 september) till Schack-OS i Samarkand, Uzbekistan, för att söka stöd från spelare, sponsorer och andra partner. På torsdag den 24 september talar han vid FIDE:s Chess in Education EDU Summit om hur schack gett flyktingbarn ökat fokus, självförtroende och gemenskap – och hur ytterligare stöd skulle kunna göra skillnad för tusentals fler barn.",
-    "date": "Sun, 20 Sep 2026 19:30:00 GMT",
-    "tag": "ChessBase",
-    "processed_at": "2026-09-21T16:11:43.774294"
-  },
-  {
     "source": "Chess News Network",
-    "original_url": "https://chessnewsnetwork.com/article/turlov-files-defamation-lawsuit-against-david-llada",
-    "original_title": "Turlov Files Defamation Lawsuit Against David Llada",
-    "swedish_title": "Turlov stämmer Llada för förtal om medborgarskap",
-    "swedish_content": "Timur Turlov meddelar att han den 18 september lämnade in en civilrättslig stämning mot schackjournalisten David Llada vid Circuit Court for Kent County, Michigan. Bakgrunden är Lladas offentliga påståenden om att Turlov fortfarande innehar ett ryskt pass och aldrig faktiskt avsagt sig sitt ryska medborgarskap, trots Turlovs offentliga uttalanden om motsatsen. Enligt Turlov skickade hans advokater ett skriftligt krav på återtagande till Llada redan den 17 augusti, men utan resultat, varpå stämningen lämnades in cirka en månad senare.\n\nTurlov, som är VD för det Nasdaq-listade Freedom Holding Corp, framhåller att han personligen certifierade bolagets kvartalsrapport den 10 augusti enligt SEC:s krav och menar att detta ansvar påverkar hur han ser på sitt eget namn och rykte. Han skiljer mellan normal kandidatkritik, som han välkomnar, och \"spridning av falska sakuppgifter\", vilket han anser är särskilt allvarligt under en kampanj där federationer aktivt tar ställning inför en valröst.\n\nStämningen blir offentlig sex dagar innan FIDE:s generalförsamling inleds i Samarkand för att välja federationens nästa president. Turlov avslutade sitt uttalande med att peka bortom själva valet: hans namn och bolagets rykte kommer att finnas kvar även efter att kampanjen är över.",
-    "date": "Sun, 20 Sep 2026 13:31:35 GMT",
+    "original_url": "https://chessnewsnetwork.com/article/a-letter-from-january-complicates-fides-account-of-israels-olympiad-forfeits",
+    "original_title": "A Letter From January Complicates FIDE's Account of Israel's Olympiad Forfeits",
+    "swedish_title": "Israel förlorade rond 6 efter schemastrid om Jom Kippur",
+    "swedish_content": "Israels lag i både öppna klassen och damklassen i Schackolympiaden fick sina rond 6-matcher avgjorda genom forfeit efter en schemadispyt kopplad till firandet av Jom Kippur den 20–21 september. I öppna klassen innebar det en ren 4–0-förlust mot Nederländerna, där GM Anish Giri, Jorden van Foreest, Loek van Wely och Casper Schoppen mötte GM Maxim Rodshtein, Ido Gorshtein, Yahli Sokolovsky och Ilia Smirin – samtliga fyra israeliska bord noterades som no-shows.\n\nI rond 5 löstes en liknande situation utan problem: Singapore (öppna klassen) och Colombia (damklassen) gick med på tidigare starttid, och matcherna flyttades till Savitsky Hotel. Inför rond 6 begärde Israel istället antingen start klockan 19:30 eller senare, eller att flytta matcherna till vilodagen den 22 september. FIDE kontaktade motståndarna men fick nej – vilket förbundet själva slog fast att lagen hade full rätt att göra.\n\nSaken kompliceras av ett brev daterat 15 januari 2026, undertecknat av FIDE:s juridiska direktör Aleksandr Martynov, där förbundet redan då lovade Israels lag anpassat schema: matcher den 20 september skulle avslutas senast 17:00, och matcher den 21 september skulle inte börja före 19:30. Trots detta skriftliga löfte, som motiverades med Israels \"betydande bidrag till schackets utveckling\", sattes rond 6 till ordinarie starttid 15:00 den 21 september – samma dag löftet gällde. Det är fortfarande oklart om avvikelsen berodde på ett administrativt missöde eller något annat. Förlusten är ett hårt slag för Israel, vars båda lag låg bland de obesegrade efter rond 3 och hade goda medaljchanser.",
+    "date": "Tue, 22 Sep 2026 09:41:22 GMT",
     "tag": "Chess News Network",
-    "processed_at": "2026-09-21T16:12:05.656904"
-  },
-  {
-    "source": "Chess News Network",
-    "original_url": "https://chessnewsnetwork.com/article/buettner-and-pein-deny-any-second-round-deal-with-turlov",
-    "original_title": "Buettner and Pein Deny Any Second-Round Deal With Turlov",
-    "swedish_title": "Buettner och Pein förnekar uppgörelse med Turlov",
-    "swedish_content": "Jan Henric Buettner och Malcolm Pein har gått ut med ett gemensamt uttalande där de dementerar rykten som cirkulerat bland delegater i Samarkand om att deras kandidatur egentligen bara syftar till att stoppa Wadim Rosenstein från presidentposten, och att de skulle stödja Timur Turlov i en eventuell andra röstningsrond. \"Ingen av oss har gått med på att leverera stöd eller röster till Timur Turlov i någon kommande rond\", skriver de, och tillägger att ingen av dem har utlovats eller accepterat en position i en framtida Turlov-administration. De påpekar samtidigt att ingen kandidat faktiskt kan garantera en förbunds röst i någon rond, eftersom delegaterna beslutar själva varje gång.\n\nRyktena har uppstått eftersom FIDE:s presidentval kan gå till fler rondar om ingen kandidatlista vinner egen majoritet, och Buettner/Pein generellt betraktats som trean bakom Turlov och en stigande Rosenstein.\n\nI uttalandet upprepar duon sin plattform i tre delar – Reform (professionell styrning, transparens, minskat presidentligt godtycke), Empower (fasta 20 procent av FIDE:s intäkter till förbunden) och Grow (nya kommersiella partnerskap samtidigt som klassiskt schack skyddas). Utan att nämna någon vid namn varnar de också för instabilitet och menar att förbunden bör väga vilken kandidatlista som kan erbjuda \"stabilt, oberoende och professionellt ledarskap\" under en hel fyraårsperiod.",
-    "date": "Sun, 20 Sep 2026 12:34:57 GMT",
-    "tag": "Chess News Network",
-    "processed_at": "2026-09-21T16:12:20.380288"
-  },
-  {
-    "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/chess-olympiad-2026-5",
-    "original_title": "Samarkand R5 (open): Germany stun USA, share the lead with India and Uzbekistan",
-    "swedish_title": "Tyskland chockar USA i Sjakk-OL – tre lag i topp",
-    "swedish_content": "Femte ronden av det 46:e schack-OS i Samarkand bjöd på flera dramatiska resultat, där storfavoriten USA fick se sig besegrat av Tyskland. Uzbekistan, Indien och Tyskland delar nu täten med maximala 10 matchpoäng, medan flera nordiska lag kämpade i motvind.\n\nTysklands seger över toppseedade USA blev dagens stora nyhet. Trots att laget var lägre rankat på samtliga fyra bord – störst var skillnaden på bord fyra, där Alexander Donchenko mötte Levon Aronian med hela 100 ratingpoängs underläge – vann Tyskland matchen 2½–1½. Avgörandet kom på bord två, där Frederik Svane besegrade Hans Niemann efter stark öppningsförberedelse. Niemann stod redan illa till efter att Svane hittat den taktiska knytnävsslaget 27.Nc5!, och efter 27...Qc8 28.Rxe7 Bxe7 29.Ne6+ var vitt helt dominerande. Mathias Bluebaum höll samtidigt Wesley So till remi i ett svårt slutspel, medan Vincent Keymer–Fabiano Caruana och Aronian–Donchenko slutade i tidiga remier.\n\nUzbekistan levererade dagens mest övertygande insats genom att krossa Ungern 4–0. Nodirbek Abdusattorov utnyttjade en tidig bondemiss av Richard Rapport, medan Nodirbek Yakubboev, Javokhir Sindarov och Nodirbek Vokhidov fullbordade den kompletta laginsatsen.\n\nIndien höll jämna steg i toppen genom en 3–1-seger över Nederländerna. Praggnanandhaa vann en berg-och-dalbanematch mot Anish Giri, där Giri fick en chans att hålla ställningen efter ett misstag av Pragg i drag 40 men agerade för snabbt och släppte partiet. Gukesh Dommaraju kapitaliserade på en groda av Erwin l'Ami och nådde 4,5/5 poäng individuellt, medan Arjun Erigaisi och Nihal Sarin säkrade solida remier. Kina och Armenien, de återstående lagen i täten, delade poängen efter att alla fyra partierna slutat oavgjort. Nu väntar den efterlängtade toppmatchen Indien–Uzbekistan i sjätte ronden.\n\nI damklassen fortsatte titelförsvararen Indien att tappa mark efter en tredje raka OS-förlust mot Polen. IM Aleksandra Maltsevskaya stod för den enda avgörande vinsten i matchen, mot GM Vaishali Rameshbabu, sedan de övriga tre partierna slutat remi. Polen delar nu ledningen med Kina, Kazakstan och Azerbajdzjan på maximal poäng. Kina vann själva mot Bulgarien 3–1 tack vare Zhu Jiner och Song Xuxin, medan Kazakstan besegrade Tyskland och Azerbajdzjan slog Serbien 3–1. USA klarade en 2–2-remi mot Uzbekistan sedan IM Alice Lee räddade laget med sin femte raka seger, trots att WGM Afruza Khamdamova vunnit mot Carissa Yip på förstabordet.\n\nBland övriga överraskningar besegrade Tadzjikistan Slovenien med 2½–1½, medan England, Frankrike, Iran, Spanien, Turkiet och Ukraina noterade solida resultat i öppna klassen.\n\nI det danska lägret gick femte ronden inte som väntat. Damherrarna föll för Turkiet med 0½–3½, där enda ljuspunkten var Esmat Susanne Guindys remis på brät fyra – hennes tionde OS-medverkan. I den öppna klassen blev det för andra dagen i rad en delad match, 2–2 mot Bangladesh. Jonas Buhl Bjerre vann säkert efter att motståndaren felat i drag 24, men Filip Boe Olsen förlorade tidigt i en nimzoindisk mot veteranen Niaz Murshed, medan Jesper Thybo och Mads Andersen delade sina partier.\n\nNorge lyckades bättre i herrklassen och besegrade Mongoliet 2½–1½, där Aksel Bu Kvaløy blev matchhjälte genom att vinna ett utdraget remiaktigt slutspel.",
-    "date": "Mon, 21 Sep 2026 08:10:00 GMT",
-    "tag": "ChessBase",
-    "processed_at": "2026-09-21T16:13:17.667453",
+    "processed_at": "2026-09-22T14:00:42.218914",
     "alla_kallor": [
       {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/chess-olympiad-2026-5"
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/a-letter-from-january-complicates-fides-account-of-israels-olympiad-forfeits"
       },
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/germany-upsets-top-seeded-us-in-chess-olympiad"
-      },
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-5"
-      },
-      {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/46th-fide-chess-olympiad-round-5-report"
-      },
-      {
-        "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/09/20/ol-5-runde-nederlag-og-uafgjort/?utm_source=rss&utm_medium=rss&utm_campaign=ol-5-runde-nederlag-og-uafgjort"
-      },
-      {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/09/21/sjakk-ol-2026-5-runde/"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/full-round-5-recap"
+        "url": "https://chessnewsnetwork.com/article/team-israel-forfeits-round-6"
       }
     ],
     "alla_urler": [
-      "https://en.chessbase.com/post/chess-olympiad-2026-5",
-      "https://chessnewsnetwork.com/article/germany-upsets-top-seeded-us-in-chess-olympiad",
-      "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-5",
-      "https://www.chessbase.in/news/46th-fide-chess-olympiad-round-5-report",
-      "https://nyheder.skak.dk/2026/09/20/ol-5-runde-nederlag-og-uafgjort/?utm_source=rss&utm_medium=rss&utm_campaign=ol-5-runde-nederlag-og-uafgjort",
-      "https://bergensjakk.no/2026/09/21/sjakk-ol-2026-5-runde/",
-      "https://chessnewsnetwork.com/article/full-round-5-recap"
+      "https://chessnewsnetwork.com/article/a-letter-from-january-complicates-fides-account-of-israels-olympiad-forfeits",
+      "https://chessnewsnetwork.com/article/team-israel-forfeits-round-6"
     ],
-    "bild_filnamn": "bildbanken-9n3F4oAgJK.jpg",
+    "bild_filnamn": "bildbanken-Af8EuFTnnC.jpg",
+    "bild_kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
+  },
+  {
+    "source": "ChessBase",
+    "original_url": "https://en.chessbase.com/post/john-donaldson-new-insights-into-bobby-fischer",
+    "original_title": "John Donaldson: New insights into Bobby Fischer",
+    "swedish_title": "Ny bok avslöjar okänt material om Bobby Fischer",
+    "swedish_content": "Under Schackolympiaden i Samarkand intervjuades John Donaldson, kapten för det amerikanska laget och en av de ledande experterna på Bobby Fischer, vid ChessBase monter. Till sin nya bok \"Inside the Mind of Bobby Fischer\" har Donaldson kunnat använda tidigare opublicerat material som samlats av Fischers mor Regina och förvarats på en vind i decennier. Bland dokumenten fanns partier som troddes vara förlorade, samt avslöjande brev och telegram från Fischers ungdom. I intervjun berättar Donaldson bland annat om när en 16-årig Fischer reste ensam genom Europa i flera månader 1959, samt om relationen till modern och tillbakadragandet från tävlingsschack. Donaldson är på plats i Samarkand som lagkapten för USA för sjuttonde gången.",
+    "date": "Tue, 22 Sep 2026 07:39:22 GMT",
+    "tag": "ChessBase",
+    "processed_at": "2026-09-22T14:01:06.670345"
+  },
+  {
+    "source": "ChessBase",
+    "original_url": "https://en.chessbase.com/post/how-can-humans-prosper-in-the-ai-era",
+    "original_title": "How can humans prosper in the AI era? Child's play",
+    "swedish_title": "Polgár och Rubik varnar för AI:s inverkan på lärande",
+    "swedish_content": "Stormästare Judit Polgár och Ernő Rubik, uppfinnaren av Rubiks kub, publicerade denna vecka en gemensam essä i den brittiska tidningen The Telegraph. I texten diskuterar de balansen mellan teknologisk effektivitet och det mänskliga tillvägagångssättet. \"Man kan inte ladda ner sunt förnuft, eftersom man inte kan ladda ner erfarenheten av att misslyckas,\" skriver författarna. De lyfter fram forskares, pedagogers, föräldrars och leksaksindustrins gemensamma ansvar för att skapa lekfulla lärandeupplevelser som främjar barns kritiska tänkande.\n\nFörfattarna kontrasterar AI:s egenskaper – snabbhet, kunskap, effektivitet, tålamod och skenbar allvetenhet – mot distinkt mänskliga egenskaper som känslor, frustration, osäkerhet, lekfullhet och omtanke. De beskriver AI-assistenter som nästan oändligt tålmodiga \"vuxna\" familjemedlemmar som alltid har ett svar, men påpekar att denna allvetenhet också kan göra dem tråkiga och potentiellt skadliga för lärandet om de tillåts ersätta vårt eget tänkande.\n\nRubiks kub och schack används som exempel: att lösa en kub eller lära sig schack handlar om mycket mer än att nå fram till rätt lösning – processen utvecklar rumsligt tänkande, logisk slutledning, uthållighet, framförhållning, beslutsförmåga och förmågan att hantera osäkerhet. Enligt Polgár och Rubik byggs sunt förnuft inte bara upp av ackumulerad kunskap, utan av en intuitiv förståelse för hur världen fungerar – en förståelse som växer fram genom erfarenhet, inklusive misstag och motgångar.",
+    "date": "Mon, 21 Sep 2026 20:45:00 GMT",
+    "tag": "ChessBase",
+    "processed_at": "2026-09-22T14:01:24.841310"
+  },
+  {
+    "source": "Schack.se",
+    "original_url": "https://schack.se/nyhet/ettan/2026/09/team-sweden-samlades-infor-det-36e-nato-masterskapet/?utm_source=rss&utm_medium=rss&utm_campaign=team-sweden-samlades-infor-det-36e-nato-masterskapet",
+    "original_title": "Team Sweden samlades inför det 36:e NATO-mästerskapet",
+    "swedish_title": "Åtta spelare i Team Sweden till NATO-mästerskapet",
+    "swedish_content": "Sverige representeras av åtta spelare vid det 36:e NATO-mästerskapet i Jūrmala, Lettland, den 11-17 oktober. Truppen består av FM Johan Norberg (Västerås SK), FM Jan Lundin (Farsta SK), Håkan Östling (SK Kristallen), Anders Ivarsson (Stockholms SS), Håkan Greiff (Rödeby SK), Filip Björkman (Västerås SK), Rickard Ljung (SK Kristallen) och Adam Ståhlberg (Linköpings ASS).\n\nI helgen samlades tre fjärdedelar av laget för en social träff på Armémuseum i Stockholm, med gemensam lunch och guidad visning av intendent Peter Zander. Därefter spelades en blixtturnering som vanns av Johan Norberg, före Håkan Östling och Adam Ståhlberg.\n\nDe sex högst rankade spelarna utgör det officiella Team Sweden i lagtävlingen, medan Rickard Ljung och Adam Ståhlberg kommer att spela i ett av de specialkomponerade NATO-lagen. Håkan Östling, SSF:s generalsekreterare och lagledare, uppger att de sex officiella spelarna snittar 2150 i Elo.\n\nI fjolårets mästerskap i Polen deltog Östling som ensam svensk representant, då Turkiet vann lagtävlingen med 17 medlemsländer och 115 spelare. Bästa spelare i den tävlingen blev turkiske GM Muhammed Batuhan Dastan med 6,5 poäng på 7 ronder.",
+    "date": "Mon, 21 Sep 2026 13:06:10 +0000",
+    "tag": "Svenska Schackförbundet",
+    "processed_at": "2026-09-22T14:01:51.258648",
+    "bild_filnamn": "bildbanken-AnKAMXudZF.jpg",
+    "bild_kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
+  },
+  {
+    "source": "ChessBase",
+    "original_url": "https://en.chessbase.com/post/samarkand-r6-open-uzbekistan-beat-india-to-take-the-sole-lead",
+    "original_title": "Samarkand R6 (open): Uzbekistan beat India to take the sole lead",
+    "swedish_title": "Uzbekistan ensam i täten efter drama mot Indien",
+    "swedish_content": "Uzbekistan besegrade försvarande mästarna Indien med 2½–1½ i en av de mest väntade matcherna hittills i Schack-OS i Samarkand, och är efter sex ronder det enda laget med full pott, 12 matchpoäng. Tre av fyra partier slutade oavgjort, men det avgörande blev mötet mellan Nodirbek Yakubboev och Nihal Sarin på tredje bordet. Nihal stod bättre både på brädet och klockan, men med en halvtimme kvar råkade han tappa damen i ett grovt misstag. Yakubboev utnyttjade felet fullt ut och avgjorde matchen till hemmalagets fördel.\n\nTysklands raka segersvit tog samtidigt slut. Laget föll med 3–1 mot Kina, där Ding Liren besegrade Vincent Keymer på första bordet och Xu Xiangyu vann mot Alexander Donchenko på fjärde bordet. Resultatet för upp Kina till en delad andraplats tillsammans med Armenien, som slog Iran med 2½–1½. Efter sex ronder toppas alltså tabellen av Uzbekistan på 12 poäng, följt av Kina och Armenien på 11, medan Frankrike, Nederländerna, Turkiet och Indien delar på 10 poäng.\n\nNederländernas 4–0-seger mot Israel kom aldrig till stånd på brädet. Matchen avgjordes genom walkover sedan en schemakonflikt kring firandet av Jom Kippur inte kunnat lösas med den aktuella motståndaren, en fråga som fått extra vikt efter att ett brev framkommit där FIDE tidigare utlovat att man skulle ta hänsyn till Israels önskemål om spelschema.\n\nI damklassen är Kina och Kazakstan ensamma om full pott, 12 av 12 möjliga poäng. Kina krossade söndagens hjältar Polen med 3½–½, medan Kazakstan vann med 2½–1½ mot Azerbajdzjan tack vare en enda vinst av Alua Nurman. Indien kom tillbaka starkt efter tidigare motgångar och besegrade USA med 3–1, med avgörande vinster av Savitha Shri och Vantika Agrawal. Värdlandets damlag fick däremot se sig slagna med 3½–½ av Georgien, som därmed ansluter sig till gruppen på tio poäng.\n\nI den franska matchen mot England blev det 2–2. Etienne Bacrot förlorade mot Michael Adams, men förlusten kompenserades av en vinst för Marc'Andria Maurizzi. Franska damlaget rullade samtidigt över ett svagt Vietnam med 4–0.\n\nSverige, som ligger bäst av de nordiska lagen på en 24:e plats, spelade oavgjort mot högre rankade Serbien. Matchhjälte blev Edvin Trost, som vann på fjärde bordet mot GM Velimir Ivic. Stormästarna Nils Grandelius och Erik Blomqvist spelade båda remi med vitt, medan Jung Min Seo förlorade med svart mot Aleksandar Indjic. Svenska damlaget föll mot Uzbekistan 3, där Pia Cramling vann och Inna Agrest spelade remi, medan Lavinia Valcu blev mattsatt och Anna Cramling till slut fick nöja sig med remi i ett tornslutspel.\n\nDanmarks damlag vann klart mot Uganda med 3½–½, med Anna Sofie Li som dansk toppscorer på 4 av 5 möjliga. Det öppna danska laget led däremot ett stort nederlag mot Turkmenistan, 3½–½, trots att man var klara favoriter på pappret. Landstränare Søren Bech Hansen konstaterade nyktert att det var \"en skidt dag på kontoret\".\n\nNorges herrlag var nära att hålla jämnt mot högt rankade USA men föll till slut med 1½–2½. Tre partier slutade remis, men Hans Moke Niemann tog hem det avgörande mötet mot Frode Urkedal efter att nordmannen gjort ett kritiskt fel i tidsnöd i det 68:e draget.\n\nTisdagen är vilodag i Samarkand, och rond sju spelas på onsdagen.",
+    "date": "Tue, 22 Sep 2026 08:15:00 GMT",
+    "tag": "ChessBase",
+    "processed_at": "2026-09-22T14:02:56.031035",
+    "alla_kallor": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/samarkand-r6-open-uzbekistan-beat-india-to-take-the-sole-lead"
+      },
+      {
+        "source": "ChessBase India",
+        "url": "https://www.chessbase.in/news/46th-fide-chess-olympiad-round-6-report"
+      },
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/olympiades-2026-ronde-6-10084.html"
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/a-blundered-queen-hands-uzbekistan-the-sole-lead-heading-into-the-rest-day"
+      },
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-6"
+      },
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/ettantopp/2026/09/stark-svensk-insats-och-kryss-mot-serbien/?utm_source=rss&utm_medium=rss&utm_campaign=stark-svensk-insats-och-kryss-mot-serbien"
+      },
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/olympiades-2026-florilege-des-meilleurs-coups-10092.html"
+      },
+      {
+        "source": "Dansk Skak Union",
+        "url": "https://nyheder.skak.dk/2026/09/21/ol-6-runde-nedtur-og-sejr/?utm_source=rss&utm_medium=rss&utm_campaign=ol-6-runde-nedtur-og-sejr"
+      },
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/09/22/sjakk-ol-2026-6-runde/"
+      }
+    ],
+    "alla_urler": [
+      "https://en.chessbase.com/post/samarkand-r6-open-uzbekistan-beat-india-to-take-the-sole-lead",
+      "https://www.chessbase.in/news/46th-fide-chess-olympiad-round-6-report",
+      "https://www.europe-echecs.com/art/olympiades-2026-ronde-6-10084.html",
+      "https://chessnewsnetwork.com/article/a-blundered-queen-hands-uzbekistan-the-sole-lead-heading-into-the-rest-day",
+      "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-6",
+      "https://schack.se/nyhet/ettantopp/2026/09/stark-svensk-insats-och-kryss-mot-serbien/?utm_source=rss&utm_medium=rss&utm_campaign=stark-svensk-insats-och-kryss-mot-serbien",
+      "https://www.europe-echecs.com/art/olympiades-2026-florilege-des-meilleurs-coups-10092.html",
+      "https://nyheder.skak.dk/2026/09/21/ol-6-runde-nedtur-og-sejr/?utm_source=rss&utm_medium=rss&utm_campaign=ol-6-runde-nedtur-og-sejr",
+      "https://bergensjakk.no/2026/09/22/sjakk-ol-2026-6-runde/"
+    ],
+    "bild_filnamn": "bildbanken-AKSLWfnSgd.jpg",
     "bild_kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
   }
 ]
