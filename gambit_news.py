@@ -1441,20 +1441,16 @@ class WordPressPublisher:
            
            api_url = f"{self.wp_url}/wp-json/wp/v2/posts"
            
-           # Formatera innehåll med AI-disclaimer
-           formatted_content = f"""
-{selected_article['content']}
+           # Ingen AI-disclaimer eller Källa-ruta bakas längre in i själva
+           # artikelinnehållet (borttaget 2026-09-20, Carls beslut). All
+           # information om att nyheterna är AI-bearbetade och hur det går
+           # till finns numera samlad på en enda plats: /ai-policy/, länkad
+           # i sidfoten på varenda sida. Källhänvisningen per artikel visas
+           # ändå - artikelmallen (wp-content/themes/gambit-theme/single.php)
+           # renderar en egen "Källa"-knapp utifrån meta-fälten source_url/
+           # source_name nedan, oberoende av innehållet här.
+           formatted_content = selected_article['content']
 
-<hr style="margin: 20px 0; border: none; height: 1px; background: #ddd;">
-
-<div style="background: #f9f9f9; padding: 15px; border-left: 4px solid #0073aa; margin: 15px 0;">
-<p style="margin: 0; font-style: italic; color: #666;">
-<strong>ℹ️ Om denna artikel:</strong> Denna artikel är översatt och bearbetad från originalkällan med hjälp av AI (Claude). 
-<br>📎 <strong>Källa:</strong> <a href="{original_article['original_url']}" target="_blank" rel="noopener">{original_article['source']}</a>
-</p>
-</div>
-"""
-           
            post_data = {
                'title': selected_article['title'],
                'content': formatted_content,
@@ -2596,6 +2592,10 @@ KÄLLOR: {kallnamn}
                # flödet. Tidigare delade de på samma fält, vilket gjorde att
                # nypublicerat kunde landa långt bakåt där ingen ser det.
                "original_date":  art.get("date", ""),
+               # Andra bilder Claude hittade men inte valde (bildbanken.schack.se
+               # och/eller FIDE:s Flickr) - redaktionen/index.php visar dem som
+               # klickbara alternativ, se bildbanken_alternativ/fide_alternativ.
+               "bild_alternativ": art.get("bild_alternativ", []),
            }
            meta_comment = f"<!-- GAMBIT_META:{json.dumps(meta, ensure_ascii=False)} -->"
            wp_content   = meta_comment + "\n\n" + art.get("swedish_content", "")
@@ -3029,6 +3029,43 @@ TEXT: {text[:600]}"""
            logger.warning(f"⚠️ Kunde inte hämta FIDE-bild för \"{sokord}\": {e}")
            return None
 
+   def fide_alternativ(self, sokord, max_n=4):
+       """Lista upp till max_n FIDE-bilder (Flickr) för samma sökord, UTAN
+       att ladda ner dem - se bildbanken_alternativ för samma resonemang.
+       Egen sökning, skild från hamta_fide_bild, så den auto-valda bilden
+       inte behöver ändras för att alternativen ska kunna listas."""
+       if not FLICKR_API_KEY:
+           return []
+       nsid = self._flickr_fide_nsid()
+       if not nsid:
+           return []
+       try:
+           resp = requests.get("https://api.flickr.com/services/rest/", params={
+               "method": "flickr.photos.search",
+               "user_id": nsid,
+               "text": sokord,
+               "sort": "relevance",
+               "extras": "owner_name,url_l,url_c,url_z",
+               "per_page": max_n,
+               "api_key": FLICKR_API_KEY,
+               "format": "json",
+               "nojsoncallback": 1,
+           }, timeout=15)
+           data = resp.json()
+           foton = (data.get("photos") or {}).get("photo") or []
+           alternativ = []
+           for foto in foton[:max_n]:
+               bild_url = foto.get("url_l") or foto.get("url_c") or foto.get("url_z")
+               if not bild_url:
+                   continue
+               fotograf = (foto.get("ownername") or "").strip()
+               kredit = f"Foto: FIDE / {fotograf}" if fotograf and fotograf.lower() != "fide" else "Foto: FIDE"
+               alternativ.append({"kalla": "fide", "url": bild_url, "kredit": kredit})
+           return alternativ
+       except Exception as e:
+           logger.warning(f"⚠️ Kunde inte hämta FIDE-alternativ för \"{sokord}\": {e}")
+           return []
+
    def hitta_spelarnamn(self, titel, text):
        """Listar namngivna schackspelare i notisen, för sökning i Svenska
        Schackförbundets bildbank (bildbanken.schack.se). Egen liten
@@ -3074,24 +3111,19 @@ TEXT: {text[:600]}"""
        self._bildbanken_cache = {}
        return None
 
-   def hamta_bildbanken_bild(self, spelarnamn):
-       """Söker en bild på en namngiven spelare i Svenska Schackförbundets
-       bildbank (bildbanken.schack.se, foton av Lars OA Hedlund - mest
-       svenska spelare). Filnamnen i bildbanken innehåller spelarnas namn,
-       så sökningen är samma och-logik som sidans egen: alla ord i namnet
-       måste finnas i sökvägen (mapp+filnamn), skiftlägesokänsligt.
-
-       Fritt att använda redaktionellt mot källhänvisningen i
-       BILDBANKEN_KREDIT, se https://www.stockholmsschack.se/
-       bildarkivet-information/. Returnerar (bilddata, filnamn, kredit)
-       eller None - ingen träff ger aldrig fel bild, bara ingen bild."""
+   def _bildbanken_sok(self, spelarnamn):
+       """Sök i bildbankens dataträd efter spelarnamn, returnera sorterad
+       träfflista (senaste år och störst upplösning först). Delad av
+       hamta_bildbanken_bild (väljer automatiskt bäst) och
+       bildbanken_alternativ (listar flera valmöjligheter, se bugg/funktion
+       2026-09-20 - Carl Fredrik ville kunna byta bild manuellt)."""
        data = self._bildbanken_data()
        if not data:
-           return None
+           return []
 
        ord_lista = [o for o in re.split(r"\s+", spelarnamn.strip()) if o]
        if not ord_lista:
-           return None
+           return []
 
        traffar = []
 
@@ -3106,9 +3138,6 @@ TEXT: {text[:600]}"""
                    sok(varde, ny_path)
 
        sok(data, "")
-       if not traffar:
-           logger.info(f"📷 Ingen bildbanken-bild hittad för \"{spelarnamn}\"")
-           return None
 
        # Senaste året först (mest aktuellt utseende), sen störst upplösning
        # som tiebreak.
@@ -3118,6 +3147,23 @@ TEXT: {text[:600]}"""
            ar = int(forsta) if forsta.isdigit() and len(forsta) == 4 else 0
            return (ar, varde[3] * varde[4])
        traffar.sort(key=sorteringsnyckel, reverse=True)
+       return traffar
+
+   def hamta_bildbanken_bild(self, spelarnamn):
+       """Söker en bild på en namngiven spelare i Svenska Schackförbundets
+       bildbank (bildbanken.schack.se, foton av Lars OA Hedlund - mest
+       svenska spelare). Filnamnen i bildbanken innehåller spelarnas namn,
+       så sökningen är samma och-logik som sidans egen: alla ord i namnet
+       måste finnas i sökvägen (mapp+filnamn), skiftlägesokänsligt.
+
+       Fritt att använda redaktionellt mot källhänvisningen i
+       BILDBANKEN_KREDIT, se https://www.stockholmsschack.se/
+       bildarkivet-information/. Returnerar (bilddata, filnamn, kredit)
+       eller None - ingen träff ger aldrig fel bild, bara ingen bild."""
+       traffar = self._bildbanken_sok(spelarnamn)
+       if not traffar:
+           logger.info(f"📷 Ingen bildbanken-bild hittad för \"{spelarnamn}\"")
+           return None
 
        path, varde = traffar[0]
        bild_id = varde[5]
@@ -3132,6 +3178,22 @@ TEXT: {text[:600]}"""
        filnamn = f"bildbanken-{bild_id}.jpg"
        logger.info(f"📷 Bildbanken-bild hittad för \"{spelarnamn}\": {path}")
        return (bild_resp.content, filnamn, BILDBANKEN_KREDIT)
+
+   def bildbanken_alternativ(self, spelarnamn, max_n=4):
+       """Lista upp till max_n bildbanken-URL:er för samma spelare, UTAN att
+       ladda ner dem - bara adresser att visa som klickbara alternativ på
+       redaktionen/index.php. Den faktiska nedladdningen sker bara för den
+       bild Carl Fredrik till slut väljer (se redaktionens bildproxy)."""
+       traffar = self._bildbanken_sok(spelarnamn)
+       alternativ = []
+       for path, varde in traffar[:max_n]:
+           bild_id = varde[5]
+           alternativ.append({
+               "kalla": "bildbanken",
+               "url": f"{BILDBANKEN_URL}/Home/{bild_id}.jpg",
+               "kredit": BILDBANKEN_KREDIT,
+           })
+       return alternativ
 
    def run_oversatt_godkanda(self):
        """Steg 3: hämta det Carl Fredrik godkänt på gambit.se/redaktionen och
@@ -3184,21 +3246,38 @@ TEXT: {text[:600]}"""
                # namngiven spelare.
                try:
                    bild = None
+                   alternativ = []
                    titel = result.get('swedish_title', '')
                    text = result.get('swedish_content', '')
 
                    for namn in self.hitta_spelarnamn(titel, text):
-                       bild = self.hamta_bildbanken_bild(namn)
-                       if bild:
-                           break
+                       if not bild:
+                           bild = self.hamta_bildbanken_bild(namn)
+                       alternativ.extend(self.bildbanken_alternativ(namn))
 
+                   sokord = None
                    if not bild:
                        sokord = self.hitta_fide_sokord(titel, text)
                        if sokord:
                            bild = self.hamta_fide_bild(sokord)
+                   if sokord:
+                       alternativ.extend(self.fide_alternativ(sokord))
 
                    if bild:
                        result['bild_data'], result['bild_filnamn'], result['bild_kredit'] = bild
+
+                   # Alternativ till redaktionen/index.php - så Carl Fredrik
+                   # kan byta till en annan bild, eller ingen alls, om han
+                   # inte gillar den automatiskt valda (2026-09-20, hans
+                   # förslag). Ta bort dubbletter, ordningen sparas.
+                   sedda = set()
+                   unika_alternativ = []
+                   for a in alternativ:
+                       if a['url'] in sedda:
+                           continue
+                       sedda.add(a['url'])
+                       unika_alternativ.append(a)
+                   result['bild_alternativ'] = unika_alternativ[:6]
                except Exception as e:
                    logger.warning(f"⚠️ Bildsteg misslyckades för notis {kand['id']}, publicerar utan bild: {e}")
 
