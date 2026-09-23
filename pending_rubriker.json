@@ -1,273 +1,275 @@
 [
   {
-    "id": "a72fa7f352a5",
+    "id": "28120950177f",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/samarkand-r6-open-uzbekistan-beat-india-to-take-the-sole-lead",
-        "title": "Samarkand R6 (open): Uzbekistan beat India to take the sole lead",
-        "date": "Tue, 22 Sep 2026 08:15:00 GMT",
+        "url": "https://en.chessbase.com/post/chess-olympiad-2026-6-women",
+        "title": "Samarkand R6 (women): China and Kazakhstan remain perfect",
+        "date": "Tue, 22 Sep 2026 23:50:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "Uzbekistan reached the rest day as the sole leaders of the open Chess Olympiad after edging defending champions India 2½–1½ in round six. Nodirbek Yakubboev (pictured) scored the decisive win from what had been an inferior position against Nihal Sarin. China and Armenia moved into joint second on 11/12 match points after beating Germany and Iran, respectively. Uzbekistan, China and Armenia remain unbeaten on individual boards. | Photo: Rafal Oleksiewicz / FIDE"
-      },
-      {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/46th-fide-chess-olympiad-round-6-report",
-        "title": "SpotlightTop storyDevansh Singh·4 hours ago46th Chess Olympiad R6: Uzbekistan topple India in Open; Indian women bounce back against USA",
-        "date": "2026-09-21T10:06:35.114291",
-        "tag": "ChessBase India"
-      },
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/olympiades-2026-ronde-6-10084.html",
-        "title": "Lire l'articleOlympiades 2026L'Ouzbékistan prend les commandes, la France et l'Angleterre se neutralisent12",
-        "date": "2026-09-21T10:06:44.660473",
-        "tag": "Europe Echecs"
+        "_rss_content": "China and Kazakhstan reached the rest day as joint leaders of the Women's Chess Olympiad with perfect 12/12 match scores. Kazakhstan edged Azerbaijan 2½–1½, while China beat Poland 3½–½ after the latter had defeated defending champions India in round five. India responded by overcoming the United States 3–1, while second seeds from Georgia also moved into the chasing group with a convincing win over Uzbekistan. | Pictured: China's Zhu Jiner | Photo: Rafal Oleksiewicz / FIDE"
       },
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/a-blundered-queen-hands-uzbekistan-the-sole-lead-heading-into-the-rest-day",
-        "title": "A Blundered Queen Hands Uzbekistan the Sole Lead Heading Into the Rest Day",
-        "date": "Tue, 22 Sep 2026 09:55:31 GMT",
+        "url": "https://chessnewsnetwork.com/article/six-rounds-down-five-to-go",
+        "title": "Six Rounds Down, Five to Go:",
+        "date": "Tue, 22 Sep 2026 15:30:33 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "Round six settled a question the Open section had been building toward for two rounds straight: who would actually separate themselves from the pack of co-leaders. The answer arrived through one costly mistake on board three."
+        "_rss_content": "The Chess Olympiad reached its rest day with a settled picture at the top of the Open section and an unsettled one in the Women's, after six rounds that included a world champion's rating milestone, a family reunion on the Swedish board, and a scheduling dispute that ended up saying more about FIDE than about chess."
       }
     ],
-    "kalla_display": "Chess News Network + ChessBase + ChessBase India + Europe Echecs",
-    "datum": "Tue, 22 Sep 2026 08:15:00 GMT",
-    "hittad": "2026-09-22T10:08:01.094060"
+    "kalla_display": "Chess News Network + ChessBase",
+    "datum": "Tue, 22 Sep 2026 23:50:00 GMT",
+    "hittad": "2026-09-23T10:08:30.611781"
   },
   {
-    "id": "287ebef2b624",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/a-letter-from-january-complicates-fides-account-of-israels-olympiad-forfeits",
-        "title": "A Letter From January Complicates FIDE's Account of Israel's Olympiad Forfeits",
-        "date": "Tue, 22 Sep 2026 09:41:22 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Israel's two Olympiad teams had their round six games forfeited this week after a Yom Kippur scheduling request couldn't be resolved with that round's opponents. A letter that's now surfaced, dated eight months before the tournament even began, suggests it never should have come down to that negotiation in the first place."
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/team-israel-forfeits-round-6",
-        "title": "Team Israel Forfeits Round 6",
-        "date": "Mon, 21 Sep 2026 12:31:05 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Israel's Open and Women's teams at the Chess Olympiad had their round six games forfeited after a scheduling dispute tied to the observance of Yom Kippur on September 20 and 21 could not be resolved with their opponents."
-      }
-    ],
-    "kalla_display": "Chess News Network",
-    "datum": "Tue, 22 Sep 2026 09:41:22 GMT",
-    "hittad": "2026-09-22T10:08:01.094081"
-  },
-  {
-    "id": "f8ef8ccd3a31",
+    "id": "3fee4bf0ac62",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-09-19-2026",
-        "title": "Hikaru Nakamura Wins Bullet Brawl 09 19 2026",
-        "date": "2026-09-21T10:06:15.463137",
-        "tag": "Chess.com"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/nakamura-wins-second-consecutive-bullet-brawl",
-        "title": "Nakamura Wins Second Consecutive Bullet Brawl",
-        "date": "Tue, 22 Sep 2026 05:51:29 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "GM Hikaru Nakamura wins his 18th Bullet Brawl of the year"
-      }
-    ],
-    "kalla_display": "Chess News Network + Chess.com",
-    "datum": "2026-09-21T10:06:15.463137",
-    "hittad": "2026-09-22T10:08:01.094091"
-  },
-  {
-    "id": "ccca09d1c3e4",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-6",
-        "title": "2026 Samarkand Chess Olympiad Round 6",
-        "date": "2026-09-21T10:06:15.463087",
+        "url": "https://www.chess.com/news/view/dionisio-sganzerla-brazilian-mall-chess-dies-96",
+        "title": "Dionisio Sganzerla Brazilian Mall Chess Dies 96",
+        "date": "2026-09-22T10:07:01.173739",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-09-21T10:06:15.463087",
-    "hittad": "2026-09-22T10:08:01.094099"
+    "datum": "2026-09-22T10:07:01.173739",
+    "hittad": "2026-09-23T10:08:30.611794"
   },
   {
-    "id": "dbb98baecffe",
+    "id": "445265943212",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/play-chess-against-nfl-star-mack-hollins",
-        "title": "Play Chess Against Nfl Star Mack Hollins",
-        "date": "2026-09-21T10:06:15.463167",
+        "url": "https://www.chess.com/news/view/firouzja-wins-titled-tuesday-september-22-2026",
+        "title": "Firouzja Wins Titled Tuesday September 22 2026",
+        "date": "2026-09-22T10:07:01.173781",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-09-21T10:06:15.463167",
-    "hittad": "2026-09-22T10:08:01.094105"
+    "datum": "2026-09-22T10:07:01.173781",
+    "hittad": "2026-09-23T10:08:30.611802"
   },
   {
-    "id": "250fe360580b",
+    "id": "d4ccc9a0e1a5",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/announcing-chess-club-showdown-2026",
-        "title": "Announcing Chess Club Showdown 2026",
-        "date": "2026-09-21T10:06:15.463195",
+        "url": "https://www.chess.com/news/view/announcing-chesscom-seirawan-chess-championship-2026",
+        "title": "Announcing Chesscom Seirawan Chess Championship 2026",
+        "date": "2026-09-22T10:07:01.173810",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-09-21T10:06:15.463195",
-    "hittad": "2026-09-22T10:08:01.094112"
+    "datum": "2026-09-22T10:07:01.173810",
+    "hittad": "2026-09-23T10:08:30.611810"
   },
   {
-    "id": "70f75f52de30",
+    "id": "e00471a2467c",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/john-donaldson-new-insights-into-bobby-fischer",
-        "title": "John Donaldson: New insights into Bobby Fischer",
-        "date": "Tue, 22 Sep 2026 07:39:22 GMT",
+        "url": "https://en.chessbase.com/post/quo-vadis-fischer-random-chess-2",
+        "title": "Quo vadis, Fischer Random Chess? (2)",
+        "date": "Tue, 22 Sep 2026 15:30:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "Bobby Fischer remains one of the most fascinating and enigmatic figures in chess history. IM John Donaldson, captain of the US team at the Chess Olympiad and the author of numerous books on famous and lesser-known chess personalities, is one of the leading experts on Fischer. He recently published a new book on the 1972 World Champion, \"Inside the Mind of Bobby Fischer\". In the interview, Donaldson talks about his research, previously unknown material and how he views Fischer after years of studying his life and work."
+        "_rss_content": "In a previous article we described the genesis of this increasingly popular form of chess – and what the strongest ever player, Magnus Carlsen, thinks of it. Today we hear the opinion of another top grandmaster. In this remarkable interview you can listen to the view of Levon Aronian – but also on a number of other subjects that are of great interest to the chess world."
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Tue, 22 Sep 2026 07:39:22 GMT",
-    "hittad": "2026-09-22T10:08:01.094118"
+    "datum": "Tue, 22 Sep 2026 15:30:00 GMT",
+    "hittad": "2026-09-23T10:08:30.611816"
   },
   {
-    "id": "ac1975e5b0b1",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/how-can-humans-prosper-in-the-ai-era",
-        "title": "How can humans prosper in the AI era? Child's play",
-        "date": "Mon, 21 Sep 2026 20:45:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Robots solve puzzles more efficiently, but there's a joy derived from unscrambling a Rubik's Cube or mastering chess. This Telegraph article, by Judit Polgar and Erno Rubik, argues that as AI becomes vastly faster and more capable than humans at solving problems, we risk losing something more important than efficiency: the human experience of thinking, experimenting, failing, and discovering."
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Mon, 21 Sep 2026 20:45:00 GMT",
-    "hittad": "2026-09-22T10:08:01.094128"
-  },
-  {
-    "id": "48cd0c41d3f1",
+    "id": "5690f3838307",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettantopp/2026/09/stark-svensk-insats-och-kryss-mot-serbien/?utm_source=rss&utm_medium=rss&utm_campaign=stark-svensk-insats-och-kryss-mot-serbien",
-        "title": "Stark svensk insats – och kryss mot Serbien",
-        "date": "Tue, 22 Sep 2026 05:58:40 +0000",
+        "url": "https://schack.se/nyhet/sverige/2026/09/svenska-blixtserien-jamnt-i-toppen-i-divison-1/?utm_source=rss&utm_medium=rss&utm_campaign=svenska-blixtserien-jamnt-i-toppen-i-divison-1",
+        "title": "Svenska Blixtserien: Jämnt i toppen i divison 1",
+        "date": "Wed, 23 Sep 2026 07:23:55 +0000",
         "tag": "Svenska Schackförbundet",
-        "_rss_content": "Sverige spelade oavgjort mot det högre rankade serbiska laget och ligger nu bäst placerade av de nordiska lagen, med en 24:e plats i Schack-OS i Samarkand. &#8221;Matchhjälte&#8221; mot Serbien blev [&#8230;] Inlägget Stark svensk insats &#8211; och kryss mot Serbien dök först upp på Sveriges Schackförbund ."
+        "_rss_content": "Fyra av fem omgångar av säsong 2 av Svenska Blixtserien har nu spelats och det är mycket jämnt i toppen i division 1 inför den avslutande omgången på söndag. Både [&#8230;] Inlägget Svenska Blixtserien: Jämnt i toppen i divison 1 dök först upp på Sveriges Schackförbund ."
       }
     ],
     "kalla_display": "Schack.se",
-    "datum": "Tue, 22 Sep 2026 05:58:40 +0000",
-    "hittad": "2026-09-22T10:08:01.094136"
+    "datum": "Wed, 23 Sep 2026 07:23:55 +0000",
+    "hittad": "2026-09-23T10:08:30.611846"
   },
   {
-    "id": "4517065eef56",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettan/2026/09/team-sweden-samlades-infor-det-36e-nato-masterskapet/?utm_source=rss&utm_medium=rss&utm_campaign=team-sweden-samlades-infor-det-36e-nato-masterskapet",
-        "title": "Team Sweden samlades inför det 36:e NATO-mästerskapet",
-        "date": "Mon, 21 Sep 2026 13:06:10 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Åtta spelare kommer att representera Sverige i NATO-mästerskapen i Lettland 11-17 oktober. I helgen skedde en lagträff på Armémuseum i Stockholm. NATO-mästerskapen i Jūrmala i Lettland den 11-17 oktober spelas [&#8230;] Inlägget Team Sweden samlades inför det 36:e NATO-mästerskapet dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Mon, 21 Sep 2026 13:06:10 +0000",
-    "hittad": "2026-09-22T10:08:01.094143"
-  },
-  {
-    "id": "46238f398c4f",
+    "id": "d8fa90a4bcfa",
     "status": "pending",
     "rubriker": [
       {
         "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/olympiades-2026-florilege-des-meilleurs-coups-10092.html",
-        "title": "Lire l'articleOlympiades 2026Olympiades 2026 : les plus beaux coups de ce début de tournoi",
-        "date": "2026-09-21T10:06:44.660440",
+        "url": "https://www.europe-echecs.com/art/olympiades-2026-ronde-7-10095.html",
+        "title": "Olympiades 2026Ronde 7 : Ouzbékistan-Chine à l'affiche, les équipes de France bien placées",
+        "date": "2026-09-22T10:07:34.470703",
         "tag": "Europe Echecs"
       }
     ],
     "kalla_display": "Europe Echecs",
-    "datum": "2026-09-21T10:06:44.660440",
-    "hittad": "2026-09-22T10:08:01.094149"
+    "datum": "2026-09-22T10:07:34.470703",
+    "hittad": "2026-09-23T10:08:30.611855"
   },
   {
-    "id": "ca40bd5d6fa4",
+    "id": "c5b06980172e",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/09/21/ol-6-runde-nedtur-og-sejr/?utm_source=rss&utm_medium=rss&utm_campaign=ol-6-runde-nedtur-og-sejr",
-        "title": "OL 6. runde – nedtur og sejr",
-        "date": "Mon, 21 Sep 2026 16:38:52 +0000",
-        "tag": "Dansk Skak Union",
-        "_rss_content": "De danske kvinder levede til fulde op til favoritværdigheden mod Uganda og vandt sikkert ½ &#8211; 3½. De danske kvinder ligger nu nummer 51 mod en seedning som nummer 53. Kina og Kazakhstan har begge vundet de 6 første matcher og mødes indbyrdes på onsdag. KvinderækkenUganda &#8211; Danmark ½ &#8211; 3½1. WIM Omprakash Kayyar Sana [&#8230;]"
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/promotions-d-automne-profitez-de-10-sur-une-selection-100-echecs-10074.html",
+        "title": "Lire l'articlePromotions d’automne : profitez de -10 % sur une sélection 100 % échecs !",
+        "date": "2026-09-22T10:07:34.470738",
+        "tag": "Europe Echecs"
       }
     ],
-    "kalla_display": "Dansk Skak Union",
-    "datum": "Mon, 21 Sep 2026 16:38:52 +0000",
-    "hittad": "2026-09-22T10:08:01.094155"
+    "kalla_display": "Europe Echecs",
+    "datum": "2026-09-22T10:07:34.470738",
+    "hittad": "2026-09-23T10:08:30.611865"
   },
   {
-    "id": "bda10a95b2b7",
+    "id": "611e6a72d7ab",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/internationaux-de-france-de-rapid-blitz-2026-classement-final-10094.html",
+        "title": "Lire l'articleInternationaux de France de Rapid & Blitz 2026Augustin Droin, Jonathan Dourerassou et Mitra Hejazipour sacrés lors des Internationaux de France...1",
+        "date": "2026-09-22T10:07:34.470791",
+        "tag": "Europe Echecs"
+      }
+    ],
+    "kalla_display": "Europe Echecs",
+    "datum": "2026-09-22T10:07:34.470791",
+    "hittad": "2026-09-23T10:08:30.611872"
+  },
+  {
+    "id": "ddd63d5e1e32",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/olympiades-2026-surprises-10093.html",
+        "title": "Lire l'articleOlympiades 2026Les plus grosses surprises de l'Olympiade d'échecs 20261",
+        "date": "2026-09-22T10:07:34.470852",
+        "tag": "Europe Echecs"
+      }
+    ],
+    "kalla_display": "Europe Echecs",
+    "datum": "2026-09-22T10:07:34.470852",
+    "hittad": "2026-09-23T10:08:30.611879"
+  },
+  {
+    "id": "231c17347285",
     "status": "pending",
     "rubriker": [
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/09/22/mer-om-geilo-sjakkfestival-iii-2026/",
-        "title": "Mer om Geilo Sjakkfestival III 2026",
-        "date": "Tue, 22 Sep 2026 10:00:17 +0000",
+        "url": "https://bergensjakk.no/2026/09/23/sjakksamling-for-voksne-pa-kragero-resort-februar-2027/",
+        "title": "Sjakksamling for voksne på Kragerø Resort – februar 2027",
+        "date": "Wed, 23 Sep 2026 04:47:44 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "Hallingskarvet Sjakklubb i samarbeid med Søråshøgda Sjakklubb arrangerte 18-20. september 2026 sin tredje sjakkfestival på Geilo på bare seks måneder. Med 147 starter fordelt på syv turneringer var det en dobling i antall starter fra de første festivalene i mars og mai 2026. Denne gang var det to stormestre på startstreken. GM Torbjørn Ringdal Hansen Les mer"
+        "_rss_content": "Vi viderebringer følgende informasjon fra Grenland Sjakksenter: Sjakksamling for voksne på Kragerø Resort24. – 28. februar 2027 Etter suksessen i 2025 og 2026 inviterer Grenland Sjakksenter AS igjen til sjakksamling for voksne på spahotellet Kragerø Resort i 2027. Datoene for samlingen er onsdag 24. til søndag 28. februar. Samlingen er et eksklusivt treningstilbud til spesielt Les mer"
       }
     ],
     "kalla_display": "Bergensjakk",
-    "datum": "Tue, 22 Sep 2026 10:00:17 +0000",
-    "hittad": "2026-09-22T10:08:01.094161"
+    "datum": "Wed, 23 Sep 2026 04:47:44 +0000",
+    "hittad": "2026-09-23T10:08:30.611885"
   },
   {
-    "id": "80435d5ea62f",
+    "id": "ca00da4d6d43",
     "status": "pending",
     "rubriker": [
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/09/22/sjakk-ol-2026-6-runde/",
-        "title": "Sjakk-OL 2026 – 6. runde",
-        "date": "Tue, 22 Sep 2026 05:31:25 +0000",
+        "url": "https://bergensjakk.no/2026/09/22/sintef-student-nm-i-sjakk-2026-spilles-kommende-helg/",
+        "title": "SINTEF Student-NM i sjakk 2026 spilles kommende helg",
+        "date": "Tue, 22 Sep 2026 11:31:57 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "Det norske herrelaget i Sjakk-OL gjorde en imponerende god kamp mot sterke USA i sjette runde, og var svært nær å klare uavgjort 2-2. Til slutt ble det 2&#189;-1&#189; til USA, som er det høyest ratede laget i mesterskapet. De første som ble ferdige var GM Elham Amar (2577) og GM Wesley So (USA 2774) Les mer"
+        "_rss_content": "Kommende helg spilles den andre utgaven av SINTEF Student-NM i sjakk. Mesterskapet arrangeres i Trondheim 25-27. september 2026 i regi av NTNUI Sjakk. Fredag blir det to runder hurtigsjakk og en runde langsjakk, mens både lørdag og søndag har to runder langsjakk. Arrangøren lover bankett lørdag kveld, direktesendte partier og streaming på Twitch. Foreløpig er Les mer"
       }
     ],
     "kalla_display": "Bergensjakk",
-    "datum": "Tue, 22 Sep 2026 05:31:25 +0000",
-    "hittad": "2026-09-22T10:08:01.094167"
+    "datum": "Tue, 22 Sep 2026 11:31:57 +0000",
+    "hittad": "2026-09-23T10:08:30.611891"
+  },
+  {
+    "id": "8169d154c770",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/exclusive-buettner-denies-withdrawal-and-reveals-offer-to-turlov-anand-camp",
+        "title": "EXCLUSIVE: Buettner Denies Withdrawal and Reveals Offer to Turlov-Anand Camp.",
+        "date": "Wed, 23 Sep 2026 06:38:34 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Chess News Network obtained a message to FIDE delegates in which Jan Buettner firmly rejects withdrawal rumours and says his ticket remains fully committed to contesting the election."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Wed, 23 Sep 2026 06:38:34 GMT",
+    "hittad": "2026-09-23T10:08:30.611896"
+  },
+  {
+    "id": "bb92212a059d",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/fide-panel-clears-both-sides-of-misconduct-then-sanctions-lopang-for-a-separate",
+        "title": "FIDE Panel Clears Both Sides of Misconduct, Then Sanctions Lopang for a Separate Failure",
+        "date": "Wed, 23 Sep 2026 06:15:11 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "FIDE's Ethics and Disciplinary Commission has issued its ruling on the ACC election dispute that's run since late July, and the actual decision is more layered than a simple winner and loser."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Wed, 23 Sep 2026 06:15:11 GMT",
+    "hittad": "2026-09-23T10:08:30.611902"
+  },
+  {
+    "id": "ca99c6c8c8b5",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/fide-sets-presidential-candidates-q-a-for-september-24",
+        "title": "FIDE Sets Presidential Candidates Q&A for September 24",
+        "date": "Tue, 22 Sep 2026 15:23:00 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "FIDE will host a Presidential Candidates Q&A session on September 24 in Samarkand, giving accredited media a chance to question all three men running for the federation's presidency two days before delegates actually vote. But will all three show up?"
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Tue, 22 Sep 2026 15:23:00 GMT",
+    "hittad": "2026-09-23T10:08:30.611907"
+  },
+  {
+    "id": "b49e8d08eb70",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase España",
+        "url": "https://es.chessbase.com/post/proyecto-acercar-ajedrez-cinco-mil-refugiados",
+        "title": "Un proyecto busca acercar el ajedrez a 5.000 niños refugiados",
+        "date": "Mon, 21 Sep 2026 20:00:00 GMT",
+        "tag": "ChessBase España",
+        "_rss_content": "«Movement in Refuge» busca más apoyo para ampliar su programa de ajedrez destinado a niños rohinyás en Cox's Bazar, Bangladés, después de que un proyecto inicial respaldado por la FIDE llegara a jóvenes refugiados en agosto. La organización benéfica espera recaudar 100.000 dólares para acercar el ajedrez a hasta 5.000 niños más durante los próximos dos años. Su fundador, Magnus Wolfe-Murray, también planea promover la iniciativa en la Olimpiada de Ajedrez de Samarcanda y avanzar hacia el objetivo a largo plazo de formar un equipo juvenil de refugiados."
+      }
+    ],
+    "kalla_display": "ChessBase España",
+    "datum": "Mon, 21 Sep 2026 20:00:00 GMT",
+    "hittad": "2026-09-23T10:08:30.611913"
   }
 ]
