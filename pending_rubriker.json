@@ -1,271 +1,287 @@
 [
   {
-    "id": "004597428a21",
+    "id": "67f7ba4bc2d7",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-8",
-        "title": "2026 Samarkand Chess Olympiad Round 8",
-        "date": "2026-09-24T10:18:08.779462",
+        "url": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-9",
+        "title": "2026 Samarkand Chess Olympiad Round 9",
+        "date": "2026-09-25T09:57:36.584368",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-09-24T10:18:08.779462",
-    "hittad": "2026-09-25T10:19:47.598646"
+    "datum": "2026-09-25T09:57:36.584368",
+    "hittad": "2026-09-26T09:59:06.153142"
   },
   {
-    "id": "b2765efcd851",
+    "id": "34fd20a717a3",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/carlsen-maghsoodloo-ashraf-3-0-thursday-09-24-2026",
+        "title": "Carlsen Maghsoodloo Ashraf 3 0 Thursday 09 24 2026",
+        "date": "2026-09-25T09:57:36.584403",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-09-25T09:57:36.584403",
+    "hittad": "2026-09-26T09:59:06.153153"
+  },
+  {
+    "id": "119558abe352",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/7-7-points-rating-performance-2955",
-        "title": "7/7 points, rating performance 2955!",
-        "date": "Fri, 25 Sep 2026 09:30:00 GMT",
+        "url": "https://en.chessbase.com/post/chess-olympiad-2026-9",
+        "title": "Samarkand R9 (open): Uzbekistan retake sole lead after beating the US",
+        "date": "Sat, 26 Sep 2026 03:45:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "We have seen a lot of great performances at the Olympiad in Samarkand – many great players have lived up to their high standards. But it is especially pleasing to see chess prodigies you have known and looked after since their early teens deliver the goods. Like this batch, who have been surging. One has scored in absolutely record-breaking style. You'll never guess who."
+        "_rss_content": "Uzbekistan regained sole first place in the Chess Olympiad by beating top seeds United States 2½–1½ in round nine, with Nodirbek Abdusattorov and Nodirbek Yakubboev again providing the decisive points - like they did against China in round seven. India, Armenia and the over-achieving Uzbekistan 2 are one match point behind, the latter after a striking 3½–½ victory over the Netherlands. Two rounds remain in Samarkand. | Photo: Rafal Oleksiewicz / FIDE"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Fri, 25 Sep 2026 09:30:00 GMT",
-    "hittad": "2026-09-25T10:19:47.598661"
+    "datum": "Sat, 26 Sep 2026 03:45:00 GMT",
+    "hittad": "2026-09-26T09:59:06.153162"
   },
   {
-    "id": "d83c5875713f",
+    "id": "90d24c0abdb7",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/chess-olympiad-2026-8",
-        "title": "Samarkand R8 (open): Germany stun Uzbekistan, join them in the lead",
-        "date": "Fri, 25 Sep 2026 08:30:00 GMT",
+        "url": "https://en.chessbase.com/post/on-the-superfluity-of-words-3",
+        "title": "On the Superfluity of Words (3)",
+        "date": "Fri, 25 Sep 2026 19:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "Germany ended Uzbekistan's perfect run in round eight of the Chess Olympiad, beating the hosts 2½–1½ to join them on 14/16 match points. Brothers Frederik and Rasmus Svane (pictured) collected wins for Germany on the bottom boards for a second day in a row. Eight teams now sit only one point behind, including China, India, the United States and the Netherlands. With three rounds remaining, the standings have tightened considerably ahead of another set of direct clashes among the leading teams. | Photo: Michal Walusza / FIDE"
+        "_rss_content": "In his essay Christian Hesse - professor of mathematics and, no less importantly, a passionate lover of chess - brings together mathematical and chess problems that are complete and self-contained, problems that explain themselves and need no lengthy verbal instructions. Helmut Pfleger, grandmaster and medical researcher, tells us what he thinks of the subject."
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Fri, 25 Sep 2026 08:30:00 GMT",
-    "hittad": "2026-09-25T10:19:47.598670"
+    "datum": "Fri, 25 Sep 2026 19:00:00 GMT",
+    "hittad": "2026-09-26T09:59:06.153168"
   },
   {
-    "id": "7b6c5d1b072e",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/bodhana-sivanandan-chess-and-other-passions",
-        "title": "Bodhana Sivanandan: Chess and other passions",
-        "date": "Thu, 24 Sep 2026 15:00:08 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Bodhana Sivanandan is only eleven years old, but in Samarkand she is already playing in her second Olympiad. And with considerable success: after seven rounds, she has scored six points on top board for the England women’s team, corresponding to an Elo performance of 2504. But when she spoke to Arne Kähler, chess was not the only passion they discussed."
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Thu, 24 Sep 2026 15:00:08 GMT",
-    "hittad": "2026-09-25T10:19:47.598677"
-  },
-  {
-    "id": "c22009bc5bbc",
+    "id": "93bc8137c59d",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/internationellt/2026/09/tre-ronder-kvar-och-viktiga-svensksegrar-infor-slutspurten/?utm_source=rss&utm_medium=rss&utm_campaign=tre-ronder-kvar-och-viktiga-svensksegrar-infor-slutspurten",
-        "title": "Tre ronder kvar – och viktiga svensksegrar inför slutspurten",
-        "date": "Fri, 25 Sep 2026 06:30:11 +0000",
+        "url": "https://schack.se/nyhet/internationellt/2026/09/folj-live-ny-fide-president-valjs/?utm_source=rss&utm_medium=rss&utm_campaign=folj-live-ny-fide-president-valjs",
+        "title": "Följ live: Ny FIDE-president väljs",
+        "date": "Sat, 26 Sep 2026 07:33:23 +0000",
         "tag": "Svenska Schackförbundet",
-        "_rss_content": "Nu återstår bara tre ronder av Schack-OS i Samarkand i Uzbekistan &#8211; nio, tio och elva. På torsdagen så vann Sverige sina matcher mot Malaysia i öppen klass och mot [&#8230;] Inlägget Tre ronder kvar &#8211; och viktiga svensksegrar inför slutspurten dök först upp på Sveriges Schackförbund ."
+        "_rss_content": "Under lördagens kongress kommer världsschackförbundet FIDE att bland annat välja en ny president. Den förra presidenten, Arkadij Dvorkovitj, som klev åt sidan när han hamnade på EU:S sanktionslista har sin [&#8230;] Inlägget Följ live: Ny FIDE-president väljs dök först upp på Sveriges Schackförbund ."
       }
     ],
     "kalla_display": "Schack.se",
-    "datum": "Fri, 25 Sep 2026 06:30:11 +0000",
-    "hittad": "2026-09-25T10:19:47.598685"
+    "datum": "Sat, 26 Sep 2026 07:33:23 +0000",
+    "hittad": "2026-09-26T09:59:06.153174"
   },
   {
-    "id": "9461371191e0",
+    "id": "2f5d2d936c31",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/internationellt/2026/09/knapp-forlust-for-herrarna-knapp-seger-for-damerna/?utm_source=rss&utm_medium=rss&utm_campaign=knapp-forlust-for-herrarna-knapp-seger-for-damerna",
+        "title": "Knapp förlust för herrarna, knapp seger för damerna",
+        "date": "Sat, 26 Sep 2026 06:56:25 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Sverige förlorade sin match i Schack-OS i Samarkand i öppen klass på fredagen, mot högre rankade Serbien. GM Nils Grandelius spelade remi i sitt parti på förstabordet, men IM Jung [&#8230;] Inlägget Knapp förlust för herrarna, knapp seger för damerna dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Sat, 26 Sep 2026 06:56:25 +0000",
+    "hittad": "2026-09-26T09:59:06.153179"
+  },
+  {
+    "id": "2d5b3ba2b874",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/sverige/2026/09/schack-tar-plats-pa-bokmassan-i-ar/?utm_source=rss&utm_medium=rss&utm_campaign=schack-tar-plats-pa-bokmassan-i-ar",
+        "title": "Schack tar plats på Bokmässan i år",
+        "date": "Fri, 25 Sep 2026 21:07:17 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "En spelhörna varje dag, författarsamtal på scen och aktiviteter under Bokmässan by night. Bokmässan i Göteborg uppmärksammar schack i år och avsätter utrymme för sporten under mässdagarna 24–27 september. Mässan [&#8230;] Inlägget Schack tar plats på Bokmässan i år dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Fri, 25 Sep 2026 21:07:17 +0000",
+    "hittad": "2026-09-26T09:59:06.153184"
+  },
+  {
+    "id": "b6772fb5ea09",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/distrikt-och-klubb/2026/09/linkopings-ass-schackprofil-borje-pettersson-ar-dod/?utm_source=rss&utm_medium=rss&utm_campaign=linkopings-ass-schackprofil-borje-pettersson-ar-dod",
+        "title": "Linköpings ASS schackprofil Börje Pettersson är död",
+        "date": "Fri, 25 Sep 2026 10:46:05 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Det var med stor sorg jag i tisdags fick reda på att vår vän och klubbkamrat i Linköpings ASS somnat in efter en kort tids sjukdom. Börje var en av [&#8230;] Inlägget Linköpings ASS schackprofil Börje Pettersson är död dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Fri, 25 Sep 2026 10:46:05 +0000",
+    "hittad": "2026-09-26T09:59:06.153192"
+  },
+  {
+    "id": "4c34299cd568",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/resha-international-chess-tournament-returns-to-kumbhanagari-nashik",
-        "title": "SpotlightTop storyVarad Deo·5 minutes agoNine Years Later, Resha International Chess Tournament Returns to Kumbhanagari, Nashik",
-        "date": "2026-09-24T10:18:28.917069",
+        "url": "https://www.chessbase.in/news/invitation-to-1st-chola-chess-grandmasters-tournament",
+        "title": "SpotlightTop storyDevansh Singh·39 minutes agoAre You 2250+? Test Your Mettle at the 1st Chola Chess Open Grandmasters Tournament 2026",
+        "date": "2026-09-25T09:57:57.588715",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-09-24T10:18:28.917069",
-    "hittad": "2026-09-25T10:19:47.598693"
+    "datum": "2026-09-25T09:57:57.588715",
+    "hittad": "2026-09-26T09:59:06.153197"
   },
   {
-    "id": "426cd0f95c06",
+    "id": "7600d0d2314c",
     "status": "pending",
     "rubriker": [
       {
         "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/olympiades-2026-ronde-9-10085.html",
-        "title": "Olympiades 2026Les Bleus face au défi chinois",
-        "date": "2026-09-24T10:18:40.287937",
+        "url": "https://www.europe-echecs.com/art/olympiades-2026-ronde-10-10097.html",
+        "title": "Olympiades 2026Ronde 10 : avant-dernière ronde Ouzbékistan - Arménie, France - Allemagne",
+        "date": "2026-09-25T09:58:09.313838",
         "tag": "Europe Echecs"
       }
     ],
     "kalla_display": "Europe Echecs",
-    "datum": "2026-09-24T10:18:40.287937",
-    "hittad": "2026-09-25T10:19:47.598700"
+    "datum": "2026-09-25T09:58:09.313838",
+    "hittad": "2026-09-26T09:59:06.153202"
   },
   {
-    "id": "32d0b3532829",
+    "id": "aefa1fb0ec70",
     "status": "pending",
     "rubriker": [
       {
         "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/09/25/ungdoms-dm-i-odense/?utm_source=rss&utm_medium=rss&utm_campaign=ungdoms-dm-i-odense",
-        "title": "Ungdoms-DM i Odense",
-        "date": "Fri, 25 Sep 2026 07:46:22 +0000",
+        "url": "https://nyheder.skak.dk/2026/09/25/ol-9-runde-to-danske-sejre/?utm_source=rss&utm_medium=rss&utm_campaign=ol-9-runde-to-danske-sejre",
+        "title": "OL 9. runde – to danske sejre",
+        "date": "Fri, 25 Sep 2026 16:54:18 +0000",
         "tag": "Dansk Skak Union",
-        "_rss_content": "Med over 130 deltagere bliver Ungdoms-DM den 25. &#8211; 27. september i Odense en af efterårets store turneringer. Spillestedet er Læseforeningens lokaler i Bolbro Brugerhus på Stadionvej 50, 5200 Odense V. Hvis man kommer fra Odense Banegård kører Letbanen næsten lige til døren. De tre yngste grupper spiller kun lørdag og søndag, mens de ældste [&#8230;]"
+        "_rss_content": "Det danske kvindehold ved OL i Samarkand i Usbekistan kom tilbage på sporet med en 1½ &#8211; 2½ sejr over Botswana. Undervejs så det ud til, at sejren ville blive større, men da ingen af de danske kvinder tabte, er sejren et godt skridt mod en slutspurt i de sidste to runder i weekenden. KvinderækkenBotswana [&#8230;]"
       }
     ],
     "kalla_display": "Dansk Skak Union",
-    "datum": "Fri, 25 Sep 2026 07:46:22 +0000",
-    "hittad": "2026-09-25T10:19:47.598710"
+    "datum": "Fri, 25 Sep 2026 16:54:18 +0000",
+    "hittad": "2026-09-26T09:59:06.153207"
   },
   {
-    "id": "5e053975dc0d",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/09/24/ol-8-runde-storsejr-og-nederlag/?utm_source=rss&utm_medium=rss&utm_campaign=ol-8-runde-storsejr-og-nederlag",
-        "title": "OL 8. runde – storsejr og nederlag",
-        "date": "Thu, 24 Sep 2026 16:43:36 +0000",
-        "tag": "Dansk Skak Union",
-        "_rss_content": "De danske kvinder løb ind i et stort nederlag til Kirgisistan, der så ud til at være klart underratede. Igen skulle der nok havde været et halvt point mere sat ind på Danmarks målkonto, men det var ikke danskernes dag i dag. KvinderækkenKirgisistan &#8211; Danmark 3½ &#8211; ½1. WFM Nurai Sovetbekova (2029) &#8211; WFM Ellen [&#8230;]"
-      }
-    ],
-    "kalla_display": "Dansk Skak Union",
-    "datum": "Thu, 24 Sep 2026 16:43:36 +0000",
-    "hittad": "2026-09-25T10:19:47.598717"
-  },
-  {
-    "id": "6b90b6f13e84",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/09/24/groenland-status-ved-ol-efter-7-runder/?utm_source=rss&utm_medium=rss&utm_campaign=groenland-status-ved-ol-efter-7-runder",
-        "title": "Grønland – status ved OL efter 7. runder",
-        "date": "Thu, 24 Sep 2026 15:45:54 +0000",
-        "tag": "Dansk Skak Union",
-        "_rss_content": "Skak.dk følger naturligvis det grønlandske holds debut ved OL med stor interesse. Vi er derfor glade for at kunne bringe GM Henrik Danielsens rapport om de første 7. runder for holdet. Fire spillere, ét flag og en historisk debutGrønland rejste til skak-OL i Samarkand som et af turneringens lavest seedede hold. Ingen forventede store resultater. [&#8230;]"
-      }
-    ],
-    "kalla_display": "Dansk Skak Union",
-    "datum": "Thu, 24 Sep 2026 15:45:54 +0000",
-    "hittad": "2026-09-25T10:19:47.598723"
-  },
-  {
-    "id": "da7f531e9d0f",
+    "id": "f8e14014e882",
     "status": "pending",
     "rubriker": [
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/09/25/sjakk-ol-2026-8-runde/",
-        "title": "Sjakk-OL 2026 – 8. runde",
-        "date": "Fri, 25 Sep 2026 05:31:15 +0000",
+        "url": "https://bergensjakk.no/2026/09/26/sjakk-ol-2026-9-runde/",
+        "title": "Sjakk-OL 2026 – 9. runde",
+        "date": "Sat, 26 Sep 2026 05:06:06 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "Det norske herrelaget i Sjakk-OL slet seg til seier 2&#189;-1&#189; mot Algerie i syvende runde. Norge fikk en dårlig start på matchen da GM Johan-Sebastian Christiansen (2656) tapte med hvit mot IM Adlane Arab (ALG 2453). Christiansen kom godt ut av åpningen, men etter hvert ble den utsatte kongestillingens hans avgjørende, og den algeriske 46-åringen Les mer"
+        "_rss_content": "I niende runde av Sjakk-OL ble det en ny knapp seier til det norske herrelaget, denne gang med 2&#189;-1&#189; mot Filippinene. GM Johan-Sebastian Christiansen (2656) ser ut til være inne i en dårlig periode, og Norges førstebordspiller gikk på sitt andre strake tap i denne runden. Det ble en svært skarp stilling med svart mot Les mer"
       }
     ],
     "kalla_display": "Bergensjakk",
-    "datum": "Fri, 25 Sep 2026 05:31:15 +0000",
-    "hittad": "2026-09-25T10:19:47.598731"
+    "datum": "Sat, 26 Sep 2026 05:06:06 +0000",
+    "hittad": "2026-09-26T09:59:06.153211"
   },
   {
-    "id": "af8829de4803",
+    "id": "4991974e36cc",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/germany-usmaxxing-at-the-olympiad",
-        "title": "Germany Usmaxxing at the Olympiad",
-        "date": "Fri, 25 Sep 2026 06:49:48 GMT",
+        "url": "https://chessnewsnetwork.com/article/uzbekistan-pulls-clear-as-gukesh-delivers-mate-on-board-one",
+        "title": "Uzbekistan Pulls Clear as Gukesh Delivers Mate on Board One",
+        "date": "Sat, 26 Sep 2026 07:35:27 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "Jan Gustafsson, coaching Germany's Olympiad team, had some fun with the scale of his team's achievement after round eight's headline win over tournament leaders Uzbekistan: Germany has now beaten all three of Uzbekistan's entered teams."
+        "_rss_content": "Two rounds from the finish in Samarkand, the Olympiad has a single leader again. Uzbekistan beat the United States 2.5-1.5 on Thursday, and with Germany losing to India on the next table over, the hosts are alone at the top of the Open section for the first time since the draw that had tied them with Germany in round 8."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Fri, 25 Sep 2026 06:49:48 GMT",
-    "hittad": "2026-09-25T10:19:47.598737"
+    "datum": "Sat, 26 Sep 2026 07:35:27 GMT",
+    "hittad": "2026-09-26T09:59:06.153215"
   },
   {
-    "id": "a884c386ab6f",
+    "id": "dd275662c380",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/fide-education-summit-in-samarkand-highlights-chess-as-a-global-educational-tool",
-        "title": "FIDE Education Summit in Samarkand Highlights Chess as a Global Educational Tool",
-        "date": "Thu, 24 Sep 2026 20:56:52 GMT",
+        "url": "https://chessnewsnetwork.com/article/daniel-rensch-maybe-i-m-the-villain-to-help-hans-grow-his-endgame-ai-business",
+        "title": "Daniel Rensch: “Maybe I’m the villain to help Hans grow his Endgame.AI business”",
+        "date": "Fri, 25 Sep 2026 21:54:46 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "The FIDE Summit in Samarkand highlighted chess as a powerful educational tool, with global initiatives focused on teacher training, school programs, and long-term partnerships to make chess more accessible to children worldwide."
+        "_rss_content": "Daniel Rensch discussed the Hans Niemann controversy, his role as its perceived “villain,” and Niemann’s Endgame.AI venture in a recent interview with Mustreader."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Thu, 24 Sep 2026 20:56:52 GMT",
-    "hittad": "2026-09-25T10:19:47.598743"
+    "datum": "Fri, 25 Sep 2026 21:54:46 GMT",
+    "hittad": "2026-09-26T09:59:06.153219"
   },
   {
-    "id": "339f6df1bd20",
+    "id": "63c3ded1e6af",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/turlov-and-buettner-participate-in-live-q-a-session-at-the-olympiad",
-        "title": "Turlov and Buettner Participate in LIVE Q&A Session at the Olympiad",
-        "date": "Thu, 24 Sep 2026 20:53:00 GMT",
+        "url": "https://chessnewsnetwork.com/article/bodhana-sivanandan-makes-history-with-final-wgm-norm-at-11",
+        "title": "Bodhana Sivanandan Makes History with Final WGM Norm at 11",
+        "date": "Fri, 25 Sep 2026 21:39:52 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "A live Q&A showed Buettner and Turlov offering ambitious, business-driven visions for FIDE, but both left important questions about transparency, accountability, and the risks of concentrating too much influence in a wealthy president unresolved."
+        "_rss_content": "Bodhana Sivanandan made history by becoming the youngest-ever player to complete the requirements for the Woman Grandmaster title at just 11 years old."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Thu, 24 Sep 2026 20:53:00 GMT",
-    "hittad": "2026-09-25T10:19:47.598749"
+    "datum": "Fri, 25 Sep 2026 21:39:52 GMT",
+    "hittad": "2026-09-26T09:59:06.153223"
   },
   {
-    "id": "859c28bb8e0e",
+    "id": "27e43c28431b",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/rosensteins-el-pa-s-interview",
-        "title": "Rosenstein's El País Interview",
-        "date": "Thu, 24 Sep 2026 19:01:08 GMT",
+        "url": "https://chessnewsnetwork.com/article/olympiad-day-8-recap-germany-blow-the-open-race-wide-open",
+        "title": "Olympiad Day 8 Recap: Germany Blow the Open Race Wide Open",
+        "date": "Fri, 25 Sep 2026 21:32:00 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "El País published an interview with Wadim Rosenstein on September 24, conducted in Samarkand by Leontxo García, two days ahead of the FIDE presidential vote."
+        "_rss_content": "Germany stunned Uzbekistan to reopen the Open title race, while China seized the lead in the Women’s section with three rounds remaining."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Thu, 24 Sep 2026 19:01:08 GMT",
-    "hittad": "2026-09-25T10:19:47.598754"
+    "datum": "Fri, 25 Sep 2026 21:32:00 GMT",
+    "hittad": "2026-09-26T09:59:06.153227"
   },
   {
-    "id": "339a1223ebea",
+    "id": "e6770016e2b4",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/the-svane-brothers-end-uzbekistans-perfect-run",
-        "title": "The Svane Brothers End Uzbekistan's Perfect Run",
-        "date": "Thu, 24 Sep 2026 18:33:55 GMT",
+        "url": "https://chessnewsnetwork.com/article/call-for-emergency-ecu-general-assembly",
+        "title": "Call for Emergency ECU General Assembly",
+        "date": "Fri, 25 Sep 2026 12:28:15 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "Round eight delivered the result the Open section had been building toward since Uzbekistan pulled clear of the field two rounds ago: a loss, its first of the tournament, and a home-soil defeat at that."
+        "_rss_content": "Malcolm Pein has published an open letter to European Chess Union delegates and federation presidents calling ECU President Zurab Azmaiparashvili's endorsement of Wadim Rosenstein \"unacceptable,\" and has moved to trigger a formal accountability process against him, one day before FIDE's own presidential vote."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Thu, 24 Sep 2026 18:33:55 GMT",
-    "hittad": "2026-09-25T10:19:47.598760"
+    "datum": "Fri, 25 Sep 2026 12:28:15 GMT",
+    "hittad": "2026-09-26T09:59:06.153231"
   }
 ]
