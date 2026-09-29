@@ -1,275 +1,243 @@
 [
   {
-    "id": "4314f9691f50",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/timur-turlov-elu-president-de-la-fide-10099.html",
-        "title": "Timur Turlov élu président de la FIDE",
-        "date": "2026-09-27T11:49:05.428527",
-        "tag": "Europe Echecs"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/turlov-congratulated",
-        "title": "Turlov Congratulated",
-        "date": "Mon, 28 Sep 2026 11:25:00 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Dmitry Peskov congratulated Timur Turlov on winning the FIDE presidency this weekend."
-      },
-      {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/timur-turlov-elected-president-of-fide",
-        "title": "Timur Turlov elegido nuevo presidente de la FIDE",
-        "date": "Sun, 27 Sep 2026 14:00:00 GMT",
-        "tag": "ChessBase España",
-        "_rss_content": "Timur Turlov, presidente de la Federación de Ajedrez de Kazajistán, fue elegido presidente de la Federación Internacional de Ajedrez (FIDE). Las elecciones se celebraron el 26 de septiembre durante la Asamblea General de la FIDE, coincidiendo con la 46.ª Olimpiada de Ajedrez, en Samarcanda, Uzbekistán. Turlov se impuso en la segunda ronda, con 110 votos. A sus 38 años, se convierte en el segundo presidente más joven en la historia de la FIDE. | Foto: ChessBase"
-      }
-    ],
-    "kalla_display": "Chess News Network + ChessBase España + Europe Echecs",
-    "datum": "2026-09-27T11:49:05.428527",
-    "hittad": "2026-09-28T11:50:00.818990"
-  },
-  {
-    "id": "721a46d4007f",
+    "id": "a365e893a80d",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/uzbekistan-china-win-2026-samarkand-chess-olympiad",
-        "title": "Uzbekistan China Win 2026 Samarkand Chess Olympiad",
-        "date": "2026-09-27T11:48:34.313725",
+        "url": "https://www.chess.com/news/view/aronian-liem-mamedyarov-complete-24-player-total-chess-pilot-field",
+        "title": "Aronian Liem Mamedyarov Complete 24 Player Total Chess Pilot Field",
+        "date": "2026-09-28T11:26:01.756827",
         "tag": "Chess.com"
       },
       {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/chess-olympiad-2026-11",
-        "title": "Uzbekistan triumph on home soil, collect second Olympiad gold",
-        "date": "Sun, 27 Sep 2026 22:50:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Uzbekistan secured their second Chess Olympiad gold by beating Ukraine 2½–1½ in the final round in Samarkand. India took silver after drawing Hungary, while Germany claimed bronze and their first team medal since 2000 after beating the Netherlands. Nodirbek Abdusattorov won individual gold on board one, Frederik Svane repeated his individual success (also gold) from 2024, while Hungary's Gleb Dudin finished with five consecutive wins. | Photo: Nils Rohde / ChessBase"
-      },
-      {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/uzbekistan-wins-chess-olympiad",
-        "title": "SpotlightTop storyRasika Ratnaparkhi·31 minutes ago\"It Was the Best Olympics We Played,\" Says the Uzbekistan Team",
-        "date": "2026-09-27T11:48:54.713827",
-        "tag": "ChessBase India"
-      },
-      {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/gold-on-home-soil-uzbekistan-wins-the-2026-olympiad",
-        "title": "Gold on Home Soil: Uzbekistan Wins the 2026 Olympiad",
-        "date": "Sun, 27 Sep 2026 12:23:20 GMT",
+        "url": "https://chessnewsnetwork.com/article/total-chess-world-championship-tour-pilot-field-complete",
+        "title": "Total Chess World Championship Tour Pilot Field Complete",
+        "date": "Tue, 29 Sep 2026 08:01:34 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "Uzbekistan has won the Open section of the 46th Chess Olympiad!"
-      },
-      {
-        "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/09/27/kina-og-usbekistan-vandt-ol/?utm_source=rss&utm_medium=rss&utm_campaign=kina-og-usbekistan-vandt-ol",
-        "title": "Kina og Usbekistan vandt OL",
-        "date": "Sun, 27 Sep 2026 14:52:29 +0000",
-        "tag": "Dansk Skak Union",
-        "_rss_content": "Begge de danske hold måtte indkassere store nederlag i sidste runde ved OL i Samarkand i Usbekistan. De danske kvinder tabte 0 &#8211; 4 til Cuba mens holdet i den åbne række tabte 3½ &#8211; ½ til Frankrig. KvinderækkenDanmark &#8211; Cuba 0 &#8211; 41. WFM Sarah Sima Derlich (2107) &#8211; WGM Maritza Arribas Robaina (2257) [&#8230;]"
+        "_rss_content": "The Total Chess World Championship Tour Pilot has finalized its 24-player field with top grandmasters"
       }
     ],
-    "kalla_display": "Chess News Network + Chess.com + ChessBase + ChessBase India + Dansk Skak Union",
-    "datum": "2026-09-27T11:48:34.313725",
-    "hittad": "2026-09-28T11:50:00.819016"
+    "kalla_display": "Chess News Network + Chess.com",
+    "datum": "2026-09-28T11:26:01.756827",
+    "hittad": "2026-09-29T11:27:33.161769"
   },
   {
-    "id": "e5f48eaabae6",
+    "id": "d92f669b045e",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/chess-olympiad-2026-11-women",
-        "title": "Clear win for China in Women's Chess Olympiad, while Kazakhstan and India complete the podium",
-        "date": "Mon, 28 Sep 2026 09:00:00 GMT",
+        "url": "https://en.chessbase.com/post/bodhana-sivanandan-youngest-ever-wgm-at-11",
+        "title": "Bodhana Sivanandan: Youngest-Ever WGM at 11",
+        "date": "Tue, 29 Sep 2026 11:25:31 GMT",
         "tag": "ChessBase",
-        "_rss_content": "In the final round of the Women's Chess Olympiad, China, led by top board Zhu Jiner, defeated Vietnam 3–1 to secure first place outright with 20 match points. Their rivals did not fare as well. Kazakhstan drew with Poland, while India drew with Georgia. As a result, Kazakhstan's 18 points were enough for second place, while India took third on tiebreak ahead of the United States, Poland, Armenia and Mongolia, all of whom finished on 17 points. | Photo: Nils Rohde / ChessBase"
+        "_rss_content": "The eleven-year-old Bodhana Sivanandan played on top board for England at the Women's Olympiad, was the best player on her team and one of the best performers on board one. With this result, she earned her third WGM norm and is now the youngest Woman Grandmaster (WGM) in history. | Photo: Rafal Oleksiewicz/FIDE"
       },
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/china-takes-its-seventh-olympiad-title-kazakhstan-and-india-round-out-the-podium",
-        "title": "China Takes Its Seventh Olympiad Title, Kazakhstan and India Round Out the Podium",
-        "date": "Sun, 27 Sep 2026 13:26:00 GMT",
+        "url": "https://chessnewsnetwork.com/article/eleven-years-old-board-one-for-england-and-now-the-youngest-wgm-in-history",
+        "title": "Eleven Years Old, Board One for England, and Now the Youngest WGM in History",
+        "date": "Mon, 28 Sep 2026 18:54:29 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "China has won the Women's section of the 46th Chess Olympiad, beating Vietnam 3-1 in the final round to finish two points clear of the field."
+        "_rss_content": "Amid everything else that happened at the 46th Olympiad, an 11-year-old from Harrow quietly became the youngest Woman Grandmaster the sport has ever produced."
       }
     ],
     "kalla_display": "Chess News Network + ChessBase",
-    "datum": "Mon, 28 Sep 2026 09:00:00 GMT",
-    "hittad": "2026-09-28T11:50:00.819027"
+    "datum": "Tue, 29 Sep 2026 11:25:31 GMT",
+    "hittad": "2026-09-29T11:27:33.161788"
   },
   {
-    "id": "49aed0e6790b",
+    "id": "3e80ec3155f0",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/fide-excellence-awards-2026-winners",
-        "title": "Inaugural FIDE Excellence Awards celebrate the people and achievements shaping chess worldwide",
-        "date": "Sun, 27 Sep 2026 15:00:00 GMT",
+        "url": "https://en.chessbase.com/post/hanna-sayce-story-online-world",
+        "title": "The dark side of the online world: Hanna Sayce's story",
+        "date": "Tue, 29 Sep 2026 05:05:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "The inaugural FIDE Excellence Awards were presented in Samarkand during the 46th Chess Olympiad, recognising achievements across the chess world during the 2024–2026 cycle. Honours went to players, teams, tournaments, federations, creators and social initiatives, with recipients including Yagiz Kaan Erdogmus, Levon Aronian, India’s Open and Women’s teams and ChessBase India. The remaining Best Chess Player awards will be presented separately at the Olympiad closing ceremony. | Photos: KNZO Photography"
+        "_rss_content": "Over the past four years, Australian chess streamer Hanna Sayce has attracted considerable attention with her chess streams on Twitch, though not all of it was welcome. A stalker followed her activities, harassed her online and, after falsely accusing her of drug smuggling, caused her to be imprisoned twice."
+      },
+      {
+        "source": "ChessBase España",
+        "url": "https://es.chessbase.com/post/hanna-sayce-lado-oscuro-online",
+        "title": "Hanna Sayce y el lado oscuro del mundo digital",
+        "date": "Tue, 29 Sep 2026 08:30:00 GMT",
+        "tag": "ChessBase España",
+        "_rss_content": "Durante los últimos cuatro años, la streamer australiana Hanna Sayce ha atraído considerable atención con sus retransmisiones sobre ajedrez en Twitch, aunque no toda esta atención ha sido bienvenida. Un acosador siguió sus actividades, la hostigó en internet y, tras acusarla falsamente de tráfico de drogas, provocó que fuera encarcelada en dos ocasiones."
+      }
+    ],
+    "kalla_display": "ChessBase + ChessBase España",
+    "datum": "Tue, 29 Sep 2026 05:05:00 GMT",
+    "hittad": "2026-09-29T11:27:33.161798"
+  },
+  {
+    "id": "194772ff7fc7",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-09-26-2026",
+        "title": "Hikaru Nakamura Wins Bullet Brawl 09 26 2026",
+        "date": "2026-09-28T11:26:01.756792",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-09-28T11:26:01.756792",
+    "hittad": "2026-09-29T11:27:33.161806"
+  },
+  {
+    "id": "cc1e03721ed9",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/uzbekistan-winners-interview-olympiad-2026",
+        "title": "Interview with the Olympic winners from Uzbekistan: \"We have many more victories to come!\"",
+        "date": "Tue, 29 Sep 2026 10:00:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Uzbekistan are Olympiad champions again! They finished two match points clear of Germany and India. After the celebrations, ChessBase India caught up with the Uzbek team to talk about the games, the pressure, and what this win means to them. Do not miss what the newly crowned champions had to say! | Photo: Nils Rohde / ChessBase"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Sun, 27 Sep 2026 15:00:00 GMT",
-    "hittad": "2026-09-28T11:50:00.819034"
+    "datum": "Tue, 29 Sep 2026 10:00:00 GMT",
+    "hittad": "2026-09-29T11:27:33.161812"
   },
   {
-    "id": "f3a5cc6409bd",
+    "id": "54dbb0af2cca",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/vincent-keymer-relaxed-light-hearted-and-funny",
+        "title": "Vincent Keymer: Relaxed, light-hearted and funny",
+        "date": "Tue, 29 Sep 2026 09:37:38 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Anyone playing for medals at a Chess Olympiad takes chess seriously. In Samarkand, Vincent Keymer won bronze with the German team, Germany’s first team medal since silver in Istanbul in 2000. But after the final round, Keymer took time for a short interview with Arne Kähler and handled his not entirely serious questions with ease and humour – while also revealing quite a bit about his likes and dislikes, both in chess and away from the board."
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Tue, 29 Sep 2026 09:37:38 GMT",
+    "hittad": "2026-09-29T11:27:33.161819"
+  },
+  {
+    "id": "211c67722ea3",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/xtx-london-chess-classic-returns",
+        "title": "XTX London Chess Classic returns",
+        "date": "Mon, 28 Sep 2026 18:00:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "The XTX Markets London Chess Classic (LCC) returns to the capital between 24th November and 6th December 2026. The event will begin with an opening ceremony and drawing of lots at the iconic Tower of London, with the majority of games taking place alongside the LCC Festival at London Novotel West in Hammersmith."
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Mon, 28 Sep 2026 18:00:00 GMT",
+    "hittad": "2026-09-29T11:27:33.161826"
+  },
+  {
+    "id": "01086ec2fc6f",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/46th-fide-chess-olympiad-round-9-report",
-        "title": "46th Chess Olympiad R9: Gukesh Shines Under Pressure as India Takes Down Germany; Women Crush Uzbekistan3 days ago",
-        "date": "2026-09-27T11:48:54.713869",
+        "url": "https://www.chessbase.in/news/nikhil-dixit-shines-at-the-5th-pinnacle-rapid-rating-tournament-2026",
+        "title": "SpotlightTop storyDevansh Singh·4 hours agoNikhil Dixit Shines at the 5th Pinnacle Rapid Rating Tournament 2026",
+        "date": "2026-09-28T11:26:22.056200",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-09-27T11:48:54.713869",
-    "hittad": "2026-09-28T11:50:00.819041"
+    "datum": "2026-09-28T11:26:22.056200",
+    "hittad": "2026-09-29T11:27:33.161837"
   },
   {
-    "id": "6a46cba96f9e",
+    "id": "d7f520c11c23",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/olympiades-2026-tops-et-flops-10100.html",
+        "title": "Olympiades 2026Olympiades : nos tops et nos flops",
+        "date": "2026-09-28T11:26:32.758095",
+        "tag": "Europe Echecs"
+      }
+    ],
+    "kalla_display": "Europe Echecs",
+    "datum": "2026-09-28T11:26:32.758095",
+    "hittad": "2026-09-29T11:27:33.161844"
+  },
+  {
+    "id": "9031962fbede",
     "status": "pending",
     "rubriker": [
       {
         "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/09/27/ungdoms-dm-godt-i-gang/?utm_source=rss&utm_medium=rss&utm_campaign=ungdoms-dm-godt-i-gang",
-        "title": "Ungdoms-DM godt i gang",
-        "date": "Sun, 27 Sep 2026 11:44:02 +0000",
+        "url": "https://nyheder.skak.dk/2026/09/29/kort-nyt-uge-39-10/?utm_source=rss&utm_medium=rss&utm_campaign=kort-nyt-uge-39-10",
+        "title": "Kort Nyt uge 39",
+        "date": "Tue, 29 Sep 2026 08:12:14 +0000",
         "tag": "Dansk Skak Union",
-        "_rss_content": "Arrangørerne af Ungdoms-DM har sendt følgende til skak.dk: Beretning fra U-DM 2026, dag 2. Vi er i år rigtigt glade for at byde velkommen til hele 131 spillere i Odense, til U-DM 2026. I U8 er der 14 deltagere, det er gået ret jævnbyrdigt for sig, og alle har sat point til. Forrest finder vi [&#8230;]"
+        "_rss_content": "Nyt afsnit af Skakspilleren. Christian Thelin skriver om udsendelsen: Denne gang har jeg besøg af Thorbjørn Rosenlund, som i 39 år var redaktør af Skakbladet, og i en alder af 75 år er han stadig turneringsaktiv. I denne episode taler vi om udviklingen i dansk skak og Thorbjørn fortæller anekdoter fra et lang liv i [&#8230;]"
       }
     ],
     "kalla_display": "Dansk Skak Union",
-    "datum": "Sun, 27 Sep 2026 11:44:02 +0000",
-    "hittad": "2026-09-28T11:50:00.819048"
+    "datum": "Tue, 29 Sep 2026 08:12:14 +0000",
+    "hittad": "2026-09-29T11:27:33.161851"
   },
   {
-    "id": "c828e2fa8d5b",
+    "id": "ca4bdc806556",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/09/28/sjakk-ol-2026-11-runde/",
-        "title": "Sjakk-OL 2026 – 11. runde",
-        "date": "Mon, 28 Sep 2026 06:09:39 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "Ellevte og siste runde av Sjakk-OL ble spilt i Samarkand i Usbekistan søndag 27. september 2026. Det norske herrelaget hadde en svak turnering og avsluttet med uavgjort 2-2 mot Colombia. GM Aksel Bu Kvaløy (2505) viste klart best form av de norske spillerne, og avsluttet med en overbevisende seier mot IM Manuel Campos Gomez (COL Les mer"
+        "source": "Dansk Skak Union",
+        "url": "https://nyheder.skak.dk/2026/09/28/nye-ungdoms-danmarksmestre-2/?utm_source=rss&utm_medium=rss&utm_campaign=nye-ungdoms-danmarksmestre-2",
+        "title": "Nye Ungdoms-danmarksmestre",
+        "date": "Mon, 28 Sep 2026 20:08:56 +0000",
+        "tag": "Dansk Skak Union",
+        "_rss_content": "Hele 131 unge mennesker var i weekenden samlet i Odense for at spille Ungdoms-DM. Medarrangører Christian Ringmose skriver til skak.dk om de sidste runder: I U8 fortsatte Timme Campbell Hansen stilen fra lørdag, og var danmarksmester med en runde til overs, gruppen var relativt jævnbyrdig styrkemæssigt i toppen. Det var små marginaler som afgjorde placeringerne, [&#8230;]"
       }
     ],
-    "kalla_display": "Bergensjakk",
-    "datum": "Mon, 28 Sep 2026 06:09:39 +0000",
-    "hittad": "2026-09-28T11:50:00.819056"
+    "kalla_display": "Dansk Skak Union",
+    "datum": "Mon, 28 Sep 2026 20:08:56 +0000",
+    "hittad": "2026-09-29T11:27:33.161857"
   },
   {
-    "id": "284f158fbd20",
+    "id": "fba207238c25",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/09/28/sintef-student-nm-2026/",
-        "title": "SINTEF Student-NM 2026",
-        "date": "Mon, 28 Sep 2026 04:17:58 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "For andre år på rad inviterte NTNUI Sjakk til NM i sjakk for studenter. Mesterskapet ble spilt i Trondheim 25-27. september 2026 med 63 deltakere. Dette var solid framgang fra 2025, da det var 48 spillere. Turneringen besto av 2 runder hurtigsjakk og 5 runder langsjakk. Vinner ble den store favoritten, FM André Nielsen, som Les mer"
+        "source": "ChessBase España",
+        "url": "https://es.chessbase.com/post/chess-olympiad-2026-reportaje",
+        "title": "Uzbekistán triunfa en casa y se lleva el segundo oro olímpico de su historia",
+        "date": "Mon, 28 Sep 2026 19:00:00 GMT",
+        "tag": "ChessBase España",
+        "_rss_content": "Uzbekistán consiguió su segundo oro en una Olimpiada de Ajedrez tras vencer a Ucrania por 2½–1½ en la ronda final disputada en Samarcanda. India obtuvo la plata después de empatar con Hungría, mientras que Alemania se llevó el bronce y su primera medalla por equipos en 26 años tras derrotar a los Países Bajos. Nodirbek Abdusattorov ganó el oro individual en el primer tablero, Frederik Svane repitió su éxito individual de 2024, también con una medalla de oro, mientras que el húngaro Gleb Dudin terminó el torneo con cinco victorias consecutivas. | Foto: Nils Rohde / ChessBase"
       }
     ],
-    "kalla_display": "Bergensjakk",
-    "datum": "Mon, 28 Sep 2026 04:17:58 +0000",
-    "hittad": "2026-09-28T11:50:00.819066"
+    "kalla_display": "ChessBase España",
+    "datum": "Mon, 28 Sep 2026 19:00:00 GMT",
+    "hittad": "2026-09-29T11:27:33.161863"
   },
   {
-    "id": "46858369194a",
+    "id": "fd18b8663896",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/09/28/stavanger-gp-september-2026/",
-        "title": "Stavanger GP September 2026",
-        "date": "Mon, 28 Sep 2026 04:16:58 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "Stavanger SKU arrrangerte Stavanger NGP September 25-27. august 2026. Turneringen inngår i Norges Grand Prix 2026-27. Det var 40 deltakere som spilte to runder hurtigsjakk og fire runder langsjakk. A-gruppen ble vunnet av den stor favoritten, FM Martin Holten Fiskaaen med 5&#189; poeng. Siver Flaten tok andreplass med sine 4 poeng, mens Zhulin Nurvet fra Les mer"
+        "source": "ChessBase España",
+        "url": "https://es.chessbase.com/post/chess-olympiad-2026-women-reportaje",
+        "title": "Clara victoria de China en la Olimpiada Femenina",
+        "date": "Sun, 27 Sep 2026 22:35:00 GMT",
+        "tag": "ChessBase España",
+        "_rss_content": "En la ronda final de la Olimpiada Femenina de Ajedrez, China, liderada en el primer tablero por Zhu Jiner, derrotó a Vietnam por 3–1 y obtuvo así el primer puesto en solitario con 20 puntos de match. Sus rivales no corrieron la misma suerte. Kazajistán empató con Polonia, mientras que India igualó con Georgia. Como resultado, los 18 puntos de Kazajistán fueron suficientes para obtener el segundo puesto, mientras que India terminó tercera por desempate, por delante de Estados Unidos, Polonia, Armenia y Mongolia, que finalizaron con 17 puntos. | Foto: Nils Rohde / ChessBase"
       }
     ],
-    "kalla_display": "Bergensjakk",
-    "datum": "Mon, 28 Sep 2026 04:16:58 +0000",
-    "hittad": "2026-09-28T11:50:00.819073"
-  },
-  {
-    "id": "60eb1f90614f",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/09/28/fss-hurtig-gp-2026/",
-        "title": "FSS Hurtig GP 2026",
-        "date": "Mon, 28 Sep 2026 04:16:26 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "Hurtigsjakkturneringen FSS Hurtig GP ble spilt i Fredrikstad søndag 27. september 2026. Arrangør var Fredriksstad Schakselskap. Turneringen inngår i Norges Grand Prix 2026-27. Timian Martinius Månsson Solaas og Shemsi Rukovci tok begge 6 poeng på 7 runder uten å møtes innbyrdes. Solaas hadde best kvalitetspoeng og tok dermed førsteplassen foran Rukovci. Anna Blauhut på 5&#189; Les mer"
-      }
-    ],
-    "kalla_display": "Bergensjakk",
-    "datum": "Mon, 28 Sep 2026 04:16:26 +0000",
-    "hittad": "2026-09-28T11:50:00.819079"
-  },
-  {
-    "id": "82a3a7a59a0b",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/rosenstein-asks-federations-to-rally",
-        "title": "Rosenstein Asks Federations to Rally",
-        "date": "Mon, 28 Sep 2026 11:29:00 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Two days after losing the runoff, Wadim Rosenstein has confirmed he's taken his challenge to Timur Turlov's eligibility to the Court of Arbitration for Sport in Lausanne."
-      }
-    ],
-    "kalla_display": "Chess News Network",
-    "datum": "Mon, 28 Sep 2026 11:29:00 GMT",
-    "hittad": "2026-09-28T11:50:00.819085"
-  },
-  {
-    "id": "0224f61db542",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/individual-excellence-at-the-olympiad",
-        "title": "Individual Excellence at the Olympiad",
-        "date": "Mon, 28 Sep 2026 07:11:00 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Team gold gets the headlines, but the Olympiad hands out individual board medals too, and this year's crop tells its own story about who carried their teams through eleven rounds in Samarkand."
-      }
-    ],
-    "kalla_display": "Chess News Network",
-    "datum": "Mon, 28 Sep 2026 07:11:00 GMT",
-    "hittad": "2026-09-28T11:50:00.819091"
-  },
-  {
-    "id": "fe82f42e4df3",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/fide-general-assembly-couldnt-make-quorum-the-day-after-electing-turlov",
-        "title": "FIDE General Assembly Couldn't Make Quorum the Day After Electing Turlov",
-        "date": "Mon, 28 Sep 2026 06:34:00 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "One day after delegates handed Timur Turlov the FIDE presidency with plenty of pomp attached, Sunday's follow-up session of the General Assembly couldn't even get started"
-      }
-    ],
-    "kalla_display": "Chess News Network",
-    "datum": "Mon, 28 Sep 2026 06:34:00 GMT",
-    "hittad": "2026-09-28T11:50:00.819097"
+    "kalla_display": "ChessBase España",
+    "datum": "Sun, 27 Sep 2026 22:35:00 GMT",
+    "hittad": "2026-09-29T11:27:33.161869"
   }
 ]
