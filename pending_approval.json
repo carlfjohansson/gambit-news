@@ -1,113 +1,82 @@
 [
   {
-    "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/bodhana-sivanandan-youngest-ever-wgm-at-11",
-    "original_title": "Bodhana Sivanandan: Youngest-Ever WGM at 11",
-    "swedish_title": "Elvaåriga Bodhana Sivanandan yngsta WGM någonsin",
-    "swedish_content": "Bodhana Sivanandan, 11 år, från Harrow blev under Kandidatturneringens systerevenemang – Women's Olympiad i Samarkand – historiens yngsta Woman Grandmaster. Med sina resultat på England slag ett slog hon rekordet Hou Yifan satte 2005, då kinesiskan tog sin kvalificerande WGM-norm vid just 11 års ålder.\n\nSivanandan spelade samtliga elva ronder på förstabordet och noterade 8 poäng, vilket gav henne inte bara den tredje och avgörande WGM-normen utan även en andra IM-norm på köpet. Efter tre raka vinster inledningsvis delade hon på poängen mot den starka azeriska spelaren Ulviyya Fataliyeva i rond fyra, och höll även regerande junior-Europamästaren Anastasiia Hnatyshyn samt den rutinerade Nana Dzagnidze till remi. Enda förlusten kom i rond åtta mot Perus Deysi Cori. Med rating 2354 var Sivanandan redan före turneringen Englands högst rankade kvinnliga spelare, klart före mer meriterade landslagskolleger som Jovanka Houska och Harriet Hunt.\n\nPrestationen placerade henne på 13:e plats bland alla spelare på förstabord i turneringen och hjälpte England till en 15:e plats i slutställningen, fem placeringar över lagets ranking baserat på snittrating.\n\nBodhana Sivanandan började spela schack under coronapandemin 2020, vid fem års ålder, efter att ha fått en schackbräda i present. Sedan dess har meritlistan växt snabbt: hon vann samtliga 24 partier vid European Schools Championships i Rhodos 2022, blev 2024 den yngsta spelaren någonsin uttagen till ett engelskt landslag i vilken sport som helst när hon spelade OS i Budapest vid nio års ålder, och har under det senaste året slagit såväl GM Peter Wells som förra världsmästaren Mariya Muzychuk och GM Marc'Andria Maurizzi, rankad över 2600. \"Jag är glad att ha gjort det, men jag vill fortsätta och göra mer historia i stället för att bara stanna här\", sa hon efter turneringen.",
-    "date": "Tue, 29 Sep 2026 11:25:31 GMT",
-    "tag": "ChessBase",
-    "processed_at": "2026-09-29T16:47:34.166660",
+    "source": "Europe Echecs",
+    "original_url": "https://www.europe-echecs.com/art/200-000-dollars-par-joueur-l-ouzbekistan-recompense-ses-champions-olympiques-d-echecs-10102.html",
+    "original_title": "200 000 dollars par joueur : l’Ouzbékistan récompense ses champions olympiques d'échecs",
+    "swedish_title": "Uzbekistan belönar OS-guldet med 200 000 dollar per spelare",
+    "swedish_content": "Uzbekistan vann sitt andra lag-OS i schack efter segern på hemmaplan i Samarkand, då man i den avgörande elfte ronden slog Ukraina med 2,5–1,5. Laget, med Nodirbek Abdusattorov och Javokhir Sindarov i spetsen, vann totalt tio matcher och förlorade bara mot Tyskland, och slutade två poäng före närmaste konkurrent. Abdusattorov tog dessutom individuellt guld på första bordet med en Elo-prestation på 2869.\n\nNågra dagar före turneringens slut hade president Shavkat Mirziyoyev undertecknat ett beslut om nya belöningar för landets schackspelare. Varje spelare i guldlaget får 200 000 dollar, medan lagets tränare tilldelas 50 000 dollar. Silver ger 100 000 dollar och brons 50 000 dollar per spelare. Systemet omfattar även andra prestationer: 15 000 dollar utgår för ett VM-titel som erkänns av FIDE, 10 000 dollar för en asiatisk mästartitel och 5 000 dollar för att uppnå titeln internationell stormästare.\n\nSatsningen är en del av en bredare statlig strategi där Uzbekistan under flera år gjort schack till en nationell prioritet – en politik som bland annat bidragit till att behålla landets toppspelare. Sindarov har tidigare avslöjat att han övervägde att byta förbund 2021.",
+    "date": "2026-09-29T11:14:36.833589",
+    "tag": "Europe Echecs",
+    "processed_at": "2026-09-30T16:39:11.644608",
     "alla_kallor": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/bodhana-sivanandan-youngest-ever-wgm-at-11"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/eleven-years-old-board-one-for-england-and-now-the-youngest-wgm-in-history"
-      }
-    ],
-    "alla_urler": [
-      "https://en.chessbase.com/post/bodhana-sivanandan-youngest-ever-wgm-at-11",
-      "https://chessnewsnetwork.com/article/eleven-years-old-board-one-for-england-and-now-the-youngest-wgm-in-history"
-    ],
-    "bild_filnamn": "bildbanken-BJGIuUWdEw.jpg",
-    "bild_kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund",
-    "bild_alternativ": [
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/BJGIuUWdEw.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      }
-    ]
-  },
-  {
-    "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/hanna-sayce-story-online-world",
-    "original_title": "The dark side of the online world: Hanna Sayce's story",
-    "swedish_title": "Schackstreamer utsatt för trakasserier online",
-    "swedish_content": "Hanna Sayce från Melbourne har haft en anmärkningsvärd resa inom schacket. I början av pandemin, då hon var 19 år, började hon intressera sig för spelet och spelade på vanliga onlineplattformar för att fördriva tiden. Hon startade med en rating på 1000 och nådde på relativt kort tid en imponerande online-blixtrating på 2300 i turneringar på chess.com.\n\nEftersom hon trivdes så bra med schack började hon så småningom spela klassiska OTB-turneringar. Övergången var svår till en början, då Sayce fortfarande behövde lära sig att man med klassisk betänketid måste fundera längre på sina beslut, och att slutspelet får en större betydelse.\n\nSayce reste till öppna turneringar i Europa och Asien och började dela med sig av sina schackupplevelser genom sändningar på Twitch. Det dröjde inte länge förrän tiotusentals schackfans följde henne på plattformen, och flera företag stöttar numera hennes schackverksamhet.\n\nLångt ifrån alla följare reagerade dock som hon önskat. I april 2024 började en fan trakassera den unga streamern. Shumsheer Singh Ghumman, en 47-årig kaféägare, samlade information om Sayce och hennes familj, skaffade kontaktuppgifter till hennes vänner och hotade henne. Han hävdade att han skulle använda AI för att ta reda på ytterligare information om henne.",
-    "date": "Tue, 29 Sep 2026 05:05:00 GMT",
-    "tag": "ChessBase",
-    "processed_at": "2026-09-29T16:47:52.081106",
-    "alla_kallor": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/hanna-sayce-story-online-world"
-      },
-      {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/hanna-sayce-lado-oscuro-online"
-      }
-    ],
-    "alla_urler": [
-      "https://en.chessbase.com/post/hanna-sayce-story-online-world",
-      "https://es.chessbase.com/post/hanna-sayce-lado-oscuro-online"
-    ],
-    "bild_filnamn": "bildbanken-B01E5suwYU.jpg",
-    "bild_kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund",
-    "bild_alternativ": [
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/B01E5suwYU.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/AySGJb02e4.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/AyTEvBb7bJ.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      }
-    ]
-  },
-  {
-    "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/uzbekistan-winners-interview-olympiad-2026",
-    "original_title": "Interview with the Olympic winners from Uzbekistan: \"We have many more victories to come!\"",
-    "swedish_title": "Uzbekistan och Kina tar OS-guld i Samarkand",
-    "swedish_content": "Uzbekistan säkrade sitt andra OS-guld i schackhistorien efter en 2½–1½-seger mot Ukraina i den avslutande elfte ronden av den 46:e Schackolympiaden i Samarkand. Värdlandet avslutade turneringen med 20 av 22 möjliga matchpoäng, två mer än tvåan Indien och trean Tyskland, och upprepade därmed bedriften från Chennai 2022. Den avgörande poängen mot Ukraina kom på fjärde brädet, där Mukhiddin Madaminov besegrade den 18-årige europamästaren Roman Dehtiarov. Övriga tre partier slutade remi: Nodirbek Abdusattorov delade poängen med Igor Kovalenko, Javokhir Sindarov gjorde remi mot Vasyl Ivanchuk och Nodirbek Yakubboev spelade oavgjort mot Ihor Samunenkov. Uzbekistan gick igenom turneringen med tio lagsegrar och endast en förlust, mot Tyskland i åttonde ronden, och byggde sin framgång på ett ovanligt jämnt lag som tog poäng på alla fyra brädena genomgående. Fyra av de fem spelarna i truppen – Abdusattorov, Yakubboev, Sindarov och Shamsiddin Vokhidov – var också med när guldet togs i Chennai för fyra år sedan, och laget leds fortsatt av kapten Rustam Kasimdzhanov, FIDE-världsmästare 2004.\n\nI en intervju efter avslutningsceremonin beskrev laget känslan av att vinna på hemmaplan som \"fantastisk\". Sindarov fick frågan om sitt uppmärksammade parti mot perunska Diego Saul Rodri, där han offrade damen med 31...Kf7 följt av 32...Rh3. Han berättade att han under partiet övervägde att avstå från draget, men till slut valde att gå igenom med idén trots att alternativen hade varit betydligt längre att räkna ut.\n\nTurneringens elva ronder bjöd också på flera överraskningar bortom guldmatchen. Favoriter fick se sina medaljchanser vackla längs vägen – Norge fick klara sig utan Magnus Carlsen och tvingades se sina medaljdrömmar rinna ut i sanden, medan lag som Tyskland visade sig kunna fälla till och med den blivande guldvinnaren Uzbekistan under turneringens gång. Frankrikes lag, med Étienne Bacrot, Maxime Vachier-Lagrave och Marie Sebag tillbaka i truppen, höll sig länge i medaljstriden innan Tyskland till slut körde om dem i de sista ronderna.\n\nI den kvinnliga sektionen dominerade Kina totalt och gick igenom turneringen obesegrat, med endast två individuella förluster på vägen. Med 20 matchpoäng vann Kina klart över sina rivaler och tog sitt OS-guld efter en 3-1-seger mot Vietnam i elfte ronden. Förstabrädesspelaren Zhu Jiner utmärkte sig särskilt med 7 poäng på 9 partier och en prestationsrating på 2638, vilket gav individuellt guld och nio ratingpoäng. Hon når därmed 2554 i Elo och blir återigen nummer två i världen bland damer, bakom Hou Yifan på 2596. Flera av Zhus lagkamrater placerade sig också bland de tio bästa på sina respektive brädor: Lu Miaoyi tog förstaplatsen på tredje brädet med 9½ poäng på 11 partier och en prestation på 2576, Song Yuxin fick individuellt brons på andra brädet med 8 poäng på 11 partier och prestationsrating 2492, medan Mo Zhai slutade sexta på reservbrädet med 5 poäng på 8 partier.",
-    "date": "Tue, 29 Sep 2026 10:00:00 GMT",
-    "tag": "ChessBase",
-    "processed_at": "2026-09-29T16:48:30.318619",
-    "alla_kallor": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/uzbekistan-winners-interview-olympiad-2026"
-      },
       {
         "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/olympiades-2026-tops-et-flops-10100.html"
+        "url": "https://www.europe-echecs.com/art/200-000-dollars-par-joueur-l-ouzbekistan-recompense-ses-champions-olympiques-d-echecs-10102.html"
       },
       {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/chess-olympiad-2026-reportaje"
-      },
-      {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/chess-olympiad-2026-women-reportaje"
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/uzbekistan-2026-samarkand-chess-olympiad-11-conclusions"
       }
     ],
     "alla_urler": [
-      "https://en.chessbase.com/post/uzbekistan-winners-interview-olympiad-2026",
-      "https://www.europe-echecs.com/art/olympiades-2026-tops-et-flops-10100.html",
-      "https://es.chessbase.com/post/chess-olympiad-2026-reportaje",
-      "https://es.chessbase.com/post/chess-olympiad-2026-women-reportaje"
+      "https://www.europe-echecs.com/art/200-000-dollars-par-joueur-l-ouzbekistan-recompense-ses-champions-olympiques-d-echecs-10102.html",
+      "https://www.chess.com/news/view/uzbekistan-2026-samarkand-chess-olympiad-11-conclusions"
     ],
+    "bild_alternativ": []
+  },
+  {
+    "source": "ChessBase",
+    "original_url": "https://en.chessbase.com/post/chess-olympiad-2026-inside-the-expo",
+    "original_title": "Behind the scenes in Samarkand: Inside the Expo",
+    "swedish_title": "Kina vann Schackolympiaden för damer i Samarkand",
+    "swedish_content": "Kina säkrade förstaplatsen i Schackolympiaden för damer i Samarkand efter att ha besegrat Vietnam med 3–1 i den avslutande ronden. Laget, anfört av förstabrädet Zhu Jiner, slutade på 20 matchpoäng. Kazakstan spelade remi mot Polen och tog silver med 18 poäng, medan Indien spelade remi mot Georgien och tog brons på tiebreak före USA, Polen, Armenien och Mongoliet, som alla slutade på 17 poäng.",
+    "date": "Wed, 30 Sep 2026 10:00:00 GMT",
+    "tag": "ChessBase",
+    "processed_at": "2026-09-30T16:39:25.299583",
+    "bild_alternativ": []
+  },
+  {
+    "source": "ChessBase India",
+    "original_url": "https://www.chessbase.in/news/aaradhya-das-crowned-unbeaten-2026-national-u-13-girls-champion",
+    "original_title": "SpotlightTop storyDevansh Singh·9 hours agoFulfilling the National Dream: How WCM Aaradhya Das finally captured the gold that eluded her twice",
+    "swedish_title": "Aaradhya Das guld i U13-SM efter obesegrad turnering",
+    "swedish_content": "WCM Aaradhya Das från Tripura vann det nationella U13-mästerskapet för flickor med 9,5 poäng av 11 möjliga, utan en enda förlust. Det är hennes första nationella titel efter att ha kommit nära två gånger tidigare, 2024 och 2025. Das vann sina fyra sista partier i turneringen och höjde sin rating med 61,2 poäng. Vid hemkomsten möttes hon av ett stort välkomnande på flygplatsen i Agartala, arrangerat av All Tripura Chess Association tillsammans med familj och supportrar. Guldet kvalificerar henne för både Asiatiska mästerskapet och VM, vilka spelas nästa år. Das mål framöver är att bli Woman International Master.",
+    "date": "2026-09-29T11:14:26.689364",
+    "tag": "ChessBase India",
+    "processed_at": "2026-09-30T16:39:37.089296",
+    "bild_alternativ": []
+  },
+  {
+    "source": "English Chess Federation",
+    "original_url": "https://www.englishchess.org.uk/coaching-blind-players/",
+    "original_title": "Coaching blind players",
+    "swedish_title": "ECF söker tränare till synskadade schackspelare",
+    "swedish_content": "Gerry Walsh, ansvarig för synskadade spelare inom engelska schackförbundet, efterfrågar tränare som vill arbeta med synskadade spelare. Målgruppen är främst spelare med rating under 1400.",
+    "date": "Wed, 30 Sep 2026 08:21:32 +0000",
+    "tag": "English Chess Federation",
+    "processed_at": "2026-09-30T16:39:47.571637",
+    "bild_alternativ": []
+  },
+  {
+    "source": "Chess News Network",
+    "original_url": "https://chessnewsnetwork.com/article/afghan-chess-players-detained-after-returning-from-olympiad-el-pa-s-reports",
+    "original_title": "Afghan Chess Players Detained After Returning From Olympiad, EL PAÍS Reports",
+    "swedish_title": "Afghanska schackspelare häktade efter Olympiaden",
+    "swedish_content": "Tre av fyra afghanska schackspelare som i hemlighet lämnade landet för att tävla i Schackolympiaden 2026 i Samarkand har satts i husarrest i Kabul efter hemkomsten, skriver EL PAÍS. Khaibar Farazi, Habibullah Amini och Habibullah Guldoost har fått sina pass konfiskerade och står inför en osäker framtid, medan den fjärde spelaren, Mirzaad Sayed Wahabuddin, kunde återvända utan att gripas.\n\nTalibanmyndigheterna betraktar schack som religiöst förbjudet och kopplar spelet till hasardspel, enligt tidningen. Afghanska myndigheter hade enligt uppgift instruerat flygplatspersonal att gripa spelarna vid ankomst, och man reagerade även på att männen tävlat tillsammans med kvinnor i en internationell turnering.\n\nSchackklubbar i Afghanistan har stängts sedan talibanerna återtog makten 2021, och spelare har tvingats utöva spelet i hemlighet. Enligt EL PAÍS pågår försök att lösa situationen för de kvarhållna spelarna, men deras slutgiltiga öde är fortfarande oklart.",
+    "date": "Tue, 29 Sep 2026 20:00:02 GMT",
+    "tag": "Chess News Network",
+    "processed_at": "2026-09-30T16:40:01.631900",
+    "bild_alternativ": []
+  },
+  {
+    "source": "ChessBase España",
+    "original_url": "https://es.chessbase.com/post/timur-turlov-noveno-presidente-fide-uvencio-blanco",
+    "original_title": "Timur Turlov, noveno presidente de la FIDE",
+    "swedish_title": "Turlov är FIDE:s nionde president, inte åttonde",
+    "swedish_content": "Timur Turlov, 38-årig företagsledare och ordförande för Kazakstans schackförbund samt International Chess Federation for Schools, vann valet till FIDE-president den 26 september och tillträder för perioden 2026-2030. Internationell press och FIDE själva presenterade honom som den åttonde presidenten i organisationens historia, men enligt FIDE:s egna register är han i själva verket den nionde och inleder den 26:e mandatperioden.\n\nFelaktigheten beror på att många inte känner till ett beslut som FIDE:s råd fattade i Mexico City den 4 april 2023, där argentinaren Augusto De Muro officiellt erkändes som FIDE:s andra president. Erkännandet återupprättar giltigheten i de beslut som togs under FIDE:s kongress och generalförsamling i Buenos Aires 1939, i samband med det åttonde Nationernas turnering (schackolympiaden) och damernas VM, då De Muro utsågs till tillförordnad president av förbundet.",
+    "date": "Tue, 29 Sep 2026 19:00:00 GMT",
+    "tag": "ChessBase España",
+    "processed_at": "2026-09-30T16:40:17.503827",
     "bild_alternativ": []
   }
 ]
