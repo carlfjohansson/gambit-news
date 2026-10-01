@@ -2837,6 +2837,91 @@ KÄLLOR: {kallnamn}
            })
        return kandidater
 
+   def markera_liknande_publicerade(self, kandidater, dagar=4):
+       """Varnar för rubriker som liknar något Gambit redan publicerat (eller
+       har som utkast) de senaste dagarna. Samma händelse rapporteras ofta
+       dag efter dag av olika källor, och grupperingen ovan jämför bara
+       rubriker som samlades in i SAMMA körning - så en ny rapport om samma
+       sak dagen efter blev en dubblett.
+
+       Ingenting filtreras bort: kandidaten får bara ett fält 'liknar' med
+       titel, länk och datum, som rubriker.php visar som en varning. Carl
+       Fredrik avgör själv (en riktig uppdatering, t.ex. slutresultatet,
+       ska ju fortfarande kunna godkännas). Går något fel hoppas steget
+       över helt - det får aldrig stoppa insamlingen."""
+       try:
+           if not kandidater or not anthropic_client:
+               return
+           if not all([WP_URL, WP_USER, WP_PASS]):
+               return
+           auth_str = base64.b64encode(f"{WP_USER}:{WP_PASS}".encode()).decode()
+           sedan = (datetime.now() - timedelta(days=dagar)).strftime("%Y-%m-%dT%H:%M:%S")
+           resp = requests.get(
+               f"{WP_URL}/wp-json/wp/v2/posts",
+               params={"per_page": 60, "after": sedan, "status": "publish,draft,pending,future",
+                       "_fields": "id,title,link,date,status", "orderby": "date", "order": "desc"},
+               headers={"Authorization": f"Basic {auth_str}", "User-Agent": "Gambit-News/1.0"},
+               timeout=30,
+           )
+           if resp.status_code != 200:
+               logger.warning(f"⚠️ Kunde inte hämta senaste artiklar för dubblettkoll (HTTP {resp.status_code})")
+               return
+           befintliga = []
+           for p in resp.json():
+               titel = re.sub(r"<[^>]+>", "", (p.get("title") or {}).get("rendered", "")).strip()
+               if titel:
+                   befintliga.append({"titel": titel, "url": p.get("link", ""), "datum": (p.get("date") or "")[:10]})
+           if not befintliga:
+               return
+
+           def _ny_rad(k):
+               titlar = " / ".join(r.get("title", "") for r in k.get("rubriker", [])[:3])
+               return titlar[:300]
+
+           lista_ny = "\n".join(f"N{i}. {_ny_rad(k)}" for i, k in enumerate(kandidater))
+           lista_bef = "\n".join(f"B{i}. ({b['datum']}) {b['titel']}" for i, b in enumerate(befintliga))
+           prompt = f"""Nedan är NYA rubriker (N) från olika källor och rubriker på artiklar som
+Gambit redan har publicerat eller har som utkast de senaste dagarna (B).
+
+Hitta de nya rubriker som handlar om EXAKT SAMMA händelse som en befintlig
+artikel - samma parti, samma turneringsrond, samma beslut, samma person i samma
+sammanhang. Språket i rubrikerna spelar ingen roll, bedöm vad nyheten faktiskt
+handlar om.
+
+Var strikt: samma turnering men olika ronder/dagar är INTE samma händelse.
+En ny rapport om ett senare skede (t.ex. slutresultat efter en förhandsrapport)
+är INTE samma händelse. Två artiklar om samma spelare men olika saker är INTE
+samma händelse. Är du det minsta osäker: ta inte med den.
+
+Svara med en rad per träff på formen N3:B7 (ny rubrik 3 liknar befintlig 7).
+Finns inga träffar, svara med ordet INGA.
+
+NYA:
+{lista_ny}
+
+BEFINTLIGA:
+{lista_bef}"""
+           svar = hamta_text(claude_message(
+               max_tokens=400,
+               thinking={"type": "disabled"},
+               messages=[{"role": "user", "content": prompt}]
+           )).strip()
+           if "INGA" in svar.upper():
+               return
+           antal = 0
+           for rad in svar.splitlines():
+               m = re.fullmatch(r"\s*N(\d+)\s*:\s*B(\d+)\s*", rad)
+               if not m:
+                   continue
+               ni, bi = int(m.group(1)), int(m.group(2))
+               if 0 <= ni < len(kandidater) and 0 <= bi < len(befintliga) and not kandidater[ni].get("liknar"):
+                   kandidater[ni]["liknar"] = befintliga[bi]
+                   antal += 1
+           if antal:
+               logger.info(f"🔎 {antal} rubriker liknar redan publicerade artiklar (markerade, inte borttagna)")
+       except Exception as e:
+           logger.warning(f"⚠️ Dubblettkollen mot publicerade artiklar misslyckades: {e} - hoppar över")
+
    def run_collect_rubriker(self):
        """Steg 1: samla in nya rubriker och lämna dem för godkännande.
        Översätter INGENTING – det är hela poängen."""
@@ -2852,6 +2937,7 @@ KÄLLOR: {kallnamn}
 
        grupper = self.grupp_samma_handelse(new_articles)
        kandidater = self.bygg_rubrikkandidater(grupper)
+       self.markera_liknande_publicerade(kandidater)
 
        # Backup i repot, precis som pending_approval.json tidigare – om PHP-
        # anropet nedan skulle misslyckas är ingenting förlorat.
