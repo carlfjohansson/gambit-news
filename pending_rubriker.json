@@ -1,191 +1,309 @@
 [
   {
-    "id": "f7f28916b4ce",
+    "id": "550c59f2776f",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/9z-globant-wins-chess-club-showdown-september-2026",
-        "title": "9Z Globant Wins Chess Club Showdown September 2026",
-        "date": "2026-09-30T11:41:30.652505",
+        "url": "https://www.chess.com/news/view/october-2026-fide-rating-list",
+        "title": "October 2026 Fide Rating List",
+        "date": "2026-10-01T15:10:56.092142",
         "tag": "Chess.com"
       },
       {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/9z-globant-wins-inaugural-chess-club-showdown",
-        "title": "9z Globant Wins Inaugural Chess Club Showdown",
-        "date": "Thu, 01 Oct 2026 09:51:22 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "The headline result from Chess.com's first Chess Club Showdown is that 9z Globant beat Team Liquid in the finals. The result everyone is talking about instead is that a Bulgarian streamer calling himself Witty Alien beat Magnus Carlsen, then celebrated by taking his pants off on stream."
-      }
-    ],
-    "kalla_display": "Chess News Network + Chess.com",
-    "datum": "2026-09-30T11:41:30.652505",
-    "hittad": "2026-10-01T11:42:49.697803"
-  },
-  {
-    "id": "447522823e2d",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/kasparov-warned-alleged-russian-assassination-plot-usa",
-        "title": "Kasparov Warned Alleged Russian Assassination Plot Usa",
-        "date": "2026-09-30T11:41:30.652548",
-        "tag": "Chess.com"
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/fide-ratings-october-2026",
+        "title": "FIDE Ratings - October 2026",
+        "date": "Thu, 01 Oct 2026 16:16:09 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "The results of the Chess Olympiad in Uzbekistan brought notable changes to the rankings. Among the big winners are Uzbekistan's Abdusattorov, Sindarov and Yakubboev. Yagiz Kaan Erdogmus has extended his lead over Gukesh in the junior rankings, while Alice Lee of the United States is now the top-ranked female junior."
       },
       {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/garry-kasparov-warned-of-alleged-russian-assassination-plot",
-        "title": "Garry Kasparov Warned of Alleged Russian Assassination Plot",
-        "date": "Wed, 30 Sep 2026 11:49:00 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Garry Kasparov, the exiled Russian chess champion and outspoken Putin critic, has reportedly been warned by U.S. authorities that he is the target of an alleged Kremlin-linked assassination plot in the United States."
-      }
-    ],
-    "kalla_display": "Chess News Network + Chess.com",
-    "datum": "2026-09-30T11:41:30.652548",
-    "hittad": "2026-10-01T11:42:49.697820"
-  },
-  {
-    "id": "1f55c04b408d",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/judit-polgar-global-chess-festival-2026",
-        "title": "Judit Polgar Global Chess Festival 2026",
-        "date": "2026-09-30T11:41:30.652621",
-        "tag": "Chess.com"
+        "source": "ChessBase India",
+        "url": "https://www.chessbase.in/news/fide-rating-list-october-2026",
+        "title": "SpotlightTop storyDevansh Singh·3 hours agoFIDE Rating list October 2026: Savitha Shri Breaches 2400 After Stellar 9/10 Olympiad Run",
+        "date": "2026-10-01T15:11:16.749357",
+        "tag": "ChessBase India"
       },
       {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/judit-polgar-shines-at-global-chess-festival",
-        "title": "Judit Polgar Shines at Global Chess Festival",
-        "date": "Wed, 30 Sep 2026 18:12:41 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "GM Judit Polgar scores 3.5-1.5 in simultaneous display at Global Chess Festival"
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/classement-elo-d-octobre-les-ouzbeks-et-les-jeunes-prodiges-a-la-fete-10105.html",
+        "title": "Lire l'articleClassement Elo d'octobre : les Ouzbeks et les jeunes prodiges à la fête",
+        "date": "2026-10-01T15:11:29.052046",
+        "tag": "Europe Echecs"
+      },
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/10/02/ny-fide-rating-oktober-2026/",
+        "title": "Ny FIDE-rating – oktober 2026",
+        "date": "Fri, 02 Oct 2026 05:59:11 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "FIDE har offentliggjort nye internasjonale ratingtall for oktober 2026. Sjakk-OL er ratet, så det er mange endringer blant de beste spillerne denne måneden. På&#160;verdensrankingen for langsjakk var de to øverste, Carlsen (2823) og Nakamura (2792), ikke med i OL. Det var derimot alle de syv neste på topplisten. Caruana (2784) er nummer tre, fulgt av Les mer"
       }
     ],
-    "kalla_display": "Chess News Network + Chess.com",
-    "datum": "2026-09-30T11:41:30.652621",
-    "hittad": "2026-10-01T11:42:49.697831"
+    "kalla_display": "Bergensjakk + Chess.com + ChessBase + ChessBase India + Europe Echecs",
+    "datum": "2026-10-01T15:10:56.092142",
+    "hittad": "2026-10-02T15:12:27.204039"
   },
   {
-    "id": "0c3e70155421",
+    "id": "2b087de012de",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/is-russia-plotting-to-kill-kasparov",
+        "title": "Is Russia plotting to kill Kasparov?",
+        "date": "Fri, 02 Oct 2026 11:54:31 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Russia is hardly known for treating people in general, and political opponents in particular, with restraint. Lithuanian and US security services have now uncovered an alleged network of Russian operatives and saboteurs said to have been preparing attacks on Russian exiles. One of the reported targets: Garry Kasparov. | Photo: Kasparov.com"
+      },
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/garry-kasparov-aurait-ete-vise-par-un-projet-d-assassinat-aux-etats-unis-10103.html",
+        "title": "Lire l'articleGarry Kasparov aurait été visé par un projet d’assassinat aux États-Unis6",
+        "date": "2026-10-01T15:11:29.052060",
+        "tag": "Europe Echecs"
+      }
+    ],
+    "kalla_display": "ChessBase + Europe Echecs",
+    "datum": "Fri, 02 Oct 2026 11:54:31 GMT",
+    "hittad": "2026-10-02T15:12:27.204055"
+  },
+  {
+    "id": "4b04d69ca81d",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/afghan-olympiad-participants-arrested",
+        "title": "Afghan Olympiad participants arrested after returning home",
+        "date": "Thu, 01 Oct 2026 21:00:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Chess is currently banned in Afghanistan. This was not always the case. Despite the ban, Afghan teams took part in both the open and women's sections of the Chess Olympiad, a decision that was not welcomed by the ruling Taliban. Three of the players were arrested at the border on their return and placed under house arrest. They could potentially face severe punishment."
+      },
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/trois-afghans-auraient-ete-arretes-apres-avoir-participe-aux-olympiades-d-echecs-10104.html",
+        "title": "Lire l'articleTrois Afghans auraient été arrêtés après avoir participé aux Olympiades d'échecs",
+        "date": "2026-10-01T15:11:29.052073",
+        "tag": "Europe Echecs"
+      }
+    ],
+    "kalla_display": "ChessBase + Europe Echecs",
+    "datum": "Thu, 01 Oct 2026 21:00:00 GMT",
+    "hittad": "2026-10-02T15:12:27.204060",
+    "liknar": {
+      "titel": "Afghanska schackspelare häktade efter Schack-OS",
+      "url": "https://gambit.se/afghanska-schackspelare-haktade-efter-schack-os/",
+      "datum": "2026-10-02"
+    }
+  },
+  {
+    "id": "c2ae0d090a16",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/bodhana-sivanandan-11-becomes-youngest-ever-wgm-scores-second-im-norm",
-        "title": "Bodhana Sivanandan 11 Becomes Youngest Ever Wgm Scores Second Im Norm",
-        "date": "2026-09-30T11:41:30.652587",
+        "url": "https://www.chess.com/news/view/freestyle-friday-returns-october-2-with-world-championship-spots-on-the-line",
+        "title": "Freestyle Friday Returns October 2 With World Championship Spots On The Line",
+        "date": "2026-10-01T15:10:56.092118",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-09-30T11:41:30.652587",
-    "hittad": "2026-10-01T11:42:49.697838"
+    "datum": "2026-10-01T15:10:56.092118",
+    "hittad": "2026-10-02T15:12:27.204065"
   },
   {
-    "id": "9378fb4ed208",
+    "id": "bc4045ac3093",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/man-charged-with-stalking-hannah-sayce-false-drug-reports",
+        "title": "Man Charged With Stalking Hannah Sayce False Drug Reports",
+        "date": "2026-10-01T15:10:56.092156",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-10-01T15:10:56.092156",
+    "hittad": "2026-10-02T15:12:27.204069"
+  },
+  {
+    "id": "ab91a083cbb3",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/greatest-olympiad-underdogs-the-underdog",
-        "title": "Greatest Olympiad Underdogs - The Underdog",
-        "date": "Thu, 01 Oct 2026 09:26:25 GMT",
+        "url": "https://en.chessbase.com/post/jon-speelman-70th-birthday",
+        "title": "Jon Speelman at 70: A leading figure of English chess",
+        "date": "Fri, 02 Oct 2026 14:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "In this Olympiad special of The Underdog, Robert Ris presents seven remarkable upsets from both the Women’s and Open sections, chosen not only for the rating differences but also for the instructive chess behind them. The examples range from spectacular attacking ideas and sudden tactical reversals to missed winning chances and difficult endgames, showing how quickly a game can turn even when the stronger player appears to be completely in control. One particularly dramatic example sees Arjun Erigaisi lose after dominating much of his game, while another features a rating difference of almost 600 points and a winning material advantage that disappears after a major tactical oversight."
+        "_rss_content": "Jonathan Speelman turns 70 today, 2 October 2026. The English grandmaster was one of the world's leading players in the late 1980s, reaching the Candidates semifinals and climbing to the world top five in the FIDE rankings. A three-time British champion, Speelman also played a major role in England's Olympiad successes and later became well known for his work as a chess author, analyst and columnist. Happy birthday!"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Thu, 01 Oct 2026 09:26:25 GMT",
-    "hittad": "2026-10-01T11:42:49.697844"
+    "datum": "Fri, 02 Oct 2026 14:00:00 GMT",
+    "hittad": "2026-10-02T15:12:27.204073"
   },
   {
-    "id": "b72e4c7479f7",
+    "id": "73b0542730b6",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/turlov-chess-is-massively-undervalued",
-        "title": "Turlov: Chess is massively undervalued",
-        "date": "Wed, 30 Sep 2026 17:00:00 GMT",
+        "url": "https://en.chessbase.com/post/woodward-s-unusual-classical-dragon-the-monthly-dragon-2",
+        "title": "Nepo has dragon problems - The Monthly Dragon",
+        "date": "Fri, 02 Oct 2026 10:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "He has been elected FIDE President. Shortly before the ballot decided it in Samarkand, American Chess Magazine conducted an interview with Timur Turlov, discussing his upbringing and background, the ecosystem of his company Freedom, his involvement in chess and what he would do to enhance its popularity and status in the world. Long, must-read description."
+        "_rss_content": "Chris Ward looks at two very different Dragon games, one from club level and one from the very top of the chess world. The first example shows how ambitious attacking ideas can lead to rich tactical positions, even when the calculation is not completely correct, while the second features Alexander Grischuk against Ian Nepomniachtchi and demonstrates how quickly White can get into trouble after spending time grabbing material instead of developing the attack. Chris highlights typical Dragon themes such as pressure on the queenside, exchange sacrifices, tactical ideas on the c file and the strength of the dark squared bishop. | Photo: John Upham"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Wed, 30 Sep 2026 17:00:00 GMT",
-    "hittad": "2026-10-01T11:42:49.697851"
+    "datum": "Fri, 02 Oct 2026 10:00:00 GMT",
+    "hittad": "2026-10-02T15:12:27.204077"
   },
   {
-    "id": "d76eb445b221",
+    "id": "fbca891623b7",
     "status": "pending",
     "rubriker": [
       {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/why-does-chess-have-separate-titles-for-women",
-        "title": "SpotlightTop storyJyotsna Bhushan·2 hours agoWhy Does Chess Have Separate Women’s Titles, Even in 2026?",
-        "date": "2026-09-30T11:41:51.828644",
-        "tag": "ChessBase India"
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/us-championships-2026-announcement",
+        "title": "Knight to October 8: Saint Louis to host America's chess elite",
+        "date": "Fri, 02 Oct 2026 02:00:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "The 2026 U.S. and U.S. Women’s Chess Championships will take place at the Saint Louis Chess Club from 8 to 23 October, with 12-player fields and more than $400,000 in total prize money. Fabiano Caruana (pictured) will defend his U.S. title against a field including Wesley So, Hans Niemann and Levon Aronian, while Carissa Yip heads the women's event alongside Alice Lee, Irina Krush and Rose Atwell. | Photo: Saint Louis Chess Club"
       }
     ],
-    "kalla_display": "ChessBase India",
-    "datum": "2026-09-30T11:41:51.828644",
-    "hittad": "2026-10-01T11:42:49.697857"
+    "kalla_display": "ChessBase",
+    "datum": "Fri, 02 Oct 2026 02:00:00 GMT",
+    "hittad": "2026-10-02T15:12:27.204084"
   },
   {
-    "id": "12aed279369b",
+    "id": "14d71e718251",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/comment-expliquer-la-longevite-d-etienne-bacrot-et-sophie-milliet-10088.html",
-        "title": "Comment expliquer la longévité d'Étienne Bacrot et Sophie Milliet ?",
-        "date": "2026-09-30T11:42:01.649762",
-        "tag": "Europe Echecs"
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/behind-the-scenes-in-samarkand-the-olympiad-comes-to-a-close",
+        "title": "Behind the scenes in Samarkand: The Olympiad comes to a close",
+        "date": "Thu, 01 Oct 2026 19:00:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Arne Kähler shares impressions from the final moments in Samarkand: the start of the crucial matches Uzbekistan–Ukraine and India–Hungary in the last round, a blitz game against seven-year-old Uzbek talent Mukhammadyusuf Bakhramov, scenes from the press room, a chat with Frederik Svane from Germany and Konstantin Peyrer from Austria, and highlights from the closing ceremony. | Photo: ChessBase"
       }
     ],
-    "kalla_display": "Europe Echecs",
-    "datum": "2026-09-30T11:42:01.649762",
-    "hittad": "2026-10-01T11:42:49.697867"
+    "kalla_display": "ChessBase",
+    "datum": "Thu, 01 Oct 2026 19:00:00 GMT",
+    "hittad": "2026-10-02T15:12:27.204088"
   },
   {
-    "id": "5af67c31b09f",
+    "id": "30b9bc7a500b",
     "status": "pending",
     "rubriker": [
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/01/hostferie-lynsjakk-ngp-2026/",
-        "title": "Høstferie-lynsjakk NGP 2026",
-        "date": "Thu, 01 Oct 2026 04:37:40 +0000",
+        "url": "https://bergensjakk.no/2026/10/02/skagerak-superlyn-oktober-2026/",
+        "title": "Skagerak Superlyn Oktober 2026",
+        "date": "Fri, 02 Oct 2026 04:29:54 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "Sjakkhuset arrangerte Høstferie-lynsjakk NGP hos sjakkbaren The Good Knight i Oslo onsdag 30. september 2026. Turneringen hadde 11 runder og inngår i Norges Grand Prix 2026-27. Favoritten IM Håvard Haug vant alle sine 11 partier og tok en klar førsteplass. FM William Alexander Olsen ble nummer to med 9 poeng, mens Florian Elseth på 7&#189; Les mer"
+        "_rss_content": "Skagerak Superlyn Oktober ble spilt torsdag 1. oktober 2026 på USN Campus Porsgrunn. Arrangør var Porsgrunn Sjakklubb. Kampen om førsteplass sto mellom de to høyest ratede, FM Evsuld Myagmarsuren og IM Mads Vestby-Ellingsen. Begge vant alle sine partier med unntak av innbyrdes oppgjør i fjerde runde. Der gikk Myagmarsuren seirende ut, og 16-åringen gikk dermed Les mer"
       }
     ],
     "kalla_display": "Bergensjakk",
-    "datum": "Thu, 01 Oct 2026 04:37:40 +0000",
-    "hittad": "2026-10-01T11:42:49.697874"
+    "datum": "Fri, 02 Oct 2026 04:29:54 +0000",
+    "hittad": "2026-10-02T15:12:27.204092"
   },
   {
-    "id": "1fbdc80e6531",
+    "id": "651635d404ad",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/wesley-so-wins-first-titled-tuesday-of-2026",
-        "title": "Wesley So Wins First Titled Tuesday of 2026",
-        "date": "Thu, 01 Oct 2026 07:40:14 GMT",
+        "url": "https://chessnewsnetwork.com/article/full-summary-of-fide-general-assembly",
+        "title": "Full Summary of FIDE General Assembly",
+        "date": "Fri, 02 Oct 2026 09:09:13 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "GM Wesley So won the first Titled Tuesday of 2026 with 9.5 points"
+        "_rss_content": "FIDE's official rundown of the General Assembly's decisions reads, on its face, like routine housekeeping: a president and deputy seated, four vice presidents elected, five more nominated, a treasurer confirmed, a new Chess960 rating system approved, a bilingual English-French name adopted for the federation itself."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Thu, 01 Oct 2026 07:40:14 GMT",
-    "hittad": "2026-10-01T11:42:49.697881"
+    "datum": "Fri, 02 Oct 2026 09:09:13 GMT",
+    "hittad": "2026-10-02T15:12:27.204096"
+  },
+  {
+    "id": "6cfc3e1df0c9",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/wstc-europe-day-3-intense-competition-and-camaraderie-in-tsaghkadzor",
+        "title": "WSTC Europe Day 3: Intense Competition and Camaraderie in Tsaghkadzor",
+        "date": "Fri, 02 Oct 2026 08:08:34 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "The European Continental Stage of the FIDE ISCF World Schools Team Championship 2026 saw intense competition and camaraderie on its third day in Tsaghkadzor, Armenia."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Fri, 02 Oct 2026 08:08:34 GMT",
+    "hittad": "2026-10-02T15:12:27.204099"
+  },
+  {
+    "id": "8e131eb074fc",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/theory-and-practice-of-chess-education-conference-held-in-armenia",
+        "title": "Theory and Practice of Chess Education Conference Held in Armenia",
+        "date": "Thu, 01 Oct 2026 22:17:58 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "The International Scientific Conference \"Theory and Practice of Chess Education\" took place in Tsaghkadzor, Armenia, from October 1-2, 2026."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Thu, 01 Oct 2026 22:17:58 GMT",
+    "hittad": "2026-10-02T15:12:27.204103"
+  },
+  {
+    "id": "5192f3a93e12",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/kirsan-speaks-out-against-turlov",
+        "title": "Kirsan Speaks Out Against Turlov",
+        "date": "Thu, 01 Oct 2026 20:00:54 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Kirsan Ilyumzhinov has an opinion on whether Timur Turlov should be FIDE president, and it isn't a kind one. \"Turlov, like Dvorkovich, had no right to be elected,\" the former FIDE president said."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Thu, 01 Oct 2026 20:00:54 GMT",
+    "hittad": "2026-10-02T15:12:27.204106",
+    "liknar": {
+      "titel": "Turlov ny FIDE-president efter dramatiskt val i Samarkand",
+      "url": "https://gambit.se/turlov-ny-fide-president-efter-dramatiskt-val-i-samarkand/",
+      "datum": "2026-09-29"
+    }
+  },
+  {
+    "id": "6a4d85ca69e9",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/wstc-europe-day-2-teams-battle-for-top-spots-in-tsaghkadzor",
+        "title": "WSTC Europe Day 2: Teams Battle for Top Spots in Tsaghkadzor",
+        "date": "Thu, 01 Oct 2026 14:40:00 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "The European Continental Stage of the FIDE ISCF World Schools Team Championship 2026 saw intense competition on Day 2, with several teams vying for top spots in the standings."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Thu, 01 Oct 2026 14:40:00 GMT",
+    "hittad": "2026-10-02T15:12:27.204109"
   },
   {
     "id": "2d60ec9555d0",
@@ -202,23 +320,23 @@
     ],
     "kalla_display": "Chess News Network",
     "datum": "Wed, 30 Sep 2026 18:10:58 GMT",
-    "hittad": "2026-10-01T11:42:49.697886"
+    "hittad": "2026-10-02T15:12:27.204112"
   },
   {
-    "id": "074ff9a43b2d",
+    "id": "3ca24770344b",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/el-viaje-de-la-dama-uvencio-blanco",
-        "title": "«El viaje de la dama», nueva obra de Soppe y Carranza",
-        "date": "Wed, 30 Sep 2026 15:40:00 GMT",
+        "url": "https://es.chessbase.com/post/bodhana-sivanandan-wgm-mas-joven-de-la-historia",
+        "title": "Bodhana Sivanandan se convierte en la WGM más joven de la historia",
+        "date": "Thu, 01 Oct 2026 12:40:00 GMT",
         "tag": "ChessBase España",
-        "_rss_content": "«El viaje de la dama», de Guillermo Gustavo Soppe y Juan Carlos Carranza, recorre la transformación histórica y simbólica de la pieza más poderosa del ajedrez, combinando divulgación, análisis técnico y reflexión cultural. La obra dedica además un espacio central a la historia del ajedrez femenino, con especial atención a figuras argentinas como Edith Soppe, Claudia Amura, Liliana Burijovich, Sandra Villegas y Candela Francisco. | Imágenes: Cortesía de los autores"
+        "_rss_content": "La ajedrecista de once años Bodhana Sivanandan jugó en el primer tablero de Inglaterra en la Olimpiada Femenina. A pesar de su corta edad, fue la mejor jugadora de su equipo y una de las mejores participantes del torneo en el primer tablero. Con este resultado, obtuvo su tercera norma de gran maestra femenina y se convirtió en la WGM más joven de la historia. | Foto: Rafal Oleksiewicz / FIDE"
       }
     ],
     "kalla_display": "ChessBase España",
-    "datum": "Wed, 30 Sep 2026 15:40:00 GMT",
-    "hittad": "2026-10-01T11:42:49.697892"
+    "datum": "Thu, 01 Oct 2026 12:40:00 GMT",
+    "hittad": "2026-10-02T15:12:27.204116"
   }
 ]
