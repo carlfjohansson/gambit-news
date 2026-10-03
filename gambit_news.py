@@ -82,10 +82,19 @@ RUBRIK_LOGIN_TOKEN = os.getenv("RUBRIK_LOGIN_TOKEN")
 # (2026-08-27): aldrig AI-genererat, aldrig andra sajters bilder, bara det
 # FIDE:s egna mediariktlinjer uttryckligen tillåter för redaktionellt bruk
 # utan ackreditering (kräver bara källhänvisning "Foto: FIDE / fotograf").
-# Se https://worldteams.fide.com/media-guidelines/. Saknas nyckeln körs allt
-# som vanligt, bara helt utan bilder – aldrig fel bild, aldrig AI som fallback.
-FLICKR_API_KEY = os.getenv("FLICKR_API_KEY")
-FLICKR_FIDE_USERNAME = "fide"
+# Se https://worldteams.fide.com/media-guidelines/.
+#
+# 2026-10-03: Flickr stängde ner gratis API-nycklar (kräver numera Flickr
+# Pro, ca 82 €/år, bara för att skapa en nyckel) - Carl Fredrik valde att
+# INTE betala för det. I stället används Flickrs öppna, nyckellösa
+# "publika flöde" (photos_public.gne) - listar bara de ~20 senast
+# uppladdade bilderna på FIDE:s konto, ingen sökfunktion på Flickrs sida.
+# Sökordsmatchningen (titel/beskrivning/taggar) görs därför LOKALT i
+# stället, se _flickr_fide_feed/_flickr_fide_sok nedan. Sämre
+# träffsäkerhet än en riktig sökning (ett äldre evenemang kan ha tappats
+# ur de 20 senaste när ett nytt fotograferats) - medvetet accepterat,
+# ingen kostnad i stället.
+FLICKR_FIDE_NSID = "182915813@N06"  # FIDE:s Flickr-konto-id, uppslaget manuellt 2026-10-03
 
 # Svenska Schackförbundets bildbank (bildbanken.schack.se) - foton av Lars OA
 # Hedlund av namngivna spelare, mest svenska. Fritt att använda redaktionellt
@@ -3039,118 +3048,105 @@ TEXT: {text[:600]}"""
            logger.warning(f"⚠️ Kunde inte avgöra FIDE-koppling: {e}")
            return None
 
-   def _flickr_fide_nsid(self):
-       """Slår upp FIDE:s Flickr-konto-id (NSID). Cachas för hela körningen –
-       kontot byts inte mitt i en GitHub Actions-körning. Använder getattr i
-       stället för att sätta cachen i __init__, så det fungerar även för
-       instanser skapade med MultiNewsEngine.__new__(...) (se testerna)."""
-       cachat = getattr(self, "_flickr_nsid_cache", None)
+   def _flickr_fide_feed(self):
+       """Hämtar och cachar FIDE:s ~20 senaste publika Flickr-bilder via
+       Flickrs öppna, nyckellösa flöde (photos_public.gne) - kräver
+       varken Flickr-konto eller Flickr Pro, till skillnad från den
+       riktiga sök-API:n (flickr.photos.search, som Flickr numera kräver
+       en betald Pro-nyckel för). Cachas för hela körningen."""
+       cachat = getattr(self, "_flickr_feed_cache", None)
        if cachat is not None:
-           return cachat or None
-       if not FLICKR_API_KEY:
-           return None
+           return cachat
+       poster = []
        try:
-           resp = requests.get("https://api.flickr.com/services/rest/", params={
-               "method": "flickr.people.findByUsername",
-               "username": FLICKR_FIDE_USERNAME,
-               "api_key": FLICKR_API_KEY,
+           resp = requests.get("https://www.flickr.com/services/feeds/photos_public.gne", params={
+               "id": FLICKR_FIDE_NSID,
                "format": "json",
                "nojsoncallback": 1,
            }, timeout=15)
            data = resp.json()
-           if data.get("stat") == "ok":
-               self._flickr_nsid_cache = data["user"]["nsid"]
-               return self._flickr_nsid_cache
-           logger.warning(f"⚠️ Kunde inte slå upp FIDE:s Flickr-konto: {data}")
+           for item in data.get("items", []):
+               author = item.get("author", "")
+               m = re.search(r"\((.*)\)\s*$", author)
+               fotograf = m.group(1).strip() if m else ""
+               bild_url = (item.get("media") or {}).get("m", "")
+               poster.append({
+                   "titel": item.get("title", ""),
+                   "beskrivning": re.sub(r"<[^>]+>", " ", item.get("description", "")),
+                   "taggar": item.get("tags", ""),
+                   "bild_url": bild_url,
+                   "sida_url": item.get("link", ""),
+                   "fotograf": fotograf,
+               })
        except Exception as e:
-           logger.warning(f"⚠️ Kunde inte slå upp FIDE:s Flickr-konto: {e}")
-       self._flickr_nsid_cache = ""
-       return None
+           logger.warning(f"⚠️ Kunde inte hämta FIDE:s Flickr-flöde: {e}")
+       self._flickr_feed_cache = poster
+       return poster
+
+   def _flickr_fide_sok(self, sokord):
+       """Enkel lokal sökordsmatchning (samma princip som _bildbanken_sok)
+       mot titel/beskrivning/taggar i FIDE:s senaste Flickr-bilder, sorterat
+       på flest matchande ord - Flickrs gratisflöde har ingen egen
+       sökfunktion, se kommentaren vid FLICKR_FIDE_NSID ovan."""
+       ord_lista = [o.lower() for o in re.findall(r"[^\W\d_]+", sokord, re.UNICODE) if len(o) > 2]
+       if not ord_lista:
+           return []
+       traffar = []
+       for post in self._flickr_fide_feed():
+           hotext = f"{post['titel']} {post['beskrivning']} {post['taggar']}".lower()
+           poang = sum(1 for o in ord_lista if o in hotext)
+           if poang > 0:
+               traffar.append((poang, post))
+       traffar.sort(key=lambda t: -t[0])
+       return [p for _, p in traffar]
 
    def hamta_fide_bild(self, sokord):
-       """Sök fram en bild bland FIDE:s officiella Flickr-bilder – enligt
-       FIDE:s mediariktlinjer fritt att använda redaktionellt mot
+       """Sök fram en bild bland FIDE:s senaste officiella Flickr-bilder -
+       enligt FIDE:s mediariktlinjer fritt att använda redaktionellt mot
        källhänvisning "Foto: FIDE / fotograf" (se worldteams.fide.com/
-       media-guidelines/). Returnerar (bilddata, filnamn, kredit-text) eller
-       None om inget hittas eller nedladdningen misslyckas – notisen
+       media-guidelines/). Returnerar (bilddata, filnamn, kredit-text)
+       eller None om inget hittas eller nedladdningen misslyckas - notisen
        publiceras då helt utan bild i stället för med en osäker bild."""
-       if not FLICKR_API_KEY:
+       traffar = self._flickr_fide_sok(sokord)
+       if not traffar:
+           logger.info(f"\U0001f4f7 Ingen FIDE-bild hittad för \"{sokord}\"")
            return None
-       nsid = self._flickr_fide_nsid()
-       if not nsid:
+       post = traffar[0]
+       if not post["bild_url"]:
            return None
+       storre_url = post["bild_url"].replace("_m.jpg", "_c.jpg")
        try:
-           resp = requests.get("https://api.flickr.com/services/rest/", params={
-               "method": "flickr.photos.search",
-               "user_id": nsid,
-               "text": sokord,
-               "sort": "relevance",
-               "extras": "owner_name,url_l,url_c,url_z",
-               "per_page": 5,
-               "api_key": FLICKR_API_KEY,
-               "format": "json",
-               "nojsoncallback": 1,
-           }, timeout=15)
-           data = resp.json()
-           foton = (data.get("photos") or {}).get("photo") or []
-           if not foton:
-               logger.info(f"📷 Ingen FIDE-bild hittad för \"{sokord}\"")
-               return None
-
-           foto = foton[0]
-           bild_url = foto.get("url_l") or foto.get("url_c") or foto.get("url_z")
-           if not bild_url:
-               return None
-
-           bild_resp = requests.get(bild_url, timeout=20)
+           bild_resp = requests.get(storre_url, timeout=20)
            if bild_resp.status_code != 200:
-               return None
-
-           fotograf = (foto.get("ownername") or "").strip()
-           kredit = f"Foto: FIDE / {fotograf}" if fotograf and fotograf.lower() != "fide" else "Foto: FIDE"
-           filnamn = f"fide-{foto.get('id', 'bild')}.jpg"
-           logger.info(f"📷 FIDE-bild hittad för \"{sokord}\" ({kredit})")
-           return (bild_resp.content, filnamn, kredit)
+               bild_resp = requests.get(post["bild_url"], timeout=20)
+               if bild_resp.status_code != 200:
+                   return None
        except Exception as e:
            logger.warning(f"⚠️ Kunde inte hämta FIDE-bild för \"{sokord}\": {e}")
            return None
+       fotograf = post["fotograf"]
+       kredit = f"Foto: FIDE / {fotograf}" if fotograf and fotograf.lower() != "fide" else "Foto: FIDE"
+       bild_id = re.search(r"/(\d+)/?$", post["sida_url"])
+       filnamn = f"fide-{bild_id.group(1) if bild_id else 'bild'}.jpg"
+       logger.info(f"\U0001f4f7 FIDE-bild hittad för \"{sokord}\" ({kredit})")
+       return (bild_resp.content, filnamn, kredit)
 
    def fide_alternativ(self, sokord, max_n=4):
        """Lista upp till max_n FIDE-bilder (Flickr) för samma sökord, UTAN
-       att ladda ner dem - se bildbanken_alternativ för samma resonemang.
-       Egen sökning, skild från hamta_fide_bild, så den auto-valda bilden
-       inte behöver ändras för att alternativen ska kunna listas."""
-       if not FLICKR_API_KEY:
-           return []
-       nsid = self._flickr_fide_nsid()
-       if not nsid:
-           return []
-       try:
-           resp = requests.get("https://api.flickr.com/services/rest/", params={
-               "method": "flickr.photos.search",
-               "user_id": nsid,
-               "text": sokord,
-               "sort": "relevance",
-               "extras": "owner_name,url_l,url_c,url_z",
-               "per_page": max_n,
-               "api_key": FLICKR_API_KEY,
-               "format": "json",
-               "nojsoncallback": 1,
-           }, timeout=15)
-           data = resp.json()
-           foton = (data.get("photos") or {}).get("photo") or []
-           alternativ = []
-           for foto in foton[:max_n]:
-               bild_url = foto.get("url_l") or foto.get("url_c") or foto.get("url_z")
-               if not bild_url:
-                   continue
-               fotograf = (foto.get("ownername") or "").strip()
-               kredit = f"Foto: FIDE / {fotograf}" if fotograf and fotograf.lower() != "fide" else "Foto: FIDE"
-               alternativ.append({"kalla": "fide", "url": bild_url, "kredit": kredit})
-           return alternativ
-       except Exception as e:
-           logger.warning(f"⚠️ Kunde inte hämta FIDE-alternativ för \"{sokord}\": {e}")
-           return []
+       att ladda ner dem - se bildbanken_alternativ för samma resonemang."""
+       traffar = self._flickr_fide_sok(sokord)
+       alternativ = []
+       for post in traffar[:max_n]:
+           if not post["bild_url"]:
+               continue
+           fotograf = post["fotograf"]
+           kredit = f"Foto: FIDE / {fotograf}" if fotograf and fotograf.lower() != "fide" else "Foto: FIDE"
+           alternativ.append({
+               "kalla": "fide",
+               "url": post["bild_url"].replace("_m.jpg", "_c.jpg"),
+               "kredit": kredit,
+           })
+       return alternativ
 
    def hitta_spelarnamn(self, titel, text):
        """Listar namngivna schackspelare i notisen, för sökning i Svenska
