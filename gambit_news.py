@@ -3277,6 +3277,75 @@ TEXT: {text[:600]}"""
            })
        return alternativ
 
+   def _commons_sok(self, sokord, max_n=6):
+       """Söker Wikimedia Commons (fritt, nyckelfritt API, inget konto
+       eller betalning krävs - till skillnad från Flickr) efter bilder
+       vars filnamn/beskrivning matchar sökordet. Allt på Commons är
+       redan fritt licensierat (CC BY-SA/CC BY/public domain m.fl.), så
+       ingen extra licenskontroll behövs utöver att plocka ut kredit-texten
+       ur filens egen metadata. Returnerar upp till max_n dicts
+       {kalla, url, kredit}, UTAN att ladda ner dem - samma princip som
+       bildbanken_alternativ/fide_alternativ."""
+       try:
+           resp = requests.get("https://commons.wikimedia.org/w/api.php", params={
+               "action": "query",
+               "generator": "search",
+               "gsrsearch": f'"{sokord}" chess',
+               "gsrnamespace": 6,
+               "gsrlimit": max_n,
+               "prop": "imageinfo",
+               "iiprop": "url|extmetadata|size",
+               "iiurlwidth": 800,
+               "format": "json",
+           }, headers={
+               "User-Agent": "GambitNewsBot/1.0 (https://gambit.se; cfjohansson@gmail.com)",
+           }, timeout=15)
+           data = resp.json()
+           sidor = ((data.get("query") or {}).get("pages") or {}).values()
+           resultat = []
+           for sida in sidor:
+               info = (sida.get("imageinfo") or [None])[0]
+               if not info or (info.get("width") or 0) < 400:
+                   continue
+               meta = info.get("extmetadata", {}) or {}
+               licens = (meta.get("LicenseShortName", {}) or {}).get("value", "")
+               if not licens:
+                   continue
+               artist = re.sub(r"<[^>]+>", " ", (meta.get("Artist", {}) or {}).get("value", "")).strip()
+               bild_url = info.get("thumburl") or info.get("url")
+               if not bild_url:
+                   continue
+               kredit = f"Foto: {artist} (Wikimedia Commons, {licens})" if artist else f"Foto: Wikimedia Commons ({licens})"
+               resultat.append({"kalla": "commons", "url": bild_url, "kredit": kredit})
+           return resultat[:max_n]
+       except Exception as e:
+           logger.warning(f"⚠️ Kunde inte söka Wikimedia Commons för \"{sokord}\": {e}")
+           return []
+
+   def hamta_commons_bild(self, sokord):
+       """Hämtar den bästa Wikimedia Commons-träffen för sökordet och
+       laddar ner den. Returnerar (bilddata, filnamn, kredit-text) eller
+       None om inget hittas eller nedladdningen misslyckas."""
+       traffar = self._commons_sok(sokord, max_n=1)
+       if not traffar:
+           return None
+       try:
+           bild_resp = requests.get(traffar[0]["url"], timeout=20)
+           if bild_resp.status_code != 200:
+               return None
+       except Exception as e:
+           logger.warning(f"⚠️ Kunde inte hämta Commons-bild för \"{sokord}\": {e}")
+           return None
+       kort = re.sub(r'[^a-z0-9]+', '-', sokord.lower()).strip('-')[:40] or 'bild'
+       filnamn = f"commons-{kort}.jpg"
+       return (bild_resp.content, filnamn, traffar[0]["kredit"])
+
+   def commons_alternativ(self, sokord, max_n=4):
+       """Lista upp till max_n Wikimedia Commons-bilder för samma sökord,
+       UTAN att ladda ner dem - se bildbanken_alternativ för samma
+       resonemang."""
+       return self._commons_sok(sokord, max_n=max_n)
+
    def run_oversatt_godkanda(self):
        """Steg 3: hämta det Carl Fredrik godkänt på gambit.se/redaktionen och
        översätt BARA det. Avvisade rubriker bockas av så de aldrig kommer
@@ -3321,11 +3390,16 @@ TEXT: {text[:600]}"""
                # notisen ändå, bara utan bild. Ska aldrig kunna stoppa en
                # översättning som redan lyckats.
                #
-               # Prioritering: bildbanken.schack.se (namngiven spelare) först
-               # - mer specifik, oftast bättre bild av just den som är med i
-               # notisen, och kräver ingen nyckel. FIDE:s Flickr-bilder som
-               # reserv för internationella FIDE-evenemang utan träff på
-               # namngiven spelare.
+               # Prioritering (utökad 2026-10-03, flest möjliga
+               # valmöjligheter): bildbanken.schack.se (namngiven spelare,
+               # mest specifik, svenska spelare) först, sedan Wikimedia
+               # Commons (namngiven spelare, bredare/internationell
+               # täckning, fritt och nyckelfritt API) som nästa reserv,
+               # sist FIDE:s Flickr-flöde (bara de senast uppladdade
+               # bilderna, ingen sökfunktion) för internationella
+               # FIDE-evenemang utan träff på namngiven spelare. Samtliga
+               # källors alternativ samlas ihop så Carl Fredrik får så
+               # många valmöjligheter som möjligt i redaktionen.
                try:
                    bild = None
                    alternativ = []
@@ -3336,14 +3410,20 @@ TEXT: {text[:600]}"""
                        if not bild:
                            bild = self.hamta_bildbanken_bild(namn)
                        alternativ.extend(self.bildbanken_alternativ(namn))
+                       if not bild:
+                           bild = self.hamta_commons_bild(namn)
+                       alternativ.extend(self.commons_alternativ(namn))
 
                    sokord = None
                    if not bild:
                        sokord = self.hitta_fide_sokord(titel, text)
                        if sokord:
                            bild = self.hamta_fide_bild(sokord)
+                           if not bild:
+                               bild = self.hamta_commons_bild(sokord)
                    if sokord:
                        alternativ.extend(self.fide_alternativ(sokord))
+                       alternativ.extend(self.commons_alternativ(sokord))
 
                    if bild:
                        result['bild_data'], result['bild_filnamn'], result['bild_kredit'] = bild
@@ -3351,7 +3431,10 @@ TEXT: {text[:600]}"""
                    # Alternativ till redaktionen/index.php - så Carl Fredrik
                    # kan byta till en annan bild, eller ingen alls, om han
                    # inte gillar den automatiskt valda (2026-09-20, hans
-                   # förslag). Ta bort dubbletter, ordningen sparas.
+                   # förslag). Ta bort dubbletter, ordningen sparas. Taket
+                   # höjt 6 -> 12 (2026-10-03) för flest möjliga
+                   # valmöjligheter nu när tre källor bidrar i stället för
+                   # två.
                    sedda = set()
                    unika_alternativ = []
                    for a in alternativ:
@@ -3359,7 +3442,7 @@ TEXT: {text[:600]}"""
                            continue
                        sedda.add(a['url'])
                        unika_alternativ.append(a)
-                   result['bild_alternativ'] = unika_alternativ[:6]
+                   result['bild_alternativ'] = unika_alternativ[:12]
                except Exception as e:
                    logger.warning(f"⚠️ Bildsteg misslyckades för notis {kand['id']}, publicerar utan bild: {e}")
 
