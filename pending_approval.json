@@ -1,131 +1,24 @@
 [
   {
-    "source": "Chess.com",
-    "original_url": "https://www.chess.com/news/view/october-2026-fide-rating-list",
-    "original_title": "October 2026 Fide Rating List",
-    "swedish_title": "Abdusattorov klättrar till femteplats efter schack-OL",
-    "swedish_content": "Den nya FIDE-ratinglistan för oktober 2026 präglas av 46:e Schack-OL i Samarkand. Nodirbek Abdusattorov var den stora vinnaren och klättrade två placeringar till världsfemma efter att ha tagit 18 ratingpoäng och individuellt guld på bord ett. Yagiz Kaan Erdogmus tog silver och blev historiens högst ratade 15-åring efter 15 vunna poäng, vilket för honom till 17:e plats på världslistan.\n\nMagnus Carlsen (2823) och Hikaru Nakamura (2792) behåller täten sedan båda avstod från OL, liksom Alireza Firouzja vars relation till franska förbundet tycks vara pausad. Fabiano Caruana är trea (2784, -5), tätt följd av Javokhir Sindarov som med 2782 poäng (+4) nästan kommit ikapp honom – Uzbekistan placerar därmed två spelare bland de fem bästa i världen. Wesley So föll till sjätte plats (2770, -4) medan Praggnanandhaa klättrade till sjunde (2763, +2) och nu är den enda indiern i topp tio. Vincent Keymer tappade bara tre poäng men föll ändå till åttonde plats. Wei Yi klev upp till nionde (2758, +6), medan Arjun Erigaisi rasade ur topp tio efter att ha förlorat 13 poäng, bland annat efter en första rond-förlust mot thailändske Laohawirapap Prin.\n\nUzbekistans framgångar syns även längre ner på listan: Nodirbek Yakubboev gick upp 27 poäng till 2712 och passerade för första gången 2700-gränsen.\n\nPå damsidan gjorde Zhu Jiner stort intryck med lag- och individuellt guld på bord ett, vilket gav henne nio poäng och en återerövrad andraplats bakom Hou Yifan. Indiska Savitha Shri Baskar var dock turneringens stora lyft – efter 9/10 poäng i Samarkand steg hon 23 placeringar och är tillbaka i 2400-klubben för första gången sedan 2023, en klättring från plats 60 till 40 på damlistan.\n\nIndien har totalt 14 spelare i open-klassens topp 100, med Praggnanandhaa som ende representant i topp tio. Världsmästaren Gukesh Dommaraju är tillbaka i topp 30 (28:a plats) trots en förlust i sista ronden. På de nordiska topplistorna avancerar norske Aryan Tari till andraplats på Norsktoppen, medan danske Jonas Buhl Bjerre tar sig in bland världens 100 bästa för första gången efter en stark OL-insats.",
-    "date": "2026-10-01T15:10:56.092142",
-    "tag": "Chess.com",
-    "processed_at": "2026-10-02T16:29:09.123177",
-    "alla_kallor": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/october-2026-fide-rating-list"
-      },
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/fide-ratings-october-2026"
-      },
-      {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/fide-rating-list-october-2026"
-      },
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/classement-elo-d-octobre-les-ouzbeks-et-les-jeunes-prodiges-a-la-fete-10105.html"
-      },
-      {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/02/ny-fide-rating-oktober-2026/"
-      }
-    ],
-    "alla_urler": [
-      "https://www.chess.com/news/view/october-2026-fide-rating-list",
-      "https://en.chessbase.com/post/fide-ratings-october-2026",
-      "https://www.chessbase.in/news/fide-rating-list-october-2026",
-      "https://www.europe-echecs.com/art/classement-elo-d-octobre-les-ouzbeks-et-les-jeunes-prodiges-a-la-fete-10105.html",
-      "https://bergensjakk.no/2026/10/02/ny-fide-rating-oktober-2026/"
-    ],
-    "bild_filnamn": "bildbanken-A0TDJJlcBu.jpg",
-    "bild_kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund",
-    "bild_alternativ": [
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/A0TDJJlcBu.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/A0TDKdXwin.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/A0TDJBQ46v.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/A0TDJ1aVKD.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      }
-    ]
-  },
-  {
-    "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/is-russia-plotting-to-kill-kasparov",
-    "original_title": "Is Russia plotting to kill Kasparov?",
-    "swedish_title": "Kasparov ska ha varit mål för rysk mordkomplott",
-    "swedish_content": "Garry Kasparov ska ha varit en av flera ryska oppositionella som varit mål för en rysk mordkomplott, enligt uppgifter i den spanska tidningen El Mundo. Amerikanska åklagare har åtalat fem personer som anklagas för att ha arbetat för ryska underrättelsetjänster för att planera attacker mot ryska oppositionsfigurer samt för sabotage. Själva åtalet, som väcktes den 15 september, namnger inte Kasparov direkt.\n\nKasparov ska enligt uppgifterna ha varnats av amerikansk och litauisk säkerhetstjänst under sommaren 2026 om att han kunde vara ett mål. Han och hans fru fick därefter skydd – första gången sedan han flyttade till New York 2013. Kasparov har själv bekräftat att han och Ivan Tyutrin, medgrundare av Free Russia Forum, varnats av säkerhetstjänsterna, även om de inte fått namnen bekräftade explicit eftersom de maskerats i åtalet.\n\nÄven den tidigare ryske parlamentsledamoten Ilja Ponomarev och oppositionspolitikern Vladimir Kara-Murza ska ha pekats ut som möjliga måltavlor. Nätverket sägs ledas av Jurij Chrameev, en tidigare överste i rysk underrättelsetjänst.\n\nKasparov, som blev aktiv i den ryska oppositionen efter sin schackkarriär, stämplades av ryska myndigheter som \"utländsk agent\" efter invasionen av Ukraina och senare som \"terrorist och extremist\". I maj 2026 utfärdade en rysk domstol en internationell arresteringsorder mot honom.",
-    "date": "Fri, 02 Oct 2026 11:54:31 GMT",
-    "tag": "ChessBase",
-    "processed_at": "2026-10-02T16:29:28.040806",
-    "alla_kallor": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/is-russia-plotting-to-kill-kasparov"
-      },
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/garry-kasparov-aurait-ete-vise-par-un-projet-d-assassinat-aux-etats-unis-10103.html"
-      }
-    ],
-    "alla_urler": [
-      "https://en.chessbase.com/post/is-russia-plotting-to-kill-kasparov",
-      "https://www.europe-echecs.com/art/garry-kasparov-aurait-ete-vise-par-un-projet-d-assassinat-aux-etats-unis-10103.html"
-    ],
-    "bild_alternativ": []
-  },
-  {
-    "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/behind-the-scenes-in-samarkand-the-olympiad-comes-to-a-close",
-    "original_title": "Behind the scenes in Samarkand: The Olympiad comes to a close",
-    "swedish_title": "Bakom kulisserna i Samarkand när schack-OS avslutades",
-    "swedish_content": "Arne Kähler delar intryck från de sista stunderna av schackolympiaden i Samarkand. Han skildrar starten på de avgörande matcherna Uzbekistan–Ukraina och Indien–Ungern i sista ronden, ett blixtparti mot den sjuårige uzbekiska talangen Mukhammadyusuf Bakhramov samt scener från pressrummet. Dessutom bjuder han på samtal med Frederik Svane från Tyskland och Konstantin Peyrer från Österrike, samt höjdpunkter från avslutningsceremonin.",
-    "date": "Thu, 01 Oct 2026 19:00:00 GMT",
-    "tag": "ChessBase",
-    "processed_at": "2026-10-02T16:29:41.789080",
-    "bild_filnamn": "bildbanken-AaTEhllfgR.jpg",
-    "bild_kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund",
-    "bild_alternativ": [
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/AaTEhllfgR.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      }
-    ]
-  },
-  {
-    "source": "Chess News Network",
-    "original_url": "https://chessnewsnetwork.com/article/full-summary-of-fide-general-assembly",
-    "original_title": "Full Summary of FIDE General Assembly",
-    "swedish_title": "Ukraina kräver åtalsutredning mot ny FIDE-vice ordförande",
-    "swedish_content": "FIDE:s generalförsamling har bekräftat Timur Turlov som ny president och Viswanathan Anand som vice president. Fyra vice presidenter valdes: Yuhua Xu, Michael Khodarkovsky, Pavel Kolobkov och Yassin Souleiman Hassan. Turlov utsåg dessutom själv fem ytterligare poster, däribland Luigi Maggi som kassör samt Bouchra Kadiri, Mahir Mammedov, Carol Williams Pesqueira och Mykhailo Podolyak, rådgivare åt Ukrainas president Volodymyr Zelensky.\n\nPodolyaks utnämning har väckt stark kritik i Ukraina. Turlov utsåg honom och Kolobkov till vice presidenter via en kommunikation på sociala medier den 26 september, samma dag han själv vann presidentposten. Ukrainas schackförbund hävdar att ingen med mandat inom ukrainskt schack någonsin godkänt Podolyak att representera landet inom FIDE, vilket enligt förbundet strider mot FIDE:s stadgar. Förbundet har nu begärt att Ukrainas säkerhetstjänst inleder en förundersökning om landsförräderi mot Podolyak, med motiveringen att utnämningen undergräver landets suveränitet mitt under det ryska anfallskriget.\n\nPodolyak själv har svarat att han vill se internationella förbund \"lämna intriger och politik bakom sig\" och att utnämningen kan hjälpa Ukraina att spela en \"betydligt större roll\" inom global idrott. Varken Zelenskyjs kansli eller andra ukrainska myndigheter har kommenterat offentligt.",
-    "date": "Fri, 02 Oct 2026 09:09:13 GMT",
-    "tag": "Chess News Network",
-    "processed_at": "2026-10-02T16:29:59.981081",
+    "source": "Dansk Skak Union",
+    "original_url": "https://nyheder.skak.dk/2026/10/02/kaffemik-med-det-groenlandske-ol-hold/?utm_source=rss&utm_medium=rss&utm_campaign=kaffemik-med-det-groenlandske-ol-hold",
+    "original_title": "Kaffemix med det grønlandske OL-hold",
+    "swedish_title": "Grönländska OL-laget bjuder in till blixtschack",
+    "swedish_content": "Måndagen den 5 oktober klockan 19.00 kan man träffa det grönländska OL-laget och deras tränare GM Henrik Danielsen i Allerslev Ungdoms- og Idrætsforening i Præstø. Från klockan 19.30 spelas 11 ronder blixtschack (3 minuter + 2 sekunder), och redan nu finns 21 anmälda. Tisdagen den 6 oktober arrangerar Køge Skakklub ett liknande evenemang.",
+    "date": "Fri, 02 Oct 2026 17:09:00 +0000",
+    "tag": "Dansk Skak Union",
+    "processed_at": "2026-10-03T14:21:46.469635",
     "bild_alternativ": []
   },
   {
     "source": "Chess News Network",
-    "original_url": "https://chessnewsnetwork.com/article/kirsan-speaks-out-against-turlov",
-    "original_title": "Kirsan Speaks Out Against Turlov",
-    "swedish_title": "Ilyumzhinov: Turlovs val som FIDE-president ogiltigt",
-    "swedish_content": "Kirsan Ilyumzhinov, tidigare FIDE-president, anser att Timur Turlov saknade rätt att väljas till FIDE-president. Han hänvisar till samma regel från 2022 som i somras tvingade Arkady Dvorkovich att lämna ämbetet i fem veckor efter att EU sanktionerat honom. Enligt Ilyumzhinov omfattas även Turlov av sanktioner, i hans fall från Ukraina 2022 kopplade till företaget Freedom Finance Ukraine. Han tror att Court of Arbitration for Sport kan ogiltigförklara valet: \"Jag tror definitivt det.\" Blir så fallet menar Ilyumzhinov att nyval bör hållas inom tre månader vid en extra kongress.\n\nSamma argument har redan förts fram av Wadim Rosenstein inför CAS och av Chess Federation of Ukraine under flera månader. Ilyumzhinov själv försökte ställa upp i presidentvalet med stöd av ryska schackförbundet men missade nomineringsfristen den 26 juli, sex dagar efter att ha meddelat sin kandidatur.",
-    "date": "Thu, 01 Oct 2026 20:00:54 GMT",
+    "original_url": "https://chessnewsnetwork.com/article/russia-seeks-to-confiscate-timur-turlov-s-assets-over-alleged-support-for-ukrain",
+    "original_title": "Russia Seeks to Confiscate Timur Turlov’s Assets Over Alleged Support for Ukraine",
+    "swedish_title": "Ryssland vill beslagta FIDE-president Turlovs tillgångar",
+    "swedish_content": "Ryska myndigheter har lämnat in en stämningsansökan för att beslagta tillgångar tillhörande miljardären och nyvalde FIDE-presidenten Timur Turlov, som anklagas för att ha finansierat ukrainska organisationer som motsätter sig Rysslands militära kampanj. Enligt Kommersant namnges även Turlovs affärspartner Arkady Shchukin samt flera bolag, däribland Freedom Holding Corp. och Freedom Finance Europe Ltd. Ryska åklagare ska söka klassa de svarande som extremister, vilket skulle kunna möjliggöra beslag av deras tillgångar.\n\nAnklagelserna tycks kopplade till Turlovs tidigare ekonomiska stöd till Ukraina – efter Rysslands fullskaliga invasion i februari 2022 ska han ha donerat över 2 miljoner dollar till Ukrainas ambassad i Kazakstan samt över 720 000 dollar till stiftelser som stödjer Ukraina. Turlov lämnade den ryska marknaden 2022, avsade sig sitt ryska medborgarskap och blev kazakstansk medborgare.\n\nStämningen kommer kort efter att Turlov valdes till FIDE-president, men inget tyder för närvarande på att den rättsliga processen påverkar hans position inom organisationen. Freedom Holding uppger att bolaget saknar tillgångar och verksamhet i Ryssland. Första förhandlingen i målet är satt till den 15 oktober 2026.",
+    "date": "Fri, 02 Oct 2026 20:58:05 GMT",
     "tag": "Chess News Network",
-    "processed_at": "2026-10-02T16:30:16.386350",
+    "processed_at": "2026-10-03T14:22:00.390007",
     "bild_alternativ": []
   }
 ]
