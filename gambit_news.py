@@ -3007,6 +3007,48 @@ BEFINTLIGA:
            # stoppa körningen.
            logger.warning(f"⚠️ Kunde inte skicka rubrikmejl: {e}")
 
+   def skicka_redaktion_notismejl(self, antal):
+       """Motsvarande mejl som skicka_rubrik_notismejl(), fast för steg 3:
+       'X nya artikelutkast väntar på publicering' när översatta utkast
+       sparats i WordPress och ligger redo att granskas/publiceras på
+       redaktionen/index.php. Carl Fredriks förslag (2026-10-03) - han
+       ville ha exakt samma sorts mejl för publiceringssteget som för
+       rubrikgodkännandet. Återanvänder samma RUBRIK_LOGIN_TOKEN/
+       auto-inloggning som rubriker.php redan har (de delar session),
+       så ingen ny hemlighet behövs."""
+       if not EMAIL_FROM or not EMAIL_TO or not EMAIL_PASSWORD:
+           logger.warning("⚠️ E-postinställningar saknas i .env – kan inte skicka redaktionsmejl")
+           return
+       if not RUBRIK_LOGIN_TOKEN:
+           logger.warning("⚠️ RUBRIK_LOGIN_TOKEN saknas i .env – kan inte skicka mejl med auto-inloggning")
+           return
+
+       ny_form     = "nytt" if antal == 1 else "nya"
+       utkast_form = "artikelutkast" if antal == 1 else "artikelutkast"
+       lank = f"{REDAKTION_URL.rstrip('/')}/index.php?auto={RUBRIK_LOGIN_TOKEN}"
+
+       msg = MIMEText(
+           f"Hej!\n\n{antal} {ny_form} {utkast_form} har översätts och sparats som "
+           f"utkast i WordPress – redo att granskas och publiceras.\n\n"
+           f"Granska här (loggar in dig direkt):\n{lank}\n",
+           'plain', 'utf-8'
+       )
+       msg['Subject'] = f"{antal} {ny_form} {utkast_form} väntar på publicering"
+       msg['From'] = EMAIL_FROM
+       msg['To'] = EMAIL_TO
+
+       try:
+           server = smtplib.SMTP(SMTP_SERVER, SMTP_PORT)
+           server.starttls()
+           server.login(EMAIL_FROM, EMAIL_PASSWORD)
+           server.send_message(msg)
+           server.quit()
+           logger.info(f"\U0001f4e7 Redaktionsmejl skickat till {EMAIL_TO}")
+       except Exception as e:
+           # Samma resonemang som i skicka_rubrik_notismejl(): mejlet är bara
+           # en påminnelse, utkasten ligger redan sparade i WordPress oavsett.
+           logger.warning(f"⚠️ Kunde inte skicka redaktionsmejl: {e}")
+
    def hitta_fide_sokord(self, titel, text):
        """Avgör om en färdigöversatt notis handlar om ett evenemang som FIDE
        själva arrangerar (VM i schack, Schack-OS/Chess Olympiad, Candidates,
@@ -3483,6 +3525,9 @@ TEXT: {text[:600]}"""
            self.rubrik_api('POST', 'kvittera', {"ids": klara_ids})
 
        logger.info(f"✅ Klart! {len(sparade)} notiser publicerade som utkast i WordPress.")
+
+       if sparade:
+           self.skicka_redaktion_notismejl(len(sparade))
 
    def send_approval_email_and_start_server(self):
     """Skicka e-post och starta webbserver för godkännande"""
