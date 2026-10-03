@@ -1,224 +1,183 @@
 [
   {
-    "id": "f7f28916b4ce",
+    "id": "c2393f7ce11d",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/9z-globant-wins-chess-club-showdown-september-2026",
-        "title": "9Z Globant Wins Chess Club Showdown September 2026",
-        "date": "2026-09-30T11:41:30.652505",
+        "url": "https://www.chess.com/news/view/bluebaum-wins-freestyle-friday-october-2-2026",
+        "title": "Bluebaum Wins Freestyle Friday October 2 2026",
+        "date": "2026-10-02T10:28:53.944066",
         "tag": "Chess.com"
       },
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/9z-globant-wins-inaugural-chess-club-showdown",
-        "title": "9z Globant Wins Inaugural Chess Club Showdown",
-        "date": "Thu, 01 Oct 2026 09:51:22 GMT",
+        "url": "https://chessnewsnetwork.com/article/freestyle-friday-resumes-with-world-championship-qualification-at-stake",
+        "title": "Freestyle Friday Resumes with World Championship Qualification at Stake",
+        "date": "Fri, 02 Oct 2026 17:03:25 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "The headline result from Chess.com's first Chess Club Showdown is that 9z Globant beat Team Liquid in the finals. The result everyone is talking about instead is that a Bulgarian streamer calling himself Witty Alien beat Magnus Carlsen, then celebrated by taking his pants off on stream."
+        "_rss_content": "Freestyle Friday has resumed on Chess.com, with the remaining weekly tournaments leading up to the December knockout finals"
       }
     ],
     "kalla_display": "Chess News Network + Chess.com",
-    "datum": "2026-09-30T11:41:30.652505",
-    "hittad": "2026-10-01T11:42:49.697803"
+    "datum": "2026-10-02T10:28:53.944066",
+    "hittad": "2026-10-03T10:30:18.631948"
   },
   {
-    "id": "447522823e2d",
+    "id": "315fd13107dd",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/kasparov-warned-alleged-russian-assassination-plot-usa",
-        "title": "Kasparov Warned Alleged Russian Assassination Plot Usa",
-        "date": "2026-09-30T11:41:30.652548",
-        "tag": "Chess.com"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/garry-kasparov-warned-of-alleged-russian-assassination-plot",
-        "title": "Garry Kasparov Warned of Alleged Russian Assassination Plot",
-        "date": "Wed, 30 Sep 2026 11:49:00 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Garry Kasparov, the exiled Russian chess champion and outspoken Putin critic, has reportedly been warned by U.S. authorities that he is the target of an alleged Kremlin-linked assassination plot in the United States."
-      }
-    ],
-    "kalla_display": "Chess News Network + Chess.com",
-    "datum": "2026-09-30T11:41:30.652548",
-    "hittad": "2026-10-01T11:42:49.697820"
-  },
-  {
-    "id": "1f55c04b408d",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/judit-polgar-global-chess-festival-2026",
-        "title": "Judit Polgar Global Chess Festival 2026",
-        "date": "2026-09-30T11:41:30.652621",
-        "tag": "Chess.com"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/judit-polgar-shines-at-global-chess-festival",
-        "title": "Judit Polgar Shines at Global Chess Festival",
-        "date": "Wed, 30 Sep 2026 18:12:41 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "GM Judit Polgar scores 3.5-1.5 in simultaneous display at Global Chess Festival"
-      }
-    ],
-    "kalla_display": "Chess News Network + Chess.com",
-    "datum": "2026-09-30T11:41:30.652621",
-    "hittad": "2026-10-01T11:42:49.697831"
-  },
-  {
-    "id": "0c3e70155421",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/bodhana-sivanandan-11-becomes-youngest-ever-wgm-scores-second-im-norm",
-        "title": "Bodhana Sivanandan 11 Becomes Youngest Ever Wgm Scores Second Im Norm",
-        "date": "2026-09-30T11:41:30.652587",
+        "url": "https://www.chess.com/news/view/hy-nguyen-maghsoodloo-grischuk-3-0-thursday-10-1-2026",
+        "title": "Hy Nguyen Maghsoodloo Grischuk 3 0 Thursday 10 1 2026",
+        "date": "2026-10-02T10:28:53.944032",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-09-30T11:41:30.652587",
-    "hittad": "2026-10-01T11:42:49.697838"
+    "datum": "2026-10-02T10:28:53.944032",
+    "hittad": "2026-10-03T10:30:18.631962"
   },
   {
-    "id": "9378fb4ed208",
+    "id": "de9ae31b219a",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/greatest-olympiad-underdogs-the-underdog",
-        "title": "Greatest Olympiad Underdogs - The Underdog",
-        "date": "Thu, 01 Oct 2026 09:26:25 GMT",
+        "url": "https://en.chessbase.com/post/upcoming-tournaments-and-events-5",
+        "title": "Upcoming tournaments and events",
+        "date": "Sat, 03 Oct 2026 02:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "In this Olympiad special of The Underdog, Robert Ris presents seven remarkable upsets from both the Women’s and Open sections, chosen not only for the rating differences but also for the instructive chess behind them. The examples range from spectacular attacking ideas and sudden tactical reversals to missed winning chances and difficult endgames, showing how quickly a game can turn even when the stronger player appears to be completely in control. One particularly dramatic example sees Arjun Erigaisi lose after dominating much of his game, while another features a rating difference of almost 600 points and a winning material advantage that disappears after a major tactical oversight."
+        "_rss_content": "Looking for an interesting over-the-board chess tournament to play, attend, or simply watch? There are plenty being staged all over the world, and we bring you an overview of the most interesting of them – focused mainly on tournaments in November. We do this in cooperation with MyChess.events, a global platform that helps players discover upcoming events, check dates, venues, formats, prize funds and registration details."
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Thu, 01 Oct 2026 09:26:25 GMT",
-    "hittad": "2026-10-01T11:42:49.697844"
+    "datum": "Sat, 03 Oct 2026 02:00:00 GMT",
+    "hittad": "2026-10-03T10:30:18.631968"
   },
   {
-    "id": "b72e4c7479f7",
+    "id": "a6b3ba3f8e5e",
     "status": "pending",
     "rubriker": [
       {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/turlov-chess-is-massively-undervalued",
-        "title": "Turlov: Chess is massively undervalued",
-        "date": "Wed, 30 Sep 2026 17:00:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "He has been elected FIDE President. Shortly before the ballot decided it in Samarkand, American Chess Magazine conducted an interview with Timur Turlov, discussing his upbringing and background, the ecosystem of his company Freedom, his involvement in chess and what he would do to enhance its popularity and status in the world. Long, must-read description."
+        "source": "Dansk Skak Union",
+        "url": "https://nyheder.skak.dk/2026/10/02/kaffemik-med-det-groenlandske-ol-hold/?utm_source=rss&utm_medium=rss&utm_campaign=kaffemik-med-det-groenlandske-ol-hold",
+        "title": "Kaffemix med det grønlandske OL-hold",
+        "date": "Fri, 02 Oct 2026 17:09:00 +0000",
+        "tag": "Dansk Skak Union",
+        "_rss_content": "Mandag og tirsdag er der mulighed for at hilse på det grønlandske OL-hold og deres træner GM Henrik Danielsen og samtidig spille lynskak. I Præstø mødes man mandag den 5. oktober kl. 19.00 i Allerslev Ungdoms- og Idrætsforening, Enghavevej 2A, 4720 Præstø. Fra kl. 19.30 spilles 11 runder lynskak (3 minutter + 2 sek.) Foreløbig [&#8230;]"
       }
     ],
-    "kalla_display": "ChessBase",
-    "datum": "Wed, 30 Sep 2026 17:00:00 GMT",
-    "hittad": "2026-10-01T11:42:49.697851"
+    "kalla_display": "Dansk Skak Union",
+    "datum": "Fri, 02 Oct 2026 17:09:00 +0000",
+    "hittad": "2026-10-03T10:30:18.631974"
   },
   {
-    "id": "d76eb445b221",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/why-does-chess-have-separate-titles-for-women",
-        "title": "SpotlightTop storyJyotsna Bhushan·2 hours agoWhy Does Chess Have Separate Women’s Titles, Even in 2026?",
-        "date": "2026-09-30T11:41:51.828644",
-        "tag": "ChessBase India"
-      }
-    ],
-    "kalla_display": "ChessBase India",
-    "datum": "2026-09-30T11:41:51.828644",
-    "hittad": "2026-10-01T11:42:49.697857"
-  },
-  {
-    "id": "12aed279369b",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/comment-expliquer-la-longevite-d-etienne-bacrot-et-sophie-milliet-10088.html",
-        "title": "Comment expliquer la longévité d'Étienne Bacrot et Sophie Milliet ?",
-        "date": "2026-09-30T11:42:01.649762",
-        "tag": "Europe Echecs"
-      }
-    ],
-    "kalla_display": "Europe Echecs",
-    "datum": "2026-09-30T11:42:01.649762",
-    "hittad": "2026-10-01T11:42:49.697867"
-  },
-  {
-    "id": "5af67c31b09f",
+    "id": "6eb0c7edffd8",
     "status": "pending",
     "rubriker": [
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/01/hostferie-lynsjakk-ngp-2026/",
-        "title": "Høstferie-lynsjakk NGP 2026",
-        "date": "Thu, 01 Oct 2026 04:37:40 +0000",
+        "url": "https://bergensjakk.no/2026/10/03/fagernes-international-autumn-2026-starter/",
+        "title": "Fagernes International Autumn 2026 starter",
+        "date": "Sat, 03 Oct 2026 05:55:23 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "Sjakkhuset arrangerte Høstferie-lynsjakk NGP hos sjakkbaren The Good Knight i Oslo onsdag 30. september 2026. Turneringen hadde 11 runder og inngår i Norges Grand Prix 2026-27. Favoritten IM Håvard Haug vant alle sine 11 partier og tok en klar førsteplass. FM William Alexander Olsen ble nummer to med 9 poeng, mens Florian Elseth på 7&#189; Les mer"
+        "_rss_content": "I&#160;dag starter en ny utgave av Fagernes International Autumn på hotellet Scandic Valdres. Turneringen spilles fra 3. til 11. oktober 2026. Det blir en GM-gruppe og en åpen gruppe som begge spiller 10 runder langsjakk. I tillegg blir det pratelagsjakk og to lynsjakkturneringer på kveldstid. På deltakerlisten finner vi 99 spillere, hvorav 64 i GM-gruppen Les mer"
       }
     ],
     "kalla_display": "Bergensjakk",
-    "datum": "Thu, 01 Oct 2026 04:37:40 +0000",
-    "hittad": "2026-10-01T11:42:49.697874"
+    "datum": "Sat, 03 Oct 2026 05:55:23 +0000",
+    "hittad": "2026-10-03T10:30:18.631990"
   },
   {
-    "id": "1fbdc80e6531",
+    "id": "eca703f23ea8",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/10/02/ny-sjakkapp-for-barn-loftet/",
+        "title": "Ny sjakkapp for barn: Loftet",
+        "date": "Fri, 02 Oct 2026 19:02:11 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Firmaet Sjakkpass AS har lansert en ny sjakk-app for barn, kalt Loftet. Bak Sjakkpass står Fleur Sommerseth, som tidligere het Olga Dolzhykova. Hun beskriver Loftet på følgende måte: Ny sjakkapp for barn: Loftet I appen spiller man sjakk mot bamse-bots som er utviklet for å spille på hver sin spesielle måte. Alle som har trent Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Fri, 02 Oct 2026 19:02:11 +0000",
+    "hittad": "2026-10-03T10:30:18.631994"
+  },
+  {
+    "id": "24099735d048",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/10/02/hostferie-hurtigsjakk-ngp-2-2026/",
+        "title": "Høstferie-hurtigsjakk NGP 2 – 2026",
+        "date": "Fri, 02 Oct 2026 18:20:13 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Sjakkhuset arrangerte Høstferie-hurtigsjakk NGP 2 hos sjakkbaren The Good Knight i Oslo 1-2. oktober 2026. Turneringen inngår i Norges Grand Prix 2026-27. Unge Anton Bae fra Rustad tok en klar førsteplass med 9&#189; poeng på 12 runder. Dette var fire poeng over forventet score, noe som ga en framgang på hele 160 ratingpoeng. Halvannet poeng Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Fri, 02 Oct 2026 18:20:13 +0000",
+    "hittad": "2026-10-03T10:30:18.631999"
+  },
+  {
+    "id": "dda9b907525b",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/wesley-so-wins-first-titled-tuesday-of-2026",
-        "title": "Wesley So Wins First Titled Tuesday of 2026",
-        "date": "Thu, 01 Oct 2026 07:40:14 GMT",
+        "url": "https://chessnewsnetwork.com/article/russia-seeks-to-confiscate-timur-turlov-s-assets-over-alleged-support-for-ukrain",
+        "title": "Russia Seeks to Confiscate Timur Turlov’s Assets Over Alleged Support for Ukraine",
+        "date": "Fri, 02 Oct 2026 20:58:05 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "GM Wesley So won the first Titled Tuesday of 2026 with 9.5 points"
+        "_rss_content": "Russian authorities have filed a lawsuit seeking to seize the assets of billionaire businessman and newly elected FIDE President Timur Turlov, accusing him of financing Ukrainian organizations opposing Russia’s military operations."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Thu, 01 Oct 2026 07:40:14 GMT",
-    "hittad": "2026-10-01T11:42:49.697881"
+    "datum": "Fri, 02 Oct 2026 20:58:05 GMT",
+    "hittad": "2026-10-03T10:30:18.632006"
   },
   {
-    "id": "2d60ec9555d0",
+    "id": "18c6a5eb49df",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/the-immortal-game-a-timeless-classic",
-        "title": "The Immortal Game: A Timeless Classic",
-        "date": "Wed, 30 Sep 2026 18:10:58 GMT",
+        "url": "https://chessnewsnetwork.com/article/two-olympiad-medalists-two-gamers",
+        "title": "Two Olympiad Medalists, Two Gamers",
+        "date": "Fri, 02 Oct 2026 16:59:52 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "The Immortal Game, played between Adolf Anderssen and Lionel Kieseritzky in 1851, remains one of the most famous and influential chess games of all time."
+        "_rss_content": "Nihal Sarin and Mukhiddin Madaminov left Samarkand with medals from opposite ends of the podium, Sarin with silver on India's Open team, both credited something you don't usually hear top players bring up unprompted: time spent gaming instead of studying chess."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Wed, 30 Sep 2026 18:10:58 GMT",
-    "hittad": "2026-10-01T11:42:49.697886"
+    "datum": "Fri, 02 Oct 2026 16:59:52 GMT",
+    "hittad": "2026-10-03T10:30:18.632011"
   },
   {
-    "id": "074ff9a43b2d",
+    "id": "0bf318c9f657",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/el-viaje-de-la-dama-uvencio-blanco",
-        "title": "«El viaje de la dama», nueva obra de Soppe y Carranza",
-        "date": "Wed, 30 Sep 2026 15:40:00 GMT",
+        "url": "https://es.chessbase.com/post/garry-kasparov-complot-rusia",
+        "title": "Garry Kasparov entre los objetivos de un presunto complot ruso",
+        "date": "Fri, 02 Oct 2026 17:20:00 GMT",
         "tag": "ChessBase España",
-        "_rss_content": "«El viaje de la dama», de Guillermo Gustavo Soppe y Juan Carlos Carranza, recorre la transformación histórica y simbólica de la pieza más poderosa del ajedrez, combinando divulgación, análisis técnico y reflexión cultural. La obra dedica además un espacio central a la historia del ajedrez femenino, con especial atención a figuras argentinas como Edith Soppe, Claudia Amura, Liliana Burijovich, Sandra Villegas y Candela Francisco. | Imágenes: Cortesía de los autores"
+        "_rss_content": "Rusia no es precisamente conocida por tratar con moderación a las personas en general y, en particular, a sus opositores políticos. Los servicios de seguridad de Lituania y Estados Unidos han descubierto ahora una presunta red de agentes y saboteadores rusos que, según se afirma, preparaba ataques contra exiliados rusos. Uno de los objetivos señalados: Garry Kasparov. | Foto: Kasparov.com"
       }
     ],
     "kalla_display": "ChessBase España",
-    "datum": "Wed, 30 Sep 2026 15:40:00 GMT",
-    "hittad": "2026-10-01T11:42:49.697892"
+    "datum": "Fri, 02 Oct 2026 17:20:00 GMT",
+    "hittad": "2026-10-03T10:30:18.632016",
+    "liknar": {
+      "titel": "Kasparov ska ha varit mål för rysk mordkomplott",
+      "url": "https://gambit.se/kasparov-ska-ha-varit-mal-for-rysk-mordkomplott/",
+      "datum": "2026-10-02"
+    }
   }
 ]
