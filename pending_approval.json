@@ -1,96 +1,75 @@
 [
   {
-    "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/global-chess-festival-2026-report",
-    "original_title": "Critical thinking takes centre stage at Judit Polgar's Global Chess Festival",
-    "swedish_title": "Judit Polgars schackfestival tillbaka i Budapest",
-    "swedish_content": "Den tolfte upplagan av \"Judit Polgar Global Chess Festival\" hölls lördagen den 26 september i Ungerska nationalgalleriet i Budapest. Festivalen, som grundades 2015, kombinerade återigen tävlingsschack med utbildning, konst, teknik och aktiviteter riktade till familjer och yngre besökare. Temat för 2026 års upplaga var \"Critical Thinking\", och stora delar av programmet utforskade hur schack kan användas för att analysera information, pröva antaganden och fatta beslut.\n\nFestivalen har successivt vuxit utöver ramarna för ett konventionellt schackevenemang. Tidigare upplagor har bjudit på simultanuppvisningar, professionella tävlingar, konferenser, konstprojekt och program som kopplar samman schack med vetenskap och teknik.\n\n2018 hölls evenemang kopplade till festivalen på 250 platser i 23 länder, medan huvudsamlingen redan då hade flyttat till Ungerska nationalgalleriet. Senare upplagor införde konferenser om schack och utbildning, hybridaktiviteter och diskussioner om artificiell intelligens.\n\nEvenemanget hölls digitalt 2020 och i hybridform därefter, innan ett bredare program med aktiviteter på plats återinfördes. Senare upplagor har behandlat ämnen som kvinnor inom schack och vetenskap, beslutsfattande samt relationen mellan schack och artificiell intelligens. Årets program pågick klockan 10.00–17.30 och innehöll bland annat Master Relay Simul, Live Chess Painting och Chess Palace Adventure Trail.",
-    "date": "Sat, 03 Oct 2026 17:00:00 GMT",
-    "tag": "ChessBase",
-    "processed_at": "2026-10-03T19:38:36.170983",
-    "alla_kallor": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/global-chess-festival-2026-report"
-      },
-      {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/global-chess-festival-2026-reportaje"
-      }
-    ],
-    "alla_urler": [
-      "https://en.chessbase.com/post/global-chess-festival-2026-report",
-      "https://es.chessbase.com/post/global-chess-festival-2026-reportaje"
-    ],
-    "bild_alternativ": [
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Chess_Park%2C_Santa_Monica_Beach_%288357676702%29.jpg/960px-Chess_Park%2C_Santa_Monica_Beach_%288357676702%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: InSapphoWeTrust  from Los Angeles, California, USA (Wikimedia Commons, CC BY-SA 2.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/GCF_logo.png/960px-GCF_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Richárd Nagy (Wikimedia Commons, CC BY-SA 4.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Top_chess_GM.png/960px-Top_chess_GM.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: El Comandante (Wikimedia Commons, CC BY 4.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Top_chess_GM_%28desaturated%29.png/960px-Top_chess_GM_%28desaturated%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: El Comandante (Wikimedia Commons, CC BY 4.0)"
-      }
-    ]
-  },
-  {
-    "source": "Chess.com",
-    "original_url": "https://www.chess.com/news/view/2026-seirawan-chess-championship-liang-wins",
-    "original_title": "2026 Seirawan Chess Championship Liang Wins",
-    "swedish_title": "Liang vinner Seirawan-VM utan att förlora en match",
-    "swedish_content": "GM Awonder Liang vann 2026 Seirawan Chess Championship överlägset genom att vinna alla sina matcher med 3-0. Den 23-årige amerikanen, som också vann turneringen 2024, möttes aldrig med allvarliga problem under sina tolv partier och säkrade förstapriset på 750 dollar. I finalen besegrade han 20-årige FM Jakub Chyzy från Polen, som även föll i Winners Final, och som slutade tvåa med 500 dollar i prispengar.\n\nSeirawan Chess är en variant där två extra pjäser, hawk och elephant, förs in i spelet under mittspelet och gör ställningarna betydligt mer komplexa än i klassiskt schack. Turneringen spelades med blixtschack, tre minuter per spelare plus två sekunders increment per drag.\n\nIonatan Giurgiu slutade trea med 350 dollar efter förlust mot Liang i Winners Semifinal och mot Chyzy i Losers Final. FM Vladislav Lymar blev fyra med 250 dollar, medan Patrik Saar och Hugo Zanotti Caetano delade femte-sjätteplatsen med 175 dollar vardera. Arian Rahimpour och Christiaan Smeets rundade av prislistan på sjunde och åttonde plats med 100 dollar var.",
-    "date": "2026-10-02T19:24:00.434688",
-    "tag": "Chess.com",
-    "processed_at": "2026-10-03T19:38:51.963366",
-    "bild_filnamn": "bildbanken-9n2ExDqD5e.jpg",
+    "source": "Bergensjakk",
+    "original_url": "https://bergensjakk.no/2026/10/04/fagernes-international-autumn-2026-dag-1/",
+    "original_title": "Fagernes International Autumn 2026 – dag 1",
+    "swedish_title": "Favoritseger och stora skrällar i Fagernes",
+    "swedish_content": "Första ronden i Fagernes International Autumn spelades i går med 97 deltagare – 62 i GM-gruppen och 35 i den öppna gruppen. I GM-gruppen vann flera favoriter, bland andra GM Elham Amar (2567), GM Rinat Jumabayev (2564), GM Frode Urkedal (2554) och GM Aksel Bu Kvaløy (2515), men omkring en tredjedel av partierna slutade remi. CM Andreas Skotheim (2256) och CM David Mindestrømmen Simonsen (2189) delade poängen mot GM Krishnan Sasikiran (2520) respektive IM Linus Johansson (2421), medan IM Semen Mitusov (2464) bara fick remi från vinnande ställning mot CM Snehal Bhosale (2196).\n\nDen största skrällen stod CM Samar Dayal (ENG 2227) för, som besegrade IM Md Imran (IND 2485) efter en stor miss i öppningen. FM Eivind Grunt Kreken (2347), tvåa i Fagernes Chess International 2025, förlorade med vitt mot 13-årige Miransh Purven Vyas (USA 2104).\n\nI den öppna gruppen blev det ingen enda remi – 15 av 17 partier vanns av den högst rankade spelaren. Endast Anne Grete Nebell (1617) och Aleksander Milan Nord (1594) slog högre rankade motståndare.\n\nAndra ronden spelas söndag klockan 17.00, med sändning hos Lichess, ChessBase och Chess.com.",
+    "date": "Sun, 04 Oct 2026 06:29:02 +0000",
+    "tag": "Bergensjakk",
+    "processed_at": "2026-10-04T06:43:20.417399",
+    "bild_filnamn": "bildbanken-Aw4F5Nl5cp.jpg",
     "bild_kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund",
     "bild_alternativ": [
       {
         "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/9n2ExDqD5e.jpg",
+        "url": "https://bildbanken.schack.se/Home/Aw4F5Nl5cp.jpg",
         "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
       },
       {
         "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/9mQErs7VmY.jpg",
+        "url": "https://bildbanken.schack.se/Home/AnJEFNy4ob.jpg",
         "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
       },
       {
         "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/9aQ000uMZz.jpg",
+        "url": "https://bildbanken.schack.se/Home/AnIIL3x1t5.jpg",
         "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
       },
       {
         "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/9aQ000wRjd.jpg",
+        "url": "https://bildbanken.schack.se/Home/AnKAKcGF8n.jpg",
         "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Awonder_Liang.jpg/960px-Awonder_Liang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Chessherocanada (Wikimedia Commons, CC BY-SA 4.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/GM_Elham_Amar.jpg/960px-GM_Elham_Amar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Annivest (Wikimedia Commons, CC BY 4.0)"
       },
       {
         "kalla": "commons",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Liang_Awonder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "kredit": "Foto: Chess-DB.com (Wikimedia Commons, CC BY 1.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Abousattorov_v._Jumabayev_R6_17th_Asian_Continental_Chess_Championships.jpg/960px-Abousattorov_v._Jumabayev_R6_17th_Asian_Continental_Chess_Championships.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Jess M. Escaros for the Philippine News Agency (Wikimedia Commons, Public domain)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/2021-Jakub-Chyzy.JPG/960px-2021-Jakub-Chyzy.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: This photo was taken by  Krzysztof Szeląg  Autorem zdjęcia jest  Krzysztof Szeląg   Wykorzystując zdjęcie proszę podać jako autora:  Krzysztof Szeląg / Wikimedia Commons (Wikimedia Commons, CC BY-SA 4.0)"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/TataSteelChess2022-6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "kredit": "Foto: Vysotsky (Wikimedia Commons, CC BY-SA 4.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Zumabajew_rinat_20081119_olympiade_dresden.jpg/960px-Zumabajew_rinat_20081119_olympiade_dresden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Frank Hoppe (Wikimedia Commons, Public domain)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Zumabajew_rinat_20081120_olympiade_dresden.jpg/960px-Zumabajew_rinat_20081120_olympiade_dresden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Frank Hoppe (Wikimedia Commons, CC BY-SA 3.0)"
+      },
+      {
+        "kalla": "bildbanken",
+        "url": "https://bildbanken.schack.se/Home/Ab3GoLKydd.jpg",
+        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
+      },
+      {
+        "kalla": "bildbanken",
+        "url": "https://bildbanken.schack.se/Home/Ab1F8EsNyd.jpg",
+        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
+      },
+      {
+        "kalla": "bildbanken",
+        "url": "https://bildbanken.schack.se/Home/AaUC9MIb3l.jpg",
+        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
       }
     ]
   }
