@@ -2956,10 +2956,13 @@ BEFINTLIGA:
        svar = self.rubrik_api('POST', 'motta', {"candidates": kandidater})
        if svar is None:
            logger.error(
-               "❌ Kunde inte skicka rubrikerna till gambit.se/redaktionen. "
-               "De ligger sparade i pending_rubriker.json och provas igen nästa körning."
+               "❌ Kunde inte skicka rubrikerna till gambit.se/redaktionen just nu "
+               "(nätverksfel). Inget är förlorat - artiklarna bockas inte av som "
+               "sedda förrän de faktiskt publicerats, så de dyker upp som nya igen "
+               "automatiskt vid nästa schemalagda körning. Avbryter INTE körningen "
+               "för det - samma princip som nätverksfel mot andra källor ovan."
            )
-           raise RuntimeError("Kunde inte lämna rubriker för godkännande")
+           return
 
        logger.info(
            f"✅ {len(kandidater)} notiser väntar nu på godkännande på "
