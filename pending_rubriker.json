@@ -1,93 +1,231 @@
 [
   {
-    "id": "c4f63e8c53ab",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/global-chess-festival-2026-report",
-        "title": "Critical thinking takes centre stage at Judit Polgar's Global Chess Festival",
-        "date": "Sat, 03 Oct 2026 17:00:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "The 12th Judit Polgar Global Chess Festival took place at the Hungarian National Gallery in Budapest, with critical thinking as the central theme of its 2026 edition. The programme combined chess with education, technology and art, and included a Community Chess Simul with the strongest female chess player of all time, the public debut of the RubikChess Tournament, AI-related activities and a range of events aimed at families and young players. | Photo: Global Chess Festival"
-      },
-      {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/global-chess-festival-2026-reportaje",
-        "title": "El Global Chess Festival, organizado por Judit Polgar, vuelve a conquistar Budapest",
-        "date": "Sat, 03 Oct 2026 17:25:00 GMT",
-        "tag": "ChessBase España",
-        "_rss_content": "La 12.ª edición del «Global Chess Festival», liderado por Judit Polgar, se celebró en la Galería Nacional de Hungría, en Budapest. El pensamiento crítico fue el tema central de la edición de 2026. El programa combinó el ajedrez con la educación, la tecnología y el arte, e incluyó una exhibición de simultáneas comunitarias con la mejor ajedrecista de todos los tiempos, el debut público del torneo RubikChess, actividades relacionadas con la inteligencia artificial y una serie de propuestas dirigidas a familias y jóvenes ajedrecistas. | Foto: Global Chess Festival"
-      }
-    ],
-    "kalla_display": "ChessBase + ChessBase España",
-    "datum": "Sat, 03 Oct 2026 17:00:00 GMT",
-    "hittad": "2026-10-03T19:25:27.601828"
-  },
-  {
-    "id": "f71369ab96f5",
+    "id": "35ec2540b48e",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-seirawan-chess-championship-liang-wins",
-        "title": "2026 Seirawan Chess Championship Liang Wins",
-        "date": "2026-10-02T19:24:00.434688",
+        "url": "https://www.chess.com/news/view/artemiev-wins-titled-tuesday-october-6-2026",
+        "title": "Artemiev Wins Titled Tuesday October 6 2026",
+        "date": "2026-10-06T11:51:53.117144",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-10-02T19:24:00.434688",
-    "hittad": "2026-10-03T19:25:27.601843"
+    "datum": "2026-10-06T11:51:53.117144",
+    "hittad": "2026-10-07T11:53:17.242771"
   },
   {
-    "id": "f8cfbd30361d",
+    "id": "1400b32389e5",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/wstc-2026-european-stage-final",
-        "title": "From Tsaghkadzor to the Grand Final: European Schools Chess Champions crowned amidst cultural celebration",
-        "date": "Sat, 03 Oct 2026 14:15:00 GMT",
+        "url": "https://en.chessbase.com/post/from-dusk-till-dawn",
+        "title": "From Dusk till Dawn",
+        "date": "Wed, 07 Oct 2026 11:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "Gymnasium No. 50 of Minsk won the European Continental Stage of the FIDE ISCF World Schools Team Championship in Tsaghkadzor, completing the eight-round event with a perfect match score. Riga State Gymnasium No. 1 took second place, while LEPL Georgia, Kutaisi Andria Razmadze Physico finished third. The champions also secured qualification for December's Grand Final, with individual board prizes and a closing ceremony bringing the European stage to an end. | Photos: Arlan Olzhabay / BI-Group"
+        "_rss_content": "Older readers will remember. In the old days, before the invention of the internet, you actually had to meet in person to play chess. In blitz chess, you sat opposite one another, saw each other and even talked. It was a sociable affair and, at times, rather boisterous. In Hamburg last weekend, a secret gathering of veterans took place. \"From Dusk till Dawn\" was the motto."
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Sat, 03 Oct 2026 14:15:00 GMT",
-    "hittad": "2026-10-03T19:25:27.601850"
+    "datum": "Wed, 07 Oct 2026 11:00:00 GMT",
+    "hittad": "2026-10-07T11:53:17.242787"
   },
   {
-    "id": "6969371543e4",
+    "id": "739ebc440a29",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/chess-least-expressive-of-sports",
+        "title": "\"Chess might be one of the least expressive sports I have ever watched\"",
+        "date": "Wed, 07 Oct 2026 07:30:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Coming from badminton and motorsport, Naganethra Reddy expected chess to feel quiet and hard to read. Watching the Global Chess League changed that: the drama was in the glances, pauses, and small gestures around the board, and in the stories shared through the commentary. Here's what she thinks. | Pictured: Bibisara Assaubayeva | Photo: Global Chess League 2026"
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Wed, 07 Oct 2026 07:30:00 GMT",
+    "hittad": "2026-10-07T11:53:17.242793"
+  },
+  {
+    "id": "770e7c2a8267",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/oldest-chess-pieces-in-the-world",
+        "title": "The oldest chess pieces in the world",
+        "date": "Tue, 06 Oct 2026 23:05:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "In 1977, the historian and archaeologist Yuri Buryakov discovered a set of seven ivory pieces in the ruins of the ancient city of Afrasiab, near Samarkand. The pieces have been dated to the mid-seventh century and are regarded as the oldest known chess pieces in the world. | Photo: Samarkand State Museum"
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Tue, 06 Oct 2026 23:05:00 GMT",
+    "hittad": "2026-10-07T11:53:17.242809"
+  },
+  {
+    "id": "0d537df41356",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/princes-of-samarkand-german-team",
+        "title": "The princes of Samarkand",
+        "date": "Tue, 06 Oct 2026 19:00:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "The success of the German national team has something to do with Thuringia. The foundations were laid almost 20 years ago, when national youth coach Bernd Vökler entered a youth team as Germany's second squad at the Chess Olympiad in Dresden. The \"Princes' Group\" was born. Axel Eger reported for the Thüringer Allgemeine. | Photo: German Chess Federation"
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Tue, 06 Oct 2026 19:00:00 GMT",
+    "hittad": "2026-10-07T11:53:17.242818"
+  },
+  {
+    "id": "763f081831ec",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/german-chess-magazine-schach-launches-first-english-edition-as-chess-insight",
+        "title": "German chess magazine SCHACH launches first English edition as CHESS INSIGHT",
+        "date": "Tue, 06 Oct 2026 16:00:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "For the first time in its history, the renowned German chess magazine SCHACH is available in English. Published under the title CHESS INSIGHT, the new edition was released on October 1, 2026, and is available digitally through Forward Chess."
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Tue, 06 Oct 2026 16:00:00 GMT",
+    "hittad": "2026-10-07T11:53:17.242826"
+  },
+  {
+    "id": "531839dcd71a",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/14-year-old-vivaan-vishal-shah-became-gujarats-youngest-international-master",
-        "title": "SpotlightTop storyDevansh Singh·52 minutes ago14-Year-Old Vivaan Vishal Shah Became Gujarat's Youngest International Master",
-        "date": "2026-10-02T19:24:23.218237",
+        "url": "https://www.chessbase.in/news/chessbase-india-at-the-youtube-impact-summit-2026",
+        "title": "SpotlightTop storySagar Shah·9 hours agoChessBase India at the YouTube Impact Summit 2026 panel in New Delhi",
+        "date": "2026-10-06T11:52:14.042401",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-10-02T19:24:23.218237",
-    "hittad": "2026-10-03T19:25:27.601856"
+    "datum": "2026-10-06T11:52:14.042401",
+    "hittad": "2026-10-07T11:53:17.242834"
   },
   {
-    "id": "5f2d0bc2aac4",
+    "id": "f32129fe5817",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Dansk Skak Union",
+        "url": "https://nyheder.skak.dk/2026/10/07/kulturnatten-i-koebenhavn-kig-forbi-skakkens-hus-hjernens-motionscenter/?utm_source=rss&utm_medium=rss&utm_campaign=kulturnatten-i-koebenhavn-kig-forbi-skakkens-hus-hjernens-motionscenter",
+        "title": "Kulturnatten i København – kig forbi Skakkens Hus – hjernens motionscenter®",
+        "date": "Wed, 07 Oct 2026 09:33:33 +0000",
+        "tag": "Dansk Skak Union",
+        "_rss_content": "Dansk Skoleskaks generalsekretær Mads Jacobsen skriver til skak.dk om den kommende Kulturnatten, der afholdes på fredag d. 9. oktober: KULTURNATTEN 9. OKTOBER Skakkens Hus – hjernens motionscenter® åbner lokalerne og inviterer alle interesserede børn, unge, voksne og ældre ind til oplæg, undervisning og hyggelig skakcafé til Kulturnatten. Vi hjælper med at matche de besøgende, så [&#8230;]"
+      }
+    ],
+    "kalla_display": "Dansk Skak Union",
+    "datum": "Wed, 07 Oct 2026 09:33:33 +0000",
+    "hittad": "2026-10-07T11:53:17.242847"
+  },
+  {
+    "id": "959759a21ac6",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/10/07/fagernes-international-autumn-2026-dag-4/",
+        "title": "Fagernes International Autumn 2026 – dag 4",
+        "date": "Wed, 07 Oct 2026 06:04:28 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Etter tirsdagens dobbeltrunde i Fagernes International Autumn er turneringen halvspilt, med fem av de ti rundene unnagjort. IM Christian Glöckler (GER 2515) er fortsatt alene i tet, etter remis i fjerde runde og seier i femte. Den 14-årige tyskeren har dermed 4&#189; poeng og ligger svært godt an til en GM-norm. Det er seks spillere Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Wed, 07 Oct 2026 06:04:28 +0000",
+    "hittad": "2026-10-07T11:53:17.242856",
+    "liknar": {
+      "titel": "14-åring tar ensam ledning i Fagernes",
+      "url": "https://gambit.se/14-aring-tar-ensam-ledning-i-fagernes/",
+      "datum": "2026-10-06"
+    }
+  },
+  {
+    "id": "2227e59d8f1e",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/10/07/nortekk-superlyn-oktober-2026/",
+        "title": "Nortekk Superlyn oktober 2026",
+        "date": "Wed, 07 Oct 2026 06:04:16 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Etter en sommerpause startet Oslo Schakselskap opp igjen med Nortekk Superlyn tirsdag 6. oktober 2026. IM Håvard Haug var klar favoritt, og gikk ikke uventet til topps med 9 poeng på 9 runder. Abyl Kizatbay tok andreplass med 7 poeng, mens WGM Niina Koskela ble nummer tre med 6 poeng. Dette var samme poengsum som Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Wed, 07 Oct 2026 06:04:16 +0000",
+    "hittad": "2026-10-07T11:53:17.242863"
+  },
+  {
+    "id": "16813466ce62",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/nguyen-maghsoodloo-grischuk-claim-3-0-thursday-titles",
-        "title": "Nguyen, Maghsoodloo, Grischuk Claim 3|0 Thursday Titles",
-        "date": "Sat, 03 Oct 2026 12:02:14 GMT",
+        "url": "https://chessnewsnetwork.com/article/ilyumzhinov-says-cas-could-erase-turlov",
+        "title": "Ilyumzhinov Says CAS Could Erase Turlov",
+        "date": "Tue, 06 Oct 2026 13:47:20 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "IM Quoc Hy Nguyen, GM Parham Maghsoodloo, and GM Alexander Grischuk won titles in the 3|0 Thursday tournaments on October 1."
+        "_rss_content": "Kirsan Ilyumzhinov, who ran FIDE for 23 years until 2018, says the Court of Arbitration for Sport (CAS) could still throw out Timur Turlov&#39;s election as FIDE president."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Sat, 03 Oct 2026 12:02:14 GMT",
-    "hittad": "2026-10-03T19:25:27.601862"
+    "datum": "Tue, 06 Oct 2026 13:47:20 GMT",
+    "hittad": "2026-10-07T11:53:17.242867"
+  },
+  {
+    "id": "50981e421d9a",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase España",
+        "url": "https://es.chessbase.com/post/pensamientos-critico-ajedrecistico-uvencio-blanco",
+        "title": "Pensamiento crítico vs. pensamiento ajedrecístico: coincidencias, diferencias y confusiones",
+        "date": "Tue, 06 Oct 2026 22:45:00 GMT",
+        "tag": "ChessBase España",
+        "_rss_content": "El pensamiento crítico y el pensamiento ajedrecístico comparten operaciones como analizar, comparar alternativas, anticipar consecuencias y revisar errores, pero no son capacidades equivalentes. El texto examina sus coincidencias y diferencias desde la psicología cognitiva, subrayando que la pericia adquirida sobre el tablero no se transfiere automáticamente a otros ámbitos. El potencial educativo del ajedrez aparece cuando existe una mediación pedagógica capaz de conectar explícitamente ambos modos de razonamiento. | Imagen (IA): Uvencio Blanco"
+      }
+    ],
+    "kalla_display": "ChessBase España",
+    "datum": "Tue, 06 Oct 2026 22:45:00 GMT",
+    "hittad": "2026-10-07T11:53:17.242871"
+  },
+  {
+    "id": "bddd3a765fb2",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase España",
+        "url": "https://es.chessbase.com/post/gligoric-trophy-2026-ganadores",
+        "title": "La FIDE premia el juego limpio de Sebastian Poltorak y Tin Jingyao",
+        "date": "Tue, 06 Oct 2026 08:00:00 GMT",
+        "tag": "ChessBase España",
+        "_rss_content": "El polaco Sebastian Poltorak y el gran maestro singapurense Tin Jingyao (en la foto) han sido reconocidos con el Trofeo Svetozar Gligoric 2026. Poltorak fue distinguido por aceptar tablas después de que su rival se encontrara indispuesto durante la Copa de Europa de Clubes, mientras que Tin renunció a reclamar una victoria por incomparecencia cuando su oponente llegó tarde debido al tráfico. La comisión designada señaló que ambos casos reflejaron un comportamiento ejemplar de juego limpio y respeto por los rivales, por encima de una ventaja competitiva inmediata. | Foto: FIDE"
+      }
+    ],
+    "kalla_display": "ChessBase España",
+    "datum": "Tue, 06 Oct 2026 08:00:00 GMT",
+    "hittad": "2026-10-07T11:53:17.242875",
+    "liknar": {
+      "titel": "Poltorak och Tin Jingyao får Gligoric-trofén",
+      "url": "https://gambit.se/poltorak-och-tin-jingyao-far-gligoric-trofen/",
+      "datum": "2026-10-06"
+    }
   }
 ]
