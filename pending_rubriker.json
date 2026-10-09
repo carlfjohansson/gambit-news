@@ -1,154 +1,28 @@
 [
   {
-    "id": "35ec2540b48e",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/artemiev-wins-titled-tuesday-october-6-2026",
-        "title": "Artemiev Wins Titled Tuesday October 6 2026",
-        "date": "2026-10-06T11:51:53.117144",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-10-06T11:51:53.117144",
-    "hittad": "2026-10-07T11:53:17.242771"
-  },
-  {
-    "id": "1400b32389e5",
+    "id": "1f49180a168e",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/from-dusk-till-dawn",
-        "title": "From Dusk till Dawn",
-        "date": "Wed, 07 Oct 2026 11:00:00 GMT",
+        "url": "https://en.chessbase.com/post/fagernes-autumn-2026-r7",
+        "title": "Fagernes: Gloeckler holds outright lead with three rounds to go",
+        "date": "Thu, 08 Oct 2026 23:50:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "Older readers will remember. In the old days, before the invention of the internet, you actually had to meet in person to play chess. In blitz chess, you sat opposite one another, saw each other and even talked. It was a sociable affair and, at times, rather boisterous. In Hamburg last weekend, a secret gathering of veterans took place. \"From Dusk till Dawn\" was the motto."
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Wed, 07 Oct 2026 11:00:00 GMT",
-    "hittad": "2026-10-07T11:53:17.242787"
-  },
-  {
-    "id": "739ebc440a29",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/chess-least-expressive-of-sports",
-        "title": "\"Chess might be one of the least expressive sports I have ever watched\"",
-        "date": "Wed, 07 Oct 2026 07:30:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Coming from badminton and motorsport, Naganethra Reddy expected chess to feel quiet and hard to read. Watching the Global Chess League changed that: the drama was in the glances, pauses, and small gestures around the board, and in the stories shared through the commentary. Here's what she thinks. | Pictured: Bibisara Assaubayeva | Photo: Global Chess League 2026"
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Wed, 07 Oct 2026 07:30:00 GMT",
-    "hittad": "2026-10-07T11:53:17.242793"
-  },
-  {
-    "id": "770e7c2a8267",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/oldest-chess-pieces-in-the-world",
-        "title": "The oldest chess pieces in the world",
-        "date": "Tue, 06 Oct 2026 23:05:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "In 1977, the historian and archaeologist Yuri Buryakov discovered a set of seven ivory pieces in the ruins of the ancient city of Afrasiab, near Samarkand. The pieces have been dated to the mid-seventh century and are regarded as the oldest known chess pieces in the world. | Photo: Samarkand State Museum"
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Tue, 06 Oct 2026 23:05:00 GMT",
-    "hittad": "2026-10-07T11:53:17.242809"
-  },
-  {
-    "id": "0d537df41356",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/princes-of-samarkand-german-team",
-        "title": "The princes of Samarkand",
-        "date": "Tue, 06 Oct 2026 19:00:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "The success of the German national team has something to do with Thuringia. The foundations were laid almost 20 years ago, when national youth coach Bernd Vökler entered a youth team as Germany's second squad at the Chess Olympiad in Dresden. The \"Princes' Group\" was born. Axel Eger reported for the Thüringer Allgemeine. | Photo: German Chess Federation"
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Tue, 06 Oct 2026 19:00:00 GMT",
-    "hittad": "2026-10-07T11:53:17.242818"
-  },
-  {
-    "id": "763f081831ec",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/german-chess-magazine-schach-launches-first-english-edition-as-chess-insight",
-        "title": "German chess magazine SCHACH launches first English edition as CHESS INSIGHT",
-        "date": "Tue, 06 Oct 2026 16:00:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "For the first time in its history, the renowned German chess magazine SCHACH is available in English. Published under the title CHESS INSIGHT, the new edition was released on October 1, 2026, and is available digitally through Forward Chess."
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Tue, 06 Oct 2026 16:00:00 GMT",
-    "hittad": "2026-10-07T11:53:17.242826"
-  },
-  {
-    "id": "531839dcd71a",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/chessbase-india-at-the-youtube-impact-summit-2026",
-        "title": "SpotlightTop storySagar Shah·9 hours agoChessBase India at the YouTube Impact Summit 2026 panel in New Delhi",
-        "date": "2026-10-06T11:52:14.042401",
-        "tag": "ChessBase India"
-      }
-    ],
-    "kalla_display": "ChessBase India",
-    "datum": "2026-10-06T11:52:14.042401",
-    "hittad": "2026-10-07T11:53:17.242834"
-  },
-  {
-    "id": "f32129fe5817",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/10/07/kulturnatten-i-koebenhavn-kig-forbi-skakkens-hus-hjernens-motionscenter/?utm_source=rss&utm_medium=rss&utm_campaign=kulturnatten-i-koebenhavn-kig-forbi-skakkens-hus-hjernens-motionscenter",
-        "title": "Kulturnatten i København – kig forbi Skakkens Hus – hjernens motionscenter®",
-        "date": "Wed, 07 Oct 2026 09:33:33 +0000",
-        "tag": "Dansk Skak Union",
-        "_rss_content": "Dansk Skoleskaks generalsekretær Mads Jacobsen skriver til skak.dk om den kommende Kulturnatten, der afholdes på fredag d. 9. oktober: KULTURNATTEN 9. OKTOBER Skakkens Hus – hjernens motionscenter® åbner lokalerne og inviterer alle interesserede børn, unge, voksne og ældre ind til oplæg, undervisning og hyggelig skakcafé til Kulturnatten. Vi hjælper med at matche de besøgende, så [&#8230;]"
-      }
-    ],
-    "kalla_display": "Dansk Skak Union",
-    "datum": "Wed, 07 Oct 2026 09:33:33 +0000",
-    "hittad": "2026-10-07T11:53:17.242847"
-  },
-  {
-    "id": "959759a21ac6",
-    "status": "pending",
-    "rubriker": [
+        "_rss_content": "Christian Gloeckler is the sole leader of the Fagernes International Autumn after seven rounds. The 14-year-old German IM defeated Lukas Dotzer on Thursday to reach 6/7, while Rinat Jumabayev beat top seed Elham Amar to move into clear second place on 5½ points. Gloeckler and Jumabayev have already met, as they drew their round-four encounter after 84 moves. | Photo: Nils Rohde / ChessBase"
+      },
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/07/fagernes-international-autumn-2026-dag-4/",
-        "title": "Fagernes International Autumn 2026 – dag 4",
-        "date": "Wed, 07 Oct 2026 06:04:28 +0000",
+        "url": "https://bergensjakk.no/2026/10/09/fagernes-international-autumn-2026-dag-6/",
+        "title": "Fagernes International Autumn 2026 – dag 6",
+        "date": "Fri, 09 Oct 2026 05:24:00 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "Etter tirsdagens dobbeltrunde i Fagernes International Autumn er turneringen halvspilt, med fem av de ti rundene unnagjort. IM Christian Glöckler (GER 2515) er fortsatt alene i tet, etter remis i fjerde runde og seier i femte. Den 14-årige tyskeren har dermed 4&#189; poeng og ligger svært godt an til en GM-norm. Det er seks spillere Les mer"
+        "_rss_content": "Det er fortsatt ingen som kan stoppe IM Christian Glöckler (GER 2515) i GM-gruppen i Fagernes International Autumn. I syvende runde vant 14-åringen det germanske oppgjøret mot to år eldre IM Lukas Dotzer (AUT 2474). Dermed står Glöckler med 6 poeng og ratingprestasjon på hele 2750. Et halvt poeng på de to neste rundene vil Les mer"
       }
     ],
-    "kalla_display": "Bergensjakk",
-    "datum": "Wed, 07 Oct 2026 06:04:28 +0000",
-    "hittad": "2026-10-07T11:53:17.242856",
+    "kalla_display": "Bergensjakk + ChessBase",
+    "datum": "Thu, 08 Oct 2026 23:50:00 GMT",
+    "hittad": "2026-10-09T10:47:03.767801",
     "liknar": {
       "titel": "14-åring tar ensam ledning i Fagernes",
       "url": "https://gambit.se/14-aring-tar-ensam-ledning-i-fagernes/",
@@ -156,76 +30,463 @@
     }
   },
   {
-    "id": "2227e59d8f1e",
+    "id": "d5a4bab07b67",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/bundesliga-2026-27-kick-off",
+        "title": "The 2026/27 season of the Bundesliga kicks off this weekend",
+        "date": "Thu, 08 Oct 2026 07:00:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "The Chess Bundesliga, a.k.a. German League, kicks off its 2026/27 season this coming weekend. Last season's champions SC Viernheim and OSG Baden-Baden are the favourites to win the title. SV Erkenschwick 1923 will be making their debut in the league, while the other two promoted teams from the second division - SF Bad Mergentheim and SC Remagen Sinzig - have already competed in the top flight. Bundesliga fans can look forward to comprehensive live commentary throughout the coming season. | Pictured: OSG Baden-Baden's Viswanathan Anand and Vincent Keymer | Photo: Stefan Liebig"
+      },
+      {
+        "source": "Dansk Skak Union",
+        "url": "https://nyheder.skak.dk/2026/10/07/bundesligaen-26-27-starter/?utm_source=rss&utm_medium=rss&utm_campaign=bundesligaen-26-27-starter",
+        "title": "Bundesligaen 26/27 starter",
+        "date": "Wed, 07 Oct 2026 16:00:00 +0000",
+        "tag": "Dansk Skak Union",
+        "_rss_content": "Fredag d. 9. oktober og frem til søndag d. 11. oktober spilles den første weekend af Bundesligasæsonen 2026/2027. Formattet i Bundesligaen er til denne sæson ændret; i stedet for seks dobbeltrunder og en afsluttende trippelrunde, spilles der i denne sæson fem trippelrunder over fredag-søndag. Favoritterne efter styrkelisten er SC Viernheim, der vandt sidste sæsons Bundesliga, [&#8230;]"
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/viernheim-and-baden-baden-lead-bundesliga-title-race-as-new-season-begins",
+        "title": "Viernheim and Baden-Baden Lead Bundesliga Title Race as New Season Begins",
+        "date": "Fri, 09 Oct 2026 10:18:00 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Germany’s Chess Bundesliga returns on Friday, 9 October, with defending champions SC Viernheim and rivals OSG Baden-Baden heading the race for the 2026/27 title."
+      }
+    ],
+    "kalla_display": "Chess News Network + ChessBase + Dansk Skak Union",
+    "datum": "Thu, 08 Oct 2026 07:00:00 GMT",
+    "hittad": "2026-10-09T10:47:03.767816"
+  },
+  {
+    "id": "e9b0da79e7d3",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/gotham-chess-european-tour-guests-activities-2026",
+        "title": "Gotham Chess European Tour Guests Activities 2026",
+        "date": "2026-10-08T10:45:31.964163",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-10-08T10:45:31.964163",
+    "hittad": "2026-10-09T10:47:03.767823"
+  },
+  {
+    "id": "82688a1cd263",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/us-championships-2026-caruana-titles",
+        "title": "Fabiano Caruana targets fifth consecutive US title",
+        "date": "Fri, 09 Oct 2026 11:50:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Fabiano Caruana has won the US Championship five times, including four consecutive titles from 2022 to 2025. His first victory came on his debut in 2016, shortly after returning to the US federation. At the 2026 edition in Saint Louis, Caruana can equal Samuel Reshevsky’s record of five consecutive titles and, with a sixth overall win, draw level with Walter Browne on the all-time list. | Photo: Lennart Ootes"
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Fri, 09 Oct 2026 11:50:00 GMT",
+    "hittad": "2026-10-09T10:47:03.767828"
+  },
+  {
+    "id": "6dd96d8331ab",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/how-do-i-become-an-expert",
+        "title": "How do I become an expert?",
+        "date": "Thu, 08 Oct 2026 19:10:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "How can I improve at chess, increase my Elo rating or become an International Master or Grandmaster? Or, more generally, how can I become an expert in any field? The YouTube channel Veritasium provides some answers. | Photo: Screenshot from the Veritasium video. Here, Veritasium quotes from the video Magnus Carlsen's Mind-Blowing Memory, published by Chess24"
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Thu, 08 Oct 2026 19:10:00 GMT",
+    "hittad": "2026-10-09T10:47:03.767832"
+  },
+  {
+    "id": "56578b216b0b",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/beating-the-sicilian-with-3-bc4",
+        "title": "Beating the Sicilian with 3.Bc4 - seriously?",
+        "date": "Thu, 08 Oct 2026 12:00:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "This is not an advertisement! The 'amateur move' 3.Bc4 (without a subsequent d2-d4) against the Sicilian Defence, combined with a setup resembling the Italian Game, is becoming increasingly popular. Even top professionals are now using this system successfully, first in online blitz and now also in classical over-the-board games. At the Chess Olympiad, Michael Adams used it to defeat Etienne Bacrot. | Photo: Michal Walusza"
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Thu, 08 Oct 2026 12:00:00 GMT",
+    "hittad": "2026-10-09T10:47:03.767837"
+  },
+  {
+    "id": "ef2befdad9e5",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/meeting-tokayev-turlov-2026",
+        "title": "President of Kazakhstan Kassym-Jomart Tokayev receives FIDE President Timur Turlov",
+        "date": "Thu, 08 Oct 2026 02:20:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Kazakhstan's President Kassym-Jomart Tokayev has met newly elected FIDE President Timur Turlov to discuss the development of chess in the country and future cooperation with FIDE. Their talks covered chess in education, coach and arbiter training, youth development and the organisation of major events. Tokayev also highlighted Kazakhstan's recent progress, including the women's team'’s silver medal at the Samarkand Olympiad and the growing number of active players nationwide. | Photo: FIDE"
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Thu, 08 Oct 2026 02:20:00 GMT",
+    "hittad": "2026-10-09T10:47:03.767841"
+  },
+  {
+    "id": "9c955ff9a10f",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/frederik-svane-understated-olympic-record",
+        "title": "Frederik Svane: An understated Olympic record",
+        "date": "Wed, 07 Oct 2026 19:00:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Two Olympiads, thirteen wins, seven draws, no defeats, two individual gold medals and a team bronze - Frederik Svane's Olympiad record is impressive. At the 2026 Chess Olympiad in Samarkand, he also set a low-key record: never before had a German player won two Olympiad gold medals for the best performance on his board. | Photo: Nils Rohde"
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Wed, 07 Oct 2026 19:00:00 GMT",
+    "hittad": "2026-10-09T10:47:03.767848"
+  },
+  {
+    "id": "db2799f0332c",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase India",
+        "url": "https://www.chessbase.in/news/arpan-das-wins-2nd-rungta-cement-open-classical-rating-2026",
+        "title": "SpotlightTop storyDevansh Singh·9 hours agoArpan Das Wins 2nd Rungta Cement Open Classical Rating 2026",
+        "date": "2026-10-08T10:45:53.867810",
+        "tag": "ChessBase India"
+      }
+    ],
+    "kalla_display": "ChessBase India",
+    "datum": "2026-10-08T10:45:53.867810",
+    "hittad": "2026-10-09T10:47:03.767853"
+  },
+  {
+    "id": "bbd9ce44e5ae",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/faustino-oro-je-n-ai-jamais-lu-de-livre-d-echecs-10106.html",
+        "title": "Faustino Oro : « Je n’ai jamais lu de livre d’échecs »",
+        "date": "2026-10-08T10:46:05.985037",
+        "tag": "Europe Echecs"
+      }
+    ],
+    "kalla_display": "Europe Echecs",
+    "datum": "2026-10-08T10:46:05.985037",
+    "hittad": "2026-10-09T10:47:03.767858"
+  },
+  {
+    "id": "f0d7611e77f4",
     "status": "pending",
     "rubriker": [
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/07/nortekk-superlyn-oktober-2026/",
-        "title": "Nortekk Superlyn oktober 2026",
-        "date": "Wed, 07 Oct 2026 06:04:16 +0000",
+        "url": "https://bergensjakk.no/2026/10/09/kretsmesterskapet-i-hurtigsjakk-vestland-2026/",
+        "title": "Kretsmesterskapet i hurtigsjakk Vestland 2026",
+        "date": "Fri, 09 Oct 2026 05:20:53 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "Etter en sommerpause startet Oslo Schakselskap opp igjen med Nortekk Superlyn tirsdag 6. oktober 2026. IM Håvard Haug var klar favoritt, og gikk ikke uventet til topps med 9 poeng på 9 runder. Abyl Kizatbay tok andreplass med 7 poeng, mens WGM Niina Koskela ble nummer tre med 6 poeng. Dette var samme poengsum som Les mer"
+        "_rss_content": "Kretsmesterskapet i hurtigsjakk for Vestland ble spilt på Skranevatnet / Ytrebygda kultursenter i Bergen torsdag 8. oktober 2026. Arrangør var Søråshøgda Sjakklubb. Det var 49 spillere, noe som trolig er deltakerrekord. I A-gruppen tok 13-årige Manu Michoel fra Søråshøgda en klar førsteplass med 6&#189; poeng av 7. Stig K Martinsen ble nummer to med 5 Les mer"
       }
     ],
     "kalla_display": "Bergensjakk",
-    "datum": "Wed, 07 Oct 2026 06:04:16 +0000",
-    "hittad": "2026-10-07T11:53:17.242863"
+    "datum": "Fri, 09 Oct 2026 05:20:53 +0000",
+    "hittad": "2026-10-09T10:47:03.767862"
   },
   {
-    "id": "16813466ce62",
+    "id": "7538ffb44ed7",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/10/09/fagernes-autumn-slow-blitz-2026/",
+        "title": "Fagernes Autumn Slow Blitz 2026",
+        "date": "Fri, 09 Oct 2026 05:20:44 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Lynsjakkturneringen Fagernes Autumn Slow Blitz ble spilt på Fagernes torsdag 8. oktober 2026 etter syvende runde av Fagernes International Autumn. Turneringen hadde 7 runder og inngår i Norges Grand Prix 2026-27. Tyske IM Christian Glöckler, som leder hovedturneringen, tok en klar førsteplass med 6&#189; poeng på 7 runder. Deretter fulgte FM Sarbartho Mani, GM Aksel Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Fri, 09 Oct 2026 05:20:44 +0000",
+    "hittad": "2026-10-09T10:47:03.767878"
+  },
+  {
+    "id": "66920537c092",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/10/09/baerumslynet-10-ngp-2026/",
+        "title": "Bærumslynet #10 NGP 2026",
+        "date": "Fri, 09 Oct 2026 05:20:31 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Bærum Schakselskap arrangerte torsdag 7. oktober 2026 lynsjakkturneringen Bærumslynet #10 NGP. Turneringen hadde 10 runder og inngår i Norges Grand Prix 2026-27. Det var 34 deltakere i Bærum Idrettspark. Kampen om førsteplass sto mellom de to høyest ratede, IM Håvard Haug og IM Saad Abobaker Elmi. Avgjørensen falt i femte runde da Haug vant innbyrdes Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Fri, 09 Oct 2026 05:20:31 +0000",
+    "hittad": "2026-10-09T10:47:03.767883"
+  },
+  {
+    "id": "fe4a2b984c21",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/10/08/fagernes-international-autumn-2026-dag-5/",
+        "title": "Fagernes International Autumn 2026 – dag 5",
+        "date": "Thu, 08 Oct 2026 05:15:53 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Sjette runde av GM-gruppen i Fagernes International Autumn ga remiser på de seks øverste bordene. Dermed er stillingen i teten uforandret. Ledende IM Christian Glöckler (GER 2515) endte bonde under i sluttspillet mot GM Elham Amar (2567), men berget et halvpoeng. Den 14-årige tyskeren leder forsatt alene, nå med 5 poeng og ratingprestasjon på 2709. Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Thu, 08 Oct 2026 05:15:53 +0000",
+    "hittad": "2026-10-09T10:47:03.767887"
+  },
+  {
+    "id": "d2a6965301ca",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/10/07/landsturneringen-2027-med-studentrabatt/",
+        "title": "Landsturneringen 2027 med studentrabatt",
+        "date": "Wed, 07 Oct 2026 20:15:02 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Om bare 9 måneder er Landsturneringen 2027 i gang på Hamar. Arrangøren Greveløkka Sjakklubb har bestemt seg for å gi studentrabatt: Studenter! Velkommen til Landsturneringa 2027!Hamarhallen, 2. &#8211; 10. juli 2027 Nylig ble et vellykket SINTEF Student NM arrangert av NTNUI i Trondheim. Vi ønsker naturligvis mange studenter med i landsturneringa på Hamar neste år. Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Wed, 07 Oct 2026 20:15:02 +0000",
+    "hittad": "2026-10-09T10:47:03.767891"
+  },
+  {
+    "id": "95d981eb540a",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "English Chess Federation",
+        "url": "https://www.englishchess.org.uk/visit-to-hmp-whitemoor-carl-portman/",
+        "title": "Visit to HMP Whitemoor – Carl Portman",
+        "date": "Fri, 09 Oct 2026 10:23:57 +0000",
+        "tag": "English Chess Federation",
+        "_rss_content": "HMP Whitemoor HM Prison Whitemoor is a Category A men&#8217;s prison near March, Cambridgeshire, England, operated by His Majesty&#8217;s Prison Service. It was built on the site of an old..."
+      }
+    ],
+    "kalla_display": "English Chess Federation",
+    "datum": "Fri, 09 Oct 2026 10:23:57 +0000",
+    "hittad": "2026-10-09T10:47:03.767895"
+  },
+  {
+    "id": "77d727669d8b",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "English Chess Federation",
+        "url": "https://www.englishchess.org.uk/bcet-awards-2026/",
+        "title": "BCET Awards 2026",
+        "date": "Fri, 09 Oct 2026 08:53:13 +0000",
+        "tag": "English Chess Federation",
+        "_rss_content": "The Chess Trust make annual BCET Awards to schools and junior clubs. This year we received several very good applications and had a difficult task in selecting six.&#160;Those receiving the..."
+      }
+    ],
+    "kalla_display": "English Chess Federation",
+    "datum": "Fri, 09 Oct 2026 08:53:13 +0000",
+    "hittad": "2026-10-09T10:47:03.767900"
+  },
+  {
+    "id": "554b47ec0ae3",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/ilyumzhinov-says-cas-could-erase-turlov",
-        "title": "Ilyumzhinov Says CAS Could Erase Turlov",
-        "date": "Tue, 06 Oct 2026 13:47:20 GMT",
+        "url": "https://chessnewsnetwork.com/article/did-malcolm-peins-endorsement-help-turlov-win-fide",
+        "title": "Did Malcolm Pein's Endorsement Help Turlov Win FIDE?",
+        "date": "Fri, 09 Oct 2026 10:21:00 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "Kirsan Ilyumzhinov, who ran FIDE for 23 years until 2018, says the Court of Arbitration for Sport (CAS) could still throw out Timur Turlov&#39;s election as FIDE president."
+        "_rss_content": "The suspicion that has trailed Timur Turlov's election as FIDE president since the Samarkand General Assembly has now reached the business press. Business Matters, a UK outlet, published a piece on October 9 asking whether the endorsement of English chess figure Malcolm Pein helped put a candidate under Ukrainian sanctions at the head of the world federation."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Tue, 06 Oct 2026 13:47:20 GMT",
-    "hittad": "2026-10-07T11:53:17.242867"
+    "datum": "Fri, 09 Oct 2026 10:21:00 GMT",
+    "hittad": "2026-10-09T10:47:03.767905"
   },
   {
-    "id": "50981e421d9a",
+    "id": "0e730b85259c",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/team-india-honoured-by-tamil-nadu-chief-minister",
+        "title": "Team India Honoured by Tamil Nadu Chief Minister",
+        "date": "Thu, 08 Oct 2026 15:29:31 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Tamil Nadu Chief Minister Joseph Vijay handed out cash awards on Thursday to the state's medal winners from the Samarkand Olympiad, with ChessBase India reporting five awards totaling Rs 60 lakh."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Thu, 08 Oct 2026 15:29:31 GMT",
+    "hittad": "2026-10-09T10:47:03.767910"
+  },
+  {
+    "id": "203ac510707b",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/magnus-carlsen-to-launch-new-elite-tournament-in-barcelona",
+        "title": "Magnus Carlsen to launch new elite tournament in Barcelona",
+        "date": "Thu, 08 Oct 2026 14:39:16 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Magnus Carlsen is coming to Barcelona on October 20 to unveil the MOVE Cup, a new elite tournament set to debut January 18-20, 2027. The announcement came via a press invitation and was confirmed by veteran chess journalist David Llada on social media, who will be handling media for the event."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Thu, 08 Oct 2026 14:39:16 GMT",
+    "hittad": "2026-10-09T10:47:03.767912"
+  },
+  {
+    "id": "1e4e8d5f8a46",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/alua-nurman-questions-why-chess-olympiad-results-do-not-qualify-for-state-reward",
+        "title": "Alua Nurman Questions Why Chess Olympiad Results Do Not Qualify for State Rewards",
+        "date": "Wed, 07 Oct 2026 19:56:37 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Kazakh chess player Alua Nurman has questioned why results from the Chess Olympiad are not included in Kazakhstan’s system of state rewards for athletes."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Wed, 07 Oct 2026 19:56:37 GMT",
+    "hittad": "2026-10-09T10:47:03.767915"
+  },
+  {
+    "id": "9b18e50adbb2",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/everyone-has-lost-points-a-rating-deflation-deepdive",
+        "title": "\"Everyone Has Lost Points\": A Rating Deflation Deep Dive",
+        "date": "Wed, 07 Oct 2026 16:35:00 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Ian Nepomniachtchi didn't set out to make news on a Tuesday livestream, but his aside landed squarely inside one of chess's hottest arguments in recent years."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Wed, 07 Oct 2026 16:35:00 GMT",
+    "hittad": "2026-10-09T10:47:03.767918"
+  },
+  {
+    "id": "2b5f6c8e7a57",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/game-of-the-day-gm-murali-karthikeyan-beats-gm-alexandr-predke",
+        "title": "Game of the Day: GM Murali Karthikeyan Beats GM Alexandr Predke",
+        "date": "Wed, 07 Oct 2026 14:27:46 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "GM Murali Karthikeyan beat GM Alexandr Predke in round 3, board 25 of the Serbian Super League 2026 (Open), winning in 30 moves."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Wed, 07 Oct 2026 14:27:46 GMT",
+    "hittad": "2026-10-09T10:47:03.767920"
+  },
+  {
+    "id": "9bf8ef048563",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/afghan-olympiad-players-still-under-house-arrest-as-fide-turns-to-diplomacy",
+        "title": "Afghan Olympiad Players Still Under House Arrest as FIDE Turns to Diplomacy",
+        "date": "Wed, 07 Oct 2026 13:21:04 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "The three Afghan chess players detained after their secret trip to the Samarkand Olympiad were still under house arrest in Kabul as of the latest reporting, dated October 4."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Wed, 07 Oct 2026 13:21:04 GMT",
+    "hittad": "2026-10-09T10:47:03.767923"
+  },
+  {
+    "id": "93eb3b1c222f",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/pensamientos-critico-ajedrecistico-uvencio-blanco",
-        "title": "Pensamiento crítico vs. pensamiento ajedrecístico: coincidencias, diferencias y confusiones",
-        "date": "Tue, 06 Oct 2026 22:45:00 GMT",
+        "url": "https://es.chessbase.com/post/ajedrez-expresividad-naganethra-reddy",
+        "title": "«El ajedrez quizás sea uno de los deportes menos expresivos que he visto en mi vida»",
+        "date": "Thu, 08 Oct 2026 19:45:00 GMT",
         "tag": "ChessBase España",
-        "_rss_content": "El pensamiento crítico y el pensamiento ajedrecístico comparten operaciones como analizar, comparar alternativas, anticipar consecuencias y revisar errores, pero no son capacidades equivalentes. El texto examina sus coincidencias y diferencias desde la psicología cognitiva, subrayando que la pericia adquirida sobre el tablero no se transfiere automáticamente a otros ámbitos. El potencial educativo del ajedrez aparece cuando existe una mediación pedagógica capaz de conectar explícitamente ambos modos de razonamiento. | Imagen (IA): Uvencio Blanco"
+        "_rss_content": "Acostumbrada al bádminton y al automovilismo, Naganethra Reddy esperaba que el ajedrez le pareciera silencioso y difícil de interpretar. Sin embargo, su experiencia como espectadora de la Global Chess League cambió esa percepción: el dramatismo se encontraba en las miradas, las pausas y los pequeños gestos alrededor del tablero, así como en las historias que se contaban durante los comentarios de las partidas. Estas son sus impresiones. | En la imagen: Bibisara Assaubayeva | Foto: Global Chess League 2026"
       }
     ],
     "kalla_display": "ChessBase España",
-    "datum": "Tue, 06 Oct 2026 22:45:00 GMT",
-    "hittad": "2026-10-07T11:53:17.242871"
+    "datum": "Thu, 08 Oct 2026 19:45:00 GMT",
+    "hittad": "2026-10-09T10:47:03.767926"
   },
   {
-    "id": "bddd3a765fb2",
+    "id": "0e6038a5a851",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/gligoric-trophy-2026-ganadores",
-        "title": "La FIDE premia el juego limpio de Sebastian Poltorak y Tin Jingyao",
-        "date": "Tue, 06 Oct 2026 08:00:00 GMT",
+        "url": "https://es.chessbase.com/post/piezas-mas-antiguas-del-mundo-samarcanda",
+        "title": "Las piezas de ajedrez más antiguas del mundo",
+        "date": "Wed, 07 Oct 2026 18:00:00 GMT",
         "tag": "ChessBase España",
-        "_rss_content": "El polaco Sebastian Poltorak y el gran maestro singapurense Tin Jingyao (en la foto) han sido reconocidos con el Trofeo Svetozar Gligoric 2026. Poltorak fue distinguido por aceptar tablas después de que su rival se encontrara indispuesto durante la Copa de Europa de Clubes, mientras que Tin renunció a reclamar una victoria por incomparecencia cuando su oponente llegó tarde debido al tráfico. La comisión designada señaló que ambos casos reflejaron un comportamiento ejemplar de juego limpio y respeto por los rivales, por encima de una ventaja competitiva inmediata. | Foto: FIDE"
+        "_rss_content": "En 1977, el historiador y arqueólogo Yuri Buryakov descubrió siete piezas de marfil en las ruinas de la antigua ciudad de Afrasiab, cerca de Samarcanda. Las piezas han sido datadas a mediados del siglo VII y se consideran las piezas de ajedrez más antiguas conocidas en el mundo. | Foto: Museo Estatal de Samarcanda"
       }
     ],
     "kalla_display": "ChessBase España",
-    "datum": "Tue, 06 Oct 2026 08:00:00 GMT",
-    "hittad": "2026-10-07T11:53:17.242875",
+    "datum": "Wed, 07 Oct 2026 18:00:00 GMT",
+    "hittad": "2026-10-09T10:47:03.767928",
     "liknar": {
-      "titel": "Poltorak och Tin Jingyao får Gligoric-trofén",
-      "url": "https://gambit.se/poltorak-och-tin-jingyao-far-gligoric-trofen/",
-      "datum": "2026-10-06"
+      "titel": "Staden Afrasiab i Uzbekistan kopplas till världens äldsta schackpjäser",
+      "url": "https://gambit.se/staden-afrasiab-i-uzbekistan-kopplas-till-varldens-aldsta-schackpjaser/",
+      "datum": "2026-10-07"
     }
+  },
+  {
+    "id": "aec7505c90a6",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Kenya Chess Masala",
+        "url": "https://kenyachessmasala.com/2026/10/5th-jumuiya-ya-afrika-mashariki-fm-peter-majur-crowned-winner.html",
+        "title": "5th Jumuiya Ya Afrika Mashariki – FM Peter Majur crowned winner",
+        "date": "Thu, 08 Oct 2026 08:29:13 +0000",
+        "tag": "Kenya Chess Masala",
+        "_rss_content": "5th Jumuiya Ya Afrika Mashariki – FM Peter Majur crowned winner FM Peter Majur Manyang of South Sudan won the Open Section of the 5th Jumuiya Ya Afrika Mashariki Grand Prix in fine style, scoring 5.5 points out of six rounds. The Mavens Chess Club player remained unbeaten and taking home KES 70,000 as his [...] The post 5th Jumuiya Ya Afrika Mashariki – FM Peter Majur crowned winner appeared first on Kenya Chess Masala ."
+      }
+    ],
+    "kalla_display": "Kenya Chess Masala",
+    "datum": "Thu, 08 Oct 2026 08:29:13 +0000",
+    "hittad": "2026-10-09T10:47:03.767931"
   }
 ]
