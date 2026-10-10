@@ -1,13 +1,240 @@
 [
   {
+    "source": "Chess.com",
+    "original_url": "https://www.chess.com/news/view/2026-us-chess-championship-round-1",
+    "original_title": "2026 Us Chess Championship Round 1",
+    "swedish_title": "So vinner på födelsedagen i USA-mästerskapet",
+    "swedish_content": "Wesley So firade sin 33-årsdag med seger över Sam Shankland i första ronden av 2026 års U.S. Chess Championship, som inleddes i Saint Louis på fredagen. Även Jeffery Xiong och Awonder Liang startade turneringen med vinster, mot Sam Sevian respektive Hans Niemann.\n\nI U.S. Women's Chess Championship bjöds det på fyra avgjorda partier i första ronden. Irina Krush tappade damen i en klart bättre ställning och föll mot Rachael Li. Anna Zatonskih, Thalia Cervantes och Megan Paragua var de andra som inledde med seger.\n\nMästerskapen arrangeras av Saint Louis Chess Club och spelas 9–21 oktober med tolv elitspelare i varje klass. Betänketiden är 90 minuter för de första 40 dragen, därefter 30 minuter för resten av partiet, med 30 sekunders tillägg per drag från första draget. Den sammanlagda prissumman överstiger 400 000 dollar. Andra ronden spelas lördagen den 10 oktober klockan 13.00 ET (19.00 CEST).",
+    "date": "2026-10-09T11:15:24.899479",
+    "tag": "Chess.com",
+    "processed_at": "2026-10-10T16:06:14.145403",
+    "alla_kallor": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/2026-us-chess-championship-round-1"
+      },
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/duda-bortnyk-le-3-0-thursday-10-8-2026"
+      },
+      {
+        "source": "ChessBase España",
+        "url": "https://es.chessbase.com/post/us-championships-2026-directo"
+      }
+    ],
+    "alla_urler": [
+      "https://www.chess.com/news/view/2026-us-chess-championship-round-1",
+      "https://www.chess.com/news/view/duda-bortnyk-le-3-0-thursday-10-8-2026",
+      "https://es.chessbase.com/post/us-championships-2026-directo"
+    ],
+    "bild_filnamn": "bildbanken-9n2ExDqD5e.jpg",
+    "bild_kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund",
+    "bild_alternativ": [
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/FIDE_World_FR_Chess_Championship_2019_-_Nepomniachtchi_v_So.jpg/960px-FIDE_World_FR_Chess_Championship_2019_-_Nepomniachtchi_v_So.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Lennart Ootes (Wikimedia Commons, CC BY-SA 4.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/FIDE_World_FR_Chess_Championship_2019_-_Wesley_So.jpg/960px-FIDE_World_FR_Chess_Championship_2019_-_Wesley_So.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Lennart Ootes (Wikimedia Commons, CC BY-SA 4.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/FIDE_World_FR_Chess_Championship_2019_-_final_four.jpg/960px-FIDE_World_FR_Chess_Championship_2019_-_final_four.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Lennart Ootes (Wikimedia Commons, CC BY-SA 4.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/London_Chess_Classic_2016_12_09-13_%2830700060514%29.jpg/960px-London_Chess_Classic_2016_12_09-13_%2830700060514%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Wolfgang Jekel (Wikimedia Commons, CC BY 2.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/GM_Sam_Shankland_raises_the_Golden_cup_for_the_US_team_%2829638496672%29.jpg/960px-GM_Sam_Shankland_raises_the_Golden_cup_for_the_US_team_%2829638496672%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Andreas Kontokanis  from Piraeus, Greece (Wikimedia Commons, CC BY-SA 2.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Sam_Shankland_with_the_cup_%2829327246333%29.jpg/960px-Sam_Shankland_with_the_cup_%2829327246333%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Andreas Kontokanis  from Piraeus, Greece (Wikimedia Commons, CC BY-SA 2.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Shankland_Samuel_%2830085388441%29_%28cropped%29.jpg/960px-Shankland_Samuel_%2830085388441%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Andreas Kontokanis  from Piraeus, Greece (Wikimedia Commons, CC BY-SA 2.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/TataSteelChessLeiden35.jpg/960px-TataSteelChessLeiden35.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Vysotsky (Wikimedia Commons, CC BY-SA 4.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/JefferyXiong17.jpg/960px-JefferyXiong17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Stefan64 (Wikimedia Commons, CC BY-SA 4.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/TataSteelChess2017-24.jpg/960px-TataSteelChess2017-24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Vysotsky (Wikimedia Commons, CC BY-SA 4.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/TataSteelChess2017-67.jpg/960px-TataSteelChess2017-67.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Vysotsky (Wikimedia Commons, CC BY-SA 4.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/TataSteelChess2020-25.jpg/960px-TataSteelChess2020-25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Vysotsky (Wikimedia Commons, CC BY-SA 4.0)"
+      }
+    ]
+  },
+  {
     "source": "Chess News Network",
-    "original_url": "https://chessnewsnetwork.com/article/rosenstein-offers-european-chess-1-million-over-four-years",
-    "original_title": "Rosenstein Offers European Chess €1 Million Over Four Years",
-    "swedish_title": "Jag kan tyvärr inte skriva en nyhetsnotis utifrån detta material. Den angivna originaltexten innehåller ingen faktisk artikelinformation om händelsen i rubriken (\"Rosenstein Offers European Chess €1 Million Over Four Years\") – texten består uteslutande av gränssnittstext, instruktioner för en redigeringsportal och allmänna villkor för webbplatsen Chess News Network.",
-    "swedish_content": "Det finns alltså inga faktauppgifter (vem Rosenstein är, vilken organisation som erbjuds pengarna, syftet med erbjudandet, tidsramen i detalj, eller källor) att basera en korrekt och sanningsenlig nyhetstext på.\n\nOm du kan dela den faktiska artikeltexten med de konkreta uppgifterna (vem, vad, var, när, belopp, villkor) skriver jag gärna notisen enligt de angivna riktlinjerna.",
-    "date": "Fri, 09 Oct 2026 11:47:26 GMT",
+    "original_url": "https://chessnewsnetwork.com/article/untitled-draft-3",
+    "original_title": "Ilyumzhinov To Testify in CAS Case",
+    "swedish_title": "Rosenstein stöder Ilyumzhinov och skänker miljon till Europa",
+    "swedish_content": "Wadim Rosenstein, som blev tvåa i FIDE:s presidentval, var aktiv på X den 9 oktober med två besked. Han meddelade att tidigare FIDE-presidenten Kirsan Ilyumzhinov har gått med på att vittna till stöd för hans fall inför Court of Arbitration for Sport (CAS). Rosenstein hävdar att FIDE tillämpat sina sanktionsregler ojämlikt, och pekar på Ilyumzhinovs tidigare uteslutning jämfört med behandlingen av Timur Turlov och Arkady Dvorkovich. Enligt Rosenstein stod hela hans block redo att stödja en kandidatur för Ilyumzhinov, men man var \"13 röster ifrån\" att ändra utgången – en uppgift som stämmer överens med röstsiffrorna i omröstningen, där Turlov vann med 110 röster mot 85 av totalt 195. Ilyumzhinov själv har inte bekräftat uppgiften om att han ska vittna.\n\nSamma dag meddelade Rosenstein också att han skänker en miljon euro till European Chess Union, utbetalat med 250 000 euro per år under fyra år. \"Jag är mycket glad att kunna stödja schackets framtid i Europa\", skrev han, och underströk att satsningen handlar om sportens framtid \"oavsett valresultat\". Rosenstein har sedan tidigare byggt upp en rad schackprojekt under namnet WR Chess, bland annat WR Women's Chess Tour och en världsrekordsmarathon i Lima, och uppger att projekten finansieras av hans eget företag WR Group.",
+    "date": "Fri, 09 Oct 2026 21:15:00 GMT",
     "tag": "Chess News Network",
-    "processed_at": "2026-10-09T17:57:16.494335",
-    "bild_alternativ": []
+    "processed_at": "2026-10-10T16:06:40.662643",
+    "alla_kallor": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/untitled-draft-3"
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/rosenstein-puts-1-million-behind-european-chess"
+      }
+    ],
+    "alla_urler": [
+      "https://chessnewsnetwork.com/article/untitled-draft-3",
+      "https://chessnewsnetwork.com/article/rosenstein-puts-1-million-behind-european-chess"
+    ],
+    "bild_alternativ": [
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Team_WR_Chess.jpg/960px-Team_WR_Chess.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Lennart Ootes (Wikimedia Commons, CC BY 4.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Wadim_Rosenstein.jpg/960px-Wadim_Rosenstein.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: LennartOotes (Wikimedia Commons, CC BY 4.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Chess_Championship_2015_%28Women%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "kredit": "Foto: Government.ru (Wikimedia Commons, CC BY 4.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Closing_ceremony_World_Chess_Championship_2014.jpeg/960px-Closing_ceremony_World_Chess_Championship_2014.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Kremlin.ru (Wikimedia Commons, CC BY 4.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Conversation_of_participants_of_the_World_Cup_in_chess_in_Sochi.jpeg/960px-Conversation_of_participants_of_the_World_Cup_in_chess_in_Sochi.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Kremlin.ru (Wikimedia Commons, CC BY 4.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Opening_ceremony_of_42nd_Chess_Olympiad_17.jpg/960px-Opening_ceremony_of_42nd_Chess_Olympiad_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Presidential Press and Information Office (Wikimedia Commons, CC BY 4.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Arkady_Dvorkovich_after_the_Press_Conference_WTRBCC2026.jpg/960px-Arkady_Dvorkovich_after_the_Press_Conference_WTRBCC2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Yunfan Zhao / Lichess (Wikimedia Commons, CC BY-SA 4.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Arkady_Dvorkovich_in_June_2026.jpg/960px-Arkady_Dvorkovich_in_June_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Yunfan Zhao / Lichess (Wikimedia Commons, CC BY-SA 4.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/President_of_the_Russian_Chess_Federation_Andrey_Filatov%2C_France%E2%80%99s_Minister_of_the_Economy_and_Finance_Bruno_Le_Maire_and_Deputy_Prime_Minister_of_the_Russian_Federation_Arkady_Dvorkovich_at_the_Russian_Chess_Museum_in_Moscow.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Mimikr (Wikimedia Commons, CC BY-SA 4.0)"
+      }
+    ]
+  },
+  {
+    "source": "Bergensjakk",
+    "original_url": "https://bergensjakk.no/2026/10/10/fagernes-international-autumn-2026-dag-7/",
+    "original_title": "Fagernes International Autumn 2026 – dag 7",
+    "swedish_title": "Glöckler säkrar GM-norm trots trubbel mot Sivuk",
+    "swedish_content": "Åttonde ronden av Fagernes International Autumn spelades på fredagen. Ledande IM Christian Glöckler (GER 2515) hamnade i trubbel på första bordet mot GM Vitaly Sivuk (SWE 2485), men den svenske stormästaren såg inte att han kunde byta sitt kungangrepp mot ett vunnet slutspel. Partiet, som var mycket skarpt, slutade därför remi. 14-årige Glöckler säkrade sig därmed sin andra GM-norm, oavsett utgången i rond 9 och 10.\n\nTvå ronder före slut leder Glöckler och GM Rinat Jumabayev (2564) GM-gruppen med 6½ poäng. På 5½ poäng följer GM Elham Amar (2567), GM Frode Urkedal (2554), GM Tiger Hillarp (SWE 2417), Sivuk, GM Krishnan Sasikiran (IND 2520) och GM G B Harshavardhan (IND 2529). Amar och Urkedal vann sina partier mot IM Chan Kim Yew (MAS 2379) respektive IM Lukas Dotzer (AUT 2474).\n\nIM Semen Mitusov (2464) förlorade mot Jumabayev och kan inte längre ta sin tredje GM-norm. Han har 5 poäng tillsammans med bland andra GM Aksel Bu Kvaløy (2515), FM Jacob Templen Grave (2397) och FM Eivind Grunt Kreken (2347). Grave kan säkra en IM-norm med seger mot Mitusov i rond 9.\n\nI Öppna gruppen fortsätter IM Sharan Rao (IND 2322) att vinna, denna gång mot Mykhailo Kuzmenko (UKR 1821). Rao toppar tabellen med 8 poäng och har redan säkrat förstaplatsen två ronder före slut. Stanislav Hohelj (UKR 2090) ligger tvåa med 6 poäng, följd av Martin K Andersen (1873) och Aarush Bhat (2008) på 5½ poäng.\n\nNionde ronden spelas lördag klockan 14.00.",
+    "date": "Sat, 10 Oct 2026 05:25:18 +0000",
+    "tag": "Bergensjakk",
+    "processed_at": "2026-10-10T16:07:01.621426",
+    "bild_filnamn": "bildbanken-BA0DCXvmNw.jpg",
+    "bild_kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund",
+    "bild_alternativ": [
+      {
+        "kalla": "bildbanken",
+        "url": "https://bildbanken.schack.se/Home/BA0DCXvmNw.jpg",
+        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
+      },
+      {
+        "kalla": "bildbanken",
+        "url": "https://bildbanken.schack.se/Home/BA0G7JxrVJ.jpg",
+        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
+      },
+      {
+        "kalla": "bildbanken",
+        "url": "https://bildbanken.schack.se/Home/B49AC6uHic.jpg",
+        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
+      },
+      {
+        "kalla": "bildbanken",
+        "url": "https://bildbanken.schack.se/Home/BA0E0HivYg.jpg",
+        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Sivuk_Vitaly_Ukr_Ch_2015.jpg/960px-Sivuk_Vitaly_Ukr_Ch_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Петрокрс (Wikimedia Commons, CC BY-SA 4.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Sivuk_Vitaly_Ukr_Ch_2015_%28cropped%29.jpg/960px-Sivuk_Vitaly_Ukr_Ch_2015_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Петрокрс (Wikimedia Commons, CC BY-SA 4.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Abousattorov_v._Jumabayev_R6_17th_Asian_Continental_Chess_Championships.jpg/960px-Abousattorov_v._Jumabayev_R6_17th_Asian_Continental_Chess_Championships.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Jess M. Escaros for the Philippine News Agency (Wikimedia Commons, Public domain)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/TataSteelChess2022-6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "kredit": "Foto: Vysotsky (Wikimedia Commons, CC BY-SA 4.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Zumabajew_rinat_20081119_olympiade_dresden.jpg/960px-Zumabajew_rinat_20081119_olympiade_dresden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Frank Hoppe (Wikimedia Commons, Public domain)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Zumabajew_rinat_20081120_olympiade_dresden.jpg/960px-Zumabajew_rinat_20081120_olympiade_dresden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Frank Hoppe (Wikimedia Commons, CC BY-SA 3.0)"
+      },
+      {
+        "kalla": "bildbanken",
+        "url": "https://bildbanken.schack.se/Home/Aw4F5Nl5cp.jpg",
+        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
+      },
+      {
+        "kalla": "bildbanken",
+        "url": "https://bildbanken.schack.se/Home/AnJEFNy4ob.jpg",
+        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
+      }
+    ]
   }
 ]
