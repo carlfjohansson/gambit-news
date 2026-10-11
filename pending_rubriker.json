@@ -1,175 +1,245 @@
 [
   {
-    "id": "ee3844406347",
+    "id": "edde4c33bd60",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-us-chess-championship-round-1",
-        "title": "2026 Us Chess Championship Round 1",
-        "date": "2026-10-09T11:15:24.899479",
+        "url": "https://www.chess.com/news/view/2026-us-chess-championships-round-2",
+        "title": "2026 Us Chess Championships Round 2",
+        "date": "2026-10-10T08:25:57.079197",
         "tag": "Chess.com"
       },
       {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/duda-bortnyk-le-3-0-thursday-10-8-2026",
-        "title": "Duda Bortnyk Le 3 0 Thursday 10 8 2026",
-        "date": "2026-10-09T11:15:24.899512",
-        "tag": "Chess.com"
-      },
-      {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/us-championships-2026-directo",
-        "title": "Campeonatos de Ajedrez de Estados Unidos: Ronda 1",
-        "date": "Fri, 09 Oct 2026 19:00:00 GMT",
-        "tag": "ChessBase España",
-        "_rss_content": "Los Campeonatos de Ajedrez de Estados Unidos de 2026 se celebran del 9 al 21 de octubre en el Saint Louis Chess Club. Cada torneo cuenta con 12 participantes que se enfrentan por sistema de liga a una vuelta, con un ritmo de juego clásico. Fabiano Caruana (en la imagen), Wesley So y Levon Aronian son los jugadores con mayor Elo en la sección abierta, mientras que Carissa Yip, Alice Lee e Irina Krush encabezan la nómina de participantes en la sección femenina. | Sigue las partidas en directo a partir de las 19:00 hora de Madrid (14:00 Buenos Aires, 11:00 Ciudad de México) | Foto: Bryan Adams"
-      }
-    ],
-    "kalla_display": "Chess.com + ChessBase España",
-    "datum": "2026-10-09T11:15:24.899479",
-    "hittad": "2026-10-10T11:16:48.486569"
-  },
-  {
-    "id": "1518fd425d7c",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/untitled-draft-3",
-        "title": "Ilyumzhinov To Testify in CAS Case",
-        "date": "Fri, 09 Oct 2026 21:15:00 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Wadim Rosenstein announced on X on October 9 that former FIDE president Kirsan Ilyumzhinov has agreed to testify in support of his case before the Court of Arbitration for Sport."
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/us-championships-2026-2",
+        "title": "US Championships: So and Liang remain perfect, Paragua beats Yip",
+        "date": "Sun, 11 Oct 2026 04:45:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Wesley So and Awonder Liang remain the only players with perfect scores in the open section of the US Championship after two rounds. Fabiano Caruana stands alone in third place, half a point behind. In the women's tournament, the two lowest-rated participants, Thalia Cervantes and 13-year-old Megan Paragua, share the lead on 2/2. Paragua defeated defending champion Carissa Yip, who blundered in an equal position. | Photo: Lennart Ootes / Saint Louis Chess Club"
       },
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/rosenstein-puts-1-million-behind-european-chess",
-        "title": "Rosenstein Puts €1 Million Behind European Chess",
-        "date": "Fri, 09 Oct 2026 13:02:00 GMT",
+        "url": "https://chessnewsnetwork.com/article/u-s-championship-round-1",
+        "title": "U.S. Championship: Round 1",
+        "date": "Sat, 10 Oct 2026 20:38:02 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "European chess has received a significant vote of confidence. Wadim Rosenstein has pledged €1,000,000 to the European Chess Union"
+        "_rss_content": "Round 1 in Saint Louis on October 9 left three players at 1/1 in the open section, with Wesley So, Awonder Liang and Jeffery Xiong all winning with White, and Fabiano Caruana opening with a 17-move draw. The women’s section was even more decisive, as four wins produced a four-way tie at the top while defending champion Carissa Yip started with a draw."
       }
     ],
-    "kalla_display": "Chess News Network",
-    "datum": "Fri, 09 Oct 2026 21:15:00 GMT",
-    "hittad": "2026-10-10T11:16:48.486588"
+    "kalla_display": "Chess News Network + Chess.com + ChessBase",
+    "datum": "2026-10-10T08:25:57.079197",
+    "hittad": "2026-10-11T08:27:21.662370",
+    "liknar": {
+      "titel": "So vinner på födelsedagen i USA-mästerskapet",
+      "url": "https://gambit.se/so-vinner-pa-fodelsedagen-i-usa-masterskapet/",
+      "datum": "2026-10-10"
+    }
   },
   {
-    "id": "9d0fabaeb647",
+    "id": "4e83d1b606df",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/club-player-challenges-dubov-to-100-bullet-games",
-        "title": "Club Player Challenges Dubov To 100 Bullet Games",
-        "date": "2026-10-09T11:15:24.899549",
+        "url": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-10-2026",
+        "title": "Hikaru Nakamura Wins Bullet Brawl Oct 10 2026",
+        "date": "2026-10-10T08:25:57.079238",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-10-09T11:15:24.899549",
-    "hittad": "2026-10-10T11:16:48.486597"
+    "datum": "2026-10-10T08:25:57.079238",
+    "hittad": "2026-10-11T08:27:21.662396"
   },
   {
-    "id": "da0d49770ab0",
+    "id": "f256e4e7dd5b",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/maghsoodloo-wins-freestyle-friday-october-9-2026",
+        "title": "Maghsoodloo Wins Freestyle Friday October 9 2026",
+        "date": "2026-10-10T08:25:57.079265",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-10-10T08:25:57.079265",
+    "hittad": "2026-10-11T08:27:21.662401"
+  },
+  {
+    "id": "5a48b47db7e5",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/review-robert-ris-fritztrainers-on-openings-calculation-and-strategic-thinking-part-2",
-        "title": "Review: Robert Ris' FritzTrainers on openings, calculation and strategic thinking (Part 2)",
-        "date": "Sat, 10 Oct 2026 07:00:00 GMT",
+        "url": "https://en.chessbase.com/post/strange-comforts-superstition-chess",
+        "title": "The strange comforts of superstition in chess",
+        "date": "Sun, 11 Oct 2026 02:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "In recent years, Robert Ris has made a name for himself as a creator of opening courses. He also hosts a regular ChessBase show on opening trends, in which he examines the latest developments. Lukas Köpl has taken a closer look at Ris's opening courses and offers an assessment."
+        "_rss_content": "Chess sells itself as a contest of calculation, where chance has been removed. Yet some elite players keep lucky pens, repeat outfits and meals, or give a cat a place in their pre-game routine. The interesting question is not whether a lucky charm can change a position on the board; it is why people reach for one when the result matters and control feels limited. | Pictured: Alexander Alekhine and his cat Chess (Amsterdam, 1935)"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Sat, 10 Oct 2026 07:00:00 GMT",
-    "hittad": "2026-10-10T11:16:48.486605"
+    "datum": "Sun, 11 Oct 2026 02:00:00 GMT",
+    "hittad": "2026-10-11T08:27:21.662406"
   },
   {
-    "id": "43475a75360f",
+    "id": "c3b85a07f97d",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/eight-days-uzbekistan-axel-eger",
+        "title": "Between the Silk Road and the chessboard - eight days in Uzbekistan",
+        "date": "Sat, 10 Oct 2026 17:40:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Besides the spectacular Chess Olympiad, Uzbekistan and the city of Samarkand had much more to offer, including friendly people and 2,500 years of culture. Axel Eger attended the Olympiad and took the opportunity to explore the country and get to know its people. Here is his travel report. | Photos: Axel Eger"
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Sat, 10 Oct 2026 17:40:00 GMT",
+    "hittad": "2026-10-11T08:27:21.662410"
+  },
+  {
+    "id": "1fa1f8be7cc2",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/4th-mind-champions-challenge-2026",
-        "title": "SpotlightTop storyVivek Sohani·9 hours agoRs. 53,000 Mind Champions Challenge 4th Edition for visually impaired chess players on 17th October!",
-        "date": "2026-10-09T11:15:44.660148",
+        "url": "https://www.chessbase.in/news/prishita-gupta-and-adhiraj-mitra-become-36th-national-under-17-champions",
+        "title": "SpotlightTop storyDevansh Singh·16 hours agoPrishita Gupta and Adhiraj Mitra become 36th National Under-17 Champions",
+        "date": "2026-10-10T08:26:20.387524",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-10-09T11:15:44.660148",
-    "hittad": "2026-10-10T11:16:48.486611"
+    "datum": "2026-10-10T08:26:20.387524",
+    "hittad": "2026-10-11T08:27:21.662414"
   },
   {
-    "id": "7a2c760a199b",
+    "id": "d572927a7687",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Dansk Skak Union",
+        "url": "https://nyheder.skak.dk/2026/10/10/delt-foering-i-odense-2/?utm_source=rss&utm_medium=rss&utm_campaign=delt-foering-i-odense-2",
+        "title": "Delt føring i Odense",
+        "date": "Sat, 10 Oct 2026 18:42:02 +0000",
+        "tag": "Dansk Skak Union",
+        "_rss_content": "Tre spillere har efter de første tre runder hver to point på kontoen i Mesterskabsgruppen i Odense: Forhåndsfavorit IM Isak Storme, IM Vitus Bondo Medhus og den lokale Simon Bjørk Haarh. De har alle mødt hinanden indbyrdes, så det bliver kampene mod gruppens øvrige spillere søndag, der afgør mesterskabets placering. Fotoet øverst i artiklen af [&#8230;]"
+      }
+    ],
+    "kalla_display": "Dansk Skak Union",
+    "datum": "Sat, 10 Oct 2026 18:42:02 +0000",
+    "hittad": "2026-10-11T08:27:21.662417"
+  },
+  {
+    "id": "009d11f36765",
     "status": "pending",
     "rubriker": [
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/10/fagernes-international-autumn-2026-dag-7/",
-        "title": "Fagernes International Autumn 2026 – dag 7",
-        "date": "Sat, 10 Oct 2026 05:25:18 +0000",
+        "url": "https://bergensjakk.no/2026/10/11/fagernes-international-autumn-2026-dag-8/",
+        "title": "Fagernes International Autumn 2026 – dag 8",
+        "date": "Sun, 11 Oct 2026 05:10:27 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "Åttende runde av Fagernes International Autumn ble spilt fredag. Ledende IM Christian Glöckler (GER 2515) var i trøbbel på førstebord mot GM Vitaly Sivuk (SWE 2485), men den svenske stormesteren så ikke at han kunne bytte sitt kongeangrep i et vunnet sluttspill. Dermed slapp Glöckler med skrekken og et svært skarpt parti endte med poengdeling. Les mer"
+        "_rss_content": "IM Christian Glöckler (GER 2515) har ledet GM-gruppen i Fagernes International Autumn hele veien, men da GM-normen var sikret etter åtte runder ble det kanskje vanskelig å holde konsentrasjonen oppe. Uansett gikk 14-åringen i niende runde på sitt første tap, med hvit mot GM Krishnan Sasikiran (IND 2520). GM Rinat Jumabayev (2564) spilte remis mot Les mer"
       }
     ],
     "kalla_display": "Bergensjakk",
-    "datum": "Sat, 10 Oct 2026 05:25:18 +0000",
-    "hittad": "2026-10-10T11:16:48.486618"
+    "datum": "Sun, 11 Oct 2026 05:10:27 +0000",
+    "hittad": "2026-10-11T08:27:21.662425",
+    "liknar": {
+      "titel": "14-årig Gloeckler ensam i täten i Fagernes",
+      "url": "https://gambit.se/14-arig-gloeckler-ensam-i-taten-i-fagernes/",
+      "datum": "2026-10-09"
+    }
   },
   {
-    "id": "cbc10f656446",
+    "id": "e2c4600d0998",
     "status": "pending",
     "rubriker": [
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/10/fagernes-autumn-blitz-2026/",
-        "title": "Fagernes Autumn Blitz 2026",
-        "date": "Sat, 10 Oct 2026 04:59:42 +0000",
+        "url": "https://bergensjakk.no/2026/10/11/kretsmesterskapet-i-lynsjakk-vestland-2026/",
+        "title": "Kretsmesterskapet i lynsjakk Vestland 2026",
+        "date": "Sun, 11 Oct 2026 05:10:17 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "Lynsjakkturneringen Fagernes Autumn Blitz ble spilt på Fagernes fredag 9. oktober 2026 etter åttende runde av Fagernes International Autumn. Turneringen hadde 9 runder og inngår i Norges Grand Prix 2026-27. Tyske IM Christian Glöckler hadde en treg start med 2&#189; av 4, men vant sine resterende 5 partier og endte på 7&#189; poeng. Dette ga Les mer"
+        "_rss_content": "Kretsmesterskapet i lynsjakk for Vestland ble spilt på Skranevatnet / Ytrebygda kultursenter i Bergen lørdag 10. oktober 2026. Arrangør var Søråshøgda Sjakklubb. Den klart høyest ratede var Mateja Krbacevic, som innfridde med 10&#189; poeng på 11 runder. Krbacevic sto over første runde og fikk et halvpoeng for dette. Deretter vant 15-åringen fra Søråshøgda alle de Les mer"
       }
     ],
     "kalla_display": "Bergensjakk",
-    "datum": "Sat, 10 Oct 2026 04:59:42 +0000",
-    "hittad": "2026-10-10T11:16:48.486624"
+    "datum": "Sun, 11 Oct 2026 05:10:17 +0000",
+    "hittad": "2026-10-11T08:27:21.662430"
   },
   {
-    "id": "19df4fc65ad8",
+    "id": "17e2c3332c87",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/h1-caruana-chases-a-fifth-straight-u-s-title-as-the-2026-championships-open-in-s",
-        "title": "Caruana Chases a Fifth Straight U.S. Title as the 2026 Championships Open in Saint Louis",
-        "date": "Thu, 08 Oct 2026 14:59:00 GMT",
+        "url": "https://chessnewsnetwork.com/article/israeli-players-barred-from-amateur-chess-championships-inmalaysia",
+        "title": "Israeli Players Barred from Amateur Chess Championships inMalaysia",
+        "date": "Sat, 10 Oct 2026 18:19:08 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "The 2026 U.S. Chess Championship and U.S. Women's Chess Championship begin this week at the Saint Louis Chess Club."
+        "_rss_content": "Wadim Rosenstein has criticised FIDE over the potential exclusion of Israeli players from the upcoming World Amateur Chess Championship in Malaysia, questioning whether the international federation applies its own rules consistently."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Thu, 08 Oct 2026 14:59:00 GMT",
-    "hittad": "2026-10-10T11:16:48.486635"
+    "datum": "Sat, 10 Oct 2026 18:19:08 GMT",
+    "hittad": "2026-10-11T08:27:21.662433"
   },
   {
-    "id": "44d1e6f34653",
+    "id": "424a01645baa",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Kenya Chess Masala",
-        "url": "https://kenyachessmasala.com/2026/10/atem-gak-ngong-wins-nairobi-county-chess-championship.html",
-        "title": "Atem Gak Ngong wins Nairobi County Chess Championship",
-        "date": "Fri, 09 Oct 2026 13:58:20 +0000",
-        "tag": "Kenya Chess Masala",
-        "_rss_content": "Atem Gak Ngong wins Nairobi County Chess Championship Atem Gak Ngong delivered a brilliant performance to win the 2026 Nairobi County Open Chess Championship, scoring a perfect 6/6 and taking home KES 50,000 in cash. The Team Kakuma player, rated 2020 going into the tournament, finished a full point clear of the chasing pack to [...] The post Atem Gak Ngong wins Nairobi County Chess Championship appeared first on Kenya Chess Masala ."
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/anish-giri-joins-womens-chess-team-after-controversial-4ncl-gender-rule",
+        "title": "Anish Giri Joins Women's Chess Team After Controversial 4NCL Gender Rule",
+        "date": "Sat, 10 Oct 2026 15:45:04 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Dutch grandmaster Anish Giri has made his debut for She Plays To Win Lionesses A in the British Four Nations Chess League (4NCL), following a controversy over rules requiring the previously all-female team to recruit a male player."
       }
     ],
-    "kalla_display": "Kenya Chess Masala",
-    "datum": "Fri, 09 Oct 2026 13:58:20 +0000",
-    "hittad": "2026-10-10T11:16:48.486642"
+    "kalla_display": "Chess News Network",
+    "datum": "Sat, 10 Oct 2026 15:45:04 GMT",
+    "hittad": "2026-10-11T08:27:21.662437"
+  },
+  {
+    "id": "3265d39b511b",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/game-of-the-day-gm-david-navara-beats-gm-maxime-vachier-lagrave",
+        "title": "Game of the Day: GM David Navara Beats GM Maxime Vachier-Lagrave",
+        "date": "Sat, 10 Oct 2026 13:37:41 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "GM David Navara beat GM Maxime Vachier-Lagrave in round 1, board 9 of the German Bundesliga 2026/27 (Schachbundesliga), winning in 76 moves."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Sat, 10 Oct 2026 13:37:41 GMT",
+    "hittad": "2026-10-11T08:27:21.662439"
+  },
+  {
+    "id": "565f4b2d4336",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/turlovs-30-million-plan-for-fide-what-it-funds-and-what-it-leaves-unsaid",
+        "title": "Turlov's €30 Million Plan for FIDE: What It Funds and What It Leaves Unsaid",
+        "date": "Sat, 10 Oct 2026 10:02:00 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "FIDE president Timur Turlov is promising to put about €30 million into chess over four years, according to a report in the Cyprus Mail, with a spending plan covering development grants, federation media support, a digital platform for players and a push into artificial intelligence."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Sat, 10 Oct 2026 10:02:00 GMT",
+    "hittad": "2026-10-11T08:27:21.662442"
   }
 ]
