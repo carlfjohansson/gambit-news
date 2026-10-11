@@ -1,245 +1,41 @@
 [
   {
-    "id": "edde4c33bd60",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-us-chess-championships-round-2",
-        "title": "2026 Us Chess Championships Round 2",
-        "date": "2026-10-10T08:25:57.079197",
-        "tag": "Chess.com"
-      },
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/us-championships-2026-2",
-        "title": "US Championships: So and Liang remain perfect, Paragua beats Yip",
-        "date": "Sun, 11 Oct 2026 04:45:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Wesley So and Awonder Liang remain the only players with perfect scores in the open section of the US Championship after two rounds. Fabiano Caruana stands alone in third place, half a point behind. In the women's tournament, the two lowest-rated participants, Thalia Cervantes and 13-year-old Megan Paragua, share the lead on 2/2. Paragua defeated defending champion Carissa Yip, who blundered in an equal position. | Photo: Lennart Ootes / Saint Louis Chess Club"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/u-s-championship-round-1",
-        "title": "U.S. Championship: Round 1",
-        "date": "Sat, 10 Oct 2026 20:38:02 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Round 1 in Saint Louis on October 9 left three players at 1/1 in the open section, with Wesley So, Awonder Liang and Jeffery Xiong all winning with White, and Fabiano Caruana opening with a 17-move draw. The women’s section was even more decisive, as four wins produced a four-way tie at the top while defending champion Carissa Yip started with a draw."
-      }
-    ],
-    "kalla_display": "Chess News Network + Chess.com + ChessBase",
-    "datum": "2026-10-10T08:25:57.079197",
-    "hittad": "2026-10-11T08:27:21.662370",
-    "liknar": {
-      "titel": "So vinner på födelsedagen i USA-mästerskapet",
-      "url": "https://gambit.se/so-vinner-pa-fodelsedagen-i-usa-masterskapet/",
-      "datum": "2026-10-10"
-    }
-  },
-  {
-    "id": "4e83d1b606df",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-10-2026",
-        "title": "Hikaru Nakamura Wins Bullet Brawl Oct 10 2026",
-        "date": "2026-10-10T08:25:57.079238",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-10-10T08:25:57.079238",
-    "hittad": "2026-10-11T08:27:21.662396"
-  },
-  {
-    "id": "f256e4e7dd5b",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/maghsoodloo-wins-freestyle-friday-october-9-2026",
-        "title": "Maghsoodloo Wins Freestyle Friday October 9 2026",
-        "date": "2026-10-10T08:25:57.079265",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-10-10T08:25:57.079265",
-    "hittad": "2026-10-11T08:27:21.662401"
-  },
-  {
-    "id": "5a48b47db7e5",
+    "id": "36020aa1f3d1",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/strange-comforts-superstition-chess",
-        "title": "The strange comforts of superstition in chess",
-        "date": "Sun, 11 Oct 2026 02:00:00 GMT",
+        "url": "https://en.chessbase.com/post/chess-olympiad-that-was-not-munich-1936",
+        "title": "The Chess Olympiad that wasn't: Munich 1936",
+        "date": "Sun, 11 Oct 2026 13:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "Chess sells itself as a contest of calculation, where chance has been removed. Yet some elite players keep lucky pens, repeat outfits and meals, or give a cat a place in their pre-game routine. The interesting question is not whether a lucky charm can change a position on the board; it is why people reach for one when the result matters and control feels limited. | Pictured: Alexander Alekhine and his cat Chess (Amsterdam, 1935)"
+        "_rss_content": "Among all the Chess Olympiads held throughout history, the 1936 tournament in Munich occupies a special place. FIDE did not officially recognise the event as a Chess Olympiad. Nevertheless, the competition between national teams met all the requirements. Like in 2026, the German team also won the bronze medal on this occasion. | Photos: Ferenc Chalupetzky / Tournament Book"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Sun, 11 Oct 2026 02:00:00 GMT",
-    "hittad": "2026-10-11T08:27:21.662406"
+    "datum": "Sun, 11 Oct 2026 13:00:00 GMT",
+    "hittad": "2026-10-11T11:30:14.066215"
   },
   {
-    "id": "c3b85a07f97d",
+    "id": "cd66c81ca885",
     "status": "pending",
     "rubriker": [
       {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/eight-days-uzbekistan-axel-eger",
-        "title": "Between the Silk Road and the chessboard - eight days in Uzbekistan",
-        "date": "Sat, 10 Oct 2026 17:40:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Besides the spectacular Chess Olympiad, Uzbekistan and the city of Samarkand had much more to offer, including friendly people and 2,500 years of culture. Axel Eger attended the Olympiad and took the opportunity to explore the country and get to know its people. Here is his travel report. | Photos: Axel Eger"
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/u-s-championship-round-2",
+        "title": "U.S. Championship: Round 2",
+        "date": "Sun, 11 Oct 2026 09:53:02 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Round 2 in Saint Louis on Saturday cut the open section's leaders from three to two, with Wesley So surviving a bad position against Jeffery Xiong and Awonder Liang beating Samuel Sevian, while Fabiano Caruana scored his first win to move within half a point. In the women's section, Megan Paragua and Thalia Cervantes, the two lowest-rated players in the field, took the lead at 2/2, with Paragua beating defending champion Carissa Yip."
       }
     ],
-    "kalla_display": "ChessBase",
-    "datum": "Sat, 10 Oct 2026 17:40:00 GMT",
-    "hittad": "2026-10-11T08:27:21.662410"
-  },
-  {
-    "id": "1fa1f8be7cc2",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/prishita-gupta-and-adhiraj-mitra-become-36th-national-under-17-champions",
-        "title": "SpotlightTop storyDevansh Singh·16 hours agoPrishita Gupta and Adhiraj Mitra become 36th National Under-17 Champions",
-        "date": "2026-10-10T08:26:20.387524",
-        "tag": "ChessBase India"
-      }
-    ],
-    "kalla_display": "ChessBase India",
-    "datum": "2026-10-10T08:26:20.387524",
-    "hittad": "2026-10-11T08:27:21.662414"
-  },
-  {
-    "id": "d572927a7687",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/10/10/delt-foering-i-odense-2/?utm_source=rss&utm_medium=rss&utm_campaign=delt-foering-i-odense-2",
-        "title": "Delt føring i Odense",
-        "date": "Sat, 10 Oct 2026 18:42:02 +0000",
-        "tag": "Dansk Skak Union",
-        "_rss_content": "Tre spillere har efter de første tre runder hver to point på kontoen i Mesterskabsgruppen i Odense: Forhåndsfavorit IM Isak Storme, IM Vitus Bondo Medhus og den lokale Simon Bjørk Haarh. De har alle mødt hinanden indbyrdes, så det bliver kampene mod gruppens øvrige spillere søndag, der afgør mesterskabets placering. Fotoet øverst i artiklen af [&#8230;]"
-      }
-    ],
-    "kalla_display": "Dansk Skak Union",
-    "datum": "Sat, 10 Oct 2026 18:42:02 +0000",
-    "hittad": "2026-10-11T08:27:21.662417"
-  },
-  {
-    "id": "009d11f36765",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/11/fagernes-international-autumn-2026-dag-8/",
-        "title": "Fagernes International Autumn 2026 – dag 8",
-        "date": "Sun, 11 Oct 2026 05:10:27 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "IM Christian Glöckler (GER 2515) har ledet GM-gruppen i Fagernes International Autumn hele veien, men da GM-normen var sikret etter åtte runder ble det kanskje vanskelig å holde konsentrasjonen oppe. Uansett gikk 14-åringen i niende runde på sitt første tap, med hvit mot GM Krishnan Sasikiran (IND 2520). GM Rinat Jumabayev (2564) spilte remis mot Les mer"
-      }
-    ],
-    "kalla_display": "Bergensjakk",
-    "datum": "Sun, 11 Oct 2026 05:10:27 +0000",
-    "hittad": "2026-10-11T08:27:21.662425",
+    "kalla_display": "Chess News Network",
+    "datum": "Sun, 11 Oct 2026 09:53:02 GMT",
+    "hittad": "2026-10-11T11:30:14.066233",
     "liknar": {
-      "titel": "14-årig Gloeckler ensam i täten i Fagernes",
-      "url": "https://gambit.se/14-arig-gloeckler-ensam-i-taten-i-fagernes/",
-      "datum": "2026-10-09"
+      "titel": "So och Liang leder US Championship efter två ronder",
+      "url": "https://gambit.se/so-och-liang-leder-us-championship-efter-tva-ronder/",
+      "datum": "2026-10-11"
     }
-  },
-  {
-    "id": "e2c4600d0998",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/11/kretsmesterskapet-i-lynsjakk-vestland-2026/",
-        "title": "Kretsmesterskapet i lynsjakk Vestland 2026",
-        "date": "Sun, 11 Oct 2026 05:10:17 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "Kretsmesterskapet i lynsjakk for Vestland ble spilt på Skranevatnet / Ytrebygda kultursenter i Bergen lørdag 10. oktober 2026. Arrangør var Søråshøgda Sjakklubb. Den klart høyest ratede var Mateja Krbacevic, som innfridde med 10&#189; poeng på 11 runder. Krbacevic sto over første runde og fikk et halvpoeng for dette. Deretter vant 15-åringen fra Søråshøgda alle de Les mer"
-      }
-    ],
-    "kalla_display": "Bergensjakk",
-    "datum": "Sun, 11 Oct 2026 05:10:17 +0000",
-    "hittad": "2026-10-11T08:27:21.662430"
-  },
-  {
-    "id": "17e2c3332c87",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/israeli-players-barred-from-amateur-chess-championships-inmalaysia",
-        "title": "Israeli Players Barred from Amateur Chess Championships inMalaysia",
-        "date": "Sat, 10 Oct 2026 18:19:08 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Wadim Rosenstein has criticised FIDE over the potential exclusion of Israeli players from the upcoming World Amateur Chess Championship in Malaysia, questioning whether the international federation applies its own rules consistently."
-      }
-    ],
-    "kalla_display": "Chess News Network",
-    "datum": "Sat, 10 Oct 2026 18:19:08 GMT",
-    "hittad": "2026-10-11T08:27:21.662433"
-  },
-  {
-    "id": "424a01645baa",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/anish-giri-joins-womens-chess-team-after-controversial-4ncl-gender-rule",
-        "title": "Anish Giri Joins Women's Chess Team After Controversial 4NCL Gender Rule",
-        "date": "Sat, 10 Oct 2026 15:45:04 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Dutch grandmaster Anish Giri has made his debut for She Plays To Win Lionesses A in the British Four Nations Chess League (4NCL), following a controversy over rules requiring the previously all-female team to recruit a male player."
-      }
-    ],
-    "kalla_display": "Chess News Network",
-    "datum": "Sat, 10 Oct 2026 15:45:04 GMT",
-    "hittad": "2026-10-11T08:27:21.662437"
-  },
-  {
-    "id": "3265d39b511b",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/game-of-the-day-gm-david-navara-beats-gm-maxime-vachier-lagrave",
-        "title": "Game of the Day: GM David Navara Beats GM Maxime Vachier-Lagrave",
-        "date": "Sat, 10 Oct 2026 13:37:41 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "GM David Navara beat GM Maxime Vachier-Lagrave in round 1, board 9 of the German Bundesliga 2026/27 (Schachbundesliga), winning in 76 moves."
-      }
-    ],
-    "kalla_display": "Chess News Network",
-    "datum": "Sat, 10 Oct 2026 13:37:41 GMT",
-    "hittad": "2026-10-11T08:27:21.662439"
-  },
-  {
-    "id": "565f4b2d4336",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/turlovs-30-million-plan-for-fide-what-it-funds-and-what-it-leaves-unsaid",
-        "title": "Turlov's €30 Million Plan for FIDE: What It Funds and What It Leaves Unsaid",
-        "date": "Sat, 10 Oct 2026 10:02:00 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "FIDE president Timur Turlov is promising to put about €30 million into chess over four years, according to a report in the Cyprus Mail, with a spending plan covering development grants, federation media support, a digital platform for players and a push into artificial intelligence."
-      }
-    ],
-    "kalla_display": "Chess News Network",
-    "datum": "Sat, 10 Oct 2026 10:02:00 GMT",
-    "hittad": "2026-10-11T08:27:21.662442"
   }
 ]
