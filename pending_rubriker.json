@@ -1,41 +1,157 @@
 [
   {
-    "id": "36020aa1f3d1",
+    "id": "6905b2dd78cc",
     "status": "pending",
     "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/2026-us-chess-championships-round-3",
+        "title": "2026 Us Chess Championships Round 3",
+        "date": "2026-10-11T13:18:38.906389",
+        "tag": "Chess.com"
+      },
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/chess-olympiad-that-was-not-munich-1936",
-        "title": "The Chess Olympiad that wasn't: Munich 1936",
-        "date": "Sun, 11 Oct 2026 13:00:00 GMT",
+        "url": "https://en.chessbase.com/post/us-championships-2026-live",
+        "title": "US Championships - Live!",
+        "date": "Sun, 11 Oct 2026 19:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "Among all the Chess Olympiads held throughout history, the 1936 tournament in Munich occupies a special place. FIDE did not officially recognise the event as a Chess Olympiad. Nevertheless, the competition between national teams met all the requirements. Like in 2026, the German team also won the bronze medal on this occasion. | Photos: Ferenc Chalupetzky / Tournament Book"
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Sun, 11 Oct 2026 13:00:00 GMT",
-    "hittad": "2026-10-11T11:30:14.066215"
-  },
-  {
-    "id": "cd66c81ca885",
-    "status": "pending",
-    "rubriker": [
+        "_rss_content": "The 2026 US Chess Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip (pictured), Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes"
+      },
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/u-s-championship-round-2",
-        "title": "U.S. Championship: Round 2",
-        "date": "Sun, 11 Oct 2026 09:53:02 GMT",
+        "url": "https://chessnewsnetwork.com/article/u-s-championship-round-3",
+        "title": "U.S. Championship: Round 3",
+        "date": "Mon, 12 Oct 2026 09:48:41 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "Round 2 in Saint Louis on Saturday cut the open section's leaders from three to two, with Wesley So surviving a bad position against Jeffery Xiong and Awonder Liang beating Samuel Sevian, while Fabiano Caruana scored his first win to move within half a point. In the women's section, Megan Paragua and Thalia Cervantes, the two lowest-rated players in the field, took the lead at 2/2, with Paragua beating defending champion Carissa Yip."
+        "_rss_content": "Round 3 in Saint Louis on Sunday ended the perfect scores in both sections, as Wesley So and Awonder Liang drew their meeting of the open leaders and Thalia Cervantes and Megan Paragua both drew in the women's. Alice Lee won to join them, so each section now has a clear front group, and the $64,000 Fischer Prize for a perfect score is out of reach."
       }
     ],
-    "kalla_display": "Chess News Network",
-    "datum": "Sun, 11 Oct 2026 09:53:02 GMT",
-    "hittad": "2026-10-11T11:30:14.066233",
+    "kalla_display": "Chess News Network + Chess.com + ChessBase",
+    "datum": "2026-10-11T13:18:38.906389",
+    "hittad": "2026-10-12T13:20:56.719927",
     "liknar": {
       "titel": "So och Liang leder US Championship efter två ronder",
       "url": "https://gambit.se/so-och-liang-leder-us-championship-efter-tva-ronder/",
       "datum": "2026-10-11"
     }
+  },
+  {
+    "id": "83bb39fc3b9a",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/bundesliga-2026-27-r3",
+        "title": "Bundesliga: Viernheim and Baden-Baden set the early pace",
+        "date": "Mon, 12 Oct 2026 07:25:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Defending champions SC Viernheim and perennial favourites OSG Baden-Baden are the only teams to have won all three matches in the opening weekend of the 2026/27 Chess Bundesliga. Viernheim lead on board points, while Bayern Munich sit third with 5/6 match points. The first three rounds saw encouraging results for promoted sides Bad Mergentheim and Remagen Sinzig, while Bayern Munich's Matic Lavrencic was the only player to score three wins in as many games. | Pictured: Viernheim's Aydin Suleymanli (2½/3 points) | Photo: Angelika Valkova"
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Mon, 12 Oct 2026 07:25:00 GMT",
+    "hittad": "2026-10-12T13:20:56.719943"
+  },
+  {
+    "id": "09a452b112f3",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase India",
+        "url": "https://www.chessbase.in/news/vlad-ghita-the-rating-revolution-interview",
+        "title": "SpotlightTop storyRasika Ratnaparkhi·2 hours agoIs Your FIDE Rating Telling the Truth?",
+        "date": "2026-10-11T13:19:01.343033",
+        "tag": "ChessBase India"
+      }
+    ],
+    "kalla_display": "ChessBase India",
+    "datum": "2026-10-11T13:19:01.343033",
+    "hittad": "2026-10-12T13:20:56.719951"
+  },
+  {
+    "id": "a6533c307d19",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Dansk Skak Union",
+        "url": "https://nyheder.skak.dk/2026/10/11/amager-skakforenings-100-aars-jubilaeumsturnering/?utm_source=rss&utm_medium=rss&utm_campaign=amager-skakforenings-100-aars-jubilaeumsturnering",
+        "title": "Amager Skakforenings 100 års jubilæumsturnering",
+        "date": "Sun, 11 Oct 2026 14:47:37 +0000",
+        "tag": "Dansk Skak Union",
+        "_rss_content": "Amager Skakforening runder i år 100 år. Jubilæet fejres med en reception og rådhuspandekager på Københavns Rådhus og en international turnering i efterårsferien. Højdepunktet bliver jubilæumsturneringen, som spilles i Amager Selskabslokaler, Markmandsgade 9, 2300 København S fra mandag den 12. til lørdag den 17. oktober. Bemærk at det ikke er det sædvanlige spillested i Prismet. [&#8230;]"
+      }
+    ],
+    "kalla_display": "Dansk Skak Union",
+    "datum": "Sun, 11 Oct 2026 14:47:37 +0000",
+    "hittad": "2026-10-12T13:20:56.719959"
+  },
+  {
+    "id": "9027f19bed92",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/10/12/fagernes-international-autumn-2026-dag-9/",
+        "title": "Fagernes International Autumn 2026 – dag 9",
+        "date": "Mon, 12 Oct 2026 05:24:02 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Ledende GM Rinat Jumabayev (KAZ 2564) avsluttet Fagernes International Autumn med remis mot GM Krishnan Sasikiran (IND 2520) i tiende og siste runde. Dermed endte Jumabayev på 7&#189; poeng og ble tatt igjen av GM Tiger Hillarp (SWE 2417) og GM G B Harshavardhan (IND 2529). Disse to vant sine partier mot hhv. GM Frode Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Mon, 12 Oct 2026 05:24:02 +0000",
+    "hittad": "2026-10-12T13:20:56.719965"
+  },
+  {
+    "id": "7062e1a93c43",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/10/12/kretsmesterskapet-i-langsjakk-vestland-2026/",
+        "title": "Kretsmesterskapet i langsjakk Vestland 2026",
+        "date": "Mon, 12 Oct 2026 05:23:53 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Kretsmesterskapet i langsjakk for Vestland ble spilt på Skranevatnet / Ytrebygda kultursenter i Bergen 9-11. oktober 2026. Arrangøren Søråshøgda Sjakklubb kunne notere seg for 50 deltakere. Kretsmestertittelen gikk til Aksel Elias Gjersvik fra Søråshøgda. 14-årigen tok 4&#189; poeng på 5 runder og var et helt poeng foran Manu Michoel og Mateja Krbacevic på de neste Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Mon, 12 Oct 2026 05:23:53 +0000",
+    "hittad": "2026-10-12T13:20:56.719971"
+  },
+  {
+    "id": "f3fd11941427",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/10/12/apent-finnmarksmesterskap-ngp-2026/",
+        "title": "Åpent Finnmarksmesterskap NGP 2026",
+        "date": "Mon, 12 Oct 2026 05:23:42 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Hammerfest Sjakklubb arrangerte Åpent Finnmarksmesterskap NGP på Scandic hotel Hammerfest 9-11. oktober 2026. Det var 26 deltakere som spilte 5 runder langsjakk. Turneringen inngår i Norges Grand Prix 2026-27. Førsteplass gikk til Robert Jægtvik Aas, som tok full pott og vant alle sine 5 partier. Vinneren representerer Tromsøklubben TSI sjakk, og kan dermed ikke bli Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Mon, 12 Oct 2026 05:23:42 +0000",
+    "hittad": "2026-10-12T13:20:56.719976"
+  },
+  {
+    "id": "846d4b5c9c55",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase España",
+        "url": "https://es.chessbase.com/post/del-crepusculo-al-amanecer",
+        "title": "Del crepúsculo al amanecer",
+        "date": "Sat, 10 Oct 2026 19:45:00 GMT",
+        "tag": "ChessBase España",
+        "_rss_content": "Los lectores más veteranos lo recordarán. Antiguamente, antes de la invención de internet, para jugar al ajedrez había que encontrarse en persona. En las partidas de blitz, los jugadores se sentaban frente a frente, se miraban e incluso conversaban. Era una actividad social y, en ocasiones, bastante bulliciosa. Hace un par de semanas tuvo lugar en Hamburgo una reunión secreta de veteranos. El lema fue «Del crepúsculo al amanecer»."
+      }
+    ],
+    "kalla_display": "ChessBase España",
+    "datum": "Sat, 10 Oct 2026 19:45:00 GMT",
+    "hittad": "2026-10-12T13:20:56.719987"
   }
 ]
