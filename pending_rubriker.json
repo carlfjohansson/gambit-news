@@ -1,157 +1,237 @@
 [
   {
-    "id": "6905b2dd78cc",
+    "id": "fe00e7af9ada",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-us-chess-championships-round-3",
-        "title": "2026 Us Chess Championships Round 3",
-        "date": "2026-10-11T13:18:38.906389",
+        "url": "https://www.chess.com/news/view/2026-us-chess-championships-round-4",
+        "title": "2026 Us Chess Championships Round 4",
+        "date": "2026-10-12T12:47:55.558202",
         "tag": "Chess.com"
       },
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/us-championships-2026-live",
-        "title": "US Championships - Live!",
-        "date": "Sun, 11 Oct 2026 19:00:00 GMT",
+        "url": "https://en.chessbase.com/post/us-championships-2026-3",
+        "title": "US Championships: Shankland and Woodward score",
+        "date": "Mon, 12 Oct 2026 17:20:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "The 2026 US Chess Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, while Carissa Yip (pictured), Alice Lee and Irina Krush head the women's field. | Follow the action live starting at 19.00 CEST (13.00 ET, 22.30 IST) | Photo: Lennart Ootes"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/u-s-championship-round-3",
-        "title": "U.S. Championship: Round 3",
-        "date": "Mon, 12 Oct 2026 09:48:41 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Round 3 in Saint Louis on Sunday ended the perfect scores in both sections, as Wesley So and Awonder Liang drew their meeting of the open leaders and Thalia Cervantes and Megan Paragua both drew in the women's. Alice Lee won to join them, so each section now has a clear front group, and the $64,000 Fischer Prize for a perfect score is out of reach."
+        "_rss_content": "Wesley So and Awonder Liang drew their direct encounter in round three of the US Championship, remaining tied for first place on 2½/3. Andy Woodward and Sam Shankland (pictured) scored victories, with Woodward joining Fabiano Caruana half a point behind the leaders. In the women's tournament, Alice Lee defeated Nazi Paikidze to join Thalia Cervantes and Megan Paragua in first place. Defending champion Carissa Yip suffered her second consecutive defeat. | Photo: Lennart Ootes / Saint Louis Chess Club"
       }
     ],
-    "kalla_display": "Chess News Network + Chess.com + ChessBase",
-    "datum": "2026-10-11T13:18:38.906389",
-    "hittad": "2026-10-12T13:20:56.719927",
-    "liknar": {
-      "titel": "So och Liang leder US Championship efter två ronder",
-      "url": "https://gambit.se/so-och-liang-leder-us-championship-efter-tva-ronder/",
-      "datum": "2026-10-11"
-    }
+    "kalla_display": "Chess.com + ChessBase",
+    "datum": "2026-10-12T12:47:55.558202",
+    "hittad": "2026-10-13T12:49:23.405616"
   },
   {
-    "id": "83bb39fc3b9a",
+    "id": "df8bf6abf8e6",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/bundesliga-2026-27-r3",
-        "title": "Bundesliga: Viernheim and Baden-Baden set the early pace",
-        "date": "Mon, 12 Oct 2026 07:25:00 GMT",
+        "url": "https://en.chessbase.com/post/shenzhen-nanshan-mastes-2026-report",
+        "title": "Yu Yangyi beats Ding Liren in final match, wins Shenzhen Masters",
+        "date": "Tue, 13 Oct 2026 02:45:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "Defending champions SC Viernheim and perennial favourites OSG Baden-Baden are the only teams to have won all three matches in the opening weekend of the 2026/27 Chess Bundesliga. Viernheim lead on board points, while Bayern Munich sit third with 5/6 match points. The first three rounds saw encouraging results for promoted sides Bad Mergentheim and Remagen Sinzig, while Bayern Munich's Matic Lavrencic was the only player to score three wins in as many games. | Pictured: Viernheim's Aydin Suleymanli (2½/3 points) | Photo: Angelika Valkova"
+        "_rss_content": "At the Shenzhen Masters, China's leading players faced young talents. The matches were contested in a knockout format, with four rapid games per encounter. In the event of a draw, blitz tiebreaks decided the matches. Defending champion Ding Liren faced Yu Yangyi in the final match. After a lengthy battle, Yu Yangyi came out on top. | Photos: Chinese Chess Association"
+      },
+      {
+        "source": "ChessBase España",
+        "url": "https://es.chessbase.com/post/shenzhen-nanshan-mastes-2026-reportaje",
+        "title": "Yu Yangyi gana el Shenzhen Masters tras vencer a Ding Liren en la final",
+        "date": "Mon, 12 Oct 2026 21:40:00 GMT",
+        "tag": "ChessBase España",
+        "_rss_content": "En el Shenzhen Masters, algunos de los ajedrecistas más fuertes de China se enfrentaron a jóvenes talentos. Los encuentros se disputaron mediante un sistema de eliminatorias, con cuatro partidas rápidas por enfrentamiento. En caso de empate, se recurrió a desempates a ritmo blitz. El defensor del título, Ding Liren, se enfrentó a Yu Yangyi en la final. Tras una prolongada lucha, Yu Yangyi se impuso para quedarse con el título. | Fotos: Asociación China de Ajedrez"
+      }
+    ],
+    "kalla_display": "ChessBase + ChessBase España",
+    "datum": "Tue, 13 Oct 2026 02:45:00 GMT",
+    "hittad": "2026-10-13T12:49:23.405632"
+  },
+  {
+    "id": "29c78924108a",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/a-dispute-in-the-bundesliga",
+        "title": "A dispute in the Bundesliga",
+        "date": "Tue, 13 Oct 2026 12:33:33 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "The German Chess Bundesliga is known for its continuity. For decades, it has operated under well-established rules, although players, spectators and arbiters have not always agreed on how to apply them. A particularly curious case arose in the 1986/87 season: A match started late, raising the question of whether a grandmaster had arrived on time. What followed was a furious battle over the rules, a series of appeals, a replayed match, a relegation play-off and repeated changes to which team would be relegated. | Photo: Dr Robert Hübner playing in the Bundesliga in the 1980s (All photos courtesy of Eising and Treppner, Schachbundesliga)"
+      },
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/bundesliga-bacrot-et-lagarde-sauvent-baden-baden-dans-son-duel-a-distance-contre-viernheim-10107.html",
+        "title": "Bundesliga : Bacrot et Lagarde sauvent Baden-Baden dans son duel à distance contre Viernheim",
+        "date": "2026-10-12T12:48:28.535716",
+        "tag": "Europe Echecs"
+      }
+    ],
+    "kalla_display": "ChessBase + Europe Echecs",
+    "datum": "Tue, 13 Oct 2026 12:33:33 GMT",
+    "hittad": "2026-10-13T12:49:23.405639"
+  },
+  {
+    "id": "c64543ee5fa3",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/fagernes-autumn-2026-r10",
+        "title": "Fagernes: Jumabayev takes title, Gloeckler secures second GM norm",
+        "date": "Mon, 12 Oct 2026 18:40:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Fourteen-year-old Christian Gloeckler secured his second grandmaster norm at the International Autumn Tournament in Fagernes, Norway. Although the German youngster lost his final two games, this did not affect the norm he had already secured. Rinat Jumabayev, Tiger Hillarp Persson and G. B. Harshavardhan (pictured, left) shared first place with 7½/10 points each. | Photo: Anniken Vestby"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Mon, 12 Oct 2026 07:25:00 GMT",
-    "hittad": "2026-10-12T13:20:56.719943"
+    "datum": "Mon, 12 Oct 2026 18:40:00 GMT",
+    "hittad": "2026-10-13T12:49:23.405643",
+    "liknar": {
+      "titel": "Glöckler säkrar GM-norm trots trubbel mot Sivuk",
+      "url": "https://gambit.se/glockler-sakrar-gm-norm-trots-trubbel-mot-sivuk/",
+      "datum": "2026-10-10"
+    }
   },
   {
-    "id": "09a452b112f3",
+    "id": "91614f346d1d",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/vlad-ghita-the-rating-revolution-interview",
-        "title": "SpotlightTop storyRasika Ratnaparkhi·2 hours agoIs Your FIDE Rating Telling the Truth?",
-        "date": "2026-10-11T13:19:01.343033",
+        "url": "https://www.chessbase.in/news/dhananjay-sonker-wins-nexchess-open-classical-rating-2026",
+        "title": "SpotlightTop storyDevansh Singh·11 hours agoDhananjay Sonker Wins Nexchess Open Classical Rating 2026",
+        "date": "2026-10-12T12:48:17.043450",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-10-11T13:19:01.343033",
-    "hittad": "2026-10-12T13:20:56.719951"
+    "datum": "2026-10-12T12:48:17.043450",
+    "hittad": "2026-10-13T12:49:23.405647"
   },
   {
-    "id": "a6533c307d19",
+    "id": "b72047a5ecc7",
     "status": "pending",
     "rubriker": [
       {
         "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/10/11/amager-skakforenings-100-aars-jubilaeumsturnering/?utm_source=rss&utm_medium=rss&utm_campaign=amager-skakforenings-100-aars-jubilaeumsturnering",
-        "title": "Amager Skakforenings 100 års jubilæumsturnering",
-        "date": "Sun, 11 Oct 2026 14:47:37 +0000",
+        "url": "https://nyheder.skak.dk/2026/10/12/kort-nyt-uge-41-7/?utm_source=rss&utm_medium=rss&utm_campaign=kort-nyt-uge-41-7",
+        "title": "Kort Nyt uge 41",
+        "date": "Mon, 12 Oct 2026 18:50:16 +0000",
         "tag": "Dansk Skak Union",
-        "_rss_content": "Amager Skakforening runder i år 100 år. Jubilæet fejres med en reception og rådhuspandekager på Københavns Rådhus og en international turnering i efterårsferien. Højdepunktet bliver jubilæumsturneringen, som spilles i Amager Selskabslokaler, Markmandsgade 9, 2300 København S fra mandag den 12. til lørdag den 17. oktober. Bemærk at det ikke er det sædvanlige spillested i Prismet. [&#8230;]"
+        "_rss_content": "Danmarks førstebræt i Kvinderækken ved OL Sarah Sima Derlich er hovedpersonen i DRs Ultra Nyt den 8. oktober. Fotoet øverst i artiklen er lånt derfra. Se indslaget her: https://www.dr.dk/drtv/episode/ultra-nyt_-sarah-slaar-en-vild-rekord-til-ol_617478 Københavns Mesterskabet 2026 &#8211; Formula X Agency OPEN spilles den 23. &#8211; 25. oktober på Avedøre Bibliotek. Der er plads til 100 deltagere, i skrivende stund [&#8230;]"
       }
     ],
     "kalla_display": "Dansk Skak Union",
-    "datum": "Sun, 11 Oct 2026 14:47:37 +0000",
-    "hittad": "2026-10-12T13:20:56.719959"
+    "datum": "Mon, 12 Oct 2026 18:50:16 +0000",
+    "hittad": "2026-10-13T12:49:23.405650"
   },
   {
-    "id": "9027f19bed92",
+    "id": "45594570657b",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Dansk Skak Union",
+        "url": "https://nyheder.skak.dk/2026/10/12/isak-storme-odensemester/?utm_source=rss&utm_medium=rss&utm_campaign=isak-storme-odensemester",
+        "title": "Isak Storme Odensemester",
+        "date": "Mon, 12 Oct 2026 16:46:11 +0000",
+        "tag": "Dansk Skak Union",
+        "_rss_content": "Forhåndsfavoritten Isak Storme løb med den samlede sejr i Odensemesterskabet 2026. Med 3½ af 5 henviste han den lokale Simon Bjørk Haarh til andenpladsen på bedre korrektion. Storme havde vundet det indbyrdes opgør i første runde. Simon Bjørk Haarh har siden DM, hvor han vandt Kandidatklassen, vundet over 100 ratingpoint så det danske tal nu [&#8230;]"
+      }
+    ],
+    "kalla_display": "Dansk Skak Union",
+    "datum": "Mon, 12 Oct 2026 16:46:11 +0000",
+    "hittad": "2026-10-13T12:49:23.405653"
+  },
+  {
+    "id": "0af8938a2f33",
     "status": "pending",
     "rubriker": [
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/12/fagernes-international-autumn-2026-dag-9/",
-        "title": "Fagernes International Autumn 2026 – dag 9",
-        "date": "Mon, 12 Oct 2026 05:24:02 +0000",
+        "url": "https://bergensjakk.no/2026/10/13/vestfold-og-telemark-sjakkrets-grand-prix-tour-halvveis-i-2026/",
+        "title": "Vestfold og Telemark Sjakkrets Grand Prix TOUR – halvveis i 2026",
+        "date": "Tue, 13 Oct 2026 05:11:24 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "Ledende GM Rinat Jumabayev (KAZ 2564) avsluttet Fagernes International Autumn med remis mot GM Krishnan Sasikiran (IND 2520) i tiende og siste runde. Dermed endte Jumabayev på 7&#189; poeng og ble tatt igjen av GM Tiger Hillarp (SWE 2417) og GM G B Harshavardhan (IND 2529). Disse to vant sine partier mot hhv. GM Frode Les mer"
+        "_rss_content": "Den andre utgaven av Vestfold og Telemark Sjakkrets Grand Prix TOUR 2026 er halvspilt, med turneringer i Kragerø og Porsgrunn avviklet i september. Turneringene kombinerer hurtigsjakk og langsjakk, og inngår i Norges Sjakkforbunds ordinære NGP-serie. Men i tillegg samler alle spillerne som er med i touren såkalte TOUR-poeng fra hver av de fire turneringene, med Les mer"
       }
     ],
     "kalla_display": "Bergensjakk",
-    "datum": "Mon, 12 Oct 2026 05:24:02 +0000",
-    "hittad": "2026-10-12T13:20:56.719965"
+    "datum": "Tue, 13 Oct 2026 05:11:24 +0000",
+    "hittad": "2026-10-13T12:49:23.405660"
   },
   {
-    "id": "7062e1a93c43",
+    "id": "133d90b06f7a",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/12/kretsmesterskapet-i-langsjakk-vestland-2026/",
-        "title": "Kretsmesterskapet i langsjakk Vestland 2026",
-        "date": "Mon, 12 Oct 2026 05:23:53 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "Kretsmesterskapet i langsjakk for Vestland ble spilt på Skranevatnet / Ytrebygda kultursenter i Bergen 9-11. oktober 2026. Arrangøren Søråshøgda Sjakklubb kunne notere seg for 50 deltakere. Kretsmestertittelen gikk til Aksel Elias Gjersvik fra Søråshøgda. 14-årigen tok 4&#189; poeng på 5 runder og var et helt poeng foran Manu Michoel og Mateja Krbacevic på de neste Les mer"
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/supratit-banerjee-12-becomes-youngest-international-master-in-british-chess-hist",
+        "title": "Supratit Banerjee, 12, Becomes Youngest International Master in British Chess History",
+        "date": "Tue, 13 Oct 2026 08:26:40 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Twelve-year-old Supratit Banerjee has made history by becoming Britain's youngest-ever International Master (IM), breaking a record previously shared by grandmasters Luke McShane and David Howell."
       }
     ],
-    "kalla_display": "Bergensjakk",
-    "datum": "Mon, 12 Oct 2026 05:23:53 +0000",
-    "hittad": "2026-10-12T13:20:56.719971"
+    "kalla_display": "Chess News Network",
+    "datum": "Tue, 13 Oct 2026 08:26:40 GMT",
+    "hittad": "2026-10-13T12:49:23.405664"
   },
   {
-    "id": "f3fd11941427",
+    "id": "f88a79192df3",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/12/apent-finnmarksmesterskap-ngp-2026/",
-        "title": "Åpent Finnmarksmesterskap NGP 2026",
-        "date": "Mon, 12 Oct 2026 05:23:42 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "Hammerfest Sjakklubb arrangerte Åpent Finnmarksmesterskap NGP på Scandic hotel Hammerfest 9-11. oktober 2026. Det var 26 deltakere som spilte 5 runder langsjakk. Turneringen inngår i Norges Grand Prix 2026-27. Førsteplass gikk til Robert Jægtvik Aas, som tok full pott og vant alle sine 5 partier. Vinneren representerer Tromsøklubben TSI sjakk, og kan dermed ikke bli Les mer"
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/german-blitz-chess-championships-to-be-broadcast-live-on-ard-and-zdf-in-2027",
+        "title": "German Blitz Chess Championships to Be Broadcast Live on ARD and ZDF in 2027",
+        "date": "Mon, 12 Oct 2026 18:11:00 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Chess will make its debut at Germany's prestigious multi-sport event, The Finals, with the national blitz championships set to receive live coverage on the country's two major public television broadcasters, ARD and ZDF"
       }
     ],
-    "kalla_display": "Bergensjakk",
-    "datum": "Mon, 12 Oct 2026 05:23:42 +0000",
-    "hittad": "2026-10-12T13:20:56.719976"
+    "kalla_display": "Chess News Network",
+    "datum": "Mon, 12 Oct 2026 18:11:00 GMT",
+    "hittad": "2026-10-13T12:49:23.405667"
   },
   {
-    "id": "846d4b5c9c55",
+    "id": "c3195d24ddf0",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/fides-general-assembly-backs-shorter-classical-time-controls",
+        "title": "FIDE's General Assembly Backs Shorter Classical Time Controls",
+        "date": "Mon, 12 Oct 2026 17:45:44 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "FIDE's General Assembly has formally supported a resolution on shorter classical time controls."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Mon, 12 Oct 2026 17:45:44 GMT",
+    "hittad": "2026-10-13T12:49:23.405670"
+  },
+  {
+    "id": "7056fafcca34",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/del-crepusculo-al-amanecer",
-        "title": "Del crepúsculo al amanecer",
-        "date": "Sat, 10 Oct 2026 19:45:00 GMT",
+        "url": "https://es.chessbase.com/post/olimpiada-no-reconocida-munich-1936",
+        "title": "La Olimpiada que no fue reconocida por la FIDE: Múnich 1936",
+        "date": "Tue, 13 Oct 2026 08:30:00 GMT",
         "tag": "ChessBase España",
-        "_rss_content": "Los lectores más veteranos lo recordarán. Antiguamente, antes de la invención de internet, para jugar al ajedrez había que encontrarse en persona. En las partidas de blitz, los jugadores se sentaban frente a frente, se miraban e incluso conversaban. Era una actividad social y, en ocasiones, bastante bulliciosa. Hace un par de semanas tuvo lugar en Hamburgo una reunión secreta de veteranos. El lema fue «Del crepúsculo al amanecer»."
+        "_rss_content": "Entre todas las Olimpiadas de Ajedrez celebradas a lo largo de la historia, el torneo de 1936 en Múnich ocupa un lugar especial. La FIDE no reconoció oficialmente el evento como una Olimpiada de Ajedrez. Sin embargo, la competición entre selecciones nacionales cumplía todos los requisitos. Al igual que en 2026, el equipo alemán también consiguió la medalla de bronce en aquella ocasión. | Fotos: Ferenc Chalupetzky / Libro del torneo"
       }
     ],
     "kalla_display": "ChessBase España",
-    "datum": "Sat, 10 Oct 2026 19:45:00 GMT",
-    "hittad": "2026-10-12T13:20:56.719987"
+    "datum": "Tue, 13 Oct 2026 08:30:00 GMT",
+    "hittad": "2026-10-13T12:49:23.405673",
+    "liknar": {
+      "titel": "Nazitysklands &#8221;schackolympiad&#8221; i München 1936",
+      "url": "https://gambit.se/nazitysklands-schackolympiad-i-munchen-1936/",
+      "datum": "2026-10-11"
+    }
   }
 ]
