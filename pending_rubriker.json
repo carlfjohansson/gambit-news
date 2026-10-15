@@ -1,161 +1,75 @@
 [
   {
-    "id": "f87cfd616e0b",
+    "id": "a73498090376",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-us-chess-championships-round-5",
-        "title": "2026 Us Chess Championships Round 5",
-        "date": "2026-10-14T06:55:23.544860",
-        "tag": "Chess.com"
+        "source": "Dansk Skak Union",
+        "url": "https://nyheder.skak.dk/2026/10/15/taet-loeb-paa-amager/?utm_source=rss&utm_medium=rss&utm_campaign=taet-loeb-paa-amager",
+        "title": "Tæt løb på Amager",
+        "date": "Thu, 15 Oct 2026 08:31:26 +0000",
+        "tag": "Dansk Skak Union",
+        "_rss_content": "Fejringen af Amager Skakforening i anledningen af klubbens 100-års jubilæum blev skudt i gang med taler og Rådhuspandekager mandag kl. 10.00 på Københavns Rådhus. Der var taler af klubbens formand Sven Løntoft, Henrik Andersen fra KSU og medlem af Kulturudvalget i Københavns Kommune, Lars Aslan Rasmussen. På fotoet øverst i artiklen er det Henrik Andersen [&#8230;]"
       }
     ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-10-14T06:55:23.544860",
-    "hittad": "2026-10-15T06:56:52.714360"
+    "kalla_display": "Dansk Skak Union",
+    "datum": "Thu, 15 Oct 2026 08:31:26 +0000",
+    "hittad": "2026-10-15T10:07:47.985162"
   },
   {
-    "id": "e09722e085fd",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/roman-shogdzhiev-second-gm-norm-youngest-grandmaster-record",
-        "title": "Roman Shogdzhiev Second Gm Norm Youngest Grandmaster Record",
-        "date": "2026-10-14T06:55:23.544896",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-10-14T06:55:23.544896",
-    "hittad": "2026-10-15T06:56:52.714381"
-  },
-  {
-    "id": "6268a858213c",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/atyrau-masters-2026-r3",
-        "title": "Atyrau Masters: Top two seeds defeated in opening rounds",
-        "date": "Thu, 15 Oct 2026 04:45:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "The Atyrau Masters in Kazakhstan has attracted a strong international field, with Shamsiddin Vokhidov and Leon Luke Mendonca heading the starting list. Both top seeds suffered unexpected defeats in the opening two rounds, losing to significantly lower-rated opponents. Nguyen Duc Hoa defeated Vokhidov in round one, while Sergey Sklokin-Bagiyan overcame Mendonca in round two. The nine-round Swiss tournament, part of the Kazakhstan Chess Cup, concludes on 20 October. | Photo: Kazakhstan Chess Federation"
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Thu, 15 Oct 2026 04:45:00 GMT",
-    "hittad": "2026-10-15T06:56:52.714389"
-  },
-  {
-    "id": "1eca863de859",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/young-british-prodigies",
-        "title": "Young British prodigies",
-        "date": "Wed, 14 Oct 2026 16:00:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "The English Chess Federation has congratulated 12-year-old chess prodigy Supratit Banerjee after his International Master title was officially approved by FIDE, making him the youngest English player to achieve the prestigious title. This is another milestone for a remarkable generation of young English chess talent that includes Britain's youngest WGM, 11-year-old Bodhana Sivanandan."
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Wed, 14 Oct 2026 16:00:00 GMT",
-    "hittad": "2026-10-15T06:56:52.714398",
-    "liknar": {
-      "titel": "12-åring yngsta IM i brittisk historia",
-      "url": "https://gambit.se/12-aring-yngsta-im-i-brittisk-historia/",
-      "datum": "2026-10-14"
-    }
-  },
-  {
-    "id": "94e3c80ca772",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/intercontinental-online-chess-ch-2026-start",
-        "title": "6th Intercontinental Online Chess Championship for Prisoners kicks off with record 140 teams",
-        "date": "Wed, 14 Oct 2026 13:45:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "The 6th Intercontinental Online Chess Championship for Prisoners began on 13 October with a record 140 teams from 56 countries competing across men's, women's and youth sections. Organised by FIDE and the Cook County Sheriff's Office, the three-day event continues a programme that uses chess as an educational and social tool in correctional facilities. Several teams completed the opening stage with perfect scores before advancing to the championship rounds."
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Wed, 14 Oct 2026 13:45:00 GMT",
-    "hittad": "2026-10-15T06:56:52.714405",
-    "liknar": {
-      "titel": "Rekordmånga lag i schack-VM för fångar",
-      "url": "https://gambit.se/?p=3694",
-      "datum": "2026-10-14"
-    }
-  },
-  {
-    "id": "bb1c01b45627",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/chessbase-india-website-update",
-        "title": "SpotlightTop storyRasika Ratnaparkhi·44 minutes agoWhat’s New on the ChessBase India Website?",
-        "date": "2026-10-14T06:55:49.134603",
-        "tag": "ChessBase India"
-      }
-    ],
-    "kalla_display": "ChessBase India",
-    "datum": "2026-10-14T06:55:49.134603",
-    "hittad": "2026-10-15T06:56:52.714411"
-  },
-  {
-    "id": "b8a00ae6c28c",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/le-conseil-de-hans-niemann-aux-jeunes-champions-d-echecs-n-allez-pas-a-l-ecole-10108.html",
-        "title": "Le conseil de Hans Niemann aux jeunes champions d’échecs : n’allez pas à l’école !",
-        "date": "2026-10-14T06:55:59.587917",
-        "tag": "Europe Echecs"
-      }
-    ],
-    "kalla_display": "Europe Echecs",
-    "datum": "2026-10-14T06:55:59.587917",
-    "hittad": "2026-10-15T06:56:52.714417"
-  },
-  {
-    "id": "7dcc2fc4ec95",
+    "id": "34109a6ca7df",
     "status": "pending",
     "rubriker": [
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/15/soras-super-blitz-oktober-2026/",
-        "title": "Sørås Super-Blitz Oktober 2026",
-        "date": "Thu, 15 Oct 2026 05:00:26 +0000",
+        "url": "https://bergensjakk.no/2026/10/15/invitasjon-til-power-solutions-arctic-chess-ngp-2027/",
+        "title": "Invitasjon til Power Solutions Arctic Chess NGP 2027",
+        "date": "Thu, 15 Oct 2026 09:50:48 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "Søråshøgda Sjakklubb i Bergen arrangerte Sørås Super-Blitz Oktober onsdag 14. oktober 2026. Det var 21 deltakere som spilte 9 runder lynsjakk. A-gruppen ble vunnet av den høyest ratede, Erland Foshaug, med 7&#189; poeng. På de neste plassene fulgte Martin Orvedal og Liam Stenstrand med 6 poeng. I B-gruppen gikk Samuel Keilegavlen til topps med 6&#189; Les mer"
+        "_rss_content": "Power Solutions Arctic Chess NGPAlta, 24-28. februar 2027 Alta Sjakklubb satser på å gjenta suksessen fra 2026, og inviterer i februar 2027 til en ny utgave av Power Solutions Arctic Chess NGP. Turneringen har syv runder langsjakk fra onsdag 24. til søndag 28. februar 2027. Dette innebærer to dobbeltrunder, men det er mulig å stå Les mer"
       }
     ],
     "kalla_display": "Bergensjakk",
-    "datum": "Thu, 15 Oct 2026 05:00:26 +0000",
-    "hittad": "2026-10-15T06:56:52.714426"
+    "datum": "Thu, 15 Oct 2026 09:50:48 +0000",
+    "hittad": "2026-10-15T10:07:47.985180"
   },
   {
-    "id": "e2114e865b59",
+    "id": "dee7a4b80b05",
     "status": "pending",
     "rubriker": [
       {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/dichos-anatoly-karpov-uvencio-blanco",
-        "title": "¿Qué dijo y qué omitió Karpov sobre el declive del ajedrez ruso?",
-        "date": "Tue, 13 Oct 2026 21:50:00 GMT",
-        "tag": "ChessBase España",
-        "_rss_content": "El declive reciente del ajedrez ruso ha abierto un debate sobre sus causas estructurales y políticas. A partir de declaraciones de Anatoli Kárpov, el texto examina la pérdida de peso competitivo de Rusia, la erosión de la antigua escuela soviética y la falta de apoyo institucional. Al mismo tiempo, plantea una omisión relevante: el impacto de la guerra en Ucrania sobre el aislamiento, la emigración de jugadores y la participación internacional. | Foto: Sport24"
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/us-championship-round-5",
+        "title": "US Championship: Round 5",
+        "date": "Thu, 15 Oct 2026 08:12:36 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Round 5 in Saint Louis on Wednesday produced four wins in each section, as Andy Woodward beat defending champion Fabiano Caruana to join Wesley So on 3.5/5 in the open section. In the women's, Alice Lee beat Tatev Abrahamyan to reach 4.5/5, a full point ahead of three chasers, while defending champion Carissa Yip lost again."
       }
     ],
-    "kalla_display": "ChessBase España",
-    "datum": "Tue, 13 Oct 2026 21:50:00 GMT",
-    "hittad": "2026-10-15T06:56:52.714433"
+    "kalla_display": "Chess News Network",
+    "datum": "Thu, 15 Oct 2026 08:12:36 GMT",
+    "hittad": "2026-10-15T10:07:47.985190",
+    "liknar": {
+      "titel": "Woodward vann mot Caruana",
+      "url": "https://gambit.se/woodward-vann-mot-caruana/",
+      "datum": "2026-10-15"
+    }
+  },
+  {
+    "id": "ebfabcbbddb9",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/total-chess-rating-sparking-discussion",
+        "title": "Total Chess Rating Sparking Discussion",
+        "date": "Thu, 15 Oct 2026 07:51:30 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Total Chess has opened a draft multi-format rating system for public feedback, combining a player's FIDE Classical, Rapid and Blitz ratings into a single Elo-compatible number. In its post on X, the company says the pilot is not meant to replace the FIDE ratings, and that the research was prepared by Dr Mehmet Mars Seven of King's College London."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Thu, 15 Oct 2026 07:51:30 GMT",
+    "hittad": "2026-10-15T10:07:47.985198"
   }
 ]
