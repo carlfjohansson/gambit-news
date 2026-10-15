@@ -1,203 +1,161 @@
 [
   {
-    "id": "227bd6ba025c",
+    "id": "f87cfd616e0b",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/caruana-wins-titled-tuesday-october-13-2026",
-        "title": "Caruana Wins Titled Tuesday October 13 2026",
-        "date": "2026-10-13T10:20:43.425978",
+        "url": "https://www.chess.com/news/view/2026-us-chess-championships-round-5",
+        "title": "2026 Us Chess Championships Round 5",
+        "date": "2026-10-14T06:55:23.544860",
         "tag": "Chess.com"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/caruana-clinches-titled-tuesday-on-rest-day",
-        "title": "Caruana Clinches Titled Tuesday On Rest Day",
-        "date": "Wed, 14 Oct 2026 08:12:27 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Fabiano Caruana used the first rest day of the U.S. Championships to win Chess.com's Titled Tuesday on October 13, finishing on 9.5 points, half a point clear of Hikaru Nakamura and Nihal Sarin. I"
       }
     ],
-    "kalla_display": "Chess News Network + Chess.com",
-    "datum": "2026-10-13T10:20:43.425978",
-    "hittad": "2026-10-14T10:22:10.138434"
+    "kalla_display": "Chess.com",
+    "datum": "2026-10-14T06:55:23.544860",
+    "hittad": "2026-10-15T06:56:52.714360"
   },
   {
-    "id": "b260c03e43c4",
+    "id": "e09722e085fd",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/roman-shogdzhiev-second-gm-norm-youngest-grandmaster-record",
+        "title": "Roman Shogdzhiev Second Gm Norm Youngest Grandmaster Record",
+        "date": "2026-10-14T06:55:23.544896",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-10-14T06:55:23.544896",
+    "hittad": "2026-10-15T06:56:52.714381"
+  },
+  {
+    "id": "6268a858213c",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/us-championships-2026-4",
-        "title": "US Championships: Caruana climbs to the shared lead in the open, Lee takes the sole lead in the women's",
-        "date": "Tue, 13 Oct 2026 19:45:00 GMT",
+        "url": "https://en.chessbase.com/post/atyrau-masters-2026-r3",
+        "title": "Atyrau Masters: Top two seeds defeated in opening rounds",
+        "date": "Thu, 15 Oct 2026 04:45:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "Fabiano Caruana defeated Ray Robson in round four of the US Championship to join Wesley So in the lead on 3/4. Awonder Liang suffered his first defeat against Jeffery Xiong, while Hans Niemann also collected a full point. In the women's tournament, Alice Lee took the sole lead by beating 13-year-old Megan Paragua, while Irina Krush scored her second victory of the event, defeating Nazi Paikidze. | Photo: Lennart Ootes / Saint Louis Chess Club"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/u-s-championship-round-4",
-        "title": "U.S. Championship: Round 4",
-        "date": "Wed, 14 Oct 2026 07:34:51 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Round 4 in Saint Louis on Monday produced a new co-leader in the open section, as Fabiano Caruana beat Ray Robson to join Wesley So on 3/4, while Jeffery Xiong knocked Awonder Liang out of the lead. In the women's section, Alice Lee beat overnight co-leader Megan Paragua to go clear on 3.5/4, her third straight win."
-      }
-    ],
-    "kalla_display": "Chess News Network + ChessBase",
-    "datum": "Tue, 13 Oct 2026 19:45:00 GMT",
-    "hittad": "2026-10-14T10:22:10.138451",
-    "liknar": {
-      "titel": "Caruana upp i delad ledning i USA-mästerskapet",
-      "url": "https://gambit.se/caruana-upp-i-delad-ledning-i-usa-masterskapet/",
-      "datum": "2026-10-13"
-    }
-  },
-  {
-    "id": "79aaf3fe4cae",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/shorter-time-controls-fide-general-assembly",
-        "title": "FIDE General Assembly adopts resolution on shorter time controls",
-        "date": "Wed, 14 Oct 2026 06:10:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "FIDE is preparing changes to the regulations governing shorter classical time controls following a General Assembly resolution based on a proposal from the Icelandic Chess Federation. The FIDE Council plans to make 60+30 a standard classical control without special approval, while considering broader use of 45+30. Limits on games per day and title norms would remain, with further consultation planned before decisions on more extensive changes to classical tournament regulations. | Photo: FIDE"
-      },
-      {
-        "source": "FIDE",
-        "url": "https://www.fide.com/category/fide-events/2026-fide-general-assembly/",
-        "title": "2026 FIDE General Assembly",
-        "date": "2026-10-13T10:20:53.130270",
-        "tag": "FIDE"
-      }
-    ],
-    "kalla_display": "ChessBase + FIDE",
-    "datum": "Wed, 14 Oct 2026 06:10:00 GMT",
-    "hittad": "2026-10-14T10:22:10.138459",
-    "liknar": {
-      "titel": "FIDE stödjer kortare betänketider i klassiskt schack",
-      "url": "https://gambit.se/fide-stodjer-kortare-betanketider-i-klassiskt-schack/",
-      "datum": "2026-10-13"
-    }
-  },
-  {
-    "id": "e1995b326cc8",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/bodhabna-in-the-bundesliga",
-        "title": "Bodhana in the Bundesliga",
-        "date": "Tue, 13 Oct 2026 17:49:30 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Bodhana Sivanandan made her debut in the Second Bundesliga this weekend, playing for the Hamburger SK's men's team. She is the youngest youngest player ever to play in the German Bundesliga, and the youngest WGM in history. Her score in the two games she played: 1½ points. Not bad for an 11-year-old girl. Before the matches she visited ChessBase in Hamburg and did some recordings for us."
+        "_rss_content": "The Atyrau Masters in Kazakhstan has attracted a strong international field, with Shamsiddin Vokhidov and Leon Luke Mendonca heading the starting list. Both top seeds suffered unexpected defeats in the opening two rounds, losing to significantly lower-rated opponents. Nguyen Duc Hoa defeated Vokhidov in round one, while Sergey Sklokin-Bagiyan overcame Mendonca in round two. The nine-round Swiss tournament, part of the Kazakhstan Chess Cup, concludes on 20 October. | Photo: Kazakhstan Chess Federation"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Tue, 13 Oct 2026 17:49:30 GMT",
-    "hittad": "2026-10-14T10:22:10.138463"
+    "datum": "Thu, 15 Oct 2026 04:45:00 GMT",
+    "hittad": "2026-10-15T06:56:52.714389"
   },
   {
-    "id": "7167cb5bcf52",
+    "id": "1eca863de859",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/young-british-prodigies",
+        "title": "Young British prodigies",
+        "date": "Wed, 14 Oct 2026 16:00:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "The English Chess Federation has congratulated 12-year-old chess prodigy Supratit Banerjee after his International Master title was officially approved by FIDE, making him the youngest English player to achieve the prestigious title. This is another milestone for a remarkable generation of young English chess talent that includes Britain's youngest WGM, 11-year-old Bodhana Sivanandan."
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Wed, 14 Oct 2026 16:00:00 GMT",
+    "hittad": "2026-10-15T06:56:52.714398",
+    "liknar": {
+      "titel": "12-åring yngsta IM i brittisk historia",
+      "url": "https://gambit.se/12-aring-yngsta-im-i-brittisk-historia/",
+      "datum": "2026-10-14"
+    }
+  },
+  {
+    "id": "94e3c80ca772",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/intercontinental-online-chess-ch-2026-start",
+        "title": "6th Intercontinental Online Chess Championship for Prisoners kicks off with record 140 teams",
+        "date": "Wed, 14 Oct 2026 13:45:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "The 6th Intercontinental Online Chess Championship for Prisoners began on 13 October with a record 140 teams from 56 countries competing across men's, women's and youth sections. Organised by FIDE and the Cook County Sheriff's Office, the three-day event continues a programme that uses chess as an educational and social tool in correctional facilities. Several teams completed the opening stage with perfect scores before advancing to the championship rounds."
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Wed, 14 Oct 2026 13:45:00 GMT",
+    "hittad": "2026-10-15T06:56:52.714405",
+    "liknar": {
+      "titel": "Rekordmånga lag i schack-VM för fångar",
+      "url": "https://gambit.se/?p=3694",
+      "datum": "2026-10-14"
+    }
+  },
+  {
+    "id": "bb1c01b45627",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/how-11-year-old-skye-attieh-led-lebanons-womens-team-at-the-olympiad",
-        "title": "SpotlightTop storyRasika Ratnaparkhi·7 hours agoHow 11-Year-Old Skye Attieh Led Lebanon's Women's Team at the Olympiad",
-        "date": "2026-10-13T10:21:05.564418",
+        "url": "https://www.chessbase.in/news/chessbase-india-website-update",
+        "title": "SpotlightTop storyRasika Ratnaparkhi·44 minutes agoWhat’s New on the ChessBase India Website?",
+        "date": "2026-10-14T06:55:49.134603",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-10-13T10:21:05.564418",
-    "hittad": "2026-10-14T10:22:10.138468"
+    "datum": "2026-10-14T06:55:49.134603",
+    "hittad": "2026-10-15T06:56:52.714411"
   },
   {
-    "id": "ad28554b68c7",
+    "id": "b8a00ae6c28c",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/10/14/fide-world-championships-u7-u17/?utm_source=rss&utm_medium=rss&utm_campaign=fide-world-championships-u7-u17",
-        "title": "FIDE World Championships U7-U17",
-        "date": "Wed, 14 Oct 2026 08:39:37 +0000",
-        "tag": "Dansk Skak Union",
-        "_rss_content": "FIDE og det spanske skakforbund afholder VM for U7-U17 i Roquetas de Mar i Spanien fra den 13. til den 21. oktober. Første runde spilles onsdag den 14. oktober, og der spilles 11 runder frem til tirsdag den 20. oktober. Danskere i turneringen: O17 &#8211; IM Vitus Bondo Medhus (2394) &#8211; seedet nr. 3G15 &#8211; [&#8230;]"
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/le-conseil-de-hans-niemann-aux-jeunes-champions-d-echecs-n-allez-pas-a-l-ecole-10108.html",
+        "title": "Le conseil de Hans Niemann aux jeunes champions d’échecs : n’allez pas à l’école !",
+        "date": "2026-10-14T06:55:59.587917",
+        "tag": "Europe Echecs"
       }
     ],
-    "kalla_display": "Dansk Skak Union",
-    "datum": "Wed, 14 Oct 2026 08:39:37 +0000",
-    "hittad": "2026-10-14T10:22:10.138472"
+    "kalla_display": "Europe Echecs",
+    "datum": "2026-10-14T06:55:59.587917",
+    "hittad": "2026-10-15T06:56:52.714417"
   },
   {
-    "id": "6232a9417d8f",
+    "id": "7dcc2fc4ec95",
     "status": "pending",
     "rubriker": [
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/14/sjakkmentor-nytt-tilbud-om-sjakktrening-pa-nett/",
-        "title": "Sjakkmentor – nytt tilbud om sjakktrening på nett",
-        "date": "Wed, 14 Oct 2026 04:45:34 +0000",
+        "url": "https://bergensjakk.no/2026/10/15/soras-super-blitz-oktober-2026/",
+        "title": "Sørås Super-Blitz Oktober 2026",
+        "date": "Thu, 15 Oct 2026 05:00:26 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "Vi viderebringer følgende fra Sjakkmentor: Sjakkmentor – nytt tilbud om sjakktrening på nett Vi er tre aktive turneringsspillere, FM Vinjar Hammari, FM Eivind Grunt Kreken og Peder Marcus Aamodt, som har startet Sjakkmentor, et nytt tilbud om sjakktrening på nett for både barn og voksne. Vi har erfaring med å trene spillere fra blant annet Les mer"
+        "_rss_content": "Søråshøgda Sjakklubb i Bergen arrangerte Sørås Super-Blitz Oktober onsdag 14. oktober 2026. Det var 21 deltakere som spilte 9 runder lynsjakk. A-gruppen ble vunnet av den høyest ratede, Erland Foshaug, med 7&#189; poeng. På de neste plassene fulgte Martin Orvedal og Liam Stenstrand med 6 poeng. I B-gruppen gikk Samuel Keilegavlen til topps med 6&#189; Les mer"
       }
     ],
     "kalla_display": "Bergensjakk",
-    "datum": "Wed, 14 Oct 2026 04:45:34 +0000",
-    "hittad": "2026-10-14T10:22:10.138476"
+    "datum": "Thu, 15 Oct 2026 05:00:26 +0000",
+    "hittad": "2026-10-15T06:56:52.714426"
   },
   {
-    "id": "672c4f703336",
+    "id": "e2114e865b59",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/chessever-founder-vasif-durarbayli-drops-the-communist-label-for-lichess-while-p",
-        "title": "ChessEver Founder Calls Lichess \"Communist\"",
-        "date": "Wed, 14 Oct 2026 06:20:00 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Grandmaster Vasif Durarbayli, the founder of the live-chess app ChessEver, has set out how he sees the online chess landscape in a thread on X, describing Chess.com as the capitalist end of the spectrum and Lichess as the communist end, with ChessEver aiming for the middle."
+        "source": "ChessBase España",
+        "url": "https://es.chessbase.com/post/dichos-anatoly-karpov-uvencio-blanco",
+        "title": "¿Qué dijo y qué omitió Karpov sobre el declive del ajedrez ruso?",
+        "date": "Tue, 13 Oct 2026 21:50:00 GMT",
+        "tag": "ChessBase España",
+        "_rss_content": "El declive reciente del ajedrez ruso ha abierto un debate sobre sus causas estructurales y políticas. A partir de declaraciones de Anatoli Kárpov, el texto examina la pérdida de peso competitivo de Rusia, la erosión de la antigua escuela soviética y la falta de apoyo institucional. Al mismo tiempo, plantea una omisión relevante: el impacto de la guerra en Ucrania sobre el aislamiento, la emigración de jugadores y la participación internacional. | Foto: Sport24"
       }
     ],
-    "kalla_display": "Chess News Network",
-    "datum": "Wed, 14 Oct 2026 06:20:00 GMT",
-    "hittad": "2026-10-14T10:22:10.138484"
-  },
-  {
-    "id": "0a2326158a0a",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/record-participation-at-6th-intercontinental-online-chess-championship-for-priso",
-        "title": "Record Participation at 6th Intercontinental Online Chess Championship for Prisoners",
-        "date": "Wed, 14 Oct 2026 06:17:35 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "The 6th Intercontinental Online Chess Championship for Prisoners kicked off with 140 teams from 56 countries, a new participation record, with teams competing in men's, women's, and youth sections."
-      }
-    ],
-    "kalla_display": "Chess News Network",
-    "datum": "Wed, 14 Oct 2026 06:17:35 GMT",
-    "hittad": "2026-10-14T10:22:10.138489"
-  },
-  {
-    "id": "5d8cc235e4a0",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/nikita-vitiugov-says-his-playing-career-is-over",
-        "title": "Nikita Vitiugov Says His Playing Career Is Over",
-        "date": "Tue, 13 Oct 2026 17:13:02 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "England's highest-rated player, Grandmaster Nikita Vitiugov, has said his playing career is over, explaining that once he stopped improving he was no longer willing to give chess less than everything."
-      }
-    ],
-    "kalla_display": "Chess News Network",
-    "datum": "Tue, 13 Oct 2026 17:13:02 GMT",
-    "hittad": "2026-10-14T10:22:10.138493"
+    "kalla_display": "ChessBase España",
+    "datum": "Tue, 13 Oct 2026 21:50:00 GMT",
+    "hittad": "2026-10-15T06:56:52.714433"
   }
 ]
