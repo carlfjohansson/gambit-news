@@ -1,188 +1,134 @@
 [
   {
-    "id": "755d576e2d0b",
+    "id": "9453db93b5e5",
     "status": "pending",
     "rubriker": [
       {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/us-championships-2026-5",
-        "title": "US Championships: Woodward takes down Caruana, Lee widens the gap",
-        "date": "Thu, 15 Oct 2026 17:20:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Sixteen-year-old Andy Woodward defeated defending champion Fabiano Caruana in round five of the US Championship to join Wesley So in the lead on 3½/5. Jeffery Xiong, Ray Robson and Abhimanyu Mishra also scored victories. In the women's tournament, Alice Lee claimed her fourth consecutive win to extend her lead to a full point. Meanwhile, Rose Atwell defeated defending champion Carissa Yip, who suffered her third loss in the event. | Photo: Lennart Ootes / Saint Louis Chess Club"
+        "source": "Dansk Skak Union",
+        "url": "https://nyheder.skak.dk/2026/10/16/european-club-cup-2026/?utm_source=rss&utm_medium=rss&utm_campaign=european-club-cup-2026",
+        "title": "European Club Cup 2026",
+        "date": "Fri, 16 Oct 2026 19:29:51 +0000",
+        "tag": "Dansk Skak Union",
+        "_rss_content": "Årets Europa Cup starter d. 17. oktober i Montenegro i Budva, der har afholdt utallige af ECU&#8217;s skakmesterskaber. Turneringen skulle være afholdt i Herceg Novi, men blev i sidste øjeblik ændret til Budva, da Hotel Medun simpelthen ikke er blevet klar i tide. Igen i år er der sat rekord på deltagende hold, denne gang [&#8230;]"
       },
       {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/internationellt/2026/10/usa-woodward-tog-ner-caruana/?utm_source=rss&utm_medium=rss&utm_campaign=usa-woodward-tog-ner-caruana",
-        "title": "USA: Woodward tog ner Caruana",
-        "date": "Thu, 15 Oct 2026 16:00:14 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Schack.se har tidigare uppmärksammat att TePe Sigeman-bekantingen GM Andy Woodward verkligen kan bli en kraft att räkna med i årets USA-mästerskap. En tävling som har vunnits de senaste fyra åren, [&#8230;] Inlägget USA: Woodward tog ner Caruana dök först upp på Sveriges Schackförbund ."
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/u-s-championship-round-6",
-        "title": "U.S. Championship: Round 6",
-        "date": "Fri, 16 Oct 2026 09:39:00 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Round 6 in Saint Louis on Thursday left both sections wide open. In the open, Fabiano Caruana bounced back from his first loss and Awonder Liang beat Levon Aronian to join Wesley So and Andy Woodward on 4/6. In the women's, Rachael Li ended Alice Lee's four-game winning streak, and Li, Lee and Thalia Cervantes now share the lead on 4.5."
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/10/17/europacupen-for-klubblag-2026-starter/",
+        "title": "Europacupen for klubblag 2026 starter",
+        "date": "Sat, 17 Oct 2026 05:00:02 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "I&#160;dag starter Europacupen for klubblag. Mesterskapet spilles i Budva i Montenegro fra 17. til 23. oktober 2026. Det er seks spillere på laget og syv runder. Høyest ratet er tyrkiske Bayegan Pendik Chess Sports Club med ratingsnitt på 2715. Her finner vi bl.a. GM Anish Giri (NED 2752) og verdens beste juniorspiller, GM Yagiz Kaan Les mer"
       }
     ],
-    "kalla_display": "Chess News Network + ChessBase + Schack.se",
-    "datum": "Thu, 15 Oct 2026 17:20:00 GMT",
-    "hittad": "2026-10-16T09:57:55.073970",
-    "liknar": {
-      "titel": "Woodward vann mot Caruana",
-      "url": "https://gambit.se/woodward-vann-mot-caruana/",
-      "datum": "2026-10-15"
-    }
+    "kalla_display": "Bergensjakk + Dansk Skak Union",
+    "datum": "Fri, 16 Oct 2026 19:29:51 +0000",
+    "hittad": "2026-10-17T09:31:28.825183"
   },
   {
-    "id": "cbe14cee8960",
+    "id": "32a024d77007",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-us-chess-championships-round-6",
-        "title": "2026 Us Chess Championships Round 6",
-        "date": "2026-10-15T09:56:31.422326",
+        "url": "https://www.chess.com/news/view/2026-us-chess-championships-round-7",
+        "title": "2026 Us Chess Championships Round 7",
+        "date": "2026-10-16T09:30:03.007173",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-10-15T09:56:31.422326",
-    "hittad": "2026-10-16T09:57:55.073983",
-    "liknar": {
-      "titel": "Woodward vann mot Caruana",
-      "url": "https://gambit.se/woodward-vann-mot-caruana/",
-      "datum": "2026-10-15"
-    }
+    "datum": "2026-10-16T09:30:03.007173",
+    "hittad": "2026-10-17T09:31:28.825200"
   },
   {
-    "id": "f66f846a98f1",
+    "id": "59a7b64549f4",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-ccl-fall-week-four-update",
-        "title": "2026 Ccl Fall Week Four Update",
-        "date": "2026-10-15T09:56:31.422348",
+        "url": "https://www.chess.com/news/view/grandmasters-reaches-92-amc-theaters-expands-after-sold-out-new-york-premiere",
+        "title": "Grandmasters Reaches 92 Amc Theaters Expands After Sold Out New York Premiere",
+        "date": "2026-10-16T09:30:03.007225",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-10-15T09:56:31.422348",
-    "hittad": "2026-10-16T09:57:55.073988"
+    "datum": "2026-10-16T09:30:03.007225",
+    "hittad": "2026-10-17T09:31:28.825209"
   },
   {
-    "id": "cd298380809a",
+    "id": "834c268b2f1d",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/movahed-wins-freestyle-friday-october-16-2026",
+        "title": "Movahed Wins Freestyle Friday October 16 2026",
+        "date": "2026-10-16T09:30:03.007259",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-10-16T09:30:03.007259",
+    "hittad": "2026-10-17T09:31:28.825217"
+  },
+  {
+    "id": "02483a9dd95a",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/maghsoodloo-maghsoodloo-caruana-3-0-thursday-10-15-2026",
+        "title": "Maghsoodloo Maghsoodloo Caruana 3 0 Thursday 10 15 2026",
+        "date": "2026-10-16T09:30:03.007289",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-10-16T09:30:03.007289",
+    "hittad": "2026-10-17T09:31:28.825224"
+  },
+  {
+    "id": "fea030c3bf59",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/rafael-vaganian-75th-birthday",
-        "title": "Rafael Vaganian turns 75: Decades among the chess elite",
-        "date": "Thu, 15 Oct 2026 21:45:00 GMT",
+        "url": "https://en.chessbase.com/post/review-the-modern-benko-gambit-a-full-repertoire-against-1-d4-by-gm-sipke-ernst",
+        "title": "Review: The Modern Benko Gambit - A Full Repertoire Against 1.d4 by GM Sipke Ernst",
+        "date": "Sat, 17 Oct 2026 07:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "Today, Rafael Vaganian celebrates his 75th birthday. In 1971, he became the first Armenian chess player after Tigran Petrosian to be awarded the grandmaster title by FIDE. He won numerous medals in team competitions representing the Soviet Union and Armenia, was at one point ranked fourth in the world and played for SG Porz in the German Bundesliga for many years. | Photo: Frank Hoppe"
+        "_rss_content": "In his latest ChessBase course, Grandmaster Sipke Ernst thoroughly dispels the Benko Gambit's poor reputation. His modern approach, featuring an early 5...e6!, revolutionises the gambit, breathes new life into it and elegantly sidesteps White's traditional attempts at refutation. A new chapter in the history of the Benko Gambit has been written – and Christian Höthe takes a close look!"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Thu, 15 Oct 2026 21:45:00 GMT",
-    "hittad": "2026-10-16T09:57:55.073993"
+    "datum": "Sat, 17 Oct 2026 07:00:00 GMT",
+    "hittad": "2026-10-17T09:31:28.825233"
   },
   {
-    "id": "4e0460a13bfa",
+    "id": "740f86b3379d",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/sverige/2026/10/edvin-trost-jag-fokuserar-pa-schacket-med-hela-hjartat/?utm_source=rss&utm_medium=rss&utm_campaign=edvin-trost-jag-fokuserar-pa-schacket-med-hela-hjartat",
-        "title": "Edvin Trost: ”Jag fokuserar på schacket med hela hjärtat”",
-        "date": "Fri, 16 Oct 2026 06:06:57 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Edvin Trost har varit det svenska schackets stigande stjärna under sommaren.Han har tagit studenten, vunnit både Schack-SM och Lidköping Open och spelat starkt i OS.Nu väntar ett sabbatsår med fullt [&#8230;] Inlägget Edvin Trost: ”Jag fokuserar på schacket med hela hjärtat” dök först upp på Sveriges Schackförbund ."
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/dortmund-sparkassen-trophy-2027",
+        "title": "Dortmund Sparkassen Trophy 2027",
+        "date": "Fri, 16 Oct 2026 17:20:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "In 2027, the 54th International Dortmund Chess Days will mark a special chapter in their history spanning more than 50 years: from 8 to 15 August 2027, the Sparkassen Chess Trophy will be held for the first time in the “Salzlager” at the Hansa Coking Plant. As part of the 2027 International Garden Exhibition (IGA 2027), Germany’s longest-running chess festival will thus combine top-level international sport, grassroots chess and an extraordinary venue. The new venue allows for expansion to up to 450 participants."
       }
     ],
-    "kalla_display": "Schack.se",
-    "datum": "Fri, 16 Oct 2026 06:06:57 +0000",
-    "hittad": "2026-10-16T09:57:55.073997"
+    "kalla_display": "ChessBase",
+    "datum": "Fri, 16 Oct 2026 17:20:00 GMT",
+    "hittad": "2026-10-17T09:31:28.825241"
   },
   {
-    "id": "0edc9512a606",
+    "id": "e04b2e1e569e",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/forbundsnytt/2026/10/korrschackets-hemsida-far-ansiktslyft/?utm_source=rss&utm_medium=rss&utm_campaign=korrschackets-hemsida-far-ansiktslyft",
-        "title": "Korrschackets hemsida får ansiktslyft",
-        "date": "Fri, 16 Oct 2026 05:31:17 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Sveriges Schackförbunds Korrschackkommitté (SSKK) har genomfört en uppdatering av sin hemsida. Förändringen vilar på två bärande ambitioner: att erbjuda en modern plattform som gör det enklare att locka nya spelare, [&#8230;] Inlägget Korrschackets hemsida får ansiktslyft dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Fri, 16 Oct 2026 05:31:17 +0000",
-    "hittad": "2026-10-16T09:57:55.074001"
-  },
-  {
-    "id": "c88b5d6e16ba",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/damschack/2026/10/deras-lager-satter-ljus-pa-damschacket/?utm_source=rss&utm_medium=rss&utm_campaign=deras-lager-satter-ljus-pa-damschacket",
-        "title": "Deras läger sätter ljus på damschacket",
-        "date": "Fri, 16 Oct 2026 05:03:47 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Damweekend på Gotland – och i Kalmar.Det är två initiativ som arrangeras i oktober och sätter ljus på damschacket. Johanna Lundström, som är ordförande i Smålands Schackförbund, arrangerar det tredje [&#8230;] Inlägget Deras läger sätter ljus på damschacket dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Fri, 16 Oct 2026 05:03:47 +0000",
-    "hittad": "2026-10-16T09:57:55.074004"
-  },
-  {
-    "id": "56fa224bed13",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/sverige/2026/10/en-pigg-147-aring-laddar-for-en-ny-allsvensk-sasong/?utm_source=rss&utm_medium=rss&utm_campaign=en-pigg-147-aring-laddar-for-en-ny-allsvensk-sasong",
-        "title": "En pigg 147-åring laddar för en ny allsvensk säsong",
-        "date": "Fri, 16 Oct 2026 04:41:19 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Joakim Elfving, 61 år, är ordförande i Göteborgs Schacksällskap.I jämförelse med klubbens ålder är han rena junioren.Göteborgsklubben som fyller 147 i år är redo för en ny säsong i Allsvenskan [&#8230;] Inlägget En pigg 147-åring laddar för en ny allsvensk säsong dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Fri, 16 Oct 2026 04:41:19 +0000",
-    "hittad": "2026-10-16T09:57:55.074011"
-  },
-  {
-    "id": "5a1c5fcb6a3a",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/schack-i-skolan/2026/10/schacket-har-gett-sa-mycket-skolan-och-eleverna/?utm_source=rss&utm_medium=rss&utm_campaign=schacket-har-gett-sa-mycket-skolan-och-eleverna",
-        "title": "”Schacket har gett så mycket till skolan och eleverna”",
-        "date": "Fri, 16 Oct 2026 04:10:58 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "På Internationella Engelska Skolan i Borås har schacket blivit en mötesplats för eleveri olika åldrar.Nu pågår uppladdningen för Yes2Chess.– Det blir så spännande att vara med, säger elevassistenten och fritidsledaren [&#8230;] Inlägget ”Schacket har gett så mycket till skolan och eleverna” dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Fri, 16 Oct 2026 04:10:58 +0000",
-    "hittad": "2026-10-16T09:57:55.074015"
-  },
-  {
-    "id": "30ed11078fb9",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettan/2026/10/nato-masterskapet-sverige-pa-bronsplats-infor-slutronden/?utm_source=rss&utm_medium=rss&utm_campaign=nato-masterskapet-sverige-pa-bronsplats-infor-slutronden",
+        "url": "https://schack.se/nyhet/internationellt/2026/10/nato-masterskapet-sverige-pa-bronsplats-infor-slutronden/?utm_source=rss&utm_medium=rss&utm_campaign=nato-masterskapet-sverige-pa-bronsplats-infor-slutronden",
         "title": "Nato-mästerskapet: Sverige på bronsplats inför slutronden",
         "date": "Thu, 15 Oct 2026 20:14:02 +0000",
         "tag": "Svenska Schackförbundet",
@@ -191,139 +137,95 @@
     ],
     "kalla_display": "Schack.se",
     "datum": "Thu, 15 Oct 2026 20:14:02 +0000",
-    "hittad": "2026-10-16T09:57:55.074019"
+    "hittad": "2026-10-17T09:31:28.825251",
+    "liknar": {
+      "titel": "Sverige trea i Nato-mästerskapet inför slutronden",
+      "url": "https://gambit.se/sverige-trea-i-nato-masterskapet-infor-slutronden/",
+      "datum": "2026-10-16"
+    }
   },
   {
-    "id": "628532b3b5e6",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettan/2026/10/42-anmalda-till-vastgota-open-2/?utm_source=rss&utm_medium=rss&utm_campaign=42-anmalda-till-vastgota-open-2",
-        "title": "42 anmälda till Västgöta Open",
-        "date": "Thu, 15 Oct 2026 13:40:47 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "42 spelare är hittills anmälda till Västgöta Open, som arrangeras av Västergötlands Schackförbund i samarbete med Skara SS. Tävlingen spelas i Skara den 24-25 oktober på Skaraborgen (Idrottshallen). Deltagarlistan toppas [&#8230;] Inlägget 42 anmälda till Västgöta Open dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Thu, 15 Oct 2026 13:40:47 +0000",
-    "hittad": "2026-10-16T09:57:55.074022"
-  },
-  {
-    "id": "be63dda06530",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettan/2026/10/nato-masterskapet-sverige-trea-just-nu/?utm_source=rss&utm_medium=rss&utm_campaign=nato-masterskapet-sverige-trea-just-nu",
-        "title": "Nato-mästerskapet: Sverige trea just nu",
-        "date": "Wed, 14 Oct 2026 14:08:12 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Sverige &#8211; Team Sweden &#8211; ligger på tredje plats i det pågående Nato-mästerskapet i schack, inför torsdagens dubbelrond. I ett väldigt starkt startfält, så ligger FM Johan Norberg på en [&#8230;] Inlägget Nato-mästerskapet: Sverige trea just nu dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Wed, 14 Oct 2026 14:08:12 +0000",
-    "hittad": "2026-10-16T09:57:55.074025"
-  },
-  {
-    "id": "6f0429eada53",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/internationellt/2026/10/full-fart-framat-for-tepe-sigeman-bekantingen/?utm_source=rss&utm_medium=rss&utm_campaign=full-fart-framat-for-tepe-sigeman-bekantingen",
-        "title": "Full fart framåt för TePe Sigeman-bekantingen",
-        "date": "Wed, 14 Oct 2026 07:01:33 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Den årliga TePe Sigeman-turneringen i Malmö brukar locka några av schackvärldens största talanger att spela i Sverige. Och årets turnering i april var inget undantag. Både det turkiske underbarnet Yagiz [&#8230;] Inlägget Full fart framåt för TePe Sigeman-bekantingen dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Wed, 14 Oct 2026 07:01:33 +0000",
-    "hittad": "2026-10-16T09:57:55.074027"
-  },
-  {
-    "id": "520023536ee9",
+    "id": "f9b4b0c37867",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/tribute-to-ramesh-dhirajlal-sheth",
-        "title": "SpotlightTop storyPraful Zaveri·1 hour agoRemembering Ramesh Kaka: An Indian Olympian, a Shared Heritage and a Memory Worth Preserving",
-        "date": "2026-10-15T09:56:53.489344",
+        "url": "https://www.chessbase.in/news/51st-national-under-15-round-7",
+        "title": "SpotlightTop storyDevansh Singh·8 hours ago51st National Under-15 R7: Day of Upsets in Open Section; Prishita Secures Sole Lead in Girls",
+        "date": "2026-10-16T09:30:25.333809",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-10-15T09:56:53.489344",
-    "hittad": "2026-10-16T09:57:55.074031"
+    "datum": "2026-10-16T09:30:25.333809",
+    "hittad": "2026-10-17T09:31:28.825258"
   },
   {
-    "id": "c7b7c833c4a6",
+    "id": "4202ebedc2b5",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/total-chess-rating-le-nouveau-classement-elo-qui-melange-classique-rapide-et-blitz-10110.html",
-        "title": "Total Chess Rating : le nouveau classement Elo qui mélange classique, rapide et blitz",
-        "date": "2026-10-15T09:57:05.086694",
-        "tag": "Europe Echecs"
+        "source": "Dansk Skak Union",
+        "url": "https://nyheder.skak.dk/2026/10/16/hollandsk-foering-paa-amager/?utm_source=rss&utm_medium=rss&utm_campaign=hollandsk-foering-paa-amager",
+        "title": "Hollandsk føring på Amager",
+        "date": "Fri, 16 Oct 2026 18:53:31 +0000",
+        "tag": "Dansk Skak Union",
+        "_rss_content": "IM Miguoel Admiraal fra Holland kan lørdag score en GM-norm ved at slå IM Viktor Haarmark Nielsen i sidste runde af Amager Skakforenings 100-års GM og IM jubilæumsturnering. I 8.runde slog Admiraal den hidtil førende spiller, franske IM Floryan Eugene. Ifølge FIDEs hjemmeside har Miguoel Admiraal ingen GM-normer, men tjekker man hans Wikipedia-side, har han [&#8230;]"
       }
     ],
-    "kalla_display": "Europe Echecs",
-    "datum": "2026-10-15T09:57:05.086694",
-    "hittad": "2026-10-16T09:57:55.074034"
+    "kalla_display": "Dansk Skak Union",
+    "datum": "Fri, 16 Oct 2026 18:53:31 +0000",
+    "hittad": "2026-10-17T09:31:28.825265"
   },
   {
-    "id": "e96bf0c4463a",
+    "id": "366faf5fa2d3",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/2e-norme-de-grand-maitre-pour-roman-shogdzhiev-11-ans-le-record-de-mishra-est-desormais-en-danger-10109.html",
-        "title": "Lire l'article2e norme de grand maître pour Roman Shogdzhiev, 11 ans : le record de Mishra est désormais en...1",
-        "date": "2026-10-15T09:57:05.086729",
-        "tag": "Europe Echecs"
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/10/17/nato-chess-championship-2026/",
+        "title": "NATO Chess Championship 2026",
+        "date": "Sat, 17 Oct 2026 04:50:45 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "NATO Chess Championship, årets NATO-mesterskap i sjakk, ble spilt i Latvia 12-16. oktober 2026. Mesterskapet består av en 7-runders turnering med langsjakk. Turneringen er individuell, men det er også premiering til de beste lagene. Førsteplass gikk til den klare favoritten, tyrkiske GM Vahap Sanal (TUR 2544), som vant alle sine 7 partier. Den ble en Les mer"
       }
     ],
-    "kalla_display": "Europe Echecs",
-    "datum": "2026-10-15T09:57:05.086729",
-    "hittad": "2026-10-16T09:57:55.074037"
+    "kalla_display": "Bergensjakk",
+    "datum": "Sat, 17 Oct 2026 04:50:45 +0000",
+    "hittad": "2026-10-17T09:31:28.825271"
   },
   {
-    "id": "ff53bb7e560c",
+    "id": "262ab06ba9c0",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/10/16/sotra-sk-lyn-oktober-2026/",
+        "title": "Sotra SK Lyn Oktober 2026",
+        "date": "Fri, 16 Oct 2026 18:02:01 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Sotra Sjakklubb arrangerte torsdag 15. oktober 2026 lynsjakkturneringen Sotra SK Lyn Oktober. Favoritten Stig K. Martinsen vant alle sine 9 partier og tok en overlegen førsteplass. Mihaly Cziboly på 6&#189; poeng ble nummer to, foran Thirukkumaran Jeyachandran med 6 poeng på tredjeplass. Les mer om turneringen hos Sotra Sjakklubb. Neste lynsjakkturnering i Bergensområdet blir Bergen Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Fri, 16 Oct 2026 18:02:01 +0000",
+    "hittad": "2026-10-17T09:31:28.825277"
+  },
+  {
+    "id": "560cc3c70e0a",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/turlov-facing-more-criticism",
-        "title": "Turlov Facing More Criticism",
-        "date": "Thu, 15 Oct 2026 21:15:00 GMT",
+        "url": "https://chessnewsnetwork.com/article/slu-utd-remain-undefeated-in-collegiate-chess-league",
+        "title": "SLU, UTD Remain Undefeated in Collegiate Chess League",
+        "date": "Fri, 16 Oct 2026 16:41:08 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "Danish grandmaster Peter Heine Nielsen has once again publicly challenged new FIDE President Timur Turlov to explain why the Russian Rapid Championship is proceeding as a FIDE-rated event with participants from Crimea and other occupied Ukrainian regions."
+        "_rss_content": "Saint Louis University and University of Texas at Dallas are undefeated after two matches in the 2026 fall season"
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Thu, 15 Oct 2026 21:15:00 GMT",
-    "hittad": "2026-10-16T09:57:55.074040"
-  },
-  {
-    "id": "5f922dd1f53b",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/manaus-chess-open-rd6",
-        "title": "Manaus Chess Open 2026: Ajedrez de élite y una cita que gana cada vez más protagonismo",
-        "date": "Thu, 15 Oct 2026 21:30:00 GMT",
-        "tag": "ChessBase España",
-        "_rss_content": "El Manaus Chess Open 2026 reúne en plena Amazonía a grandes maestros, titulados internacionales y aficionados en un festival que combina competencia, difusión y convivencia. Con pruebas de rápidas, blitz, equipos y ajedrez clásico, el evento también destaca por su organización, las transmisiones en directo y las actividades culturales. Alexandr Fier abrió la competición con el triunfo en el torneo rápido, mientras figuras como Alexei Shirov encabezan la nómina internacional."
-      }
-    ],
-    "kalla_display": "ChessBase España",
-    "datum": "Thu, 15 Oct 2026 21:30:00 GMT",
-    "hittad": "2026-10-16T09:57:55.074043"
+    "datum": "Fri, 16 Oct 2026 16:41:08 GMT",
+    "hittad": "2026-10-17T09:31:28.825283"
   }
 ]
