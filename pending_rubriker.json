@@ -1,231 +1,318 @@
 [
   {
-    "id": "9453db93b5e5",
+    "id": "be7c01a7d4c3",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/10/16/european-club-cup-2026/?utm_source=rss&utm_medium=rss&utm_campaign=european-club-cup-2026",
-        "title": "European Club Cup 2026",
-        "date": "Fri, 16 Oct 2026 19:29:51 +0000",
-        "tag": "Dansk Skak Union",
-        "_rss_content": "Årets Europa Cup starter d. 17. oktober i Montenegro i Budva, der har afholdt utallige af ECU&#8217;s skakmesterskaber. Turneringen skulle være afholdt i Herceg Novi, men blev i sidste øjeblik ændret til Budva, da Hotel Medun simpelthen ikke er blevet klar i tide. Igen i år er der sat rekord på deltagende hold, denne gang [&#8230;]"
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/european-club-cup-2026-1",
+        "title": "European Club Cup: Comfortable wins for the favourites",
+        "date": "Sun, 18 Oct 2026 09:25:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "The European Club Cup began on Saturday in Budva, Montenegro, with 108 teams competing in the open section and 22 in the women's tournament. The leading clubs secured comfortable victories, although there were a couple of individual upsets. Defending champions SuperChess Romania and Monte-Carlo both started with wins, while Novy Bor's Nils Grandelius suffered a surprising defeat against Serbian CM Slobodan Filipovic. The women's competition saw seventh seeds Crvena Zvezda held to a draw. | Pictured: Alkaloid's Arjun Erigaisi | Photo: Mark Livshitz / ECU"
       },
       {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/17/europacupen-for-klubblag-2026-starter/",
-        "title": "Europacupen for klubblag 2026 starter",
-        "date": "Sat, 17 Oct 2026 05:00:02 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "I&#160;dag starter Europacupen for klubblag. Mesterskapet spilles i Budva i Montenegro fra 17. til 23. oktober 2026. Det er seks spillere på laget og syv runder. Høyest ratet er tyrkiske Bayegan Pendik Chess Sports Club med ratingsnitt på 2715. Her finner vi bl.a. GM Anish Giri (NED 2752) og verdens beste juniorspiller, GM Yagiz Kaan Les mer"
-      }
-    ],
-    "kalla_display": "Bergensjakk + Dansk Skak Union",
-    "datum": "Fri, 16 Oct 2026 19:29:51 +0000",
-    "hittad": "2026-10-17T09:31:28.825183"
-  },
-  {
-    "id": "32a024d77007",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-us-chess-championships-round-7",
-        "title": "2026 Us Chess Championships Round 7",
-        "date": "2026-10-16T09:30:03.007173",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-10-16T09:30:03.007173",
-    "hittad": "2026-10-17T09:31:28.825200"
-  },
-  {
-    "id": "59a7b64549f4",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/grandmasters-reaches-92-amc-theaters-expands-after-sold-out-new-york-premiere",
-        "title": "Grandmasters Reaches 92 Amc Theaters Expands After Sold Out New York Premiere",
-        "date": "2026-10-16T09:30:03.007225",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-10-16T09:30:03.007225",
-    "hittad": "2026-10-17T09:31:28.825209"
-  },
-  {
-    "id": "834c268b2f1d",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/movahed-wins-freestyle-friday-october-16-2026",
-        "title": "Movahed Wins Freestyle Friday October 16 2026",
-        "date": "2026-10-16T09:30:03.007259",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-10-16T09:30:03.007259",
-    "hittad": "2026-10-17T09:31:28.825217"
-  },
-  {
-    "id": "02483a9dd95a",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/maghsoodloo-maghsoodloo-caruana-3-0-thursday-10-15-2026",
-        "title": "Maghsoodloo Maghsoodloo Caruana 3 0 Thursday 10 15 2026",
-        "date": "2026-10-16T09:30:03.007289",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-10-16T09:30:03.007289",
-    "hittad": "2026-10-17T09:31:28.825224"
-  },
-  {
-    "id": "fea030c3bf59",
-    "status": "pending",
-    "rubriker": [
-      {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/review-the-modern-benko-gambit-a-full-repertoire-against-1-d4-by-gm-sipke-ernst",
-        "title": "Review: The Modern Benko Gambit - A Full Repertoire Against 1.d4 by GM Sipke Ernst",
-        "date": "Sat, 17 Oct 2026 07:00:00 GMT",
+        "url": "https://en.chessbase.com/post/european-club-cup-2026-preview",
+        "title": "The European Club Cup kicks off in Budva",
+        "date": "Sat, 17 Oct 2026 13:45:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "In his latest ChessBase course, Grandmaster Sipke Ernst thoroughly dispels the Benko Gambit's poor reputation. His modern approach, featuring an early 5...e6!, revolutionises the gambit, breathes new life into it and elegantly sidesteps White's traditional attempts at refutation. A new chapter in the history of the Benko Gambit has been written – and Christian Höthe takes a close look!"
+        "_rss_content": "From 17 to 23 October, Budva in Montenegro will host the European Club Cup. With over 100 teams competing in the open section and 22 teams in the women's competition, it is a large-scale event. The favourites, in each of the sections, are teams from Türkiye and Monaco. The highest-rated players in the field are Nodirbek Abdusattorov, Wei Yi and Anish Giri. | Image: European Chess Union"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Sat, 17 Oct 2026 07:00:00 GMT",
-    "hittad": "2026-10-17T09:31:28.825233"
-  },
-  {
-    "id": "740f86b3379d",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/dortmund-sparkassen-trophy-2027",
-        "title": "Dortmund Sparkassen Trophy 2027",
-        "date": "Fri, 16 Oct 2026 17:20:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "In 2027, the 54th International Dortmund Chess Days will mark a special chapter in their history spanning more than 50 years: from 8 to 15 August 2027, the Sparkassen Chess Trophy will be held for the first time in the “Salzlager” at the Hansa Coking Plant. As part of the 2027 International Garden Exhibition (IGA 2027), Germany’s longest-running chess festival will thus combine top-level international sport, grassroots chess and an extraordinary venue. The new venue allows for expansion to up to 450 participants."
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Fri, 16 Oct 2026 17:20:00 GMT",
-    "hittad": "2026-10-17T09:31:28.825241"
-  },
-  {
-    "id": "e04b2e1e569e",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/internationellt/2026/10/nato-masterskapet-sverige-pa-bronsplats-infor-slutronden/?utm_source=rss&utm_medium=rss&utm_campaign=nato-masterskapet-sverige-pa-bronsplats-infor-slutronden",
-        "title": "Nato-mästerskapet: Sverige på bronsplats inför slutronden",
-        "date": "Thu, 15 Oct 2026 20:14:02 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Sverige ligger trea i det 36:e Nato-mästerskapet i schack, inför slutronden på fredagen. Detta efter en stark sjätte rond på torsdag. Det är de just nu fyra bästa spelarna av [&#8230;] Inlägget Nato-mästerskapet: Sverige på bronsplats inför slutronden dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Thu, 15 Oct 2026 20:14:02 +0000",
-    "hittad": "2026-10-17T09:31:28.825251",
+    "datum": "Sun, 18 Oct 2026 09:25:00 GMT",
+    "hittad": "2026-10-18T09:44:44.193307",
     "liknar": {
-      "titel": "Sverige trea i Nato-mästerskapet inför slutronden",
-      "url": "https://gambit.se/sverige-trea-i-nato-masterskapet-infor-slutronden/",
-      "datum": "2026-10-16"
+      "titel": "Europacupen för klubblag inleds i Montenegro",
+      "url": "https://gambit.se/europacupen-for-klubblag-inleds-i-montenegro/",
+      "datum": "2026-10-17"
     }
   },
   {
-    "id": "f9b4b0c37867",
+    "id": "0ae43b01d79d",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/us-championships-2026-7",
+        "title": "US Championships: So comes from behind to beat Robson, becomes sole leader",
+        "date": "Sat, 17 Oct 2026 16:30:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Wesley So defeated Ray Robson in round seven of the US Championship to take the sole lead on 5/7, half a point ahead of Fabiano Caruana and Andy Woodward. Awonder Liang suffered his second defeat, as he lost to Grigoriy Oparin. In the women's tournament, Alice Lee and Rachael Li share first place on 5½/7, followed closely by Irina Krush, while Thalia Cervantes suffered her first defeat of the event, against Anna Sargsyan. | Photo: Lennart Ootes / Saint Louis Chess Club"
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/u-s-championship-round-7",
+        "title": "U.S. Championship: Round 7",
+        "date": "Sat, 17 Oct 2026 07:30:00 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Friday's Round 7 in Saint Louis reshuffled both sections. In the open, Wesley So came back from a worse position to beat Ray Robson and lead alone on 5/7, while Awonder Liang lost in 27 moves to Grigoriy Oparin. In the women's, Rachael Li and Alice Lee both won to lead on 5.5, and overnight co-leader Thalia Cervantes lost to Anna Sargsyan."
+      }
+    ],
+    "kalla_display": "Chess News Network + ChessBase",
+    "datum": "Sat, 17 Oct 2026 16:30:00 GMT",
+    "hittad": "2026-10-18T09:44:44.193326",
+    "liknar": {
+      "titel": "So ensam ledare efter vändning i Saint Louis",
+      "url": "https://gambit.se/so-ensam-ledare-efter-vandning-i-saint-louis/",
+      "datum": "2026-10-17"
+    }
+  },
+  {
+    "id": "40c5658cdabd",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/2026-us-chess-championships-round-8",
+        "title": "2026 Us Chess Championships Round 8",
+        "date": "2026-10-17T09:43:17.070800",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-10-17T09:43:17.070800",
+    "hittad": "2026-10-18T09:44:44.193332"
+  },
+  {
+    "id": "c070f9a9322c",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-17-2026",
+        "title": "Hikaru Nakamura Wins Bullet Brawl Oct 17 2026",
+        "date": "2026-10-17T09:43:17.070833",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-10-17T09:43:17.070833",
+    "hittad": "2026-10-18T09:44:44.193338"
+  },
+  {
+    "id": "92a59490cfee",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-1",
+        "title": "2026 European Chess Club Cup Round 1",
+        "date": "2026-10-17T09:43:17.070851",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-10-17T09:43:17.070851",
+    "hittad": "2026-10-18T09:44:44.193343",
+    "liknar": {
+      "titel": "Europacupen för klubblag inleds i Montenegro",
+      "url": "https://gambit.se/europacupen-for-klubblag-inleds-i-montenegro/",
+      "datum": "2026-10-17"
+    }
+  },
+  {
+    "id": "f24052fc49f2",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/my-70th-memorable-game",
+        "title": "My 70th Memorable Game",
+        "date": "Sat, 17 Oct 2026 22:00:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "On 17th October 1956, a sensational sacrificial game played in New York City by a 13-year-old chess upstart from Brooklyn shot across the globe. It was a game that literally took the chess world by storm. It contains a stunning sacrificial onslaught and is regarded as one of the most famous games of chess that has ever been played. In the October issue of CHESS magazine John Henderson recalls the game that made 13-year-old Bobby Fischer famous. It was played seventy years ago, today."
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Sat, 17 Oct 2026 22:00:00 GMT",
+    "hittad": "2026-10-18T09:44:44.193347"
+  },
+  {
+    "id": "ba91d84f448e",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/51st-national-under-15-round-7",
-        "title": "SpotlightTop storyDevansh Singh·8 hours ago51st National Under-15 R7: Day of Upsets in Open Section; Prishita Secures Sole Lead in Girls",
-        "date": "2026-10-16T09:30:25.333809",
+        "url": "https://www.chessbase.in/news/51st-national-under-15-round-8",
+        "title": "SpotlightTop storyDevansh Singh·16 hours ago51st National Under-15 R8: Madhesh and Shaunak Share Open Lead; Prishita Continues Dominance",
+        "date": "2026-10-17T09:43:39.913356",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-10-16T09:30:25.333809",
-    "hittad": "2026-10-17T09:31:28.825258"
+    "datum": "2026-10-17T09:43:39.913356",
+    "hittad": "2026-10-18T09:44:44.193352"
   },
   {
-    "id": "4202ebedc2b5",
+    "id": "dee8cccbd7ad",
     "status": "pending",
     "rubriker": [
       {
         "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/10/16/hollandsk-foering-paa-amager/?utm_source=rss&utm_medium=rss&utm_campaign=hollandsk-foering-paa-amager",
-        "title": "Hollandsk føring på Amager",
-        "date": "Fri, 16 Oct 2026 18:53:31 +0000",
+        "url": "https://nyheder.skak.dk/2026/10/17/gm-szpar-vandt-amagers-100-aars-jubilaeumsturnering/?utm_source=rss&utm_medium=rss&utm_campaign=gm-szpar-vandt-amagers-100-aars-jubilaeumsturnering",
+        "title": "GM Szpar vandt Amagers 100-års jubilæumsturnering",
+        "date": "Sat, 17 Oct 2026 17:31:24 +0000",
         "tag": "Dansk Skak Union",
-        "_rss_content": "IM Miguoel Admiraal fra Holland kan lørdag score en GM-norm ved at slå IM Viktor Haarmark Nielsen i sidste runde af Amager Skakforenings 100-års GM og IM jubilæumsturnering. I 8.runde slog Admiraal den hidtil førende spiller, franske IM Floryan Eugene. Ifølge FIDEs hjemmeside har Miguoel Admiraal ingen GM-normer, men tjekker man hans Wikipedia-side, har han [&#8230;]"
+        "_rss_content": "Den polske stormester Milosz Szpar vandt Amager Skakforenings 100-års GM jubilæumsturnering alene med 6 point af 9 mulige. Da den hidtil førende spiller, IM Miguoel Admiraal fra Holland, tabte til IM Viktor Haarmark Nielsen i sidste runde, var vejen banet for Szpar til at vinde turneringen udelt. Milosz Szpar vandt 3 partier og spillede 6 [&#8230;]"
       }
     ],
     "kalla_display": "Dansk Skak Union",
-    "datum": "Fri, 16 Oct 2026 18:53:31 +0000",
-    "hittad": "2026-10-17T09:31:28.825265"
+    "datum": "Sat, 17 Oct 2026 17:31:24 +0000",
+    "hittad": "2026-10-18T09:44:44.193360"
   },
   {
-    "id": "366faf5fa2d3",
+    "id": "f5beef8d6f86",
     "status": "pending",
     "rubriker": [
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/17/nato-chess-championship-2026/",
-        "title": "NATO Chess Championship 2026",
-        "date": "Sat, 17 Oct 2026 04:50:45 +0000",
+        "url": "https://bergensjakk.no/2026/10/18/rakkestad-lordagshurtigsjakk-ngp-2026/",
+        "title": "Rakkestad lørdagshurtigsjakk NGP 2026",
+        "date": "Sun, 18 Oct 2026 05:48:22 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "NATO Chess Championship, årets NATO-mesterskap i sjakk, ble spilt i Latvia 12-16. oktober 2026. Mesterskapet består av en 7-runders turnering med langsjakk. Turneringen er individuell, men det er også premiering til de beste lagene. Førsteplass gikk til den klare favoritten, tyrkiske GM Vahap Sanal (TUR 2544), som vant alle sine 7 partier. Den ble en Les mer"
+        "_rss_content": "Sarpsborg Sjakklubb arrangerte Rakkestad lørdagshurtigsjakk NGP lørdag 17. oktober 2026. Spillested var Rakkestad kulturhus. Turneringen inngår i Norges Grand Prix 2026-2027 og hadde 34 deltakere. A-gruppen endte med en klar førsteplass til Ben Samuel Groth Skaar med 5&#189; poeng på 6 runder. Gudmund Stenersen ble nummer to med 4&#189; poeng, mens CM Michael Mortensen, Shemsi Les mer"
       }
     ],
     "kalla_display": "Bergensjakk",
-    "datum": "Sat, 17 Oct 2026 04:50:45 +0000",
-    "hittad": "2026-10-17T09:31:28.825271"
+    "datum": "Sun, 18 Oct 2026 05:48:22 +0000",
+    "hittad": "2026-10-18T09:44:44.193365"
   },
   {
-    "id": "262ab06ba9c0",
+    "id": "7058c340a98d",
     "status": "pending",
     "rubriker": [
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/16/sotra-sk-lyn-oktober-2026/",
-        "title": "Sotra SK Lyn Oktober 2026",
-        "date": "Fri, 16 Oct 2026 18:02:01 +0000",
+        "url": "https://bergensjakk.no/2026/10/18/lyn-ngp-molde-host-2026/",
+        "title": "LYN-NGP-MOLDE-HØST-2026",
+        "date": "Sun, 18 Oct 2026 05:48:16 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "Sotra Sjakklubb arrangerte torsdag 15. oktober 2026 lynsjakkturneringen Sotra SK Lyn Oktober. Favoritten Stig K. Martinsen vant alle sine 9 partier og tok en overlegen førsteplass. Mihaly Cziboly på 6&#189; poeng ble nummer to, foran Thirukkumaran Jeyachandran med 6 poeng på tredjeplass. Les mer om turneringen hos Sotra Sjakklubb. Neste lynsjakkturnering i Bergensområdet blir Bergen Les mer"
+        "_rss_content": "LYN-NGP-MOLDE-HØST-2026 ble spilt i Molde lørdag 17. oktober 2026. Turneringen hadde 29 deltakere og inngår i Norges Grand Prix 2026-27. Arrangør var Molde Sjakklubb. Førsteplassen gikk til Jakob Mork Furstrand fra Aalesunds, som klarte det kunststykke å vinne alle sine 9 partier. Aksel Bræin tok andreplass med 7 poeng, fulgt av Tor Wetle W. Hoem Les mer"
       }
     ],
     "kalla_display": "Bergensjakk",
-    "datum": "Fri, 16 Oct 2026 18:02:01 +0000",
-    "hittad": "2026-10-17T09:31:28.825277"
+    "datum": "Sun, 18 Oct 2026 05:48:16 +0000",
+    "hittad": "2026-10-18T09:44:44.193370"
   },
   {
-    "id": "560cc3c70e0a",
+    "id": "433187ab11e7",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/10/18/loperen-hurtig-2026/",
+        "title": "Løperen Hurtig 2026",
+        "date": "Sun, 18 Oct 2026 05:48:05 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Løperen Sjakklubben i Bergen arrangerte Løperen Hurtig lørdag 17. oktober 2026. Det var 16 deltakere som spilte 7 runder hurtigsjakk. Kampen om førsteplass sto mellom Martin Orvedal og Scott Macody Lund, som begge endte på 6 poeng. Disse to spilte innbyrdes remis og avga ellers bare et halvpoeng. Orvedal hadde best kvalitetspoeng og tok dermed Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Sun, 18 Oct 2026 05:48:05 +0000",
+    "hittad": "2026-10-18T09:44:44.193374"
+  },
+  {
+    "id": "75a1617f8a25",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/10/17/velkommen-til-geilo-sjakkdager-2026/",
+        "title": "Velkommen til Geilo Sjakkdager 2026",
+        "date": "Sat, 17 Oct 2026 10:00:22 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Hallingskarvet Sjakklubb inviterer til Geilo Sjakkdager i november 2026: Geilo Sjakkdager – seks turneringer på tre dager13.–15. november 2026 Det blir en ny sjakkhelg på Geilo 13.–15. november 2026. Hallingskarvet Sjakklubb inviterer til den første utgaven av Geilo Sjakkdager, en ny turneringsserie som skal supplere de større sjakkfestivalene på Geilo. Under Geilo Sjakkfestival III i Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Sat, 17 Oct 2026 10:00:22 +0000",
+    "hittad": "2026-10-18T09:44:44.193378"
+  },
+  {
+    "id": "b45321032c29",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/slu-utd-remain-undefeated-in-collegiate-chess-league",
-        "title": "SLU, UTD Remain Undefeated in Collegiate Chess League",
-        "date": "Fri, 16 Oct 2026 16:41:08 GMT",
+        "url": "https://chessnewsnetwork.com/article/chess-documentary-grandmasters-released-in-us-theaters",
+        "title": "Chess Documentary 'Grandmasters' Released in US Theaters",
+        "date": "Sat, 17 Oct 2026 20:53:14 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "Saint Louis University and University of Texas at Dallas are undefeated after two matches in the 2026 fall season"
+        "_rss_content": "A documentary film featuring Magnus Carlsen, Wesley So, and Hans Niemann has been released in US theaters."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Fri, 16 Oct 2026 16:41:08 GMT",
-    "hittad": "2026-10-17T09:31:28.825283"
+    "datum": "Sat, 17 Oct 2026 20:53:14 GMT",
+    "hittad": "2026-10-18T09:44:44.193382"
+  },
+  {
+    "id": "da502e53cf96",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/game-of-the-day-im-arystanbek-urazayev-beats-gm-leon-luke-mendonca",
+        "title": "Game of the Day: IM Arystanbek Urazayev Beats GM Leon Luke Mendonca",
+        "date": "Sat, 17 Oct 2026 13:13:13 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "IM Arystanbek Urazayev beat GM Leon Luke Mendonca in round 5, board 10 of the Atyrau Open 2026 (Masters), winning in 52 moves."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Sat, 17 Oct 2026 13:13:13 GMT",
+    "hittad": "2026-10-18T09:44:44.193386"
+  },
+  {
+    "id": "bf708cd91aad",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/long-live-the-doctor-new-york-street-chess-says-goodbye-to-its-most-mysterious-l",
+        "title": "Long Live the Doctor: New York Street Chess Says Goodbye to Its Most Mysterious Legend",
+        "date": "Sat, 17 Oct 2026 13:08:00 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "The chess tables of New York are a little quieter this week. The man everyone called \"The Doctor,\" a fixture of the city's street chess for decades, has died."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Sat, 17 Oct 2026 13:08:00 GMT",
+    "hittad": "2026-10-18T09:44:44.193391"
+  },
+  {
+    "id": "5404d36335c8",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase España",
+        "url": "https://es.chessbase.com/post/european-club-cup-2026-directo",
+        "title": "Copa Europea de Clubes: Ronda 2",
+        "date": "Sun, 18 Oct 2026 09:50:00 GMT",
+        "tag": "ChessBase España",
+        "_rss_content": "La Copa Europea de Clubes se celebra del 17 al 23 de octubre en Budva, Montenegro, con la participación de 108 equipos en la sección abierta y 22 equipos en la competición femenina. El torneo, que se disputa a siete rondas, cuenta con varios jugadores de élite, entre ellos Nodirbek Abdusattorov, Wei Yi, Alexandra Goryachkina y Humpy Koneru. | Sigue la competición en directo, con comentarios de expertos, a partir de las 14:00 hora de Madrid (9:00 Buenos Aires, 6:00 Ciudad de México)."
+      }
+    ],
+    "kalla_display": "ChessBase España",
+    "datum": "Sun, 18 Oct 2026 09:50:00 GMT",
+    "hittad": "2026-10-18T09:44:44.193396"
+  },
+  {
+    "id": "3b92fd62f5c5",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Kenya Chess Masala",
+        "url": "https://kenyachessmasala.com/2026/10/atem-gak-ngong-clinches-2026-mombasa-open-chess-title.html",
+        "title": "Atem Gak Ngong clinches 2026 Mombasa Open Chess title",
+        "date": "Sat, 17 Oct 2026 12:45:43 +0000",
+        "tag": "Kenya Chess Masala",
+        "_rss_content": "Atem Gak Ngong clinches 2026 Mombasa Open Chess title The 2026 Mombasa Open Chess Tournament ended on a high note for Atem Gak Ngong, who emerged victorious, finishing unbeaten on 5.5 points from six rounds in a strong field of 47 players from Zambia, South Sudan, Uganda, and host Kenya. He went home with a [...] The post Atem Gak Ngong clinches 2026 Mombasa Open Chess title appeared first on Kenya Chess Masala ."
+      }
+    ],
+    "kalla_display": "Kenya Chess Masala",
+    "datum": "Sat, 17 Oct 2026 12:45:43 +0000",
+    "hittad": "2026-10-18T09:44:44.193399"
   }
 ]
