@@ -1,189 +1,183 @@
 [
   {
-    "id": "996550d594db",
+    "id": "6c3e7ad6d18b",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-us-chess-championships-round-9",
-        "title": "2026 Us Chess Championships Round 9",
-        "date": "2026-10-19T10:11:43.715485",
-        "tag": "Chess.com"
-      },
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/us-championships-2026-8",
-        "title": "US Championships: So wins again, now a full point ahead",
-        "date": "Sun, 18 Oct 2026 20:00:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Wesley So defeated Andy Woodward in round eight of the US Championship to extend his lead to a full point over Fabiano Caruana, who drew against Sam Sevian. The two will meet in Monday's ninth round. In the women's tournament, Alice Lee and Rachael Li remain tied for first place on 6/8, while Thalia Cervantes moved within half a point of the leaders by defeating four-time national champion Carissa Yip. | Photo: Lennart Ootes / Saint Louis Chess Club"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/wesley-so-extends-lead-at-2026-u-s-chess-championship",
-        "title": "Wesley So Extends Lead at 2026 U.S. Chess Championship",
-        "date": "Sun, 18 Oct 2026 21:23:01 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "GM Wesley So defeats GM Andy Woodward, increasing his lead"
-      }
-    ],
-    "kalla_display": "Chess News Network + Chess.com + ChessBase",
-    "datum": "2026-10-19T10:11:43.715485",
-    "hittad": "2026-10-20T10:13:08.112259",
-    "liknar": {
-      "titel": "Wesley So utökar ledningen",
-      "url": "https://gambit.se/wesley-so-utokar-ledningen/",
-      "datum": "2026-10-18"
-    }
-  },
-  {
-    "id": "c9b789e2e40d",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-2",
-        "title": "2026 European Chess Club Cup Round 2",
-        "date": "2026-10-19T10:11:43.715549",
+        "url": "https://www.chess.com/news/view/2026-us-chess-championships-round-10",
+        "title": "2026 Us Chess Championships Round 10",
+        "date": "2026-10-20T10:19:18.778918",
         "tag": "Chess.com"
       },
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/favorites-dominate-in-round-2-of-european-chess-club-cup",
-        "title": "Favorites Dominate in Round 2 of European Chess Club Cup",
-        "date": "Mon, 19 Oct 2026 16:26:54 GMT",
+        "url": "https://chessnewsnetwork.com/article/u-s-championship-round-10",
+        "title": "U.S. Championship: Round 10",
+        "date": "Wed, 21 Oct 2026 10:19:40 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "Top players continued their strong performance in the second round of the European Chess Club Cup"
+        "_rss_content": "Wesley So drew Hans Niemann in under an hour and leads on 7/10, a full point clear of Fabiano Caruana and Grigoriy Oparin. In the women's, rookie Rachael Li beat Rose Atwell and leads Alice Lee by a point, but Lee won too and stays alive."
       }
     ],
     "kalla_display": "Chess News Network + Chess.com",
-    "datum": "2026-10-19T10:11:43.715549",
-    "hittad": "2026-10-20T10:13:08.112277"
+    "datum": "2026-10-20T10:19:18.778918",
+    "hittad": "2026-10-21T10:20:49.842087"
   },
   {
-    "id": "b062b9f935f9",
+    "id": "48974303d9e5",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-3",
-        "title": "2026 European Chess Club Cup Round 3",
-        "date": "2026-10-19T10:11:43.715516",
+        "url": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-4",
+        "title": "2026 European Chess Club Cup Round 4",
+        "date": "2026-10-20T10:19:18.778944",
         "tag": "Chess.com"
-      },
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/european-club-cup-2026-3",
-        "title": "European Club Cup: Favourites set for direct encounters",
-        "date": "Tue, 20 Oct 2026 05:05:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Eleven teams remain tied for first place in the open section of the European Club Cup after three rounds, with tenth seeds Beer Sheva the only top-twelve team to have dropped a match point. The fourth round will see SuperChess facing Bayegan Pendik, with a potential battle between Anish Giri and Nodirbek Abdusattorov (pictured) on the top board. In the women's competition, Monte-Carlo and Gambit Bonnevoie are the only teams with perfect scores and will meet on Tuesday. | Photo: Gerd Densing"
       }
     ],
-    "kalla_display": "Chess.com + ChessBase",
-    "datum": "2026-10-19T10:11:43.715516",
-    "hittad": "2026-10-20T10:13:08.112287"
+    "kalla_display": "Chess.com",
+    "datum": "2026-10-20T10:19:18.778944",
+    "hittad": "2026-10-21T10:20:49.842103",
+    "liknar": {
+      "titel": "Favoriter dominerar i europeiska klubbcupen i Budva",
+      "url": "https://gambit.se/?p=3750",
+      "datum": "2026-10-20"
+    }
   },
   {
-    "id": "dab7f4488112",
+    "id": "78b80583392c",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/gothamchess-returns-to-new-york-times-bestseller-list-holds-amazons-top-2-chess-spots",
+        "title": "Gothamchess Returns To New York Times Bestseller List Holds Amazons Top 2 Chess Spots",
+        "date": "2026-10-20T10:19:18.778960",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-10-20T10:19:18.778960",
+    "hittad": "2026-10-21T10:20:49.842108"
+  },
+  {
+    "id": "bb60d161c602",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-october-20-2026",
+        "title": "Nakamura Wins Titled Tuesday October 20 2026",
+        "date": "2026-10-20T10:19:18.778975",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-10-20T10:19:18.778975",
+    "hittad": "2026-10-21T10:20:49.842112"
+  },
+  {
+    "id": "d7dbf80506ad",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/world-ch-2026-seconds",
-        "title": "The hour of the seconds",
-        "date": "Sun, 18 Oct 2026 12:30:00 GMT",
+        "url": "https://en.chessbase.com/post/nato-chess-championship-2026-report",
+        "title": "Vahap Sanal and Team Türkiye triumph at NATO Chess Championship",
+        "date": "Wed, 21 Oct 2026 03:30:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "The World Championship match between Gukesh Dommaraju and Javokhir Sindarov is approaching. The contest gets underway on 24 November in Cologny, near Geneva. Who will be helping the two contenders this time? Sindarov will be able to count on the assistance of his compatriot Abdusattorov, among others, as Abdusattorov himself recently revealed. | Photo: UzChess / Yoav Nis"
-      },
-      {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/world-ch-2026-analistas",
-        "title": "Comienza la batalla de los analistas",
-        "date": "Mon, 19 Oct 2026 18:00:00 GMT",
-        "tag": "ChessBase España",
-        "_rss_content": "Se acerca el match por el Campeonato Mundial de Ajedrez entre Gukesh Dommaraju y Javokhir Sindarov. El enfrentamiento comenzará el 24 de noviembre en una localidad cercana a la ciudad suiza de Ginebra. ¿Quiénes ayudarán a los dos contendientes en esta ocasión? Sindarov podrá contar, entre otros, con el apoyo de su compatriota Abdusattorov, tal como este último reveló recientemente. | Foto: UzChess / Yoav Nis"
-      }
-    ],
-    "kalla_display": "ChessBase + ChessBase España",
-    "datum": "Sun, 18 Oct 2026 12:30:00 GMT",
-    "hittad": "2026-10-20T10:13:08.112296"
-  },
-  {
-    "id": "c1a55bef1c16",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/from-quitting-chess-to-becoming-a-grandmaster-interview-with-arturs-neiksans-3",
-        "title": "From quitting chess to becoming a Grandmaster - Interview with Arturs Neiksans",
-        "date": "Mon, 19 Oct 2026 11:37:10 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "GM Arturs Neiksans looks back on his remarkable chess journey, from growing up in the small Latvian town of Valka and discovering chess at age nine to representing Latvia and eventually becoming a Grandmaster. He explains why he stepped away from competitive chess, how a career detour ultimately brought him back to the game, and how coaching, streaming and commentary became increasingly important parts of his life."
+        "_rss_content": "Vahap Şanal won the 2026 NATO Chess Championship in Jūrmala with a perfect 7/7 score, while Türkiye took first place in the team competition. Slovenia's Laura Unuk finished second overall and was the event's top woman, with Germany's Robert Stein claiming bronze on tiebreaks. The championship brought together 148 military players from 18 NATO countries and also featured a blitz event won by Dutch IM Mark Timmermans. | Photos: Official website"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Mon, 19 Oct 2026 11:37:10 GMT",
-    "hittad": "2026-10-20T10:13:08.112303"
+    "datum": "Wed, 21 Oct 2026 03:30:00 GMT",
+    "hittad": "2026-10-21T10:20:49.842116",
+    "liknar": {
+      "titel": "Sverige tog brons i Nato-mästerskapet",
+      "url": "https://gambit.se/?p=3746",
+      "datum": "2026-10-20"
+    }
   },
   {
-    "id": "21b11ed84180",
+    "id": "d898f94baa6c",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/european-club-cup-2026-2",
-        "title": "European Club Cup: Crowded at the top",
-        "date": "Mon, 19 Oct 2026 08:05:00 GMT",
+        "url": "https://en.chessbase.com/post/timur-turlov-meets-nikos-christodoulides",
+        "title": "FIDE President Timur Turlov meets Cyprus President Nikos Christodoulides in Nicosia",
+        "date": "Wed, 21 Oct 2026 01:15:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "A total of 108 teams are competing in the European Club Cup in Budva in the open section, with 22 in the women's competition. On paper, the favourites in the open are Bayegan Pendik Chess Sports Club from Turkey, with an average Elo rating of 2715. Bayegan are also the only team with an average rating of 2700 or higher, although four other teams - Alkaloid, SuperChess Romania, Novy Bor and Tuxena - have averages of at least 2600. These five teams are also among the 25 in Budva that have won both their matches in the first two rounds. | Pictured: Alkaloid's Wei Yi | Photo: Gerd Densing"
+        "_rss_content": "FIDE President Timur Turlov met Cypriot President Nikos Christodoulides in Nicosia to discuss the country's growing chess infrastructure and future cooperation with FIDE. Cyprus has hosted several major international events in recent years while also expanding domestic tournaments, youth training and permanent facilities. The meeting highlighted the island's development as an emerging European chess centre and its potential as a model for combining elite events with long-term national growth. | Photo: FIDE"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Mon, 19 Oct 2026 08:05:00 GMT",
-    "hittad": "2026-10-20T10:13:08.112310"
+    "datum": "Wed, 21 Oct 2026 01:15:00 GMT",
+    "hittad": "2026-10-21T10:20:49.842119"
   },
   {
-    "id": "a7d2f0c2ad7a",
+    "id": "72cbb2df2a01",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/total-chess-unified-rating-system",
-        "title": "Total Chess proposes unified rating system",
-        "date": "Mon, 19 Oct 2026 02:45:00 GMT",
+        "url": "https://en.chessbase.com/post/european-club-cup-2026-live",
+        "title": "European Club Cup - Live!",
+        "date": "Tue, 20 Oct 2026 14:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "Total Chess has proposed a new rating system that combines players' classical, rapid and blitz ratings into a single figure. Developed by researcher Mehmet Mars Seven in collaboration with Norway Chess, the formula uses existing FIDE ratings to assess overall playing strength across the three formats. Magnus Carlsen (pictured) tops the inaugural ranking, followed by Hikaru Nakamura and Nodirbek Abdusattorov. The system will undergo testing and public consultation before potential revisions. | Photo: Nils Rohde / ChessBase"
+        "_rss_content": "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov, Wei Yi, Alexandra Goryachkina and Humpy Koneru. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Pictured: Vasyl Ivanchuk | Photo: Gerd Densing"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Mon, 19 Oct 2026 02:45:00 GMT",
-    "hittad": "2026-10-20T10:13:08.112317"
+    "datum": "Tue, 20 Oct 2026 14:00:00 GMT",
+    "hittad": "2026-10-21T10:20:49.842123",
+    "liknar": {
+      "titel": "Favoriter dominerar i europeiska klubbcupen i Budva",
+      "url": "https://gambit.se/?p=3750",
+      "datum": "2026-10-20"
+    }
   },
   {
-    "id": "c0efb939f3b8",
+    "id": "36201622106c",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/internationellt/2026/10/ryskt-schackunderbarn-kan-satta-varldsrekord/?utm_source=rss&utm_medium=rss&utm_campaign=ryskt-schackunderbarn-kan-satta-varldsrekord",
-        "title": "Ryskt schackunderbarn kan sätta världsrekord",
-        "date": "Tue, 20 Oct 2026 08:13:33 +0000",
+        "url": "https://schack.se/nyhet/ettantopp/2026/10/stark-prestation-av-rockaden-i-europacupen/?utm_source=rss&utm_medium=rss&utm_campaign=stark-prestation-av-rockaden-i-europacupen",
+        "title": "Stark prestation av Rockaden i Europacupen",
+        "date": "Wed, 21 Oct 2026 08:37:11 +0000",
         "tag": "Svenska Schackförbundet",
-        "_rss_content": "Schackvärlden är på väg att få en ny världsrekordinnehavare – i form av 11-årige Roman Shogdzhiev. Schackunderbarnet från ryska Elista har nämligen en stor chans att bli den yngste stormästaren [&#8230;] Inlägget Ryskt schackunderbarn kan sätta världsrekord dök först upp på Sveriges Schackförbund ."
+        "_rss_content": "När fyra av de sju ronderna är spelade, ligger SK Rockadens förstalag på 13:e plats i den 41:a upplagan av European Chess Club Cup i Budva, Montenegro. I laget spelar, [&#8230;] Inlägget Stark prestation av Rockaden i Europacupen dök först upp på Sveriges Schackförbund ."
       }
     ],
     "kalla_display": "Schack.se",
-    "datum": "Tue, 20 Oct 2026 08:13:33 +0000",
-    "hittad": "2026-10-20T10:13:08.112327"
+    "datum": "Wed, 21 Oct 2026 08:37:11 +0000",
+    "hittad": "2026-10-21T10:20:49.842130"
   },
   {
-    "id": "bd564994f1da",
+    "id": "c51fb327353b",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettantopp/2026/10/ungdomsledare-prisas-av-forbundet/?utm_source=rss&utm_medium=rss&utm_campaign=ungdomsledare-prisas-av-forbundet",
+        "url": "https://schack.se/nyhet/internationellt/2026/10/magnus-carlsen-blir-affischnamn-i-nya-move-cup/?utm_source=rss&utm_medium=rss&utm_campaign=magnus-carlsen-blir-affischnamn-i-nya-move-cup",
+        "title": "Magnus Carlsen blir affischnamn i nya Move Cup",
+        "date": "Wed, 21 Oct 2026 06:01:38 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "En ny turnering sällar sig till schackkalendern. Move Cup i Barcelona 18–20 januari nästa år har ambitionen att locka till sig några av de största stjärnorna. Och den störste av [&#8230;] Inlägget Magnus Carlsen blir affischnamn i nya Move Cup dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Wed, 21 Oct 2026 06:01:38 +0000",
+    "hittad": "2026-10-21T10:20:49.842134"
+  },
+  {
+    "id": "e26525d6b691",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/ettan2/2026/10/ungdomsledare-prisas-av-forbundet/?utm_source=rss&utm_medium=rss&utm_campaign=ungdomsledare-prisas-av-forbundet",
         "title": "Ungdomsledare prisas av förbundet",
         "date": "Mon, 19 Oct 2026 16:00:20 +0000",
         "tag": "Svenska Schackförbundet",
@@ -192,195 +186,122 @@
     ],
     "kalla_display": "Schack.se",
     "datum": "Mon, 19 Oct 2026 16:00:20 +0000",
-    "hittad": "2026-10-20T10:13:08.112335"
-  },
-  {
-    "id": "256d90d162f2",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettan/2026/10/nato-masterskapet-brons-till-sverige/?utm_source=rss&utm_medium=rss&utm_campaign=nato-masterskapet-brons-till-sverige",
-        "title": "Nato-mästerskapet: Brons till Sverige",
-        "date": "Mon, 19 Oct 2026 07:30:52 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Sverige slutade trea i det 36:e Nato-mästerskapet i schack, efter segrande Turkiet och tvåan Tyskland. &#8211; Vi klarade bronset, men utan marginal. Lettland klättrade i den intensiva konkurrensen, de sista [&#8230;] Inlägget Nato-mästerskapet: Brons till Sverige dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Mon, 19 Oct 2026 07:30:52 +0000",
-    "hittad": "2026-10-20T10:13:08.112341",
+    "hittad": "2026-10-21T10:20:49.842138",
     "liknar": {
-      "titel": "Sverige trea i Nato-mästerskapet inför slutronden",
-      "url": "https://gambit.se/sverige-trea-i-nato-masterskapet-infor-slutronden/",
-      "datum": "2026-10-16"
+      "titel": "Sex ungdomsledare prisas av Schackförbundet",
+      "url": "https://gambit.se/?p=3754",
+      "datum": "2026-10-20"
     }
   },
   {
-    "id": "6265c432c46f",
+    "id": "9ec500e86780",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/the-historic-venue-for-the-world-championship-2026",
-        "title": "SpotlightTop storyJyotsna Bhushan·4 hours agoA Century of Knowledge: The Historic Venue for Gukesh vs. Sindarov",
-        "date": "2026-10-19T10:12:04.271786",
+        "url": "https://www.chessbase.in/news/gukesh-sindarov-seconds-for-the-fide-world-championship-2027",
+        "title": "SpotlightTop storyRasika Ratnaparkhi·5 hours agoWho Will NOT Be Gukesh and Sindarov’s Seconds?",
+        "date": "2026-10-20T10:19:41.074866",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-10-19T10:12:04.271786",
-    "hittad": "2026-10-20T10:13:08.112347"
+    "datum": "2026-10-20T10:19:41.074866",
+    "hittad": "2026-10-21T10:20:49.842142"
   },
   {
-    "id": "b2e02dcb4f27",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/augustin-droin-champion-du-monde-universitaire-de-blitz-avec-8-points-sur-9-10112.html",
-        "title": "Augustin Droin champion du monde universitaire de blitz avec 8 points sur 9",
-        "date": "2026-10-19T10:12:14.318309",
-        "tag": "Europe Echecs"
-      }
-    ],
-    "kalla_display": "Europe Echecs",
-    "datum": "2026-10-19T10:12:14.318309",
-    "hittad": "2026-10-20T10:13:08.112353"
-  },
-  {
-    "id": "b2c1099672e4",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/mark-taimanov-100e-anniversaire-de-sa-naissance-10111.html",
-        "title": "Lire l'articleMark Taïmanov : 100e anniversaire de sa naissance2",
-        "date": "2026-10-19T10:12:14.318355",
-        "tag": "Europe Echecs"
-      }
-    ],
-    "kalla_display": "Europe Echecs",
-    "datum": "2026-10-19T10:12:14.318355",
-    "hittad": "2026-10-20T10:13:08.112359"
-  },
-  {
-    "id": "ad463470b343",
+    "id": "f035185559bd",
     "status": "pending",
     "rubriker": [
       {
         "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/10/18/km-2026/?utm_source=rss&utm_medium=rss&utm_campaign=km-2026",
-        "title": "KM 2026",
-        "date": "Sun, 18 Oct 2026 19:41:07 +0000",
+        "url": "https://nyheder.skak.dk/2026/10/20/em-i-lyn-hurtigskak/?utm_source=rss&utm_medium=rss&utm_campaign=em-i-lyn-hurtigskak",
+        "title": "EM i Lyn- & Hurtigskak",
+        "date": "Tue, 20 Oct 2026 13:19:41 +0000",
         "tag": "Dansk Skak Union",
-        "_rss_content": "Københavns Mesterskabet 2026 &#8211; Formula X Agency OPEN &#8211; spilles fra den 23. til 25. oktober i Avedøre. Turneringen spilles efter den svenske model, hvor der fredag aften spilles tre runder hurtigskak, mens der lørdag og søndag spilles med 90 minutter til hele partiet med 30 sekunders tillægstid. Der er plads til 100 deltagere. I [&#8230;]"
+        "_rss_content": "EM i Lyn- &#38; Hurtigskak krydret med EM i Fischer Random spilles fra den 5. til 8. december i byen Portimão, der ligger Algarve-regionen i Portugal. Hurtigskakken spilles den 5. &#8211; 6. december. 11 runder med betænkningstiden 15 minutter til hele partiet + 10 sekunder tillæg pr. træk. Lynskakken spilles den 7. december over 13 [&#8230;]"
       }
     ],
     "kalla_display": "Dansk Skak Union",
-    "datum": "Sun, 18 Oct 2026 19:41:07 +0000",
-    "hittad": "2026-10-20T10:13:08.112365"
+    "datum": "Tue, 20 Oct 2026 13:19:41 +0000",
+    "hittad": "2026-10-21T10:20:49.842146"
   },
   {
-    "id": "2192e06cc402",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/20/calvia-chess-festival-2026/",
-        "title": "Calvia Chess Festival 2026",
-        "date": "Tue, 20 Oct 2026 05:00:46 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "Den 23. utgaven av Calvia Chess Festival ble arrangert på spanske Mallorca fra 10. til 18. oktober 2026. Hovedarrangementet var som tidligere Calvia Amateur Open, en 9-runders turnering for spillere ratet under 2350 uten GM- eller IM-tittel. Det var denne gang 17 nordmenn blant de 139 deltakerne. Øverst på tabellen finner vi Pablo Luis Aguado Les mer"
-      }
-    ],
-    "kalla_display": "Bergensjakk",
-    "datum": "Tue, 20 Oct 2026 05:00:46 +0000",
-    "hittad": "2026-10-20T10:13:08.112371"
-  },
-  {
-    "id": "7bc0f5fb422a",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/19/rakkestad-sondagshurtigsjakk-ngp-2026/",
-        "title": "Rakkestad søndagshurtigsjakk NGP 2026",
-        "date": "Mon, 19 Oct 2026 04:38:13 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "Sarpsborg Sjakklubb arrangerte Rakkestad søndagshurtigsjakk NGP søndag 18. oktober 2026. Spillested var Rakkestad kulturhus. Turneringen inngår i Norges Grand Prix 2026-2027 og hadde 27 deltakere. I A-gruppen gikk Ben Samuel Groth Skaar til topps for andre dag på rad med 5&#189; poeng på 6 runder. Han vant nemlig også lørdagsturneringen samme sted. Stig K Martinsen Les mer"
-      }
-    ],
-    "kalla_display": "Bergensjakk",
-    "datum": "Mon, 19 Oct 2026 04:38:13 +0000",
-    "hittad": "2026-10-20T10:13:08.112380"
-  },
-  {
-    "id": "579f66487900",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/19/oss-hurtigsondag-oktober-2026/",
-        "title": "OSS HurtigSøndag oktober 2026",
-        "date": "Mon, 19 Oct 2026 04:38:02 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "Oslo Schakselskap arrangerte OSS HurtigSøndag i klubbens lokaler søndag 18. oktober 2026. Det var 16 deltakere som spilte 5 runder hurtigsjakk. Eirik Grimnes Haga fra OSS tok en klar førsteplass med 4&#189; poeng. Bak vinneren var det jevnt, med Erik Løveid, indiske Dhruv Malekar og Tobias Tangen Olsen alle på 3&#189; poeng. Neste utgave av Les mer"
-      }
-    ],
-    "kalla_display": "Bergensjakk",
-    "datum": "Mon, 19 Oct 2026 04:38:02 +0000",
-    "hittad": "2026-10-20T10:13:08.112386"
-  },
-  {
-    "id": "394b986e9511",
+    "id": "89e09da7147a",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/fide-announces-upcoming-chess-in-education-courses",
-        "title": "FIDE Announces Upcoming Chess in Education Courses",
-        "date": "Mon, 19 Oct 2026 11:35:25 GMT",
+        "url": "https://chessnewsnetwork.com/article/rosenstein-keeps-his-cas-appeal-over-turlovs-fide-eligibility-alive",
+        "title": "Rosenstein Keeps His CAS Appeal Over Turlov's FIDE Eligibility Alive",
+        "date": "Wed, 21 Oct 2026 09:41:00 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "The FIDE Chess in Education Commission has announced a series of online and in-person courses for autumn and winter 2026"
+        "_rss_content": "Wadim Rosenstein lost the FIDE presidential election to Timur Turlov in the second round on September 26, 110 votes to 85, but his appeal to the Court of Arbitration for Sport over Turlov's eligibility has not gone away."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Mon, 19 Oct 2026 11:35:25 GMT",
-    "hittad": "2026-10-20T10:13:08.112392"
+    "datum": "Wed, 21 Oct 2026 09:41:00 GMT",
+    "hittad": "2026-10-21T10:20:49.842149"
   },
   {
-    "id": "38fff4b61ed6",
+    "id": "b0eb6554f46d",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/game-of-the-day-gm-erigaisi-arjun-beats-gm-vignir-vatnar-stefansson",
-        "title": "Game of the Day: GM Erigaisi Arjun Beats GM Vignir Vatnar Stefansson",
-        "date": "Mon, 19 Oct 2026 11:33:47 GMT",
+        "url": "https://chessnewsnetwork.com/article/asset-seizure-against-turlov-withdrawn",
+        "title": "Asset-Seizure Against Turlov Withdrawn",
+        "date": "Tue, 20 Oct 2026 12:38:43 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "GM Erigaisi Arjun beat GM Vignir Vatnar Stefansson in round 2, board 7 of the 41st European Chess Club Cup 2026 (Open), winning in 42 moves."
+        "_rss_content": "Russia's Prosecutor General's Office has dropped a lawsuit seeking to seize the Russian assets of new FIDE President Timur Turlov and companies linked to his Freedom Holding group."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Mon, 19 Oct 2026 11:33:47 GMT",
-    "hittad": "2026-10-20T10:13:08.112397"
+    "datum": "Tue, 20 Oct 2026 12:38:43 GMT",
+    "hittad": "2026-10-21T10:20:49.842152"
   },
   {
-    "id": "8dbdfeed3071",
+    "id": "7880cfbd82d0",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/us-championship-round-9",
+        "title": "US Championship: Round 9",
+        "date": "Tue, 20 Oct 2026 12:12:30 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Round 9 in Saint Louis left both sections with a clear leader and two rounds to play. In the open, Wesley So drew defending champion Fabiano Caruana in a sharp Italian and stays a full point ahead on 6.5/9, in a round with five draws and one decisive game. In the women's, rookie Rachael Li beat Nazi Paikidze after a late blunder to reach 7/9 and secure her first IM norm, while all six games were decisive."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Tue, 20 Oct 2026 12:12:30 GMT",
+    "hittad": "2026-10-21T10:20:49.842155",
+    "liknar": {
+      "titel": "Wesley So behåller ledningen i US Championship",
+      "url": "https://gambit.se/?p=3748",
+      "datum": "2026-10-20"
+    }
+  },
+  {
+    "id": "604e6680b555",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/fide-partidas-clasicas-ritmo-acelerado",
-        "title": "La Asamblea General de la FIDE prepara cambios en la normativa de partidas clásicas a ritmo más acelerado",
-        "date": "Sun, 18 Oct 2026 15:00:00 GMT",
+        "url": "https://es.chessbase.com/post/total-chess-sistema-unificado-elo",
+        "title": "Total Chess pone sobre la mesa un sistema unificado de ratings Elo",
+        "date": "Mon, 19 Oct 2026 20:15:00 GMT",
         "tag": "ChessBase España",
-        "_rss_content": "La FIDE está preparando cambios en la normativa que regula los ritmos de juego clásico más cortos, tras una resolución de la Asamblea General basada en una propuesta de la Federación Islandesa de Ajedrez. El Consejo de la FIDE tiene previsto establecer el ritmo de 60+30 como un control de tiempo estándar para el ajedrez clásico, sin necesidad de autorización especial, mientras estudia ampliar el uso del ritmo de 45+30. Se mantendrían las restricciones sobre el número de partidas por día y las normas para la obtención de títulos, y se realizarán nuevas consultas antes de tomar decisiones sobre modificaciones más amplias en el reglamento de los torneos de ajedrez clásico. | Foto: FIDE"
+        "_rss_content": "Total Chess ha propuesto un nuevo sistema de puntuación que combina los ratings de los jugadores en ajedrez clásico, rápido y blitz en una sola cifra. Desarrollada por el investigador Mehmet Mars Seven en colaboración con Norway Chess, la fórmula utiliza las puntuaciones Elo existentes de la FIDE para evaluar la fuerza de juego global de los ajedrecistas en las tres modalidades. Magnus Carlsen (en la imagen) encabeza la clasificación inaugural, seguido de Hikaru Nakamura y Nodirbek Abdusattorov. El sistema será sometido a una consulta pública antes de introducir posibles modificaciones. | Foto: Nils Rohde / ChessBase"
       }
     ],
     "kalla_display": "ChessBase España",
-    "datum": "Sun, 18 Oct 2026 15:00:00 GMT",
-    "hittad": "2026-10-20T10:13:08.112403"
+    "datum": "Mon, 19 Oct 2026 20:15:00 GMT",
+    "hittad": "2026-10-21T10:20:49.842159",
+    "liknar": {
+      "titel": "Total Chess föreslår enhetligt ratingsystem",
+      "url": "https://gambit.se/?p=3745",
+      "datum": "2026-10-20"
+    }
   }
 ]
