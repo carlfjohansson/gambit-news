@@ -1,13 +1,20 @@
 [
   {
-    "id": "6c3e7ad6d18b",
+    "id": "e667cb3276a7",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/rachael-li-wins-2026-us-womens-chess-championship",
+        "title": "Rachael Li Wins 2026 Us Womens Chess Championship",
+        "date": "2026-10-21T10:19:46.123293",
+        "tag": "Chess.com"
+      },
+      {
+        "source": "Chess.com",
         "url": "https://www.chess.com/news/view/2026-us-chess-championships-round-10",
         "title": "2026 Us Chess Championships Round 10",
-        "date": "2026-10-20T10:19:18.778918",
+        "date": "2026-10-21T10:19:46.123428",
         "tag": "Chess.com"
       },
       {
@@ -20,45 +27,137 @@
       }
     ],
     "kalla_display": "Chess News Network + Chess.com",
-    "datum": "2026-10-20T10:19:18.778918",
-    "hittad": "2026-10-21T10:20:49.842087"
+    "datum": "2026-10-21T10:19:46.123293",
+    "hittad": "2026-10-22T10:21:13.442192"
   },
   {
-    "id": "48974303d9e5",
+    "id": "d8720c5b808a",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-5",
+        "title": "2026 European Chess Club Cup Round 5",
+        "date": "2026-10-21T10:19:46.123336",
+        "tag": "Chess.com"
+      },
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/european-club-cup-2026-5",
+        "title": "European Club Cup: Novy Bor and SuperChess remain perfect",
+        "date": "Thu, 22 Oct 2026 07:20:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Novy Bor and SuperChess Romania remain the only teams with perfect scores in the open section of the European Club Cup after five rounds. The co-leaders will face each other in Thursday's penultimate round, with three teams following one match point behind. In the women's competition, CE Gambit Bonnevoie secured their fifth consecutive victory and now hold a two-point lead over Monte-Carlo and Odlar Yurdu with two rounds remaining. | Pictured: SuperChess' Jorden van Foreest and Nodirbek Abdusattorov | Photo: Gerd Densing"
+      }
+    ],
+    "kalla_display": "Chess.com + ChessBase",
+    "datum": "2026-10-21T10:19:46.123336",
+    "hittad": "2026-10-22T10:21:13.442206"
+  },
+  {
+    "id": "f97e1ff70b63",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-4",
         "title": "2026 European Chess Club Cup Round 4",
-        "date": "2026-10-20T10:19:18.778944",
+        "date": "2026-10-21T10:19:46.123457",
         "tag": "Chess.com"
+      },
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/ettantopp/2026/10/stark-prestation-av-rockaden-i-europacupen/?utm_source=rss&utm_medium=rss&utm_campaign=stark-prestation-av-rockaden-i-europacupen",
+        "title": "Stark prestation av Rockaden i Europacupen",
+        "date": "Wed, 21 Oct 2026 08:37:11 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "När fyra av de sju ronderna är spelade, ligger SK Rockadens förstalag på 13:e plats i den 41:a upplagan av European Chess Club Cup i Budva, Montenegro. I laget spelar, [&#8230;] Inlägget Stark prestation av Rockaden i Europacupen dök först upp på Sveriges Schackförbund ."
       }
     ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-10-20T10:19:18.778944",
-    "hittad": "2026-10-21T10:20:49.842103",
-    "liknar": {
-      "titel": "Favoriter dominerar i europeiska klubbcupen i Budva",
-      "url": "https://gambit.se/?p=3750",
-      "datum": "2026-10-20"
-    }
+    "kalla_display": "Chess.com + Schack.se",
+    "datum": "2026-10-21T10:19:46.123457",
+    "hittad": "2026-10-22T10:21:13.442213"
   },
   {
-    "id": "78b80583392c",
+    "id": "3a19722cce83",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/gothamchess-returns-to-new-york-times-bestseller-list-holds-amazons-top-2-chess-spots",
         "title": "Gothamchess Returns To New York Times Bestseller List Holds Amazons Top 2 Chess Spots",
-        "date": "2026-10-20T10:19:18.778960",
+        "date": "2026-10-21T10:19:46.123478",
+        "tag": "Chess.com"
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/im-levy-rozman-achieves-new-york-times-bestseller-status",
+        "title": "IM Levy Rozman Achieves New York Times Bestseller Status",
+        "date": "Wed, 21 Oct 2026 14:39:31 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "IM Levy Rozman's latest book reaches New York Times bestseller list, while his other titles dominate Amazon's chess bestsellers"
+      }
+    ],
+    "kalla_display": "Chess News Network + Chess.com",
+    "datum": "2026-10-21T10:19:46.123478",
+    "hittad": "2026-10-22T10:21:13.442218"
+  },
+  {
+    "id": "f8e740be39a4",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/barcelona-to-host-the-move-cup",
+        "title": "Barcelona to host the MOVE Cup",
+        "date": "Thu, 22 Oct 2026 08:00:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "The cosmopolitan capital of Spain’s Catalonia region will host the MOVE Cup, a new elite chess tournament, with Magnus Carlsen first in the line-up. Launched together with the MOVE Foundation and powered by BETBY, the tournament will bring eight of the world’s top grandmasters to Barcelona from 18 to 20 January 2027."
+      },
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/internationellt/2026/10/magnus-carlsen-blir-affischnamn-i-nya-move-cup/?utm_source=rss&utm_medium=rss&utm_campaign=magnus-carlsen-blir-affischnamn-i-nya-move-cup",
+        "title": "Magnus Carlsen blir affischnamn i nya Move Cup",
+        "date": "Wed, 21 Oct 2026 06:01:38 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "En ny turnering sällar sig till schackkalendern. Move Cup i Barcelona 18–20 januari nästa år har ambitionen att locka till sig några av de största stjärnorna. Och den störste av [&#8230;] Inlägget Magnus Carlsen blir affischnamn i nya Move Cup dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "ChessBase + Schack.se",
+    "datum": "Thu, 22 Oct 2026 08:00:00 GMT",
+    "hittad": "2026-10-22T10:21:13.442223"
+  },
+  {
+    "id": "3432b3e804b4",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/lionel-messi-chatgpt-chess-instagram",
+        "title": "Lionel Messi Chatgpt Chess Instagram",
+        "date": "2026-10-21T10:19:46.123364",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-10-20T10:19:18.778960",
-    "hittad": "2026-10-21T10:20:49.842108"
+    "datum": "2026-10-21T10:19:46.123364",
+    "hittad": "2026-10-22T10:21:13.442227"
+  },
+  {
+    "id": "d61d277fcd30",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/play-chess-against-steven-adams",
+        "title": "Play Chess Against Steven Adams",
+        "date": "2026-10-21T10:19:46.123400",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-10-21T10:19:46.123400",
+    "hittad": "2026-10-22T10:21:13.442231"
   },
   {
     "id": "bb60d161c602",
@@ -68,13 +167,47 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-october-20-2026",
         "title": "Nakamura Wins Titled Tuesday October 20 2026",
-        "date": "2026-10-20T10:19:18.778975",
+        "date": "2026-10-21T10:19:46.123499",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-10-20T10:19:18.778975",
-    "hittad": "2026-10-21T10:20:49.842112"
+    "datum": "2026-10-21T10:19:46.123499",
+    "hittad": "2026-10-22T10:21:13.442238"
+  },
+  {
+    "id": "7cc42553dd53",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/all-new-releases-in-september",
+        "title": "All new releases in September!",
+        "date": "Thu, 22 Oct 2026 10:12:08 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "The latest releases offer fresh ideas for opening preparation and regular chess training. In two volumes, Michael Kotyk presents a practical repertoire for Black after 1.e4 e5, while Fabien Libiszewski introduces the dynamic Chigorin Defence against the Queen's Gambit. ChessBase Magazine 233 rounds off the selection with up-to-date opening ideas, annotated games by top players and a wide range of training material. The products combine practical recommendations for tournament play with suggestions for independent analysis. | All photos: ChessBase"
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Thu, 22 Oct 2026 10:12:08 GMT",
+    "hittad": "2026-10-22T10:21:13.442243"
+  },
+  {
+    "id": "c5dc064586d0",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/atyrau-masters-2026-r9",
+        "title": "Emin Ohanyan and Jiang Haochen outperform rating favourites, top final standings at Atyrau Masters",
+        "date": "Wed, 21 Oct 2026 21:40:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Armenian GM Emin Ohanyan won the Atyrau Masters in Kazakhstan after finishing tied for first place with Chinese IM Jiang Haochen on 7/9. The 20-year-old Ohanyan, seeded 20th, claimed the title thanks to a superior tiebreak score, while 15-year-old Jiang, seeded 30th, secured three consecutive wins to catch the leader. Baadur Jobava took third place on 6½/9. | Photo: Kazakhstan Chess Federation"
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Wed, 21 Oct 2026 21:40:00 GMT",
+    "hittad": "2026-10-22T10:21:13.442247"
   },
   {
     "id": "d7dbf80506ad",
@@ -86,12 +219,12 @@
         "title": "Vahap Sanal and Team Türkiye triumph at NATO Chess Championship",
         "date": "Wed, 21 Oct 2026 03:30:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "Vahap Şanal won the 2026 NATO Chess Championship in Jūrmala with a perfect 7/7 score, while Türkiye took first place in the team competition. Slovenia's Laura Unuk finished second overall and was the event's top woman, with Germany's Robert Stein claiming bronze on tiebreaks. The championship brought together 148 military players from 18 NATO countries and also featured a blitz event won by Dutch IM Mark Timmermans. | Photos: Official website"
+        "_rss_content": "Vahap Şanal won the 2026 NATO Chess Championship in Jūrmala with a perfect 7/7 score, while Türkiye took first place in the team competition. Slovenia's Laura Unuk finished second overall and was the event's top woman, with Germany's Robert Stein claiming bronze on tiebreaks. The championship brought together 148 military players from 18 NATO countries and also featured a blitz event won by Dutch IM Mark Timmermans. | Photo: Vladimir Lionter / @the_lionter"
       }
     ],
     "kalla_display": "ChessBase",
     "datum": "Wed, 21 Oct 2026 03:30:00 GMT",
-    "hittad": "2026-10-21T10:20:49.842116",
+    "hittad": "2026-10-22T10:21:13.442250",
     "liknar": {
       "titel": "Sverige tog brons i Nato-mästerskapet",
       "url": "https://gambit.se/?p=3746",
@@ -113,63 +246,24 @@
     ],
     "kalla_display": "ChessBase",
     "datum": "Wed, 21 Oct 2026 01:15:00 GMT",
-    "hittad": "2026-10-21T10:20:49.842119"
+    "hittad": "2026-10-22T10:21:13.442254"
   },
   {
-    "id": "72cbb2df2a01",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/european-club-cup-2026-live",
-        "title": "European Club Cup - Live!",
-        "date": "Tue, 20 Oct 2026 14:00:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov, Wei Yi, Alexandra Goryachkina and Humpy Koneru. | Follow the action live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Pictured: Vasyl Ivanchuk | Photo: Gerd Densing"
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Tue, 20 Oct 2026 14:00:00 GMT",
-    "hittad": "2026-10-21T10:20:49.842123",
-    "liknar": {
-      "titel": "Favoriter dominerar i europeiska klubbcupen i Budva",
-      "url": "https://gambit.se/?p=3750",
-      "datum": "2026-10-20"
-    }
-  },
-  {
-    "id": "36201622106c",
+    "id": "da795e8292c8",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettantopp/2026/10/stark-prestation-av-rockaden-i-europacupen/?utm_source=rss&utm_medium=rss&utm_campaign=stark-prestation-av-rockaden-i-europacupen",
-        "title": "Stark prestation av Rockaden i Europacupen",
-        "date": "Wed, 21 Oct 2026 08:37:11 +0000",
+        "url": "https://schack.se/nyhet/ettan4/2026/10/inbjudan-till-ungdomsledarkurs/?utm_source=rss&utm_medium=rss&utm_campaign=inbjudan-till-ungdomsledarkurs",
+        "title": "Inbjudan till Ungdomsledarkurs",
+        "date": "Thu, 22 Oct 2026 09:11:59 +0000",
         "tag": "Svenska Schackförbundet",
-        "_rss_content": "När fyra av de sju ronderna är spelade, ligger SK Rockadens förstalag på 13:e plats i den 41:a upplagan av European Chess Club Cup i Budva, Montenegro. I laget spelar, [&#8230;] Inlägget Stark prestation av Rockaden i Europacupen dök först upp på Sveriges Schackförbund ."
+        "_rss_content": "Nu finns inbjudan ute till 2027 års Grundkurs för ungdomsledare, som äger rum i Norrköping den 30-31 januari 2027. Kursen passar såväl den som är ny som ungdomsledare som den [&#8230;] Inlägget Inbjudan till Ungdomsledarkurs dök först upp på Sveriges Schackförbund ."
       }
     ],
     "kalla_display": "Schack.se",
-    "datum": "Wed, 21 Oct 2026 08:37:11 +0000",
-    "hittad": "2026-10-21T10:20:49.842130"
-  },
-  {
-    "id": "c51fb327353b",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/internationellt/2026/10/magnus-carlsen-blir-affischnamn-i-nya-move-cup/?utm_source=rss&utm_medium=rss&utm_campaign=magnus-carlsen-blir-affischnamn-i-nya-move-cup",
-        "title": "Magnus Carlsen blir affischnamn i nya Move Cup",
-        "date": "Wed, 21 Oct 2026 06:01:38 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "En ny turnering sällar sig till schackkalendern. Move Cup i Barcelona 18–20 januari nästa år har ambitionen att locka till sig några av de största stjärnorna. Och den störste av [&#8230;] Inlägget Magnus Carlsen blir affischnamn i nya Move Cup dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Wed, 21 Oct 2026 06:01:38 +0000",
-    "hittad": "2026-10-21T10:20:49.842134"
+    "datum": "Thu, 22 Oct 2026 09:11:59 +0000",
+    "hittad": "2026-10-22T10:21:13.442258"
   },
   {
     "id": "e26525d6b691",
@@ -186,7 +280,7 @@
     ],
     "kalla_display": "Schack.se",
     "datum": "Mon, 19 Oct 2026 16:00:20 +0000",
-    "hittad": "2026-10-21T10:20:49.842138",
+    "hittad": "2026-10-22T10:21:13.442261",
     "liknar": {
       "titel": "Sex ungdomsledare prisas av Schackförbundet",
       "url": "https://gambit.se/?p=3754",
@@ -194,20 +288,20 @@
     }
   },
   {
-    "id": "9ec500e86780",
+    "id": "e1f199f1755e",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/gukesh-sindarov-seconds-for-the-fide-world-championship-2027",
-        "title": "SpotlightTop storyRasika Ratnaparkhi·5 hours agoWho Will NOT Be Gukesh and Sindarov’s Seconds?",
-        "date": "2026-10-20T10:19:41.074866",
+        "url": "https://www.chessbase.in/news/national-sub-junior-2026-final-report",
+        "title": "SpotlightTop storyDevansh Singh·8 hours agoDivith Reddy Adulla and Prishita Gupta Crowned 2026 National Sub-Junior Champions",
+        "date": "2026-10-21T10:20:06.980969",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-10-20T10:19:41.074866",
-    "hittad": "2026-10-21T10:20:49.842142"
+    "datum": "2026-10-21T10:20:06.980969",
+    "hittad": "2026-10-22T10:21:13.442265"
   },
   {
     "id": "f035185559bd",
@@ -224,7 +318,46 @@
     ],
     "kalla_display": "Dansk Skak Union",
     "datum": "Tue, 20 Oct 2026 13:19:41 +0000",
-    "hittad": "2026-10-21T10:20:49.842146"
+    "hittad": "2026-10-22T10:21:13.442269"
+  },
+  {
+    "id": "ab9031fc2b0a",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/10/22/sjakkspalter-hos-tromso-sjakklubb-august-til-oktober-2026/",
+        "title": "Sjakkspalter hos Tromsø Sjakklubb – august til oktober 2026",
+        "date": "Thu, 22 Oct 2026 05:34:32 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Her er et utvalg interessante saker fra de siste månedene hos Tromsø Sjakklubbs hjemmesider: 19.10.2026: Mange sjakkbøker til salgs i Tromsø på FINN 12.10.2026: Fagernes Chess International 2026 uten norsk suksess i høst 11.10.2026: Det åpne Finnmarksmesterskapet ble spilt i helga i Hammerfest 08.10.2026: Barnas Grand Prix i Harstad 2026 ble en stor suksess 06.10.2026: Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Thu, 22 Oct 2026 05:34:32 +0000",
+    "hittad": "2026-10-22T10:21:13.442273"
+  },
+  {
+    "id": "95b10d52851e",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/european-club-cup-rounds-3-and-4-abdusattorov-giri-and-erdogmus-all-lose",
+        "title": "European Club Cup Rounds 3 and 4: Abdusattorov, Giri and Erdogmus All Lose",
+        "date": "Wed, 21 Oct 2026 10:56:03 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "The European Chess Club Cup in Budva, Montenegro reached its halfway point with upsets in both sections. In the open, Round 3 belonged to the favorites, with 15-year-old Yagiz Kaan Erdogmus climbing to world No. 15, before Round 4 saw Nodirbek Abdusattorov, Anish Giri and Erdogmus all lose. In the women's, CE Gambit Bonnevoie beat both of the top two seeds in a row and leads alone on a perfect 8 match points."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Wed, 21 Oct 2026 10:56:03 GMT",
+    "hittad": "2026-10-22T10:21:13.442277",
+    "liknar": {
+      "titel": "Favoriter dominerar i europeiska klubbcupen i Budva",
+      "url": "https://gambit.se/?p=3750",
+      "datum": "2026-10-20"
+    }
   },
   {
     "id": "89e09da7147a",
@@ -241,7 +374,7 @@
     ],
     "kalla_display": "Chess News Network",
     "datum": "Wed, 21 Oct 2026 09:41:00 GMT",
-    "hittad": "2026-10-21T10:20:49.842149"
+    "hittad": "2026-10-22T10:21:13.442281"
   },
   {
     "id": "b0eb6554f46d",
@@ -258,7 +391,7 @@
     ],
     "kalla_display": "Chess News Network",
     "datum": "Tue, 20 Oct 2026 12:38:43 GMT",
-    "hittad": "2026-10-21T10:20:49.842152"
+    "hittad": "2026-10-22T10:21:13.442284"
   },
   {
     "id": "7880cfbd82d0",
@@ -275,12 +408,29 @@
     ],
     "kalla_display": "Chess News Network",
     "datum": "Tue, 20 Oct 2026 12:12:30 GMT",
-    "hittad": "2026-10-21T10:20:49.842155",
+    "hittad": "2026-10-22T10:21:13.442288",
     "liknar": {
       "titel": "Wesley So behåller ledningen i US Championship",
       "url": "https://gambit.se/?p=3748",
       "datum": "2026-10-20"
     }
+  },
+  {
+    "id": "d9c1d7b12e25",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase España",
+        "url": "https://es.chessbase.com/post/cursos-profesores-iv-trimestre-2026-uvencio-blanco",
+        "title": "Cursos de Preparación de Profesores - octubre a diciembre de 2026",
+        "date": "Wed, 21 Oct 2026 20:00:00 GMT",
+        "tag": "ChessBase España",
+        "_rss_content": "La Comisión de Ajedrez en la Educación de la FIDE mantiene activa su oferta de formación para docentes con una nueva serie de cursos programados entre octubre y diciembre de 2026. Coordinados por Alla Khachatryan, estos programas buscan ampliar la comunidad internacional de instructores certificados mediante formación pedagógica, herramientas digitales y recursos educativos destinados a integrar el ajedrez de manera estructurada en distintos contextos de enseñanza. | Foto: Cortesía de Alla Khachatryan"
+      }
+    ],
+    "kalla_display": "ChessBase España",
+    "datum": "Wed, 21 Oct 2026 20:00:00 GMT",
+    "hittad": "2026-10-22T10:21:13.442292"
   },
   {
     "id": "604e6680b555",
@@ -297,7 +447,7 @@
     ],
     "kalla_display": "ChessBase España",
     "datum": "Mon, 19 Oct 2026 20:15:00 GMT",
-    "hittad": "2026-10-21T10:20:49.842159",
+    "hittad": "2026-10-22T10:21:13.442296",
     "liknar": {
       "titel": "Total Chess föreslår enhetligt ratingsystem",
       "url": "https://gambit.se/?p=3745",
