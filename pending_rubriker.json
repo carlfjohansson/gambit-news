@@ -1,20 +1,93 @@
 [
   {
-    "id": "e667cb3276a7",
+    "id": "226f3f6b13e5",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/wesley-so-wins-2026-us-chess-championship",
+        "title": "Wesley So Wins 2026 Us Chess Championship",
+        "date": "2026-10-22T10:14:32.268437",
+        "tag": "Chess.com"
+      },
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/us-meisterschaften-live-7",
+        "title": "US Championship 2026: Tiebreak!",
+        "date": "Thu, 22 Oct 2026 18:45:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "The 2026 U.S. Championship came to a dramatic conclusion: Wesley So lost to last-placed Sam Sevian in the final round, ending his 48-game unbeaten streak at the U.S. Championships. Fabiano Caruana, meanwhile, won on demand against Awonder Liang to catch So at the top of the standings. The title will now be decided in a playoff, beginning with two rapid games at 15+10. If the scores remain level, another two rapid games will follow, then up to two two-game blitz matches at 5+2. If the players are still tied, the arbiter will decide how to proceed. | Live with commentary from 12.00 CDT / 18.00 BST / 19.00 CEST | Photo: Crystal Fuller"
+      },
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/ettantopp/2026/10/usa-so-vann-playoff-mot-caruana/?utm_source=rss&utm_medium=rss&utm_campaign=usa-so-vann-playoff-mot-caruana",
+        "title": "USA: So vann playoff mot Caruana",
+        "date": "Fri, 23 Oct 2026 05:52:12 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "GM Wesley So blev amerikansk mästare för fjärde gången, efter att på torsdagen ha vunnit en snabbschackplayoff mot GM Fabiano Caruana. De flesta trodde, inför den elfte och sista ronden [&#8230;] Inlägget USA: So vann playoff mot Caruana dök först upp på Sveriges Schackförbund ."
+      },
+      {
+        "source": "TWIC",
+        "url": "https://theweekinchess.com/chessnews/events/us-chess-championships-2026",
+        "title": "US Chess Championships 2026 - Games and results",
+        "date": "Thu Oct 22 22:12:00 2026",
+        "tag": "TWIC",
+        "_rss_content": "The US Chess Championships took place in Saint Louis Fri 9th Oct to Wed 21st Oct 2026. Wesley So won his fourth title after a tie-break win against defending champion Fabiano Caruana (winner the last four years 2022-25 champion). So had led by a point from Caruana going into the final round but lost to tail-ender Sam Sevian. The women's event was of great interest too with debutant Rachael Li winning on her first time out, half a point clear of Alice Lee."
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/u-s-championship-round-11",
+        "title": "U.S. Championship: Round 11",
+        "date": "Thu, 22 Oct 2026 10:46:52 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Rachael Li Wins the Women's Title at 16, While Wesley So Loses to Sam Sevian and Faces Fabiano Caruana in a Playoff."
+      }
+    ],
+    "kalla_display": "Chess News Network + Chess.com + ChessBase + Schack.se + TWIC",
+    "datum": "2026-10-22T10:14:32.268437",
+    "hittad": "2026-10-23T10:16:52.083040"
+  },
+  {
+    "id": "442491c32129",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/rachael-li-wins-2026-us-womens-chess-championship",
         "title": "Rachael Li Wins 2026 Us Womens Chess Championship",
-        "date": "2026-10-21T10:19:46.123293",
+        "date": "2026-10-22T10:14:32.268514",
         "tag": "Chess.com"
       },
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/us-championships-2026-13",
+        "title": "Rachel Li wins US Women's Championship on her debut",
+        "date": "Fri, 23 Oct 2026 03:50:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Going into the final round of the 2026 US Women’s Championship in St Louis, Rachael Li was the sole leader with 8 points from 10 games, one point ahead of Alice Lee. Li therefore needed only a draw against Anna Zatonskih in the final round to win the tournament. Li secured both the draw and the title, becoming US Women's Champion at just 16 years of age. She also collected $45,000 in prize money, qualified for the next Women's World Cup and earned her first IM norm. | Photo: Lennart Ootes / Saint Louis Chess Club"
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/rachael-li-from-americas-youngest-female-master-at-nine-to-a-three-year-break-an",
+        "title": "Rachael Li: From America's Youngest Female Master at Nine to a Three-Year Break and a Record-Setting Return",
+        "date": "Thu, 22 Oct 2026 12:10:00 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "We have a new U.S. Chess Champion! But who is Rachael Li and how did she get to the top at the age of 16?"
+      }
+    ],
+    "kalla_display": "Chess News Network + Chess.com + ChessBase",
+    "datum": "2026-10-22T10:14:32.268514",
+    "hittad": "2026-10-23T10:16:52.083062"
+  },
+  {
+    "id": "6c3e7ad6d18b",
+    "status": "pending",
+    "rubriker": [
       {
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/2026-us-chess-championships-round-10",
         "title": "2026 Us Chess Championships Round 10",
-        "date": "2026-10-21T10:19:46.123428",
+        "date": "2026-10-22T10:14:32.268593",
         "tag": "Chess.com"
       },
       {
@@ -27,8 +100,8 @@
       }
     ],
     "kalla_display": "Chess News Network + Chess.com",
-    "datum": "2026-10-21T10:19:46.123293",
-    "hittad": "2026-10-22T10:21:13.442192"
+    "datum": "2026-10-22T10:14:32.268593",
+    "hittad": "2026-10-23T10:16:52.083071"
   },
   {
     "id": "d8720c5b808a",
@@ -38,7 +111,7 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-5",
         "title": "2026 European Chess Club Cup Round 5",
-        "date": "2026-10-21T10:19:46.123336",
+        "date": "2026-10-22T10:14:32.268537",
         "tag": "Chess.com"
       },
       {
@@ -51,32 +124,32 @@
       }
     ],
     "kalla_display": "Chess.com + ChessBase",
-    "datum": "2026-10-21T10:19:46.123336",
-    "hittad": "2026-10-22T10:21:13.442206"
+    "datum": "2026-10-22T10:14:32.268537",
+    "hittad": "2026-10-23T10:16:52.083079"
   },
   {
-    "id": "f97e1ff70b63",
+    "id": "4b6c760560b9",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-4",
-        "title": "2026 European Chess Club Cup Round 4",
-        "date": "2026-10-21T10:19:46.123457",
+        "url": "https://www.chess.com/news/view/lionel-messi-chatgpt-chess-instagram",
+        "title": "Lionel Messi Chatgpt Chess Instagram",
+        "date": "2026-10-22T10:14:32.268554",
         "tag": "Chess.com"
       },
       {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettantopp/2026/10/stark-prestation-av-rockaden-i-europacupen/?utm_source=rss&utm_medium=rss&utm_campaign=stark-prestation-av-rockaden-i-europacupen",
-        "title": "Stark prestation av Rockaden i Europacupen",
-        "date": "Wed, 21 Oct 2026 08:37:11 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "När fyra av de sju ronderna är spelade, ligger SK Rockadens förstalag på 13:e plats i den 41:a upplagan av European Chess Club Cup i Budva, Montenegro. I laget spelar, [&#8230;] Inlägget Stark prestation av Rockaden i Europacupen dök först upp på Sveriges Schackförbund ."
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/lionel-messi-coached-by-chatgpt",
+        "title": "Lionel Messi Coached by ChatGPT",
+        "date": "Thu, 22 Oct 2026 15:04:03 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Lionel Messi has just handed chess a very large audience, and a questionable opening to go with it. On Wednesday, October 21, he posted a chess-themed ChatGPT ad to his 517 million Instagram followers."
       }
     ],
-    "kalla_display": "Chess.com + Schack.se",
-    "datum": "2026-10-21T10:19:46.123457",
-    "hittad": "2026-10-22T10:21:13.442213"
+    "kalla_display": "Chess News Network + Chess.com",
+    "datum": "2026-10-22T10:14:32.268554",
+    "hittad": "2026-10-23T10:16:52.083087"
   },
   {
     "id": "3a19722cce83",
@@ -86,7 +159,7 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/gothamchess-returns-to-new-york-times-bestseller-list-holds-amazons-top-2-chess-spots",
         "title": "Gothamchess Returns To New York Times Bestseller List Holds Amazons Top 2 Chess Spots",
-        "date": "2026-10-21T10:19:46.123478",
+        "date": "2026-10-22T10:14:32.268630",
         "tag": "Chess.com"
       },
       {
@@ -99,8 +172,8 @@
       }
     ],
     "kalla_display": "Chess News Network + Chess.com",
-    "datum": "2026-10-21T10:19:46.123478",
-    "hittad": "2026-10-22T10:21:13.442218"
+    "datum": "2026-10-22T10:14:32.268630",
+    "hittad": "2026-10-23T10:16:52.083094"
   },
   {
     "id": "f8e740be39a4",
@@ -125,23 +198,47 @@
     ],
     "kalla_display": "ChessBase + Schack.se",
     "datum": "Thu, 22 Oct 2026 08:00:00 GMT",
-    "hittad": "2026-10-22T10:21:13.442223"
+    "hittad": "2026-10-23T10:16:52.083101"
   },
   {
-    "id": "3432b3e804b4",
+    "id": "ca1a5ce0771d",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/lionel-messi-chatgpt-chess-instagram",
-        "title": "Lionel Messi Chatgpt Chess Instagram",
-        "date": "2026-10-21T10:19:46.123364",
+        "url": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-4",
+        "title": "2026 European Chess Club Cup Round 4",
+        "date": "2026-10-22T10:14:32.268611",
+        "tag": "Chess.com"
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/european-club-cup-rounds-3-and-4-abdusattorov-giri-and-erdogmus-all-lose",
+        "title": "European Club Cup Rounds 3 and 4: Abdusattorov, Giri and Erdogmus All Lose",
+        "date": "Wed, 21 Oct 2026 10:56:03 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "The European Chess Club Cup in Budva, Montenegro reached its halfway point with upsets in both sections. In the open, Round 3 belonged to the favorites, with 15-year-old Yagiz Kaan Erdogmus climbing to world No. 15, before Round 4 saw Nodirbek Abdusattorov, Anish Giri and Erdogmus all lose. In the women's, CE Gambit Bonnevoie beat both of the top two seeds in a row and leads alone on a perfect 8 match points."
+      }
+    ],
+    "kalla_display": "Chess News Network + Chess.com",
+    "datum": "2026-10-22T10:14:32.268611",
+    "hittad": "2026-10-23T10:16:52.083112"
+  },
+  {
+    "id": "c15f19d64a9a",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-6",
+        "title": "2026 European Chess Club Cup Round 6",
+        "date": "2026-10-22T10:14:32.268479",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-10-21T10:19:46.123364",
-    "hittad": "2026-10-22T10:21:13.442227"
+    "datum": "2026-10-22T10:14:32.268479",
+    "hittad": "2026-10-23T10:16:52.083119"
   },
   {
     "id": "d61d277fcd30",
@@ -151,13 +248,13 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/play-chess-against-steven-adams",
         "title": "Play Chess Against Steven Adams",
-        "date": "2026-10-21T10:19:46.123400",
+        "date": "2026-10-22T10:14:32.268576",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-10-21T10:19:46.123400",
-    "hittad": "2026-10-22T10:21:13.442231"
+    "datum": "2026-10-22T10:14:32.268576",
+    "hittad": "2026-10-23T10:16:52.083125"
   },
   {
     "id": "bb60d161c602",
@@ -167,13 +264,30 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-october-20-2026",
         "title": "Nakamura Wins Titled Tuesday October 20 2026",
-        "date": "2026-10-21T10:19:46.123499",
+        "date": "2026-10-22T10:14:32.268647",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-10-21T10:19:46.123499",
-    "hittad": "2026-10-22T10:21:13.442238"
+    "datum": "2026-10-22T10:14:32.268647",
+    "hittad": "2026-10-23T10:16:52.083131"
+  },
+  {
+    "id": "fb548482532a",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/european-club-cup-2026-6",
+        "title": "European Club Cup: Three co-leaders in both sections going into final round",
+        "date": "Fri, 23 Oct 2026 06:40:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Three teams share the lead in both sections of the European Club Cup ahead of Friday's final round. In the open, SuperChess and Novy Bor drew their direct encounter, allowing Bayegan Pendik to catch up with a narrow victory over Tuxera Aquaprofit Nagykanizsai. In the women's competition, Gambit Bonnevoie suffered their first defeat, leaving Monte-Carlo and Odlar Yurdu level with the Luxembourg club. | Pictured: Bayegan Pendik's Yagiz Kaan Erdogmus | Photo: Gerd Densing"
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Fri, 23 Oct 2026 06:40:00 GMT",
+    "hittad": "2026-10-23T10:16:52.083137"
   },
   {
     "id": "7cc42553dd53",
@@ -190,7 +304,7 @@
     ],
     "kalla_display": "ChessBase",
     "datum": "Thu, 22 Oct 2026 10:12:08 GMT",
-    "hittad": "2026-10-22T10:21:13.442243"
+    "hittad": "2026-10-23T10:16:52.083175"
   },
   {
     "id": "c5dc064586d0",
@@ -207,7 +321,7 @@
     ],
     "kalla_display": "ChessBase",
     "datum": "Wed, 21 Oct 2026 21:40:00 GMT",
-    "hittad": "2026-10-22T10:21:13.442247"
+    "hittad": "2026-10-23T10:16:52.083182"
   },
   {
     "id": "d7dbf80506ad",
@@ -224,12 +338,7 @@
     ],
     "kalla_display": "ChessBase",
     "datum": "Wed, 21 Oct 2026 03:30:00 GMT",
-    "hittad": "2026-10-22T10:21:13.442250",
-    "liknar": {
-      "titel": "Sverige tog brons i Nato-mästerskapet",
-      "url": "https://gambit.se/?p=3746",
-      "datum": "2026-10-20"
-    }
+    "hittad": "2026-10-23T10:16:52.083187"
   },
   {
     "id": "d898f94baa6c",
@@ -246,7 +355,41 @@
     ],
     "kalla_display": "ChessBase",
     "datum": "Wed, 21 Oct 2026 01:15:00 GMT",
-    "hittad": "2026-10-22T10:21:13.442254"
+    "hittad": "2026-10-23T10:16:52.083193"
+  },
+  {
+    "id": "779737826919",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/ettan2/2026/10/svenska-blixtserien-fortsatter-2027/?utm_source=rss&utm_medium=rss&utm_campaign=svenska-blixtserien-fortsatter-2027",
+        "title": "Svenska Blixtserien fortsätter 2027",
+        "date": "Fri, 23 Oct 2026 08:35:41 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Populära onlineligan Svenska Blixtserien som hade premiär under 2026 fortsätter under 2027 och blir permanent i tävlingssäsongen. Efter samråd med lagledarna har det visat sig att det nuvarande formatet är [&#8230;] Inlägget Svenska Blixtserien fortsätter 2027 dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Fri, 23 Oct 2026 08:35:41 +0000",
+    "hittad": "2026-10-23T10:16:52.083198"
+  },
+  {
+    "id": "a86f2a362a9a",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/ettan4/2026/10/laslovsturne-med-michael-wiander/?utm_source=rss&utm_medium=rss&utm_campaign=laslovsturne-med-michael-wiander",
+        "title": "Läslovsturné med Michael Wiander",
+        "date": "Fri, 23 Oct 2026 06:18:14 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Höstlovet är ju som bekant läslov och i år är det dessutom speltema på läslovsveckan. Det firar schackförfattaren Michael Wiander, känd för sin bokserie om schackklubben Draken, med att ge [&#8230;] Inlägget Läslovsturné med Michael Wiander dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Fri, 23 Oct 2026 06:18:14 +0000",
+    "hittad": "2026-10-23T10:16:52.083204"
   },
   {
     "id": "da795e8292c8",
@@ -263,7 +406,24 @@
     ],
     "kalla_display": "Schack.se",
     "datum": "Thu, 22 Oct 2026 09:11:59 +0000",
-    "hittad": "2026-10-22T10:21:13.442258"
+    "hittad": "2026-10-23T10:16:52.083209"
+  },
+  {
+    "id": "f23b3fa2283f",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/ettan/2026/10/stark-prestation-av-rockaden-i-europacupen/?utm_source=rss&utm_medium=rss&utm_campaign=stark-prestation-av-rockaden-i-europacupen",
+        "title": "Stark prestation av Rockaden i Europacupen",
+        "date": "Wed, 21 Oct 2026 08:37:11 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "När fyra av de sju ronderna är spelade, ligger SK Rockadens förstalag på 13:e plats i den 41:a upplagan av European Chess Club Cup i Budva, Montenegro. I laget spelar, [&#8230;] Inlägget Stark prestation av Rockaden i Europacupen dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Wed, 21 Oct 2026 08:37:11 +0000",
+    "hittad": "2026-10-23T10:16:52.083215"
   },
   {
     "id": "e26525d6b691",
@@ -280,28 +440,40 @@
     ],
     "kalla_display": "Schack.se",
     "datum": "Mon, 19 Oct 2026 16:00:20 +0000",
-    "hittad": "2026-10-22T10:21:13.442261",
-    "liknar": {
-      "titel": "Sex ungdomsledare prisas av Schackförbundet",
-      "url": "https://gambit.se/?p=3754",
-      "datum": "2026-10-20"
-    }
+    "hittad": "2026-10-23T10:16:52.083220"
   },
   {
-    "id": "e1f199f1755e",
+    "id": "9d2a37aafa5b",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/national-sub-junior-2026-final-report",
-        "title": "SpotlightTop storyDevansh Singh·8 hours agoDivith Reddy Adulla and Prishita Gupta Crowned 2026 National Sub-Junior Champions",
-        "date": "2026-10-21T10:20:06.980969",
+        "url": "https://www.chessbase.in/news/vignesh-b-wins-2nd-rotaract-ruas-rapid-rating",
+        "title": "SpotlightTop storyDevansh Singh·18 hours agoVignesh B wins 2nd Rotaract RUAS - Children Chess Academy Rapid Rating 2026",
+        "date": "2026-10-22T10:14:55.579377",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-10-21T10:20:06.980969",
-    "hittad": "2026-10-22T10:21:13.442265"
+    "datum": "2026-10-22T10:14:55.579377",
+    "hittad": "2026-10-23T10:16:52.083226"
+  },
+  {
+    "id": "8a2df8e88f59",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Dansk Skak Union",
+        "url": "https://nyheder.skak.dk/2026/10/23/km-2026-foelg-med-live/?utm_source=rss&utm_medium=rss&utm_campaign=km-2026-foelg-med-live",
+        "title": "KM 2026 – Følg med live",
+        "date": "Fri, 23 Oct 2026 07:22:21 +0000",
+        "tag": "Dansk Skak Union",
+        "_rss_content": "Fra fredag den 23. til søndag den 25. oktober samles skakspillere fra hele Danmark på Avedøre Bibliotek, når Hvidovre Skakklub er vært for Københavnsmesterskabet 2026 &#8211; Formula X Agency OPEN. Spillestedet er Avedøre Bibliotek, Hovedstien 14, 2650 Hvidovre, hvor man går ind ad hovedindgangen. Som Københavnsmesterskab er turneringen samtidig en kamp om KSU’s titel. Der [&#8230;]"
+      }
+    ],
+    "kalla_display": "Dansk Skak Union",
+    "datum": "Fri, 23 Oct 2026 07:22:21 +0000",
+    "hittad": "2026-10-23T10:16:52.083232"
   },
   {
     "id": "f035185559bd",
@@ -318,46 +490,58 @@
     ],
     "kalla_display": "Dansk Skak Union",
     "datum": "Tue, 20 Oct 2026 13:19:41 +0000",
-    "hittad": "2026-10-22T10:21:13.442269"
+    "hittad": "2026-10-23T10:16:52.083238"
   },
   {
-    "id": "ab9031fc2b0a",
+    "id": "0336da287e4a",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/22/sjakkspalter-hos-tromso-sjakklubb-august-til-oktober-2026/",
-        "title": "Sjakkspalter hos Tromsø Sjakklubb – august til oktober 2026",
-        "date": "Thu, 22 Oct 2026 05:34:32 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "Her er et utvalg interessante saker fra de siste månedene hos Tromsø Sjakklubbs hjemmesider: 19.10.2026: Mange sjakkbøker til salgs i Tromsø på FINN 12.10.2026: Fagernes Chess International 2026 uten norsk suksess i høst 11.10.2026: Det åpne Finnmarksmesterskapet ble spilt i helga i Hammerfest 08.10.2026: Barnas Grand Prix i Harstad 2026 ble en stor suksess 06.10.2026: Les mer"
+        "source": "English Chess Federation",
+        "url": "https://www.englishchess.org.uk/ecf-england-juniors-lichess-team-manager-volunteer-wanted/",
+        "title": "ECF England Juniors Lichess Team Manager (Volunteer) wanted",
+        "date": "Thu, 22 Oct 2026 11:51:04 +0000",
+        "tag": "English Chess Federation",
+        "_rss_content": "The English Chess Federation is looking for a volunteer to manage the England Juniors Lichess Team from&#160;1 January 2027. The team runs five online tournaments each week, alongside occasional special..."
       }
     ],
-    "kalla_display": "Bergensjakk",
-    "datum": "Thu, 22 Oct 2026 05:34:32 +0000",
-    "hittad": "2026-10-22T10:21:13.442273"
+    "kalla_display": "English Chess Federation",
+    "datum": "Thu, 22 Oct 2026 11:51:04 +0000",
+    "hittad": "2026-10-23T10:16:52.083243"
   },
   {
-    "id": "95b10d52851e",
+    "id": "b53b0fb8f6a1",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/european-club-cup-rounds-3-and-4-abdusattorov-giri-and-erdogmus-all-lose",
-        "title": "European Club Cup Rounds 3 and 4: Abdusattorov, Giri and Erdogmus All Lose",
-        "date": "Wed, 21 Oct 2026 10:56:03 GMT",
+        "url": "https://chessnewsnetwork.com/article/sindarov-admits-this-might-be-his-only-chance",
+        "title": "Sindarov Admits This Might Be His Only Chance",
+        "date": "Fri, 23 Oct 2026 09:29:42 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "The European Chess Club Cup in Budva, Montenegro reached its halfway point with upsets in both sections. In the open, Round 3 belonged to the favorites, with 15-year-old Yagiz Kaan Erdogmus climbing to world No. 15, before Round 4 saw Nodirbek Abdusattorov, Anish Giri and Erdogmus all lose. In the women's, CE Gambit Bonnevoie beat both of the top two seeds in a row and leads alone on a perfect 8 match points."
+        "_rss_content": "Javokhir Sindarov does not pretend the match ahead of him will be easy. With the World Championship a month away, one of his most candid interviews is worth another look."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Wed, 21 Oct 2026 10:56:03 GMT",
-    "hittad": "2026-10-22T10:21:13.442277",
-    "liknar": {
-      "titel": "Favoriter dominerar i europeiska klubbcupen i Budva",
-      "url": "https://gambit.se/?p=3750",
-      "datum": "2026-10-20"
-    }
+    "datum": "Fri, 23 Oct 2026 09:29:42 GMT",
+    "hittad": "2026-10-23T10:16:52.083250"
+  },
+  {
+    "id": "8978692976d1",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/fide-divided-over-podolyak-and-kolobkov",
+        "title": "FIDE Divided Over Podolyak and Kolobkov",
+        "date": "Thu, 22 Oct 2026 20:20:02 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "A Month After Timur Turlov's Election, Meduza Describes a FIDE Leadership Divided Over Podolyak and Kolobkov and a Russian Case Dropped Without Explanation"
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Thu, 22 Oct 2026 20:20:02 GMT",
+    "hittad": "2026-10-23T10:16:52.083256"
   },
   {
     "id": "89e09da7147a",
@@ -374,7 +558,7 @@
     ],
     "kalla_display": "Chess News Network",
     "datum": "Wed, 21 Oct 2026 09:41:00 GMT",
-    "hittad": "2026-10-22T10:21:13.442281"
+    "hittad": "2026-10-23T10:16:52.083261"
   },
   {
     "id": "b0eb6554f46d",
@@ -391,7 +575,7 @@
     ],
     "kalla_display": "Chess News Network",
     "datum": "Tue, 20 Oct 2026 12:38:43 GMT",
-    "hittad": "2026-10-22T10:21:13.442284"
+    "hittad": "2026-10-23T10:16:52.083267"
   },
   {
     "id": "7880cfbd82d0",
@@ -408,12 +592,7 @@
     ],
     "kalla_display": "Chess News Network",
     "datum": "Tue, 20 Oct 2026 12:12:30 GMT",
-    "hittad": "2026-10-22T10:21:13.442288",
-    "liknar": {
-      "titel": "Wesley So behåller ledningen i US Championship",
-      "url": "https://gambit.se/?p=3748",
-      "datum": "2026-10-20"
-    }
+    "hittad": "2026-10-23T10:16:52.083273"
   },
   {
     "id": "d9c1d7b12e25",
@@ -430,7 +609,7 @@
     ],
     "kalla_display": "ChessBase España",
     "datum": "Wed, 21 Oct 2026 20:00:00 GMT",
-    "hittad": "2026-10-22T10:21:13.442292"
+    "hittad": "2026-10-23T10:16:52.083278"
   },
   {
     "id": "604e6680b555",
@@ -447,11 +626,6 @@
     ],
     "kalla_display": "ChessBase España",
     "datum": "Mon, 19 Oct 2026 20:15:00 GMT",
-    "hittad": "2026-10-22T10:21:13.442296",
-    "liknar": {
-      "titel": "Total Chess föreslår enhetligt ratingsystem",
-      "url": "https://gambit.se/?p=3745",
-      "datum": "2026-10-20"
-    }
+    "hittad": "2026-10-23T10:16:52.083284"
   }
 ]
