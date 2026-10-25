@@ -1,13 +1,13 @@
 [
   {
-    "id": "674ccf390c2b",
+    "id": "477eba1d6403",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/rachael-li-wins-2026-us-womens-chess-championship",
         "title": "Rachael Li Wins 2026 Us Womens Chess Championship",
-        "date": "2026-10-23T09:38:06.491841",
+        "date": "2026-10-24T09:55:42.476552",
         "tag": "Chess.com"
       },
       {
@@ -19,6 +19,21 @@
         "_rss_content": "Going into the final round of the 2026 US Women’s Championship in St Louis, Rachael Li was the sole leader with 8 points from 10 games, one point ahead of Alice Lee. Li therefore needed only a draw against Anna Zatonskih in the final round to win the tournament. Li secured both the draw and the title, becoming US Women's Champion at just 16 years of age. She also collected $45,000 in prize money, qualified for the next Women's World Cup and earned her first IM norm. | Photo: Lennart Ootes / Saint Louis Chess Club"
       },
       {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/us-championships-2026-bilan-du-tournoi-10115.html",
+        "title": "US Championships 2026Wesley So et Rachael Li remportent le titre de champions des États-Unis",
+        "date": "2026-10-24T09:56:14.247878",
+        "tag": "Europe Echecs"
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/rachael-li-from-americas-youngest-female-master-at-nine-to-a-three-year-break-an",
+        "title": "Rachael Li: From America's Youngest Female Master at Nine to a Three-Year Break and a Record-Setting Return",
+        "date": "Thu, 22 Oct 2026 12:10:00 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "We have a new U.S. Chess Champion! But who is Rachael Li and how did she get to the top at the age of 16?"
+      },
+      {
         "source": "ChessBase España",
         "url": "https://es.chessbase.com/post/us-championships-2026-femenino",
         "title": "En su debut: Rachel Li, de 16 años, gana el Campeonato Femenino de Estados Unidos",
@@ -27,40 +42,66 @@
         "_rss_content": "Antes de la última ronda del Campeonato Femenino de Estados Unidos, Rachael Li ocupaba el primer puesto en solitario con 8 puntos en 10 partidas, uno más que Alice Lee. Por tanto, a Li le bastaba con conseguir las tablas frente a Anna Zatonskih en la ronda final para adjudicarse el torneo. Li logró las tablas y se proclamó campeona de Estados Unidos con apenas 16 años. Además, recibió 45.000 dólares en premios, se clasificó para la próxima Copa del Mundo Femenina y consiguió su primera norma de maestro internacional (MI). | Foto: Lennart Ootes / Saint Louis Chess Club"
       }
     ],
-    "kalla_display": "Chess.com + ChessBase + ChessBase España",
-    "datum": "2026-10-23T09:38:06.491841",
-    "hittad": "2026-10-24T09:39:37.410635"
+    "kalla_display": "Chess News Network + Chess.com + ChessBase + ChessBase España + Europe Echecs",
+    "datum": "2026-10-24T09:55:42.476552",
+    "hittad": "2026-10-25T09:57:11.037982"
   },
   {
-    "id": "851fab864d24",
+    "id": "362ab8bf4a93",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/nakamura-caruana-maghsoodloo-3-0-thursday-10-22-2026",
-        "title": "Nakamura Caruana Maghsoodloo 3 0 Thursday 10 22 2026",
-        "date": "2026-10-23T09:38:06.491764",
+        "url": "https://www.chess.com/news/view/bodhana-sivanandan-youngest-female-international-master",
+        "title": "Bodhana Sivanandan Youngest Female International Master",
+        "date": "2026-10-24T09:55:42.476458",
         "tag": "Chess.com"
       },
       {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-us-chess-championships-round-10",
-        "title": "2026 Us Chess Championships Round 10",
-        "date": "2026-10-23T09:38:06.491889",
-        "tag": "Chess.com"
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/bodhana-youngest-female-im-ever",
+        "title": "Bodhana: youngest female IM ever",
+        "date": "Sat, 24 Oct 2026 17:42:54 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "The English Chess Federation hailed her as a ‘generational talent.’ Bodhana Sivanandan, 11, shattered yet another world record, this time becoming the youngest female player in history to qualify for the International Master title. In doing so, she eclipsed a record set 38 years ago by chess great Judit Polgar, widely regarded as the greatest female chess player of all time. | Photo R Oleksiewicz"
       },
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/u-s-championship-round-10",
-        "title": "U.S. Championship: Round 10",
-        "date": "Wed, 21 Oct 2026 10:19:40 GMT",
+        "url": "https://chessnewsnetwork.com/article/bodhana-breaks-another-record",
+        "title": "Bodhana Breaks ANOTHER Record!",
+        "date": "Sat, 24 Oct 2026 18:24:09 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "Wesley So drew Hans Niemann in under an hour and leads on 7/10, a full point clear of Fabiano Caruana and Grigoriy Oparin. In the women's, rookie Rachael Li beat Rose Atwell and leads Alice Lee by a point, but Lee won too and stays alive."
+        "_rss_content": "Bodhana Sivanandan, 11, Becomes the Youngest Female International Master in History, Ending a 38-Year-Old Record Held by Judit Polgar."
       }
     ],
-    "kalla_display": "Chess News Network + Chess.com",
-    "datum": "2026-10-23T09:38:06.491764",
-    "hittad": "2026-10-24T09:39:37.410649"
+    "kalla_display": "Chess News Network + Chess.com + ChessBase",
+    "datum": "2026-10-24T09:55:42.476458",
+    "hittad": "2026-10-25T09:57:11.037996"
+  },
+  {
+    "id": "df918fa19992",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/european-club-cup-2026-7",
+        "title": "Bayegan Pendik and Monte-Carlo are 2026 European Club Cup champions",
+        "date": "Sat, 24 Oct 2026 15:40:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Bayegan Pendik and Cercle d'Echecs de Monte-Carlo won the European Club Cup titles in Budva, both finishing level on match points with their closest rivals and prevailing on tiebreaks. Novy Bor took silver in the open section, while Gambit Bonnevoie finished second in the women's competition. Meanwhile, 11-year-old Bodhana Sivanandan completed her final international master norm, becoming the youngest female player to fulfil the requirements for the title. | Photo: Gerd Densing"
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/bayegan-pendik-wins-the-eccc-on-tiebreaks-monte-carlo-defends-the-womens-title",
+        "title": "Bayegan Pendik Wins the ECCC on Tiebreaks, Monte-Carlo Defends the Women's Title",
+        "date": "Sat, 24 Oct 2026 11:16:00 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Both European Club Cup titles in Budva, Montenegro, came down to tiebreaks. In the open section, top seed Bayegan Pendik of Turkey finished level with Novy Bor on 13 match points and took gold. In the women's, Cercle d'Echecs de Monte-Carlo tied Gambit Bonnevoie on 12 and held on to the title it won last year."
+      }
+    ],
+    "kalla_display": "Chess News Network + ChessBase",
+    "datum": "Sat, 24 Oct 2026 15:40:00 GMT",
+    "hittad": "2026-10-25T09:57:11.038010"
   },
   {
     "id": "d8720c5b808a",
@@ -70,7 +111,7 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-5",
         "title": "2026 European Chess Club Cup Round 5",
-        "date": "2026-10-23T09:38:06.491854",
+        "date": "2026-10-24T09:55:42.476568",
         "tag": "Chess.com"
       },
       {
@@ -83,8 +124,8 @@
       }
     ],
     "kalla_display": "Chess.com + ChessBase",
-    "datum": "2026-10-23T09:38:06.491854",
-    "hittad": "2026-10-24T09:39:37.410654"
+    "datum": "2026-10-24T09:55:42.476568",
+    "hittad": "2026-10-25T09:57:11.038021"
   },
   {
     "id": "a29a46be463b",
@@ -94,7 +135,7 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-6",
         "title": "2026 European Chess Club Cup Round 6",
-        "date": "2026-10-23T09:38:06.491827",
+        "date": "2026-10-24T09:55:42.476534",
         "tag": "Chess.com"
       },
       {
@@ -107,89 +148,8 @@
       }
     ],
     "kalla_display": "Chess News Network + Chess.com",
-    "datum": "2026-10-23T09:38:06.491827",
-    "hittad": "2026-10-24T09:39:37.410658"
-  },
-  {
-    "id": "dcb692a8bc35",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/european-club-cup-2026-live",
-        "title": "European Club Cup - Live!",
-        "date": "Fri, 23 Oct 2026 14:00:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov, Wei Yi, Alexandra Goryachkina and Humpy Koneru. | Follow the action of the final round live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Pictured: Anish Giri | Photo: Gerd Densing"
-      },
-      {
-        "source": "TWIC",
-        "url": "https://theweekinchess.com/chessnews/events/41st-european-club-cup-2026",
-        "title": "41st European Club Cup 2026 - Games and Results",
-        "date": "Fri Oct 23 19:33:00 2026",
-        "tag": "TWIC",
-        "_rss_content": "The 41st European Club Cup took place in Budva, Montenegro Sat 17th Oct to Fri 23rd Oct 2026. In the Open top seeds Bayegan Pendik Chess Sports Club (Giri, Erdogmus, Tabatabaei, Rapport, Mamedyarov) just edged out Novy Bor Chess Club (Yakubboev, Sarin, Harikrishna, Anton) to take the title. Rishon LeZion A (Gelfand) finished 3rd. Second seeds SuperChess Romania (Abdusattorov, Van Foreest) finished fourth. Richard Pert scored a result of a lifetime starting with 6/6 before unfortunately losing in the final round. In the Women's event top seeds Cercle d'Echecs de Monte-Carlo (Goryachkina, Koneru, Tsolakidou, Paehtz, Cramling) won ahead of Gambit Bonnevoie (Ushenina, Kulon, Danielian, Maltsevskaya, Khalafova) and Sirmium Sremska Mitrovica (Shuvalova, Garifullina, Salimova, Injac, Balabayeva). It was the phenomenon that is Bodhana Sivanandan who took the headlines, her 5.5/7 at the age of 11 makes her the youngest female to become an IM breaking Judit Polgar's long standing record and 7th youngest IM over all. It wasn't really a surprise, she was already playing to well above IM level."
-      },
-      {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/24/europacupen-for-klubblag-2026/",
-        "title": "Europacupen for klubblag 2026",
-        "date": "Sat, 24 Oct 2026 05:24:08 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "Europacupen for klubblag ble arrangert i Budva i Montenegro fra 17. til 23. oktober 2026. Det ble spilt 7 runder med 6 spillere på lagene i Åpen klasse og 4 spillere i Kvinneklassen. Åpen klasse ble vunnet av det høyest ratede laget, tyrkiske Bayegan Pendik Chess Sports Club med 13 av 14 mulige lagpoeng. På Les mer"
-      }
-    ],
-    "kalla_display": "Bergensjakk + ChessBase + TWIC",
-    "datum": "Fri, 23 Oct 2026 14:00:00 GMT",
-    "hittad": "2026-10-24T09:39:37.410662"
-  },
-  {
-    "id": "30590799d250",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-7",
-        "title": "2026 European Chess Club Cup Round 7",
-        "date": "2026-10-23T09:38:06.491734",
-        "tag": "Chess.com"
-      },
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/european-club-cup-2026-6",
-        "title": "European Club Cup: Three co-leaders in both sections going into final round",
-        "date": "Fri, 23 Oct 2026 06:40:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Three teams share the lead in both sections of the European Club Cup ahead of Friday's final round. In the open, SuperChess and Novy Bor drew their direct encounter, allowing Bayegan Pendik to catch up with a narrow victory over Tuxera Aquaprofit Nagykanizsai. In the women's competition, Gambit Bonnevoie suffered their first defeat, leaving Monte-Carlo and Odlar Yurdu level with the Luxembourg club. | Pictured: Bayegan Pendik's Yagiz Kaan Erdogmus | Photo: Gerd Densing"
-      }
-    ],
-    "kalla_display": "Chess.com + ChessBase",
-    "datum": "2026-10-23T09:38:06.491734",
-    "hittad": "2026-10-24T09:39:37.410666"
-  },
-  {
-    "id": "ca1a5ce0771d",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-4",
-        "title": "2026 European Chess Club Cup Round 4",
-        "date": "2026-10-23T09:38:06.491900",
-        "tag": "Chess.com"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/european-club-cup-rounds-3-and-4-abdusattorov-giri-and-erdogmus-all-lose",
-        "title": "European Club Cup Rounds 3 and 4: Abdusattorov, Giri and Erdogmus All Lose",
-        "date": "Wed, 21 Oct 2026 10:56:03 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "The European Chess Club Cup in Budva, Montenegro reached its halfway point with upsets in both sections. In the open, Round 3 belonged to the favorites, with 15-year-old Yagiz Kaan Erdogmus climbing to world No. 15, before Round 4 saw Nodirbek Abdusattorov, Anish Giri and Erdogmus all lose. In the women's, CE Gambit Bonnevoie beat both of the top two seeds in a row and leads alone on a perfect 8 match points."
-      }
-    ],
-    "kalla_display": "Chess News Network + Chess.com",
-    "datum": "2026-10-23T09:38:06.491900",
-    "hittad": "2026-10-24T09:39:37.410669"
+    "datum": "2026-10-24T09:55:42.476534",
+    "hittad": "2026-10-25T09:57:11.038030"
   },
   {
     "id": "4c10726c911f",
@@ -199,7 +159,7 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/carlsen-move-cup-barcelona-2027",
         "title": "Carlsen Move Cup Barcelona 2027",
-        "date": "2026-10-23T09:38:06.491803",
+        "date": "2026-10-24T09:55:42.476484",
         "tag": "Chess.com"
       },
       {
@@ -220,8 +180,8 @@
       }
     ],
     "kalla_display": "Chess.com + ChessBase + Schack.se",
-    "datum": "2026-10-23T09:38:06.491803",
-    "hittad": "2026-10-24T09:39:37.410676"
+    "datum": "2026-10-24T09:55:42.476484",
+    "hittad": "2026-10-25T09:57:11.038039"
   },
   {
     "id": "4b6c760560b9",
@@ -231,7 +191,7 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/lionel-messi-chatgpt-chess-instagram",
         "title": "Lionel Messi Chatgpt Chess Instagram",
-        "date": "2026-10-23T09:38:06.491865",
+        "date": "2026-10-24T09:55:42.476584",
         "tag": "Chess.com"
       },
       {
@@ -244,8 +204,8 @@
       }
     ],
     "kalla_display": "Chess News Network + Chess.com",
-    "datum": "2026-10-23T09:38:06.491865",
-    "hittad": "2026-10-24T09:39:37.410679"
+    "datum": "2026-10-24T09:55:42.476584",
+    "hittad": "2026-10-25T09:57:11.038046"
   },
   {
     "id": "3a19722cce83",
@@ -255,7 +215,7 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/gothamchess-returns-to-new-york-times-bestseller-list-holds-amazons-top-2-chess-spots",
         "title": "Gothamchess Returns To New York Times Bestseller List Holds Amazons Top 2 Chess Spots",
-        "date": "2026-10-23T09:38:06.491914",
+        "date": "2026-10-24T09:55:42.476665",
         "tag": "Chess.com"
       },
       {
@@ -268,18 +228,42 @@
       }
     ],
     "kalla_display": "Chess News Network + Chess.com",
-    "datum": "2026-10-23T09:38:06.491914",
-    "hittad": "2026-10-24T09:39:37.410682"
+    "datum": "2026-10-24T09:55:42.476665",
+    "hittad": "2026-10-25T09:57:11.038057"
   },
   {
-    "id": "e46d43485d1a",
+    "id": "da15b28b4b1f",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/niemann-wins-freestyle-friday-october-23-2026",
+        "title": "Niemann Wins Freestyle Friday October 23 2026",
+        "date": "2026-10-24T09:55:42.476430",
+        "tag": "Chess.com"
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/niemann-claim-freestyle-friday",
+        "title": "Niemann Claim Freestyle Friday",
+        "date": "Sat, 24 Oct 2026 11:41:24 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Hans Niemann ended his week on a high. Two days after the U.S. Championship's final round, where Chess.com says his loss to Jeffery Xiong dropped him out of the 2700 club, he won Chess.com's Freestyle Friday on October 23."
+      }
+    ],
+    "kalla_display": "Chess News Network + Chess.com",
+    "datum": "2026-10-24T09:55:42.476430",
+    "hittad": "2026-10-25T09:57:11.038065"
+  },
+  {
+    "id": "d1df099122b3",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/wesley-so-wins-2026-us-chess-championship",
         "title": "Wesley So Wins 2026 Us Chess Championship",
-        "date": "2026-10-23T09:38:06.491816",
+        "date": "2026-10-24T09:55:42.476514",
         "tag": "Chess.com"
       },
       {
@@ -307,6 +291,14 @@
         "_rss_content": "GM Wesley So blev amerikansk mästare för fjärde gången, efter att på torsdagen ha vunnit en snabbschackplayoff mot GM Fabiano Caruana. De flesta trodde, inför den elfte och sista ronden [&#8230;] Inlägget USA: So vann playoff mot Caruana dök först upp på Sveriges Schackförbund ."
       },
       {
+        "source": "TWIC",
+        "url": "https://theweekinchess.com/chessnews/events/us-chess-championships-2026",
+        "title": "US Chess Championships 2026 - Games and results",
+        "date": "Thu Oct 22 22:12:00 2026",
+        "tag": "TWIC",
+        "_rss_content": "The US Chess Championships took place in Saint Louis Fri 9th Oct to Wed 21st Oct 2026. Wesley So won his fourth title after a tie-break win against defending champion Fabiano Caruana (winner the last four years 2022-25 champion). So had led by a point from Caruana going into the final round but lost to tail-ender Sam Sevian. The women's event was of great interest too with debutant Rachael Li winning on her first time out, half a point clear of Alice Lee."
+      },
+      {
         "source": "Chess News Network",
         "url": "https://chessnewsnetwork.com/article/wesley-so-beats-fabiano-caruana-in-the-playoff-to-win-his-fourth-u-s-championshi",
         "title": "Wesley So Beats Fabiano Caruana in the Playoff to Win His Fourth U.S. Championship",
@@ -323,65 +315,81 @@
         "_rss_content": "¡Al final, Wesley So lo consiguió! Tras su dolorosa derrota ante Sam Sevian en la última ronda del Campeonato de Estados Unidos, que puso fin a su racha de 48 partidas invicto en el torneo, derrotó a Fabiano Caruana por 1½-½ en el desempate de rápidas por el título. Fue un enfrentamiento emocionante, no exento de errores, pero repleto de momentos interesantes. | Foto: Lennart Ootes / Saint Louis Chess Club"
       }
     ],
-    "kalla_display": "Chess News Network + Chess.com + ChessBase + ChessBase España + Schack.se",
-    "datum": "2026-10-23T09:38:06.491816",
-    "hittad": "2026-10-24T09:39:37.410689"
+    "kalla_display": "Chess News Network + Chess.com + ChessBase + ChessBase España + Schack.se + TWIC",
+    "datum": "2026-10-24T09:55:42.476514",
+    "hittad": "2026-10-25T09:57:11.038077"
   },
   {
-    "id": "e7098b6c7d2d",
+    "id": "b70df155a2c9",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/us-championships-2026-bilan-du-tournoi-10115.html",
-        "title": "US Championships 2026Wesley So et Rachael Li remportent le titre de champions des États-Unis",
-        "date": "2026-10-23T09:38:38.491841",
-        "tag": "Europe Echecs"
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-4",
+        "title": "2026 European Chess Club Cup Round 4",
+        "date": "2026-10-24T09:55:42.476630",
+        "tag": "Chess.com"
       },
       {
-        "source": "TWIC",
-        "url": "https://theweekinchess.com/chessnews/events/us-chess-championships-2026",
-        "title": "US Chess Championships 2026 - Games and results",
-        "date": "Thu Oct 22 22:12:00 2026",
-        "tag": "TWIC",
-        "_rss_content": "The US Chess Championships took place in Saint Louis Fri 9th Oct to Wed 21st Oct 2026. Wesley So won his fourth title after a tie-break win against defending champion Fabiano Caruana (winner the last four years 2022-25 champion). So had led by a point from Caruana going into the final round but lost to tail-ender Sam Sevian. The women's event was of great interest too with debutant Rachael Li winning on her first time out, half a point clear of Alice Lee."
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/european-club-cup-2026-6",
+        "title": "European Club Cup: Three co-leaders in both sections going into final round",
+        "date": "Fri, 23 Oct 2026 06:40:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Three teams share the lead in both sections of the European Club Cup ahead of Friday's final round. In the open, SuperChess and Novy Bor drew their direct encounter, allowing Bayegan Pendik to catch up with a narrow victory over Tuxera Aquaprofit Nagykanizsai. In the women's competition, Gambit Bonnevoie suffered their first defeat, leaving Monte-Carlo and Odlar Yurdu level with the Luxembourg club. | Pictured: Bayegan Pendik's Yagiz Kaan Erdogmus | Photo: Gerd Densing"
       }
     ],
-    "kalla_display": "Europe Echecs + TWIC",
-    "datum": "2026-10-23T09:38:38.491841",
-    "hittad": "2026-10-24T09:39:37.410692"
+    "kalla_display": "Chess.com + ChessBase",
+    "datum": "2026-10-24T09:55:42.476630",
+    "hittad": "2026-10-25T09:57:11.038084"
   },
   {
-    "id": "056fe89f1163",
+    "id": "09802682393a",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/niemann-wins-freestyle-friday-october-23-2026",
-        "title": "Niemann Wins Freestyle Friday October 23 2026",
-        "date": "2026-10-23T09:38:06.491778",
+        "url": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-24-2026",
+        "title": "Hikaru Nakamura Wins Bullet Brawl Oct 24 2026",
+        "date": "2026-10-24T09:55:42.476323",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-10-23T09:38:06.491778",
-    "hittad": "2026-10-24T09:39:37.410695"
+    "datum": "2026-10-24T09:55:42.476323",
+    "hittad": "2026-10-25T09:57:11.038090"
   },
   {
-    "id": "e349c3ffdeed",
+    "id": "346e9b218220",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/bodhana-sivanandan-youngest-female-international-master",
-        "title": "Bodhana Sivanandan Youngest Female International Master",
-        "date": "2026-10-23T09:38:06.491791",
+        "url": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-7",
+        "title": "2026 European Chess Club Cup Round 7",
+        "date": "2026-10-24T09:55:42.476365",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-10-23T09:38:06.491791",
-    "hittad": "2026-10-24T09:39:37.410697"
+    "datum": "2026-10-24T09:55:42.476365",
+    "hittad": "2026-10-25T09:57:11.038097"
+  },
+  {
+    "id": "bcc340b397bd",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/nakamura-caruana-maghsoodloo-3-0-thursday-10-22-2026",
+        "title": "Nakamura Caruana Maghsoodloo 3 0 Thursday 10 22 2026",
+        "date": "2026-10-24T09:55:42.476399",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-10-24T09:55:42.476399",
+    "hittad": "2026-10-25T09:57:11.038102"
   },
   {
     "id": "d61d277fcd30",
@@ -391,29 +399,29 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/play-chess-against-steven-adams",
         "title": "Play Chess Against Steven Adams",
-        "date": "2026-10-23T09:38:06.491877",
+        "date": "2026-10-24T09:55:42.476599",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-10-23T09:38:06.491877",
-    "hittad": "2026-10-24T09:39:37.410700"
+    "datum": "2026-10-24T09:55:42.476599",
+    "hittad": "2026-10-25T09:57:11.038108"
   },
   {
-    "id": "bb60d161c602",
+    "id": "23e4beaee665",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-october-20-2026",
-        "title": "Nakamura Wins Titled Tuesday October 20 2026",
-        "date": "2026-10-23T09:38:06.491926",
+        "url": "https://www.chess.com/news/view/2026-us-chess-championships-round-10",
+        "title": "2026 Us Chess Championships Round 10",
+        "date": "2026-10-24T09:55:42.476615",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-10-23T09:38:06.491926",
-    "hittad": "2026-10-24T09:39:37.410702"
+    "datum": "2026-10-24T09:55:42.476615",
+    "hittad": "2026-10-25T09:57:11.038115"
   },
   {
     "id": "58baa033a719",
@@ -430,7 +438,7 @@
     ],
     "kalla_display": "ChessBase",
     "datum": "Sat, 24 Oct 2026 07:00:00 GMT",
-    "hittad": "2026-10-24T09:39:37.410704"
+    "hittad": "2026-10-25T09:57:11.038122"
   },
   {
     "id": "19428d7cfb21",
@@ -447,7 +455,24 @@
     ],
     "kalla_display": "ChessBase",
     "datum": "Sat, 24 Oct 2026 03:30:00 GMT",
-    "hittad": "2026-10-24T09:39:37.410707"
+    "hittad": "2026-10-25T09:57:11.038130"
+  },
+  {
+    "id": "72cbb2df2a01",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/european-club-cup-2026-live",
+        "title": "European Club Cup - Live!",
+        "date": "Fri, 23 Oct 2026 14:00:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov, Wei Yi, Alexandra Goryachkina and Humpy Koneru. | Follow the action of the final round live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST) | Pictured: Anish Giri | Photo: Gerd Densing"
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Fri, 23 Oct 2026 14:00:00 GMT",
+    "hittad": "2026-10-25T09:57:11.038137"
   },
   {
     "id": "7cc42553dd53",
@@ -464,7 +489,7 @@
     ],
     "kalla_display": "ChessBase",
     "datum": "Thu, 22 Oct 2026 10:12:08 GMT",
-    "hittad": "2026-10-24T09:39:37.410709"
+    "hittad": "2026-10-25T09:57:11.038140"
   },
   {
     "id": "c5dc064586d0",
@@ -481,7 +506,7 @@
     ],
     "kalla_display": "ChessBase",
     "datum": "Wed, 21 Oct 2026 21:40:00 GMT",
-    "hittad": "2026-10-24T09:39:37.410711"
+    "hittad": "2026-10-25T09:57:11.038144"
   },
   {
     "id": "d7dbf80506ad",
@@ -498,7 +523,7 @@
     ],
     "kalla_display": "ChessBase",
     "datum": "Wed, 21 Oct 2026 03:30:00 GMT",
-    "hittad": "2026-10-24T09:39:37.410713"
+    "hittad": "2026-10-25T09:57:11.038147"
   },
   {
     "id": "d898f94baa6c",
@@ -515,7 +540,7 @@
     ],
     "kalla_display": "ChessBase",
     "datum": "Wed, 21 Oct 2026 01:15:00 GMT",
-    "hittad": "2026-10-24T09:39:37.410716"
+    "hittad": "2026-10-25T09:57:11.038150"
   },
   {
     "id": "779737826919",
@@ -532,7 +557,7 @@
     ],
     "kalla_display": "Schack.se",
     "datum": "Fri, 23 Oct 2026 08:35:41 +0000",
-    "hittad": "2026-10-24T09:39:37.410718"
+    "hittad": "2026-10-25T09:57:11.038153"
   },
   {
     "id": "a86f2a362a9a",
@@ -549,7 +574,7 @@
     ],
     "kalla_display": "Schack.se",
     "datum": "Fri, 23 Oct 2026 06:18:14 +0000",
-    "hittad": "2026-10-24T09:39:37.410720"
+    "hittad": "2026-10-25T09:57:11.038157"
   },
   {
     "id": "378206d14b5d",
@@ -566,7 +591,7 @@
     ],
     "kalla_display": "Schack.se",
     "datum": "Thu, 22 Oct 2026 09:11:59 +0000",
-    "hittad": "2026-10-24T09:39:37.410722"
+    "hittad": "2026-10-25T09:57:11.038160"
   },
   {
     "id": "f23b3fa2283f",
@@ -583,7 +608,7 @@
     ],
     "kalla_display": "Schack.se",
     "datum": "Wed, 21 Oct 2026 08:37:11 +0000",
-    "hittad": "2026-10-24T09:39:37.410724"
+    "hittad": "2026-10-25T09:57:11.038163"
   },
   {
     "id": "e26525d6b691",
@@ -600,23 +625,74 @@
     ],
     "kalla_display": "Schack.se",
     "datum": "Mon, 19 Oct 2026 16:00:20 +0000",
-    "hittad": "2026-10-24T09:39:37.410727"
+    "hittad": "2026-10-25T09:57:11.038167"
   },
   {
-    "id": "4fb1ecb50148",
+    "id": "33f0f932bd90",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/nishant-abhijeet-jawalkar-wins-manchester-city-open-classical-2026",
-        "title": "SpotlightTop storyDevansh Singh·16 hours agoNishant Abhijeet Jawalkar Wins 1st Manchester City Open Classical Rating 2026",
-        "date": "2026-10-23T09:38:28.166382",
+        "url": "https://www.chessbase.in/news/india-wins-12-medals-at-20th-asian-schools-chess-championship-2026",
+        "title": "SpotlightTop storyDevansh Singh·1 hour agoIndia Wins 12 Medals at 20th Asian Schools Chess Championships 2026",
+        "date": "2026-10-24T09:56:04.178686",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-10-23T09:38:28.166382",
-    "hittad": "2026-10-24T09:39:37.410729"
+    "datum": "2026-10-24T09:56:04.178686",
+    "hittad": "2026-10-25T09:57:11.038171"
+  },
+  {
+    "id": "6d69d6cd46a9",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "TWIC",
+        "url": "https://theweekinchess.com/chessnews/events/41st-european-club-cup-2026",
+        "title": "41st European Club Cup 2026 - Games and Results",
+        "date": "Fri Oct 23 19:33:00 2026",
+        "tag": "TWIC",
+        "_rss_content": "The 41st European Club Cup took place in Budva, Montenegro Sat 17th Oct to Fri 23rd Oct 2026. In the Open top seeds Bayegan Pendik Chess Sports Club (Giri, Erdogmus, Tabatabaei, Rapport, Mamedyarov) just edged out Novy Bor Chess Club (Yakubboev, Sarin, Harikrishna, Anton) to take the title. Rishon LeZion A (Gelfand) finished 3rd. Second seeds SuperChess Romania (Abdusattorov, Van Foreest) finished fourth. Richard Pert scored a result of a lifetime starting with 6/6 before unfortunately losing in the final round. In the Women's event top seeds Cercle d'Echecs de Monte-Carlo (Goryachkina, Koneru, Tsolakidou, Paehtz, Cramling) won ahead of Gambit Bonnevoie (Ushenina, Kulon, Danielian, Maltsevskaya, Khalafova) and Sirmium Sremska Mitrovica (Shuvalova, Garifullina, Salimova, Injac, Balabayeva). It was the phenomenon that is Bodhana Sivanandan who took the headlines, her 5.5/7 at the age of 11 makes her the youngest female to become an IM breaking Judit Polgar's long standing record and 7th youngest IM over all. It wasn't really a surprise, she was already playing to well above IM level."
+      }
+    ],
+    "kalla_display": "TWIC",
+    "datum": "Fri Oct 23 19:33:00 2026",
+    "hittad": "2026-10-25T09:57:11.038174"
+  },
+  {
+    "id": "2aa3c3f63cc1",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Dansk Skak Union",
+        "url": "https://nyheder.skak.dk/2026/10/24/tredelt-foering-ved-km-2026/?utm_source=rss&utm_medium=rss&utm_campaign=tredelt-foering-ved-km-2026",
+        "title": "Tredelt føring ved KM 2026",
+        "date": "Sat, 24 Oct 2026 18:55:27 +0000",
+        "tag": "Dansk Skak Union",
+        "_rss_content": "Inden de to sidste runder søndag er tre spillere i front for Københavnsmesterskabet 2026 – Formula X Agency OPEN. GM Carsten Høi, Andreas Skovgaard og FM David Gloser har scoret 4½ point efter de første fem runder. Tjekkiske David Gloser kan vinde turneringen, men ikke titlen som Københavnsmester. Man skal være medlem af en klub [&#8230;]"
+      }
+    ],
+    "kalla_display": "Dansk Skak Union",
+    "datum": "Sat, 24 Oct 2026 18:55:27 +0000",
+    "hittad": "2026-10-25T09:57:11.038178"
+  },
+  {
+    "id": "cb423c8d9c29",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Dansk Skak Union",
+        "url": "https://nyheder.skak.dk/2026/10/24/jonas-bjerre-faar-soelv-med-novy-bor-til-europa-cuppen/?utm_source=rss&utm_medium=rss&utm_campaign=jonas-bjerre-faar-soelv-med-novy-bor-til-europa-cuppen",
+        "title": "Jonas Bjerre får sølv med Novy Bor til Europa Cuppen",
+        "date": "Sat, 24 Oct 2026 17:06:43 +0000",
+        "tag": "Dansk Skak Union",
+        "_rss_content": "Årets udgave af Europa Cuppen sluttede fredag d. 23. oktober efter 7 runder i den montenegrinske kystby, Budva. Forhåndsfavoritterne fra tyrkiske Bayegan Pendik Chess Sports Club trak det længste strå ved at have bedre korrektion foran tjekkiske Novy Bor Chess Club med Jonas Bjerre og danskboende Nils Grandelius på holdet. Begge hold vandt alle deres [&#8230;]"
+      }
+    ],
+    "kalla_display": "Dansk Skak Union",
+    "datum": "Sat, 24 Oct 2026 17:06:43 +0000",
+    "hittad": "2026-10-25T09:57:11.038181"
   },
   {
     "id": "8a2df8e88f59",
@@ -633,7 +709,7 @@
     ],
     "kalla_display": "Dansk Skak Union",
     "datum": "Fri, 23 Oct 2026 07:22:21 +0000",
-    "hittad": "2026-10-24T09:39:37.410732"
+    "hittad": "2026-10-25T09:57:11.038185"
   },
   {
     "id": "f035185559bd",
@@ -650,7 +726,41 @@
     ],
     "kalla_display": "Dansk Skak Union",
     "datum": "Tue, 20 Oct 2026 13:19:41 +0000",
-    "hittad": "2026-10-24T09:39:37.410734"
+    "hittad": "2026-10-25T09:57:11.038188"
+  },
+  {
+    "id": "d7675e1bf5eb",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/10/25/bergen-maratonlyn-oktober-2026/",
+        "title": "Bergen Maratonlyn oktober 2026",
+        "date": "Sun, 25 Oct 2026 05:33:37 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Bergens Schakklub arrangerte Maratonlyn lørdag 24. oktober 2026. Det ble spilt 19 runder Konrad med betenkningstid 3+2. Kampen om førsteplass ble en duell mellom juniorspillerne Siver Flaten og Sigur H. Myny. Flaten vant 2-1 i innbyrdes oppgjør, og dette ble avgjørende da han til slutt gikk til topps med 16 poeng mot 15. Det var Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Sun, 25 Oct 2026 05:33:37 +0000",
+    "hittad": "2026-10-25T09:57:11.038191"
+  },
+  {
+    "id": "6878d5a0793b",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/10/24/europacupen-for-klubblag-2026/",
+        "title": "Europacupen for klubblag 2026",
+        "date": "Sat, 24 Oct 2026 05:24:08 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Europacupen for klubblag ble arrangert i Budva i Montenegro fra 17. til 23. oktober 2026. Det ble spilt 7 runder med 6 spillere på lagene i Åpen klasse og 4 spillere i Kvinneklassen. Åpen klasse ble vunnet av det høyest ratede laget, tyrkiske Bayegan Pendik Chess Sports Club med 13 av 14 mulige lagpoeng. På Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Sat, 24 Oct 2026 05:24:08 +0000",
+    "hittad": "2026-10-25T09:57:11.038195"
   },
   {
     "id": "2a9732a69122",
@@ -667,7 +777,7 @@
     ],
     "kalla_display": "Bergensjakk",
     "datum": "Sat, 24 Oct 2026 05:23:59 +0000",
-    "hittad": "2026-10-24T09:39:37.410736"
+    "hittad": "2026-10-25T09:57:11.038198"
   },
   {
     "id": "ab9031fc2b0a",
@@ -684,7 +794,7 @@
     ],
     "kalla_display": "Bergensjakk",
     "datum": "Thu, 22 Oct 2026 05:34:32 +0000",
-    "hittad": "2026-10-24T09:39:37.410739"
+    "hittad": "2026-10-25T09:57:11.038201"
   },
   {
     "id": "0336da287e4a",
@@ -701,7 +811,7 @@
     ],
     "kalla_display": "English Chess Federation",
     "datum": "Thu, 22 Oct 2026 11:51:04 +0000",
-    "hittad": "2026-10-24T09:39:37.410741"
+    "hittad": "2026-10-25T09:57:11.038205"
   },
   {
     "id": "b53b0fb8f6a1",
@@ -718,7 +828,7 @@
     ],
     "kalla_display": "Chess News Network",
     "datum": "Fri, 23 Oct 2026 09:29:42 GMT",
-    "hittad": "2026-10-24T09:39:37.410744"
+    "hittad": "2026-10-25T09:57:11.038208"
   },
   {
     "id": "8978692976d1",
@@ -735,24 +845,7 @@
     ],
     "kalla_display": "Chess News Network",
     "datum": "Thu, 22 Oct 2026 20:20:02 GMT",
-    "hittad": "2026-10-24T09:39:37.410746"
-  },
-  {
-    "id": "eb929cbe4f0b",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/rachael-li-from-americas-youngest-female-master-at-nine-to-a-three-year-break-an",
-        "title": "Rachael Li: From America's Youngest Female Master at Nine to a Three-Year Break and a Record-Setting Return",
-        "date": "Thu, 22 Oct 2026 12:10:00 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "We have a new U.S. Chess Champion! But who is Rachael Li and how did she get to the top at the age of 16?"
-      }
-    ],
-    "kalla_display": "Chess News Network",
-    "datum": "Thu, 22 Oct 2026 12:10:00 GMT",
-    "hittad": "2026-10-24T09:39:37.410748"
+    "hittad": "2026-10-25T09:57:11.038211"
   },
   {
     "id": "aeea00c4776f",
@@ -769,7 +862,41 @@
     ],
     "kalla_display": "Chess News Network",
     "datum": "Thu, 22 Oct 2026 10:46:52 GMT",
-    "hittad": "2026-10-24T09:39:37.410750"
+    "hittad": "2026-10-25T09:57:11.038215"
+  },
+  {
+    "id": "95b10d52851e",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/european-club-cup-rounds-3-and-4-abdusattorov-giri-and-erdogmus-all-lose",
+        "title": "European Club Cup Rounds 3 and 4: Abdusattorov, Giri and Erdogmus All Lose",
+        "date": "Wed, 21 Oct 2026 10:56:03 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "The European Chess Club Cup in Budva, Montenegro reached its halfway point with upsets in both sections. In the open, Round 3 belonged to the favorites, with 15-year-old Yagiz Kaan Erdogmus climbing to world No. 15, before Round 4 saw Nodirbek Abdusattorov, Anish Giri and Erdogmus all lose. In the women's, CE Gambit Bonnevoie beat both of the top two seeds in a row and leads alone on a perfect 8 match points."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Wed, 21 Oct 2026 10:56:03 GMT",
+    "hittad": "2026-10-25T09:57:11.038218"
+  },
+  {
+    "id": "f148abc924b7",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/u-s-championship-round-10",
+        "title": "U.S. Championship: Round 10",
+        "date": "Wed, 21 Oct 2026 10:19:40 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Wesley So drew Hans Niemann in under an hour and leads on 7/10, a full point clear of Fabiano Caruana and Grigoriy Oparin. In the women's, rookie Rachael Li beat Rose Atwell and leads Alice Lee by a point, but Lee won too and stays alive."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Wed, 21 Oct 2026 10:19:40 GMT",
+    "hittad": "2026-10-25T09:57:11.038222"
   },
   {
     "id": "89e09da7147a",
@@ -786,7 +913,7 @@
     ],
     "kalla_display": "Chess News Network",
     "datum": "Wed, 21 Oct 2026 09:41:00 GMT",
-    "hittad": "2026-10-24T09:39:37.410753"
+    "hittad": "2026-10-25T09:57:11.038225"
   },
   {
     "id": "b0eb6554f46d",
@@ -803,7 +930,7 @@
     ],
     "kalla_display": "Chess News Network",
     "datum": "Tue, 20 Oct 2026 12:38:43 GMT",
-    "hittad": "2026-10-24T09:39:37.410755"
+    "hittad": "2026-10-25T09:57:11.038228"
   },
   {
     "id": "7880cfbd82d0",
@@ -820,7 +947,7 @@
     ],
     "kalla_display": "Chess News Network",
     "datum": "Tue, 20 Oct 2026 12:12:30 GMT",
-    "hittad": "2026-10-24T09:39:37.410757"
+    "hittad": "2026-10-25T09:57:11.038231"
   },
   {
     "id": "d9c1d7b12e25",
@@ -837,7 +964,7 @@
     ],
     "kalla_display": "ChessBase España",
     "datum": "Wed, 21 Oct 2026 20:00:00 GMT",
-    "hittad": "2026-10-24T09:39:37.410759"
+    "hittad": "2026-10-25T09:57:11.038235"
   },
   {
     "id": "604e6680b555",
@@ -854,6 +981,6 @@
     ],
     "kalla_display": "ChessBase España",
     "datum": "Mon, 19 Oct 2026 20:15:00 GMT",
-    "hittad": "2026-10-24T09:39:37.410762"
+    "hittad": "2026-10-25T09:57:11.038238"
   }
 ]
