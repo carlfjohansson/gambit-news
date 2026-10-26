@@ -1,572 +1,129 @@
 [
   {
-    "source": "Chess.com",
-    "original_url": "https://www.chess.com/news/view/gothamchess-returns-to-new-york-times-bestseller-list-holds-amazons-top-2-chess-spots",
-    "original_title": "Gothamchess Returns To New York Times Bestseller List Holds Amazons Top 2 Chess Spots",
-    "swedish_title": "GothamChess bestseller igen – toppar Amazons schacklista",
-    "swedish_content": "IM Levy Rozman, känd som GothamChess, har fått ännu en bok på New York Times bestsellerlista. Den nya titeln \"How to Win at Chess, Next Level\" har nått listan, samtidigt som hans två tidigare böcker i \"How to Win at Chess\"-serien just nu intar de två översta platserna på Amazons bestsellerlista för schackböcker.\n\nDebutboken \"How to Win at Chess: The Ultimate Guide for Beginners and Beyond\" toppade flera Amazon-listor och rankades fyra på New York Times lista för rådgivnings- och instruktionsböcker efter releasen i oktober 2023. Tre år senare fortsätter den att attrahera läsare tillsammans med uppföljaren.\n\nDen nya boken, som riktar sig till spelare med rating runt 1000–1600, släpptes den 6 oktober. Rozman, som har över åtta miljoner prenumeranter på YouTube, har tidigare sagt att böckerna handlar om mer än pengar: \"Jag ville förändra hur folk lär sig schack och lämna ett arv.\"",
-    "date": "2026-10-21T10:19:46.123478",
-    "tag": "Chess.com",
-    "processed_at": "2026-10-25T17:23:34.732149",
-    "alla_kallor": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/gothamchess-returns-to-new-york-times-bestseller-list-holds-amazons-top-2-chess-spots"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/im-levy-rozman-achieves-new-york-times-bestseller-status"
-      }
-    ],
-    "alla_urler": [
-      "https://www.chess.com/news/view/gothamchess-returns-to-new-york-times-bestseller-list-holds-amazons-top-2-chess-spots",
-      "https://chessnewsnetwork.com/article/im-levy-rozman-achieves-new-york-times-bestseller-status"
-    ],
-    "bild_alternativ": [
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Alexandra_Botez_and_Levy_Rozman_commentating_Pro_Chess_League_in_2019.png/960px-Alexandra_Botez_and_Levy_Rozman_commentating_Pro_Chess_League_in_2019.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: PRO Chess League (Wikimedia Commons, CC BY 3.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Levy_Rozman.png/960px-Levy_Rozman.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: PRO Chess League (Wikimedia Commons, CC BY 3.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Levy_Rozman_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "kredit": "Foto: PRO Chess League (Wikimedia Commons, CC BY 3.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Levy_Rozman_2021_interview_with_ChessRU.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "kredit": "Foto: ChessComRU (Wikimedia Commons, CC BY 3.0)"
-      }
-    ]
-  },
-  {
     "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/global-impact-intercontinental-online-ch-prisoners-2026",
-    "original_title": "The global impact of the Intercontinental Online Chess Championship for Prisoners",
-    "swedish_title": "Rekord i schack-VM för fångar – 140 lag deltog",
-    "swedish_content": "Det 6:e Intercontinental Online Chess Championship for Prisoners genomfördes 13–15 oktober med deltagare från hela världen. Turneringen slog deltagarrekord med 140 lag från 56 länder, uppdelade i herr-, dam- och ungdomsklasser samt flera grupper och tidszoner. Evenemanget arrangerades av FIDE och Cook County Sheriff's Office i Chicago, IL, USA. Sedan den första upplagan 2021 har initiativet, som syftar till att främja kritiskt tänkande, emotionell kontroll och återintegrering i samhället, spridit sig till sex kontinenter. I Argentina har liknande schackprogram funnits i över tio år i fem anstalter i provinsen Corrientes, som en del av utbildningsprogrammet \"Taragüi Koe\".",
-    "date": "Sat, 24 Oct 2026 03:30:00 GMT",
+    "original_url": "https://en.chessbase.com/post/capablanca-wins-gold-buenos-aires-1939",
+    "original_title": "A farewell triumph: Capablanca wins gold in Buenos Aires 1939",
+    "swedish_title": "Krigsutbrott påverkade schackolympiaden i Buenos Aires 1939",
+    "swedish_content": "Medan Tyskland och Polen låg i krig i Europa möttes deras landslag vid schackbrädet i Buenos Aires. Tyskland slutade en halv poäng före Polen och tog lagguld vid en schackolympiad för första och hittills enda gången. Krigsutbrottet påverkade dock turneringens förlopp kraftigt. Sex lagmatcher spelades aldrig och registrerades istället som 2-2 i remi, däribland mötet mellan Tyskland och Polen. Det engelska laget, som kvalificerat sig för finalgruppen, lämnade turneringen i förtid. Tre av dess spelare, Conel Hugh O'Donel Alexander, Stuart Milner-Barry och Harry Golombek, arbetade senare på Bletchley Park med att knäcka tyska krypterade meddelanden. Många deltagare återvände aldrig till Europa. Samtliga fem spelare i det tyska laget, Erich Eliskases, Paul Michel, Ludwig Engels, Albert Becker och Heinrich Reinhardt, stannade kvar i Sydamerika. Det polska laget splittrades också: Miguel Najdorf och Paulino Frydman blev kvar i Argentina, medan Franciszek Sulik senare flyttade till Australien. Savielly Tartakower, som spelat för Polen men bott i Frankrike i flera år, återvände istället till Europa och gick med i de fria franska styrkorna under kriget. För José Raúl Capablanca släckte krigsutbrottet förhoppningarna om en revanschmatch mot regerande världsmästaren Alexander Aljechin, som han förgäves sökt sedan förlusten i VM-matchen 1927.",
+    "date": "Sun, 25 Oct 2026 15:25:00 GMT",
     "tag": "ChessBase",
-    "processed_at": "2026-10-25T17:23:47.905845",
-    "bild_alternativ": []
-  },
-  {
-    "source": "Chess News Network",
-    "original_url": "https://chessnewsnetwork.com/article/sindarov-admits-this-might-be-his-only-chance",
-    "original_title": "Sindarov Admits This Might Be His Only Chance",
-    "swedish_title": "Sindarov: Kanske min enda chans mot Gukesh",
-    "swedish_content": "Javokhir Sindarov, 20, kallar VM-matchen mot Gukesh Dommaraju för det tuffaste han gjort, i en intervju med The New Indian Express i slutet av augusti. Utmanaren pekar på att 14 klassiska partier mot samma motståndare under tre veckor blir svårt, och utesluter inte att han aldrig får en ny chans till VM-titeln. Matchen spelas i Geneve med start 24 november, och den som först når 7,5 poäng vinner.\n\nSindarov talade varmt om Gukesh förberedelser och sa sig förstå varför världsmästaren till stor del dragit sig undan turneringsspel inför matchen – enligt Sindarov kände Gukesh sig psykiskt obekväm efter ett tungt turneringsår och behövde arbeta om sin förberedelse. I en separat intervju med Reuters, återgiven av World Chess medan Sindarov spelade Global Chess League i Bengaluru, var han mer rakt på sak: han tar inte Gukesh senaste resultat på allvar, eftersom en spelare kan se helt annorlunda ut i en match. Han hänvisade till Gukesh seger över Ding Liren 2024, då förhandstipsen också var enkelriktade. Inför den här matchen har Gukesh slutat sist i Tata Steel, förlorat i Prague Masters och haft det tungt i Sinquefield Cup, och fallit till plats 32 på FIDE:s septemberlista, medan Sindarov ligger fyra.\n\nSindarov planerade att spela Global Chess League och OS i Samarkand för Uzbekistan innan ett fullt träningsläger inleds efter OS, med tränare Roman Vidonyak. I Kandidatturneringen i Pegeia, Cypern, vann han med 10/14, en och en halv poäng före fältet, utan förlust och med en rond till godo.",
-    "date": "Fri, 23 Oct 2026 09:29:42 GMT",
-    "tag": "Chess News Network",
-    "processed_at": "2026-10-25T17:24:05.229252",
-    "bild_filnamn": "bildbanken-Af8EnQ5YbY.jpg",
-    "bild_kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund",
+    "processed_at": "2026-10-26T16:28:41.906571",
+    "bild_filnamn": "fide-55582894109.jpg",
+    "bild_kredit": "Foto: FIDE / \"FIDE_chess\"",
     "bild_alternativ": [
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Javokhir_Sindarov_at_the_46th_FIDE_Chess_Olympiad_%281%29.jpg/960px-Javokhir_Sindarov_at_the_46th_FIDE_Chess_Olympiad_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: TheBoburshokh (Wikimedia Commons, CC BY 4.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Aanvang_schaaktoernooi_Amsterdam%2C_Bestanddeelnr_906-6985.jpg/960px-Aanvang_schaaktoernooi_Amsterdam%2C_Bestanddeelnr_906-6985.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Wim van Rossem  for  Anefo (Wikimedia Commons, CC0)"
       },
       {
         "kalla": "commons",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Javokhir_Sindarov_at_the_46th_FIDE_Chess_Olympiad_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "kredit": "Foto: TheBoburshokh (Wikimedia Commons, CC BY 4.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Aanvang_schaaktoernooi_Amsterdam%2C_Bestanddeelnr_906-6985_%28cropped%29.jpg/960px-Aanvang_schaaktoernooi_Amsterdam%2C_Bestanddeelnr_906-6985_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Wim van Rossem  for  Anefo (Wikimedia Commons, CC0)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Javokhir_Sindarov_chess_player.jpg/960px-Javokhir_Sindarov_chess_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Husniddin Ato (Wikimedia Commons, CC BY-SA 4.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Sint_Nicolaas_bezoekt_schaaktoernooi_te_Amsterdam._Sint_Nicolaas_met_gehele_groe%2C_Bestanddeelnr_904-3107.jpg/960px-Sint_Nicolaas_bezoekt_schaaktoernooi_te_Amsterdam._Sint_Nicolaas_met_gehele_groe%2C_Bestanddeelnr_904-3107.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Joop van Bilsen  for  Anefo (Wikimedia Commons, CC0)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Women_and_men%27s_Chess_Olympiad_teams_of_Uzbekistan_%2845th_chess_olympiad%29.jpg/960px-Women_and_men%27s_Chess_Olympiad_teams_of_Uzbekistan_%2845th_chess_olympiad%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: MiroJP (Wikimedia Commons, CC BY-SA 4.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Sint_Nicolaas_bezoekt_schaaktoernooi_te_Amsterdam._Sint_Nicolaas_met_gehele_groe%2C_Bestanddeelnr_904-3108.jpg/960px-Sint_Nicolaas_bezoekt_schaaktoernooi_te_Amsterdam._Sint_Nicolaas_met_gehele_groe%2C_Bestanddeelnr_904-3108.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Joop van Bilsen  for  Anefo (Wikimedia Commons, CC0)"
       },
       {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/Af8EnQ5YbY.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
+        "kalla": "fide",
+        "url": "https://live.staticflickr.com/65535/55582894109_dac2d3e702_c.jpg",
+        "kredit": "Foto: FIDE / \"FIDE_chess\""
       },
       {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/Af8EosVlC6.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
+        "kalla": "fide",
+        "url": "https://live.staticflickr.com/65535/55582821688_4ed6175060_c.jpg",
+        "kredit": "Foto: FIDE / \"FIDE_chess\""
       },
       {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/Af8EwJp4qG.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
+        "kalla": "fide",
+        "url": "https://live.staticflickr.com/65535/55581675742_c8d9f27baf_c.jpg",
+        "kredit": "Foto: FIDE / \"FIDE_chess\""
       },
       {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/Af8ExenfeD.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/D_Gukesh_at_2024_Tata_Steel_CT.jpg/960px-D_Gukesh_at_2024_Tata_Steel_CT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Frans Peeters (Wikimedia Commons, CC BY-SA 2.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/D_Gukesh_at_2025_Tata_Steel_CT.jpg/960px-D_Gukesh_at_2025_Tata_Steel_CT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Frans Peeters (Wikimedia Commons, CC BY-SA 2.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Gukesh_in_2025_%28cropped%29.jpg/960px-Gukesh_in_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Frans Peeters (Wikimedia Commons, CC BY-SA 2.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/TataSteelChess2023-22.jpg/960px-TataSteelChess2023-22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Vysotsky (Wikimedia Commons, CC BY-SA 4.0)"
+        "kalla": "fide",
+        "url": "https://live.staticflickr.com/65535/55581675752_7e3712303f_c.jpg",
+        "kredit": "Foto: FIDE / \"FIDE_chess\""
       }
     ]
   },
   {
-    "source": "Chess News Network",
-    "original_url": "https://chessnewsnetwork.com/article/fide-divided-over-podolyak-and-kolobkov",
-    "original_title": "FIDE Divided Over Podolyak and Kolobkov",
-    "swedish_title": "FIDE splittrat efter Turlovs presidentseger",
-    "swedish_content": "En månad efter att Timur Turlov vann presidentvalet i FIDE är läget rörigt inom förbundet. I en längre artikel publicerad 21 oktober redogör Meduzas Konstantin Skorkin för utvecklingen.\n\nEnligt Meduza, som hänvisar till Kommersant, inledde Rysslands riksåklagarmyndighet i början av oktober ett förfarande för att förklara Turlov som extremist och beslagta hans ryska tillgångar. Grunden var en överföring på 2 miljoner euro från Freedom Holding till humanitärt bistånd för Ukraina, avsett för ambulanser. En representant uppgav att Turlov inte längre hade några tillgångar i Ryssland. I mitten av oktober drog åklagarna tillbaka stämningen och domstolen avskrev ärendet, utan att någon förklaring gavs i någotdera fallet.\n\nMykhailo Podolyak, rådgivare till chefen för Zelenskyjs presidentkansli, utsågs till FIDE-vicepresident på Turlovs inbjudan. Enligt Meduza finns ingen känd tidigare kontakt eller affärsrelation mellan de två, och Podolyak har ingen känd bakgrund inom schack. Han delar posten med den tidigare ryske idrottsministern Pavel Kolobkov.\n\nPodolyak säger att hans mål är att minska ryskt inflytande i schacket inifrån, samtidigt som han lämnar sportfrågor till förbundet. Han har kritiserat vad han kallar den ukrainska schackfederationens passiva hållning och menar att dess tjänstemän inte gjorde något för att avlägsna Dvorkovitjs team. Han har också kallat Ukrainas sanktioner mot Turlov märkliga, med hänvisning till dennes kazakstanska medborgarskap, hans avresa från Ryssland och hans humanitära investering i Ukraina.\n\nDen ukrainska schackfederationen stödde aldrig Turlov. Enligt Meduza nominerade federationen i stället Oleksandr Kamysjin, som tackade nej med hänvisning till krigstida prioriteringar, och man fick aldrig något erbjudande om att nominera en egen representant till Turlovs team. Regionala federationer skickade därefter ett öppet brev till Zelenskyj där de anklagade Podolyak för att legitimera ryssar i FIDE:s ledning. Volodymyr Kovaltjuk hävdade att Turlov bara bytt plats med Dvorkovitj och att ingenting förändrats i sak, och liknade det vid en rockad.",
-    "date": "Thu, 22 Oct 2026 20:20:02 GMT",
-    "tag": "Chess News Network",
-    "processed_at": "2026-10-25T17:24:25.146471",
-    "bild_alternativ": []
-  },
-  {
-    "source": "Chess.com",
-    "original_url": "https://www.chess.com/news/view/2026-us-chess-championships-round-10",
-    "original_title": "2026 Us Chess Championships Round 10",
-    "swedish_title": "RUBRIK: So vinner dramatisk USA-mästerskap, Li tar titeln som rookie",
-    "swedish_content": "GM Wesley So har vunnit USA:s schackmästerskap 2026 i Saint Louis för fjärde gången, efter en playoff-seger mot regerande mästaren GM Fabiano Caruana med 1,5–0,5 i snabbschack. So gick in i den avslutande elfte ronden med en hel poängs ledning och hade bara behövt remi mot jumbon Sam Sevian för att säkra titeln direkt. Istället spelade Sevian ut So i ett tungpjässlutspel och vann, vilket avslutade So:s svit på 48 raka matcher utan förlust i turneringen. Samtidigt vann Caruana på beställning mot Awonder Liang med en Tarrasch-uppställning där 6.Bf4 – ett drag hans sekundant Grigoriy Oparin plockat upp i Wijk aan Zee tidigare i år – banade väg för ett kungflygelangrepp inlett med 26.Ne4!. Båda slutade på 7/11, och playoff blev nödvändigt dagen efter.\n\nI playoffets första parti, en Nimzo-indisk ställning, överraskade So med nyheten 11...Nb6!?, ett drag som till synes bjöd bort en pjäs men som Caruana valde att inte ta emot. So byggde upp fördel, vann en bonde på drag 27 och missade en forcerad vinst på drag 34, innan Caruana skapade motspel i tidsnöd och partiet slutade remi genom ställningsupprepning efter 72 drag. Avgörandet kom i parti två, där So med vitt spelade ett Scotch Four Knights och Caruana svarade med ett tveksamt gambitoffer som svart. So gav tillbaka bonden, rockerade långt och vann en pjäs på drag 22 innan Caruana, märkbart sliten efter den långa turneringen, räknade fel och till slut gav upp på drag 33. So sa efteråt att han bara sovit två–tre timmar natten innan och att kvaliteten i playoff-partierna var långt ifrån hans bästa, men att titeln ändå var oerhört svår att ta hem. Segern innebär So:s fjärde USA-titel efter 2017, 2020 och 2021, och sätter stopp för Caruanas jakt på en femte raka titel som skulle ha matchat Samuel Reshevskys rekord. So, som inledde året som världsetta nummer elva, har nu klättrat till sjätte plats efter att tidigare i år ha slutat tvåa i Norway Chess och vunnit Sinquefield Cup.\n\nI damturneringen avgjordes allt redan i elfte ronden utan playoff. 16-åriga WIM Rachael Li, som var sjunde seedad av tolv deltagare, säkrade USA-mästerskapet för damer med en remi mot IM Anna Zatonskih efter 49 drag i ett löparslutspel med olikfärgade löpare. Zatonskih hade chansen att forcera remi genom trefaldig upprepning redan efter 14 drag, men valde att spela vidare eftersom hon ansåg att det \"skulle vara orättvist mot Alice Lee\", som fortfarande jagade titeln. Li slutade på 8,5/11, en halv poäng före tvåan Alice Lee, och blev därmed den yngsta nybörjaren någonsin att vinna mästerskapet. Hon tog hem 45 000 dollar i prispengar – 35 000 för förstaplatsen, en segerbonus på 5 000 och ytterligare 5 000 för \"Finish Strong Prize\" för bästa resultat under de sex sista ronderna – samt sin första IM-norm och en ratinghöjning på 50 poäng. Efter partiet tackade Li särskilt sin storebror, GM Ruifeng Li, som hjälpt henne med förberedelserna, samt sina föräldrar, som hon beskrev som nervösare än henne själv under hela turneringen. Både Li och Lee kvalificerade sig för nästa FIDE Women's World Cup.\n\nRachael Lis seger är kulmen på en ovanlig resa. Hon växte upp i en schackfamilj i Texas och blev redan vid nio år, i november 2019, USA:s yngsta kvinnliga mästare genom tiderna när hon passerade 2200 i rating vid en turnering i Carrollton, Texas – ett rekord som tidigare innehades av Carissa Yip.",
-    "date": "2026-10-20T10:19:18.778918",
-    "tag": "Chess.com",
-    "processed_at": "2026-10-25T17:26:23.076179",
-    "alla_kallor": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-us-chess-championships-round-10"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/u-s-championship-round-10"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/us-championship-round-9"
-      },
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/rachael-li-wins-2026-us-womens-chess-championship"
-      },
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-us-chess-championships-round-10"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/u-s-championship-round-10"
-      },
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/rachael-li-wins-2026-us-womens-chess-championship"
-      },
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/us-championships-2026-13"
-      },
-      {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/us-championships-2026-femenino"
-      },
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/wesley-so-wins-2026-us-chess-championship"
-      },
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/us-championships-2026-14"
-      },
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/us-meisterschaften-live-7"
-      },
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettantopp/2026/10/usa-so-vann-playoff-mot-caruana/?utm_source=rss&utm_medium=rss&utm_campaign=usa-so-vann-playoff-mot-caruana"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/wesley-so-beats-fabiano-caruana-in-the-playoff-to-win-his-fourth-u-s-championshi"
-      },
-      {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/us-championships-abierto"
-      },
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/us-championships-2026-bilan-du-tournoi-10115.html"
-      },
-      {
-        "source": "TWIC",
-        "url": "https://theweekinchess.com/chessnews/events/us-chess-championships-2026"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/rachael-li-from-americas-youngest-female-master-at-nine-to-a-three-year-break-an"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/u-s-championship-round-11"
-      },
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/rachael-li-wins-2026-us-womens-chess-championship"
-      },
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/us-championships-2026-13"
-      },
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/us-championships-2026-bilan-du-tournoi-10115.html"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/rachael-li-from-americas-youngest-female-master-at-nine-to-a-three-year-break-an"
-      },
-      {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/us-championships-2026-femenino"
-      },
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/wesley-so-wins-2026-us-chess-championship"
-      },
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/us-championships-2026-14"
-      },
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/us-meisterschaften-live-7"
-      },
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettantopp/2026/10/usa-so-vann-playoff-mot-caruana/?utm_source=rss&utm_medium=rss&utm_campaign=usa-so-vann-playoff-mot-caruana"
-      },
-      {
-        "source": "TWIC",
-        "url": "https://theweekinchess.com/chessnews/events/us-chess-championships-2026"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/wesley-so-beats-fabiano-caruana-in-the-playoff-to-win-his-fourth-u-s-championshi"
-      },
-      {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/us-championships-abierto"
-      },
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-us-chess-championships-round-10"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/u-s-championship-round-10"
-      }
-    ],
-    "alla_urler": [
-      "https://www.chess.com/news/view/2026-us-chess-championships-round-10",
-      "https://chessnewsnetwork.com/article/u-s-championship-round-10",
-      "https://chessnewsnetwork.com/article/us-championship-round-9",
-      "https://www.chess.com/news/view/rachael-li-wins-2026-us-womens-chess-championship",
-      "https://www.chess.com/news/view/2026-us-chess-championships-round-10",
-      "https://chessnewsnetwork.com/article/u-s-championship-round-10",
-      "https://www.chess.com/news/view/rachael-li-wins-2026-us-womens-chess-championship",
-      "https://en.chessbase.com/post/us-championships-2026-13",
-      "https://es.chessbase.com/post/us-championships-2026-femenino",
-      "https://www.chess.com/news/view/wesley-so-wins-2026-us-chess-championship",
-      "https://en.chessbase.com/post/us-championships-2026-14",
-      "https://en.chessbase.com/post/us-meisterschaften-live-7",
-      "https://schack.se/nyhet/ettantopp/2026/10/usa-so-vann-playoff-mot-caruana/?utm_source=rss&utm_medium=rss&utm_campaign=usa-so-vann-playoff-mot-caruana",
-      "https://chessnewsnetwork.com/article/wesley-so-beats-fabiano-caruana-in-the-playoff-to-win-his-fourth-u-s-championshi",
-      "https://es.chessbase.com/post/us-championships-abierto",
-      "https://www.europe-echecs.com/art/us-championships-2026-bilan-du-tournoi-10115.html",
-      "https://theweekinchess.com/chessnews/events/us-chess-championships-2026",
-      "https://chessnewsnetwork.com/article/rachael-li-from-americas-youngest-female-master-at-nine-to-a-three-year-break-an",
-      "https://chessnewsnetwork.com/article/u-s-championship-round-11",
-      "https://www.chess.com/news/view/rachael-li-wins-2026-us-womens-chess-championship",
-      "https://en.chessbase.com/post/us-championships-2026-13",
-      "https://www.europe-echecs.com/art/us-championships-2026-bilan-du-tournoi-10115.html",
-      "https://chessnewsnetwork.com/article/rachael-li-from-americas-youngest-female-master-at-nine-to-a-three-year-break-an",
-      "https://es.chessbase.com/post/us-championships-2026-femenino",
-      "https://www.chess.com/news/view/wesley-so-wins-2026-us-chess-championship",
-      "https://en.chessbase.com/post/us-championships-2026-14",
-      "https://en.chessbase.com/post/us-meisterschaften-live-7",
-      "https://schack.se/nyhet/ettantopp/2026/10/usa-so-vann-playoff-mot-caruana/?utm_source=rss&utm_medium=rss&utm_campaign=usa-so-vann-playoff-mot-caruana",
-      "https://theweekinchess.com/chessnews/events/us-chess-championships-2026",
-      "https://chessnewsnetwork.com/article/wesley-so-beats-fabiano-caruana-in-the-playoff-to-win-his-fourth-u-s-championshi",
-      "https://es.chessbase.com/post/us-championships-abierto",
-      "https://www.chess.com/news/view/2026-us-chess-championships-round-10",
-      "https://chessnewsnetwork.com/article/u-s-championship-round-10"
-    ],
-    "bild_filnamn": "bildbanken-9G4DtrIi2K.jpg",
+    "source": "Schack.se",
+    "original_url": "https://schack.se/nyhet/ettan/2026/10/ulf-andersson-valdes-in-i-hall-of-fame/?utm_source=rss&utm_medium=rss&utm_campaign=ulf-andersson-valdes-in-i-hall-of-fame",
+    "original_title": "Ulf Andersson valdes in i Hall of Fame",
+    "swedish_title": "Ulf Andersson invald i Hall of Fame",
+    "swedish_content": "Ulf Andersson valdes på lördagen in i schackets Hall of Fame vid en ceremoni i St Louis, USA, och var själv på plats för att ta emot utmärkelsen. Förre världsmästaren Garri Kasparov deltog också vid ceremonin. Tillsammans med Andersson hedrades i år stormästarna Boris Gelfand, Vasyl Ivantjuk, Nana Ioseliani och Alexandra Kosteniuk.\n\nAndersson blev 1975 den förste att besegra den nykrönte världsmästaren Anatolij Karpov, och 1983 låg han fyra på världsrankingen efter Karpov, Kasparov och Ljubomir Ljubojevic. 1984 spelade han på förstabordet mot Karpov i matchen \"Resten av Världen vs Sovjetunionen\" i London.\n\nUnder den kommande veckan hedras Andersson av Sveriges Schackförbund med en middag och en vänskapsturnering i snabbschack på klubben Svarta Hästen i Stockholm. Förra året valdes Pia Cramling in i World Chess Hall of Fame.",
+    "date": "Sun, 25 Oct 2026 18:43:57 +0000",
+    "tag": "Svenska Schackförbundet",
+    "processed_at": "2026-10-26T16:28:59.136881",
+    "bild_filnamn": "bildbanken-AxPGU3NhTQ.jpg",
     "bild_kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund",
     "bild_alternativ": [
       {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/FIDE_World_FR_Chess_Championship_2019_-_Nepomniachtchi_v_So.jpg/960px-FIDE_World_FR_Chess_Championship_2019_-_Nepomniachtchi_v_So.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Lennart Ootes (Wikimedia Commons, CC BY-SA 4.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/FIDE_World_FR_Chess_Championship_2019_-_Wesley_So.jpg/960px-FIDE_World_FR_Chess_Championship_2019_-_Wesley_So.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Lennart Ootes (Wikimedia Commons, CC BY-SA 4.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/FIDE_World_FR_Chess_Championship_2019_-_final_four.jpg/960px-FIDE_World_FR_Chess_Championship_2019_-_final_four.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Lennart Ootes (Wikimedia Commons, CC BY-SA 4.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/London_Chess_Classic_2016_Day2-12_%2831416514922%29.jpg/960px-London_Chess_Classic_2016_Day2-12_%2831416514922%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Wolfgang Jekel (Wikimedia Commons, CC BY 2.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Caruana_fabiano_20081120_olympiade_dresden.jpg/960px-Caruana_fabiano_20081120_olympiade_dresden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Frank Hoppe (Wikimedia Commons, CC BY-SA 3.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/FIDE_World_FR_Chess_Championship_2019_-_Carlsen_v_Caruana.jpg/960px-FIDE_World_FR_Chess_Championship_2019_-_Carlsen_v_Caruana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Lennart Ootes (Wikimedia Commons, CC BY-SA 4.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Grenke_Chess_Classic_2018_a.JPG/960px-Grenke_Chess_Classic_2018_a.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: GFHund (Wikimedia Commons, CC BY-SA 4.0)"
-      },
-      {
         "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/9G4DtrIi2K.jpg",
+        "url": "https://bildbanken.schack.se/Home/AxPGU3NhTQ.jpg",
         "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
       },
       {
         "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/9FTGRbTnxM.jpg",
+        "url": "https://bildbanken.schack.se/Home/AxPEanHh4f.jpg",
         "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
       },
       {
         "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/9G1DA83Uzm.jpg",
+        "url": "https://bildbanken.schack.se/Home/AxPFjQnsHN.jpg",
         "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
       },
       {
         "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/9G6DsBLDX1.jpg",
+        "url": "https://bildbanken.schack.se/Home/AxPFI4yUlR.jpg",
         "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/SamSevian23.jpg/960px-SamSevian23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Stefan64 (Wikimedia Commons, CC BY-SA 3.0)"
-      }
-    ]
-  },
-  {
-    "source": "Chess.com",
-    "original_url": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-5",
-    "original_title": "2026 European Chess Club Cup Round 5",
-    "swedish_title": "Bayegan Pendik och Monte-Carlo tog guld i Europacupen",
-    "swedish_content": "Europacupen för klubblag avgjordes i Budva, Montenegro, mellan den 17 och 23 oktober, med över 100 lag i öppna klassen och 22 lag i damklassen. Favoriterna var turkiska Bayegan Pendik Chess Sports Club och monegaskiska Cercle d'Echecs de Monte-Carlo, med Nodirbek Abdusattorov, Wei Yi och Anish Giri som de högst rankade spelarna i fältet.\n\nEfter två lugnare inledningsronder briserade turneringen i rond tre och fyra. Abdusattorov, Giri och den 15-årige Yagiz Kaan Erdogmus förlorade samtliga sina partier i rond fyra, mot Aydin Suleymanli, Pranav Venkatesh respektive Karthikeyan Murali. Abdusattorovs lagkamrater i SuperChess Romania räddade matchen till en 4-2-seger, medan toppseedade Bayegan Pendik fick nöja sig med 3-3 mot Elektroprivreda. I damklassen tog CE Gambit Bonnevoie ensam ledning efter att ha besegrat både förra årets mästare Monte-Carlo och Sirmium Sremska Mitrovica i rad.\n\nI rond fem stod Novy Bor Chess Club för rondens mest betydelsefulla resultat genom att slå andraseedade Alkaloid 4-2, där Pentala Harikrishnas 103-dragsseger mot Yu Yangyi avgjorde matchen. SuperChess Romania fortsatte obesegrat med 5,5-0,5 mot SK K CERO INVEST Nitra. I damklassen höll Gambit Bonnevoie i ledningen med full pott.\n\nRond sex bjöd på dramatik i toppen när SuperChess och Novy Bor delade på poängen 3-3 i sin direktduell – Abdusattorov vann över lagkamraten Nodirbek Yakubboev, varpå Nihal Sarin, Bogdan-Daniel Deac och David Navara alla stod för avgörande resultat. Det öppnade dörren för Bayegan Pendik, som med en nervig 3,5-2,5-seger över Tuxera Aquaprofit Nagykanizsai klev upp och delade täten med tre lag på elva poäng inför sista ronden. I damklassen föll Gambit Bonnevoie mot Odlar Yurdu, vilket skapade en trippel ledning tillsammans med Monte-Carlo.\n\nAllt avgjordes i den sjunde och sista ronden. Anish Giri stod för en överraskande stark seger över Abdusattorov, och tillsammans med Amin Tabatabaeis vinst över Haik Martirosyan säkrade det en 3,5-2,5-seger för Bayegan Pendik över försvarande mästaren SuperChess Romania. Novy Bor vann samtidigt stort, 4,5-1,5, över Elektroprivreda, men räckte inte till guld – de slutade på samma matchpoäng som Bayegan Pendik men förlorade på tiebreak med 8,5 poängs marginal. Boris Gelfands Rishon LeZion A tog brons efter en övertygande 5,5-0,5-seger över Cheddleton Savills Catering, medan SuperChess ändå säkrade en plats i nästa års European Chess Super League.\n\nI damklassen försvarade Monte-Carlo titeln genom en 4-0-seger i sista ronden, vilket räckte för att gå om Gambit Bonnevoie på tiebreak. Aleksandra Goryachkina, Koneru Humpy och Elisabeth Paehtz tog individuellt guld på sina respektive bord. Sirmium Sremska Mitrovica tog brons efter 3,5-0,5 mot Odlar Yurdu.\n\nTurneringen bjöd också på en historisk bedrift utanför resultatlistorna: elvaåriga Bodhana Sivanandan säkrade sin sista IM-norm med 5,5 poäng på sju partier och blev därmed den yngsta kvinnan någonsin att bli IM, och slog samtidigt Judit Polgars mångåriga rekord.\n\nBland de nordiska lagen blev svenska SK Rockaden bästa laget, på 22:e plats med nio lagpoäng, med Erik Blomqvist, Edvin Trost och Robert Bator i täten.",
-    "date": "2026-10-21T10:19:46.123336",
-    "tag": "Chess.com",
-    "processed_at": "2026-10-25T17:28:08.419091",
-    "alla_kallor": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-5"
-      },
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/european-club-cup-2026-5"
-      },
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-4"
-      },
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettantopp/2026/10/stark-prestation-av-rockaden-i-europacupen/?utm_source=rss&utm_medium=rss&utm_campaign=stark-prestation-av-rockaden-i-europacupen"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/european-club-cup-rounds-3-and-4-abdusattorov-giri-and-erdogmus-all-lose"
-      },
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-6"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/game-of-the-day-gm-nodirbek-abdusattorov-beats-gm-nodirbek-yakubboev"
-      },
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/european-club-cup-2026-live"
-      },
-      {
-        "source": "TWIC",
-        "url": "https://theweekinchess.com/chessnews/events/41st-european-club-cup-2026"
-      },
-      {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/24/europacupen-for-klubblag-2026/"
-      },
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-7"
-      },
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/european-club-cup-2026-6"
-      },
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-4"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/european-club-cup-rounds-3-and-4-abdusattorov-giri-and-erdogmus-all-lose"
-      },
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettan/2026/10/stark-prestation-av-rockaden-i-europacupen/?utm_source=rss&utm_medium=rss&utm_campaign=stark-prestation-av-rockaden-i-europacupen"
-      },
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/european-club-cup-2026-7"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/bayegan-pendik-wins-the-eccc-on-tiebreaks-monte-carlo-defends-the-womens-title"
-      },
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-4"
-      },
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/european-club-cup-2026-6"
-      },
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-7"
-      },
-      {
-        "source": "TWIC",
-        "url": "https://theweekinchess.com/chessnews/events/41st-european-club-cup-2026"
-      },
-      {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/24/europacupen-for-klubblag-2026/"
-      }
-    ],
-    "alla_urler": [
-      "https://www.chess.com/news/view/2026-european-chess-club-cup-round-5",
-      "https://en.chessbase.com/post/european-club-cup-2026-5",
-      "https://www.chess.com/news/view/2026-european-chess-club-cup-round-4",
-      "https://schack.se/nyhet/ettantopp/2026/10/stark-prestation-av-rockaden-i-europacupen/?utm_source=rss&utm_medium=rss&utm_campaign=stark-prestation-av-rockaden-i-europacupen",
-      "https://chessnewsnetwork.com/article/european-club-cup-rounds-3-and-4-abdusattorov-giri-and-erdogmus-all-lose",
-      "https://www.chess.com/news/view/2026-european-chess-club-cup-round-6",
-      "https://chessnewsnetwork.com/article/game-of-the-day-gm-nodirbek-abdusattorov-beats-gm-nodirbek-yakubboev",
-      "https://en.chessbase.com/post/european-club-cup-2026-live",
-      "https://theweekinchess.com/chessnews/events/41st-european-club-cup-2026",
-      "https://bergensjakk.no/2026/10/24/europacupen-for-klubblag-2026/",
-      "https://www.chess.com/news/view/2026-european-chess-club-cup-round-7",
-      "https://en.chessbase.com/post/european-club-cup-2026-6",
-      "https://www.chess.com/news/view/2026-european-chess-club-cup-round-4",
-      "https://chessnewsnetwork.com/article/european-club-cup-rounds-3-and-4-abdusattorov-giri-and-erdogmus-all-lose",
-      "https://schack.se/nyhet/ettan/2026/10/stark-prestation-av-rockaden-i-europacupen/?utm_source=rss&utm_medium=rss&utm_campaign=stark-prestation-av-rockaden-i-europacupen",
-      "https://en.chessbase.com/post/european-club-cup-2026-7",
-      "https://chessnewsnetwork.com/article/bayegan-pendik-wins-the-eccc-on-tiebreaks-monte-carlo-defends-the-womens-title",
-      "https://www.chess.com/news/view/2026-european-chess-club-cup-round-4",
-      "https://en.chessbase.com/post/european-club-cup-2026-6",
-      "https://www.chess.com/news/view/2026-european-chess-club-cup-round-7",
-      "https://theweekinchess.com/chessnews/events/41st-european-club-cup-2026",
-      "https://bergensjakk.no/2026/10/24/europacupen-for-klubblag-2026/"
-    ],
-    "bild_alternativ": [
-      {
-        "kalla": "commons",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Wei_Yi_Tata_Steel_Chess_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "kredit": "Foto: Frans Peeters (Wikimedia Commons, CC BY-SA 2.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/IBM_schaaktoernooi%2C_10e_ronde_tweelingdames_Unlnaut%2C_Bestanddeelnr_929-8313.jpg/960px-IBM_schaaktoernooi%2C_10e_ronde_tweelingdames_Unlnaut%2C_Bestanddeelnr_929-8313.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Rob Bogaerts / Anefo (Wikimedia Commons, CC0)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Wei_Yi_in_2024.jpg/960px-Wei_Yi_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Frans Peeters (Wikimedia Commons, CC BY-SA 2.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/IBM_schaaktoernooi_Amsterdam_Jan_Timman_%28l%29_tegen_Zweed_Andersson%2C_Bestanddeelnr_929-8171.jpg/960px-IBM_schaaktoernooi_Amsterdam_Jan_Timman_%28l%29_tegen_Zweed_Andersson%2C_Bestanddeelnr_929-8171.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Koen Suyk / Anefo (Wikimedia Commons, CC0)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Wei_Yi_in_2025.jpg/960px-Wei_Yi_in_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Frans Peeters (Wikimedia Commons, CC BY-SA 2.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Interpolisschaaktoernooi%2C_34%2C_56_Karpov_aan_zet%2C_Bestanddeelnr_929-3619.jpg/960px-Interpolisschaaktoernooi%2C_34%2C_56_Karpov_aan_zet%2C_Bestanddeelnr_929-3619.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Koen Suyk / Anefo (Wikimedia Commons, CC0)"
       },
       {
         "kalla": "commons",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Wei_Yi_in_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "kredit": "Foto: Frans Peeters (Wikimedia Commons, CC BY-SA 2.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/R8_T1_URS_SWE_1984_Thessaloniki.JPG/960px-R8_T1_URS_SWE_1984_Thessaloniki.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: GFHund (Wikimedia Commons, CC BY 3.0)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Anish_Giri_at_the_46th_FIDE_Chess_Olympiad_%281%29.jpg/960px-Anish_Giri_at_the_46th_FIDE_Chess_Olympiad_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: TheBoburshokh (Wikimedia Commons, CC BY 4.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Battle_field_with_chess_board.jpg/960px-Battle_field_with_chess_board.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Carlos Valenzuela (Wikimedia Commons, CC BY-SA 4.0)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Anish_giri.jpg/960px-Anish_giri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: TheBoburshokh (Wikimedia Commons, CC BY 4.0)"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Chess-tricks-to-win.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "kredit": "Foto: Ujjwal Kumar (Wikimedia Commons, CC BY-SA 4.0)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Carlsen_Giri_draw_in_Tata_Steel_Chess_2020.jpg/960px-Carlsen_Giri_draw_in_Tata_Steel_Chess_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Marien Raat (Wikimedia Commons, CC BY-SA 4.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Top_chess_GM.png/960px-Top_chess_GM.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: El Comandante (Wikimedia Commons, CC BY 4.0)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/FIDE_Grand_Swiss_2025_Samarkand_Anish_Giri.jpg/960px-FIDE_Grand_Swiss_2025_Samarkand_Anish_Giri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: TheBoburshokh (Wikimedia Commons, CC0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Erdogmus_Yagiz_Kaan.jpg/960px-Erdogmus_Yagiz_Kaan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: TheBoburshokh (Wikimedia Commons, CC BY 4.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Yagiz_Kaan_Erdogmus.jpg/960px-Yagiz_Kaan_Erdogmus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: TheBoburshokh (Wikimedia Commons, CC BY 4.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Yagiz_Kaan_Erdogmus_in_August_2026_%281%29.jpg/960px-Yagiz_Kaan_Erdogmus_in_August_2026_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: TheBoburshokh (Wikimedia Commons, CC BY 4.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Yagiz_Kaan_Erdogmus_in_August_2026_%282%29.jpg/960px-Yagiz_Kaan_Erdogmus_in_August_2026_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: TheBoburshokh (Wikimedia Commons, CC BY 4.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Top_chess_GM_%28desaturated%29.png/960px-Top_chess_GM_%28desaturated%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: El Comandante (Wikimedia Commons, CC BY 4.0)"
       }
     ]
   }
