@@ -1,130 +1,120 @@
 [
   {
     "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/capablanca-wins-gold-buenos-aires-1939",
-    "original_title": "A farewell triumph: Capablanca wins gold in Buenos Aires 1939",
-    "swedish_title": "Krigsutbrott påverkade schackolympiaden i Buenos Aires 1939",
-    "swedish_content": "Medan Tyskland och Polen låg i krig i Europa möttes deras landslag vid schackbrädet i Buenos Aires. Tyskland slutade en halv poäng före Polen och tog lagguld vid en schackolympiad för första och hittills enda gången. Krigsutbrottet påverkade dock turneringens förlopp kraftigt. Sex lagmatcher spelades aldrig och registrerades istället som 2-2 i remi, däribland mötet mellan Tyskland och Polen. Det engelska laget, som kvalificerat sig för finalgruppen, lämnade turneringen i förtid. Tre av dess spelare, Conel Hugh O'Donel Alexander, Stuart Milner-Barry och Harry Golombek, arbetade senare på Bletchley Park med att knäcka tyska krypterade meddelanden. Många deltagare återvände aldrig till Europa. Samtliga fem spelare i det tyska laget, Erich Eliskases, Paul Michel, Ludwig Engels, Albert Becker och Heinrich Reinhardt, stannade kvar i Sydamerika. Det polska laget splittrades också: Miguel Najdorf och Paulino Frydman blev kvar i Argentina, medan Franciszek Sulik senare flyttade till Australien. Savielly Tartakower, som spelat för Polen men bott i Frankrike i flera år, återvände istället till Europa och gick med i de fria franska styrkorna under kriget. För José Raúl Capablanca släckte krigsutbrottet förhoppningarna om en revanschmatch mot regerande världsmästaren Alexander Aljechin, som han förgäves sökt sedan förlusten i VM-matchen 1927.",
-    "date": "Sun, 25 Oct 2026 15:25:00 GMT",
+    "original_url": "https://en.chessbase.com/post/timur-turlov-outlines-plans-to-restructure-fide",
+    "original_title": "Timur Turlov outlines plans to restructure FIDE",
+    "swedish_title": "Turlov presenterar ny organisationsstruktur för FIDE",
+    "swedish_content": "FIDE:s president Timur Turlov har presenterat en ny organisationsstruktur för förbundet, som han beskriver som nästa utvecklingssteg efter FIDE:s mer än hundraåriga historia. Enligt Turlov är syftet att skapa tydligare ansvarsfördelning mellan FIDE:s styrande organ och administrativa enheter.\n\nGeneralförsamlingen förblir FIDE:s högsta beslutande organ, men FIDE-rådets roll ska stärkas genom att dess medlemmar uppmuntras ta en mer aktiv del i att sätta strategiska prioriteringar. Turlov vill även att FIDE tar en mer aktiv roll i att utveckla schack globalt, med ökat stöd till nationella förbund, utbyggd schackutbildning och fler internationella partnerskap.\n\nDen fullständiga strukturen har presenterats i ett separat PPTX-dokument från FIDE.",
+    "date": "Tue, 27 Oct 2026 07:35:17 GMT",
     "tag": "ChessBase",
-    "processed_at": "2026-10-26T16:28:41.906571",
-    "bild_filnamn": "fide-55582894109.jpg",
-    "bild_kredit": "Foto: FIDE / \"FIDE_chess\"",
-    "bild_alternativ": [
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Aanvang_schaaktoernooi_Amsterdam%2C_Bestanddeelnr_906-6985.jpg/960px-Aanvang_schaaktoernooi_Amsterdam%2C_Bestanddeelnr_906-6985.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Wim van Rossem  for  Anefo (Wikimedia Commons, CC0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Aanvang_schaaktoernooi_Amsterdam%2C_Bestanddeelnr_906-6985_%28cropped%29.jpg/960px-Aanvang_schaaktoernooi_Amsterdam%2C_Bestanddeelnr_906-6985_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Wim van Rossem  for  Anefo (Wikimedia Commons, CC0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Sint_Nicolaas_bezoekt_schaaktoernooi_te_Amsterdam._Sint_Nicolaas_met_gehele_groe%2C_Bestanddeelnr_904-3107.jpg/960px-Sint_Nicolaas_bezoekt_schaaktoernooi_te_Amsterdam._Sint_Nicolaas_met_gehele_groe%2C_Bestanddeelnr_904-3107.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Joop van Bilsen  for  Anefo (Wikimedia Commons, CC0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Sint_Nicolaas_bezoekt_schaaktoernooi_te_Amsterdam._Sint_Nicolaas_met_gehele_groe%2C_Bestanddeelnr_904-3108.jpg/960px-Sint_Nicolaas_bezoekt_schaaktoernooi_te_Amsterdam._Sint_Nicolaas_met_gehele_groe%2C_Bestanddeelnr_904-3108.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Joop van Bilsen  for  Anefo (Wikimedia Commons, CC0)"
-      },
-      {
-        "kalla": "fide",
-        "url": "https://live.staticflickr.com/65535/55582894109_dac2d3e702_c.jpg",
-        "kredit": "Foto: FIDE / \"FIDE_chess\""
-      },
-      {
-        "kalla": "fide",
-        "url": "https://live.staticflickr.com/65535/55582821688_4ed6175060_c.jpg",
-        "kredit": "Foto: FIDE / \"FIDE_chess\""
-      },
-      {
-        "kalla": "fide",
-        "url": "https://live.staticflickr.com/65535/55581675742_c8d9f27baf_c.jpg",
-        "kredit": "Foto: FIDE / \"FIDE_chess\""
-      },
-      {
-        "kalla": "fide",
-        "url": "https://live.staticflickr.com/65535/55581675752_7e3712303f_c.jpg",
-        "kredit": "Foto: FIDE / \"FIDE_chess\""
-      }
-    ]
+    "processed_at": "2026-10-27T15:42:48.928208",
+    "bild_alternativ": []
+  },
+  {
+    "source": "ChessBase",
+    "original_url": "https://en.chessbase.com/post/european-club-cup-2026-mandelbaum",
+    "original_title": "European Club Cup: Amateurs rub shoulders with the pros",
+    "swedish_title": "Fjärdedivisionslag fick plats i European Club Cup",
+    "swedish_content": "SK Weisse Dame Hamburg, ett lag från Landesliga – den fjärde divisionen i tysk klubbschack – fick en plats i European Club Cup efter att en Bundesligaklubb tackat nej till sin plats. Enligt turneringens regler måste Bundesligaklubbar bekräfta sitt deltagande i början av augusti, annars kan andra klubbar ansöka om platsen.\n\nHamburgklubben fick då bara en vecka på sig innan anmälningstiden gick ut. Trots kort varsel lyckades laget samla sju spelare, eftersom matcherna spelas över sex bord och en reservspelare ansågs nödvändig. Anmälningsavgiften betalades och flygbiljetter bokades till turneringen, som hölls på hotellanläggningen Medun i Herceg Novi, Montenegro. Tre av spelarna valde att ta med sina respektive partners till evenemanget.",
+    "date": "Mon, 26 Oct 2026 23:30:00 GMT",
+    "tag": "ChessBase",
+    "processed_at": "2026-10-27T15:43:02.032354",
+    "bild_alternativ": []
   },
   {
     "source": "Schack.se",
-    "original_url": "https://schack.se/nyhet/ettan/2026/10/ulf-andersson-valdes-in-i-hall-of-fame/?utm_source=rss&utm_medium=rss&utm_campaign=ulf-andersson-valdes-in-i-hall-of-fame",
-    "original_title": "Ulf Andersson valdes in i Hall of Fame",
-    "swedish_title": "Ulf Andersson invald i Hall of Fame",
-    "swedish_content": "Ulf Andersson valdes på lördagen in i schackets Hall of Fame vid en ceremoni i St Louis, USA, och var själv på plats för att ta emot utmärkelsen. Förre världsmästaren Garri Kasparov deltog också vid ceremonin. Tillsammans med Andersson hedrades i år stormästarna Boris Gelfand, Vasyl Ivantjuk, Nana Ioseliani och Alexandra Kosteniuk.\n\nAndersson blev 1975 den förste att besegra den nykrönte världsmästaren Anatolij Karpov, och 1983 låg han fyra på världsrankingen efter Karpov, Kasparov och Ljubomir Ljubojevic. 1984 spelade han på förstabordet mot Karpov i matchen \"Resten av Världen vs Sovjetunionen\" i London.\n\nUnder den kommande veckan hedras Andersson av Sveriges Schackförbund med en middag och en vänskapsturnering i snabbschack på klubben Svarta Hästen i Stockholm. Förra året valdes Pia Cramling in i World Chess Hall of Fame.",
-    "date": "Sun, 25 Oct 2026 18:43:57 +0000",
+    "original_url": "https://schack.se/nyhet/sverige/2026/10/tk-beslutar-om-uteslutning-efter-dubbla-lag-w-o/?utm_source=rss&utm_medium=rss&utm_campaign=tk-beslutar-om-uteslutning-efter-dubbla-lag-w-o",
+    "original_title": "TK beslutar om uteslutning efter dubbla lag-W.O.",
+    "swedish_title": "Upsala ASS II utesluts efter dubbla lag-W.O.",
+    "swedish_content": "Tävlings- och regelkommittén (TK) har beslutat att utesluta Upsala ASS II från Allsvenskan Division 2:1 efter att laget lämnat w.o. i båda sina matcher mot SK Rockaden Umeå och Akademiska Schacksällskapet Umeå den 17–18 oktober. Beslutet fattas i enlighet med SSF:s tävlingsbestämmelser A § 9.3, och lagets resultat stryks. Klubben ska också betala dubbla w.o.-avgifter, motsvarande två startavgifter, enligt A § 9.2. TK betonar i ett uttalande att upprepade w.o. mot lag i Norrland och på Gotland hotar seriespelets långsiktiga funktion i dessa delar av landet.",
+    "date": "Mon, 26 Oct 2026 13:48:02 +0000",
     "tag": "Svenska Schackförbundet",
-    "processed_at": "2026-10-26T16:28:59.136881",
-    "bild_filnamn": "bildbanken-AxPGU3NhTQ.jpg",
+    "processed_at": "2026-10-27T15:43:10.459007",
+    "bild_alternativ": []
+  },
+  {
+    "source": "English Chess Federation",
+    "original_url": "https://www.englishchess.org.uk/english-chess-championships-2026-reports/",
+    "original_title": "English Chess Championships 2026 – Reports",
+    "swedish_title": "Marcus Harvey ny engelsk mästare i snabbschack",
+    "swedish_content": "IM Marcus Harvey vann 2026 English Open Rapidplay Championship efter en dramatisk turnering i Peterborough, där ledningen växlade flera gånger genom hela tävlingen. Favoriterna GM Michael Adams och GM Gawain Maroroa Jones, de två senaste mästarna, fick se sig passerade när turneringen slutade med tre spelare delad ledning på 8 poäng – Adams, Harvey och IM Jonah Willow – medan Jones hamnade på 7½.\n\nSärspelet stod till slut mellan de två IM-spelarna Harvey och Willow, sedan samtliga fem stormästare i fältet slagits ut. De två första särspelsrundorna slutade 1-1, vilket ledde till en plötslig död-omgång där spelarna fick bjuda på hur lite betänketid de ville ha som svart. Harvey bjöd 4 minuter mot Willows 2½ och tog hem titeln som 2026 English Rapidplay Champion.\n\nEngelska mästerskapen 2026 pågår i Peterborough 24 oktober–1 november, med snabbschack 24–25 oktober, Open- och damklassen 26–31 oktober samt blixtschack 1 november.",
+    "date": "Tue, 27 Oct 2026 10:28:57 +0000",
+    "tag": "English Chess Federation",
+    "processed_at": "2026-10-27T15:43:26.588362",
+    "bild_filnamn": "bildbanken-AS8Bvm2rU0.jpg",
     "bild_kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund",
     "bild_alternativ": [
       {
         "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/AxPGU3NhTQ.jpg",
+        "url": "https://bildbanken.schack.se/Home/AS8Bvm2rU0.jpg",
         "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
       },
       {
         "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/AxPEanHh4f.jpg",
+        "url": "https://bildbanken.schack.se/Home/AS2ElwjMt1.jpg",
         "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
       },
       {
         "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/AxPFjQnsHN.jpg",
+        "url": "https://bildbanken.schack.se/Home/AS5Er8fTpF.jpg",
         "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
       },
       {
         "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/AxPFI4yUlR.jpg",
+        "url": "https://bildbanken.schack.se/Home/AS2EoDaIBB.jpg",
         "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/IBM_schaaktoernooi%2C_10e_ronde_tweelingdames_Unlnaut%2C_Bestanddeelnr_929-8313.jpg/960px-IBM_schaaktoernooi%2C_10e_ronde_tweelingdames_Unlnaut%2C_Bestanddeelnr_929-8313.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Rob Bogaerts / Anefo (Wikimedia Commons, CC0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/London_Chess_Classic_2010_10.JPG/960px-London_Chess_Classic_2010_10.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Paweł Grochowalski (Wikimedia Commons, CC BY-SA 3.0)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/IBM_schaaktoernooi_Amsterdam_Jan_Timman_%28l%29_tegen_Zweed_Andersson%2C_Bestanddeelnr_929-8171.jpg/960px-IBM_schaaktoernooi_Amsterdam_Jan_Timman_%28l%29_tegen_Zweed_Andersson%2C_Bestanddeelnr_929-8171.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Koen Suyk / Anefo (Wikimedia Commons, CC0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/London_Chess_Classic_2010_Adams_01.JPG/960px-London_Chess_Classic_2010_Adams_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Paweł Grochowalski (Wikimedia Commons, CC BY-SA 3.0)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Interpolisschaaktoernooi%2C_34%2C_56_Karpov_aan_zet%2C_Bestanddeelnr_929-3619.jpg/960px-Interpolisschaaktoernooi%2C_34%2C_56_Karpov_aan_zet%2C_Bestanddeelnr_929-3619.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Koen Suyk / Anefo (Wikimedia Commons, CC0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/London_Chess_Classic_2010_Adams_02.jpg/960px-London_Chess_Classic_2010_Adams_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Paweł Grochowalski (Wikimedia Commons, CC BY-SA 3.0)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/R8_T1_URS_SWE_1984_Thessaloniki.JPG/960px-R8_T1_URS_SWE_1984_Thessaloniki.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: GFHund (Wikimedia Commons, CC BY 3.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/London_Chess_Classic_2016_Day2-14_%2831563114355%29.jpg/960px-London_Chess_Classic_2016_Day2-14_%2831563114355%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Wolfgang Jekel (Wikimedia Commons, CC BY 2.0)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Battle_field_with_chess_board.jpg/960px-Battle_field_with_chess_board.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Carlos Valenzuela (Wikimedia Commons, CC BY-SA 4.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Jones_Gawain_%2830251269071%29.jpg/960px-Jones_Gawain_%2830251269071%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Andreas Kontokanis  from Piraeus, Greece (Wikimedia Commons, CC BY-SA 2.0)"
       },
       {
         "kalla": "commons",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Chess-tricks-to-win.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "kredit": "Foto: Ujjwal Kumar (Wikimedia Commons, CC BY-SA 4.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/London_Chess_Classic_2010_Jones_01.jpg/960px-London_Chess_Classic_2010_Jones_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Paweł Grochowalski (Wikimedia Commons, CC BY-SA 3.0)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Top_chess_GM.png/960px-Top_chess_GM.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: El Comandante (Wikimedia Commons, CC BY 4.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/London_Chess_Classic_2010_Jones_02.jpg/960px-London_Chess_Classic_2010_Jones_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Paweł Grochowalski (Wikimedia Commons, CC BY-SA 3.0)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Top_chess_GM_%28desaturated%29.png/960px-Top_chess_GM_%28desaturated%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: El Comandante (Wikimedia Commons, CC BY 4.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/London_Chess_Classic_2010_Jones_03.jpg/960px-London_Chess_Classic_2010_Jones_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Paweł Grochowalski (Wikimedia Commons, CC BY-SA 3.0)"
       }
     ]
+  },
+  {
+    "source": "Chess News Network",
+    "original_url": "https://chessnewsnetwork.com/article/fide-calls-an-online-extraordinary-general-assembly",
+    "original_title": "FIDE Calls an Online Extraordinary General Assembly",
+    "swedish_title": "FIDE kallar till extra generalförsamling i december",
+    "swedish_content": "FIDE meddelade den 26 oktober en inbjudan till en extra generalförsamling, hållen online den 27 december klockan 14:30 CET. Det blir den första fullständiga sammankomsten för förbundets delegater sedan omröstningen som valde Timur Turlov till president. Enligt inbjudan har Turlov sammankallat mötet i linje med ett beslut från FIDE:s råd, med syftet att avsluta obehandlade frågor från generalförsamlingen i Samarkand och fatta beslut som krävs för FIDE:s fortsatta verksamhet. Inbjudan går ut till delegater, representanter för anslutna organisationer, zonrådsmedlemmar, kommissionsordförande, nuvarande världsmästaren och damernas världsmästare samt styrelsemedlemmar.\n\nDen fullständiga dagordningen ingår inte i inbjudan utan ska enligt FIDE skickas ut senast den 27 november, en månad före mötet. Inget nämns om röstningsförfarande, kvorum eller anmälningstid.\n\nFrån Samarkand-mötet den 26–27 september återstår flera olösta frågor, bland annat en granskning av 2027 års budget och en preliminär budget för 2028. Även fyra nomineringar till hedersvicepresident, det provisoriska beslutet att förlägga OS 2030 till Qatar med Georgien som reserv, samt en deadline den 1 juni 2027 för införandet av ett nytt ratingsystem för Chess960 väntar på vidare hantering. Inbjudan nämner inte uttryckligen någon av dessa punkter, och det är ännu okänt vilka som tas upp på dagordningen i december.",
+    "date": "Tue, 27 Oct 2026 00:29:54 GMT",
+    "tag": "Chess News Network",
+    "processed_at": "2026-10-27T15:43:48.729640",
+    "bild_alternativ": []
   }
 ]
