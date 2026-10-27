@@ -1,242 +1,280 @@
 [
   {
-    "id": "f1ec63cf7e5f",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/clutch-chess-showdown-2026-preview",
-        "title": "Clutch Chess: Caruana, Nakamura, Sindarov and Pragg meet in Saint Louis",
-        "date": "Mon, 26 Oct 2026 01:25:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "The Clutch Chess: Champions Showdown event returns to Saint Louis on 27–29 October, with Fabiano Caruana, Hikaru Nakamura, Praggnanandhaa Rameshbabu and Javokhir Sindarov (pictured) competing in an 18-game rapid tournament. The four elite GMs will play three double round-robins, with victories worth progressively more points over the three days. A jackpot funded by drawn games further adds entertainment value to the competition. | Photo: Nils Rohde / ChessBase"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/clutch-chess-returns",
-        "title": "Clutch Chess Returns",
-        "date": "Mon, 26 Oct 2026 10:54:58 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Clutch Chess Returns to Saint Louis With Carlsen Gone and Sindarov Weeks From His Gukesh Match: Who Takes the Champions Showdown?"
-      }
-    ],
-    "kalla_display": "Chess News Network + ChessBase",
-    "datum": "Mon, 26 Oct 2026 01:25:00 GMT",
-    "hittad": "2026-10-26T11:19:14.411895"
-  },
-  {
-    "id": "f9295c6e067e",
+    "id": "5589821d27c0",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettantopp/2026/10/pia-segrade-i-europacupen-med-monte-carlo/?utm_source=rss&utm_medium=rss&utm_campaign=pia-segrade-i-europacupen-med-monte-carlo",
-        "title": "Pia segrade i Europacupen med Monte Carlo",
-        "date": "Sun, 25 Oct 2026 16:23:12 +0000",
+        "url": "https://schack.se/nyhet/ettan/2026/10/gm-korneev-vann-vastgota-open/?utm_source=rss&utm_medium=rss&utm_campaign=gm-korneev-vann-vastgota-open",
+        "title": "GM Korneev vann Västgöta Open",
+        "date": "Tue, 27 Oct 2026 09:22:56 +0000",
         "tag": "Svenska Schackförbundet",
-        "_rss_content": "Pia Cramlings Cercle d&#8217;Echecs Monte Carlo segrade i årets upplaga av European Chess Club Cup för damer i Budva, Montenegro. Monte Carlo hade ett starkt lag, vilket framgår av att [&#8230;] Inlägget Pia segrade i Europacupen med Monte Carlo dök först upp på Sveriges Schackförbund ."
+        "_rss_content": "GM Oleg Korneev, bosatt i Spanien, vann årets upplaga av Västgöta Open med 6,5 poäng av 7 möjliga. Korneev deltar just nu i en GM-turnering i Upplands Väsby utanför Stockholm, [&#8230;] Inlägget GM Korneev vann Västgöta Open dök först upp på Sveriges Schackförbund ."
       },
       {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/10/27/vastgota-open-2026/",
+        "title": "Västgöta Open 2026",
+        "date": "Tue, 27 Oct 2026 06:02:28 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Svenske Västgöta Open ble spilt i Skara 24-25. oktober 2026. Det var et ganske tøft spilleprogram, med tre runder hurtigsjakk og fire runder langsjakk i løpet av to dager. Langsjakken ble spilt med betenkningstid 60 minutter med 30 sekunder tillegg pr. trekk. Det var 47 deltakere. Arrangører var Västergötlands Schackförbund og Skara Schacksällskap. Vinner ble Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk + Schack.se",
+    "datum": "Tue, 27 Oct 2026 09:22:56 +0000",
+    "hittad": "2026-10-27T10:43:53.768289"
+  },
+  {
+    "id": "bae599d33729",
+    "status": "pending",
+    "rubriker": [
+      {
         "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/coupe-d-europe-des-clubs-2026-bilan-10117.html",
-        "title": "Coupe d'Europe des clubs 2026Coupe d’Europe des clubs : Bayegan Pendik et Monaco sacrés, l'or individuel pour Maurizzi",
-        "date": "2026-10-25T11:18:18.319681",
+        "url": "https://www.europe-echecs.com/art/bodhana-sivanandan-maitre-a-11-ans-bat-le-record-de-judit-polgar-10118.html",
+        "title": "Lire l'articleBodhana Sivanandan, maître à 11 ans, bat le record de Judit Polgar !1",
+        "date": "2026-10-26T10:42:56.245308",
+        "tag": "Europe Echecs"
+      },
+      {
+        "source": "ChessBase España",
+        "url": "https://es.chessbase.com/post/bodhana-sivanandan-mi-mujer-mas-joven-historia",
+        "title": "Un récord más: Bodhana Sivanandan supera una marca establecida por Judit Polgar hace 38 años",
+        "date": "Tue, 27 Oct 2026 08:45:00 GMT",
+        "tag": "ChessBase España",
+        "_rss_content": "La Federación Inglesa de Ajedrez la calificó de «talento generacional». Bodhana Sivanandan, de 11 años, batió otro récord mundial al convertirse en la jugadora más joven de la historia en cumplir los requisitos para obtener el título de Maestro Internacional (MI). De este modo, superó una marca establecida hace 38 años por la legendaria Judit Polgar, considerada ampliamente como la mejor ajedrecista de todos los tiempos. | Foto: Rafal Oleksiewicz"
+      }
+    ],
+    "kalla_display": "ChessBase España + Europe Echecs",
+    "datum": "2026-10-26T10:42:56.245308",
+    "hittad": "2026-10-27T10:43:53.768307"
+  },
+  {
+    "id": "f8354550cf8b",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/kazchess-masters-almaty-2026-live",
+        "title": "KazChess Masters Almaty 2026 - Live!",
+        "date": "Tue, 27 Oct 2026 11:00:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Muhammad Muradli, Daniil Dubov and Denis Lazavik, who recently reached the Esports World Cup final. Another player to watch is 14-year-old Kazakh talent Mark Smirnov (pictured). | Live from approximately 6:15 AM ET / 3:45 PM IST / 11:15 AM CET | Photo: Kazakhstan Chess Federation"
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Tue, 27 Oct 2026 11:00:00 GMT",
+    "hittad": "2026-10-27T10:43:53.768316"
+  },
+  {
+    "id": "f52846d41999",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/svitlana-s-smart-moves-king-s-indian-at-the-olympiad",
+        "title": "Svitlana's Smart Moves - King’s Indian Attack at the Olympiad",
+        "date": "Tue, 27 Oct 2026 08:00:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "In this special Olympiad episode of Svitlana’s Smart Moves, Svitlana looks back at her final round game for Canada against Singapore. She explains how she handled a familiar setup in the King's Indian Attack, why she chose a safer practical route instead of an early pawn sacrifice, and how typical plans such as e5 and kingside pressure developed into a strong attack. She features several instructive tactical moments, difficult decisions about when to simplify, and a winning endgame that Svitlana had to calculate precisely."
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Tue, 27 Oct 2026 08:00:00 GMT",
+    "hittad": "2026-10-27T10:43:53.768324"
+  },
+  {
+    "id": "144f405f2bd6",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/timur-turlov-outlines-plans-to-restructure-fide",
+        "title": "Timur Turlov outlines plans to restructure FIDE",
+        "date": "Tue, 27 Oct 2026 07:35:17 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "FIDE President Timur Turlov has presented plans for a new organizational structure aimed at clarifying responsibilities, improving governance and strengthening the federation's international activities. The proposed changes include a stronger role for the FIDE Council, a new Advisory Board and several leadership appointments. Turlov also outlined plans to expand support for national federations, chess education and international partnerships."
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Tue, 27 Oct 2026 07:35:17 GMT",
+    "hittad": "2026-10-27T10:43:53.768331",
+    "liknar": {
+      "titel": "FIDE splittrat efter Turlovs presidentseger",
+      "url": "https://gambit.se/fide-splittrat-efter-turlovs-presidentseger/",
+      "datum": "2026-10-25"
+    }
+  },
+  {
+    "id": "c49774c8ba62",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/european-club-cup-2026-mandelbaum",
+        "title": "European Club Cup: Amateurs rub shoulders with the pros",
+        "date": "Mon, 26 Oct 2026 23:30:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "While looking through the standings of the European Club Cup which concluded last week, René Mandelbaum focused on the teams at the bottom of the table. To his surprise, he discovered that many of their players were rated between 1800 and 2000. These are good club players - still, he had expected stronger opposition at a European championship. \"With a field like this, we shouldn't finish last\", he thought. | Photos: SK Weisse Dame Hamburg"
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Mon, 26 Oct 2026 23:30:00 GMT",
+    "hittad": "2026-10-27T10:43:53.768337"
+  },
+  {
+    "id": "7514da9639ac",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/english-championship-2026-rapid",
+        "title": "Harvey beats Willow in Armageddon, claims English Rapidplay title",
+        "date": "Mon, 26 Oct 2026 18:40:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "IM Marcus Harvey won the English Rapidplay Championship in Peterborough after defeating fellow IM Jonah Willow in a five-game playoff. Both players finished the 11-round tournament on 9 points, half a point ahead of top seed Michael Adams, who was held to a draw in the final round. Harvey and Willow exchanged wins in both the rapid and blitz stages of the playoff before Harvey prevailed in Armageddon. | Photo: Yuri Krylov / 4NCL"
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Mon, 26 Oct 2026 18:40:00 GMT",
+    "hittad": "2026-10-27T10:43:53.768344"
+  },
+  {
+    "id": "1095b8a1f3d0",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/kcf-academy-third-season-highlights",
+        "title": "KCF Academy: Third Season Highlights",
+        "date": "Mon, 26 Oct 2026 16:40:46 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "The Kasparov Chess Foundation Academy has wrapped up its third season, marking another important year of growth for the organization, with expanding educational programs, international events, and outstanding achievements by participants in KCF programs. And the momentum isn't slowing down: registration is now open for the KCF Academy 2027 season, a six-month online training program for ambitious chess players around the world."
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Mon, 26 Oct 2026 16:40:46 GMT",
+    "hittad": "2026-10-27T10:43:53.768355"
+  },
+  {
+    "id": "5d8c2012c61b",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/sverige/2026/10/tk-beslutar-om-uteslutning-efter-dubbla-lag-w-o/?utm_source=rss&utm_medium=rss&utm_campaign=tk-beslutar-om-uteslutning-efter-dubbla-lag-w-o",
+        "title": "TK beslutar om uteslutning efter dubbla lag-W.O.",
+        "date": "Mon, 26 Oct 2026 13:48:02 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Tävlings- och regelkommittén (TK) har beslutat att, i enlighet med SSF:s tävlingsbestämmelser A § 9.3, utesluta Upsala ASS II från Allsvenskan Division 2:1 efter att laget lämnat w.o. i sina [&#8230;] Inlägget TK beslutar om uteslutning efter dubbla lag-W.O. dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Mon, 26 Oct 2026 13:48:02 +0000",
+    "hittad": "2026-10-27T10:43:53.768363"
+  },
+  {
+    "id": "9e40a356a47b",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase India",
+        "url": "https://www.chessbase.in/news/2nd-ken-chess-solving-cup-ichalkaranji",
+        "title": "SpotlightTop storySatanick Mukhuty·4 hours agoTanmay Pawar and Atharv Tavare Win Open Section of 2nd Ken Chess Solving Cup; Avanish Jitkar Claims Amateur Title",
+        "date": "2026-10-26T10:42:46.314248",
+        "tag": "ChessBase India"
+      }
+    ],
+    "kalla_display": "ChessBase India",
+    "datum": "2026-10-26T10:42:46.314248",
+    "hittad": "2026-10-27T10:43:53.768371"
+  },
+  {
+    "id": "aa7c70d0e9ce",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/clutch-chess-champions-showdown-2026-presentation-10119.html",
+        "title": "Clutch Chess Champions Showdown 2026Clutch Chess 2026 : des victoires à 1, 2 puis 3 points !",
+        "date": "2026-10-26T10:42:56.245266",
         "tag": "Europe Echecs"
       }
     ],
-    "kalla_display": "Europe Echecs + Schack.se",
-    "datum": "Sun, 25 Oct 2026 16:23:12 +0000",
-    "hittad": "2026-10-26T11:19:14.411910",
+    "kalla_display": "Europe Echecs",
+    "datum": "2026-10-26T10:42:56.245266",
+    "hittad": "2026-10-27T10:43:53.768379"
+  },
+  {
+    "id": "cefeae70d989",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "English Chess Federation",
+        "url": "https://www.englishchess.org.uk/english-chess-championships-2026-reports/",
+        "title": "English Chess Championships 2026 – Reports",
+        "date": "Tue, 27 Oct 2026 10:28:57 +0000",
+        "tag": "English Chess Federation",
+        "_rss_content": ""
+      }
+    ],
+    "kalla_display": "English Chess Federation",
+    "datum": "Tue, 27 Oct 2026 10:28:57 +0000",
+    "hittad": "2026-10-27T10:43:53.768386"
+  },
+  {
+    "id": "5a8c79f077b5",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/fide-calls-an-online-extraordinary-general-assembly",
+        "title": "FIDE Calls an Online Extraordinary General Assembly",
+        "date": "Tue, 27 Oct 2026 00:29:54 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Timur Turlov said earlier this year that FIDE would hold another General Assembly before 2026 ended, and he has now put a date on it. In an invitation published on October 26, FIDE announced an Extraordinary General Assembly for December 27 at 14:30 CET, held online."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Tue, 27 Oct 2026 00:29:54 GMT",
+    "hittad": "2026-10-27T10:43:53.768390"
+  },
+  {
+    "id": "1dba35cfcd18",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/game-of-the-day-gm-artem-uskov-beats-im-sanjin-culum",
+        "title": "Game of the Day: GM Artem Uskov Beats IM Sanjin Culum",
+        "date": "Mon, 26 Oct 2026 15:59:00 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "GM Artem Uskov beat IM Sanjin Culum in round 2, board 7 of the 2026 Serbian Second League group Voivodina, winning in 31 moves."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Mon, 26 Oct 2026 15:59:00 GMT",
+    "hittad": "2026-10-27T10:43:53.768393"
+  },
+  {
+    "id": "553de8677c70",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase España",
+        "url": "https://es.chessbase.com/post/european-club-cup-2026-reportaje",
+        "title": "Bayegan Pendik y Monte-Carlo se quedan con el oro en la Copa Europea de Clubes",
+        "date": "Sun, 25 Oct 2026 20:30:00 GMT",
+        "tag": "ChessBase España",
+        "_rss_content": "Bayegan Pendik y Cercle d'Echecs de Monte-Carlo conquistaron los títulos de la Copa Europea de Clubes en Budva. Ambos equipos terminaron igualados en puntos con sus rivales más cercanos y se impusieron gracias a los criterios de desempate. Novy Bor terminó segundo en la sección abierta, mientras que Gambit Bonnevoie obtuvo la medalla de plata en la competición femenina. Por su parte, Bodhana Sivanandan, de 11 años, consiguió su última norma de MI y se convirtió en la jugadora más joven de la historia en cumplir los requisitos para obtener el título. | Foto: Gerd Densing"
+      }
+    ],
+    "kalla_display": "ChessBase España",
+    "datum": "Sun, 25 Oct 2026 20:30:00 GMT",
+    "hittad": "2026-10-27T10:43:53.768397",
     "liknar": {
       "titel": "Bayegan Pendik och Monte-Carlo tog guld i Europacupen",
       "url": "https://gambit.se/bayegan-pendik-och-monte-carlo-tog-guld-i-europacupen/",
       "datum": "2026-10-25"
     }
-  },
-  {
-    "id": "c56be287efc8",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/capablanca-wins-gold-buenos-aires-1939",
-        "title": "A farewell triumph: Capablanca wins gold in Buenos Aires 1939",
-        "date": "Sun, 25 Oct 2026 15:25:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Chess Olympiads produce remarkable stories. The 1939 Chess Olympiad in Buenos Aires was particularly dramatic, as Germany invaded Poland on 1 September 1939, while the tournament was still taking place, marking the beginning of the Second World War. Against this backdrop, it is easy to overlook the fact that José Raúl Capablanca, world champion from 1921 to 1927, played his final tournament and his final competitive game in Buenos Aires. | Photo: José Raúl Capablanca (Archive)"
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Sun, 25 Oct 2026 15:25:00 GMT",
-    "hittad": "2026-10-26T11:19:14.411916"
-  },
-  {
-    "id": "c5e260cac35b",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettan/2026/10/ulf-andersson-valdes-in-i-hall-of-fame/?utm_source=rss&utm_medium=rss&utm_campaign=ulf-andersson-valdes-in-i-hall-of-fame",
-        "title": "Ulf Andersson valdes in i Hall of Fame",
-        "date": "Sun, 25 Oct 2026 18:43:57 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "På lördagen så valdes Sveriges Ulf Andersson in i schackets Hall of Fame i St Louis, USA. Ulf var själv på plats för att ta emot utmärkelsen. Precis som schack.se [&#8230;] Inlägget Ulf Andersson valdes in i Hall of Fame dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Sun, 25 Oct 2026 18:43:57 +0000",
-    "hittad": "2026-10-26T11:19:14.411921"
-  },
-  {
-    "id": "2b544e4a3083",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/tiger-kings-osaka-wins-japan-team-chess-championship-2026",
-        "title": "SpotlightTop storyMayur Gondhalekar·10 hours agoTiger Kings Osaka Dominates to Win Japan Team Chess Championship 2026",
-        "date": "2026-10-25T11:18:07.520927",
-        "tag": "ChessBase India"
-      }
-    ],
-    "kalla_display": "ChessBase India",
-    "datum": "2026-10-25T11:18:07.520927",
-    "hittad": "2026-10-26T11:19:14.411926"
-  },
-  {
-    "id": "ad99c0a1fc48",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/10/25/aref-vasli-koebenhavnsmester/?utm_source=rss&utm_medium=rss&utm_campaign=aref-vasli-koebenhavnsmester",
-        "title": "Aref Vasli københavnsmester",
-        "date": "Sun, 25 Oct 2026 19:51:40 +0000",
-        "tag": "Dansk Skak Union",
-        "_rss_content": "Med en tredjeplads i Københavnsmesterskabet 2026 – Formula X Agency OPEN blev Aref Vasli fra Brønshøj Københavnsmester 2026. Tjekkiske David Gloser vandt turneringen samlet med 6 point af 7 og bedre korrektion end IM Vitus Bondo Medhus fra Skanderborg. FM David Gloser er netop blevet medlem i ØBRO, men for at blive Københavnsmester skal man [&#8230;]"
-      }
-    ],
-    "kalla_display": "Dansk Skak Union",
-    "datum": "Sun, 25 Oct 2026 19:51:40 +0000",
-    "hittad": "2026-10-26T11:19:14.411931"
-  },
-  {
-    "id": "ff16920b3b5e",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/26/open-hvar-2026/",
-        "title": "Open Hvar 2026",
-        "date": "Mon, 26 Oct 2026 07:00:27 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "Den kroatiske stormesterturneringen Open Hvar ble spilt fra 19. til 25. oktober 2026. Blant de 139 deltakerne var det en delegasjon på 10 spillere fra sjakklinjen på Telemark Toppidrett Gymnas. FM Evsuld Myagmarsuren (2330) fra Porsgrunn Sjakklubb gjorde et meget sterkt resultat med 7 poeng på 9 runder. Med ratingprestasjon rundt 2450 tok 16-åringen sin Les mer"
-      }
-    ],
-    "kalla_display": "Bergensjakk",
-    "datum": "Mon, 26 Oct 2026 07:00:27 +0000",
-    "hittad": "2026-10-26T11:19:14.411935"
-  },
-  {
-    "id": "a1f3ca48c734",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/26/sandefjord-grand-prix-tour-2026/",
-        "title": "Sandefjord Grand Prix TOUR 2026",
-        "date": "Mon, 26 Oct 2026 05:45:14 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "Sandefjord Grand Prix TOUR ble spilt på Kurbadet i Sandefjord 23-25. oktober 2026 med to runder hurtigsjakk og fire runder langsjakk. Turneringen inngår i Norges Grand Prix 2026-27 og Vestfold og Telemark GP Tour 2026. Arrangør var Sjakklubben Caissa. Det var hele 92 deltakere i år, mot 86 i fjorårets turnering. Det var en sterk Les mer"
-      }
-    ],
-    "kalla_display": "Bergensjakk",
-    "datum": "Mon, 26 Oct 2026 05:45:14 +0000",
-    "hittad": "2026-10-26T11:19:14.411942"
-  },
-  {
-    "id": "6663d3cfa691",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/26/knut-brokstads-minneturnering-2026-ngp/",
-        "title": "Knut Brokstads Minneturnering 2026 NGP",
-        "date": "Mon, 26 Oct 2026 05:45:04 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "Trondheim Sjakkforening arrangerte Knut Brokstads Minneturnering NGP i Trondheim 23-25. oktober 2026. Turneringen hadde 57 deltakere og inngår i Norges Grand Prix 2026-27. Det ble spilt tre runder hurtigsjakk og fire runder langsjakk. IM Ludvig Carlsson og FM Eivind Grunt Kreken endte begge på 6 poeng, men Carlsson tok førsteplassen grunnet seier i innbyrdes oppgjør. Les mer"
-      }
-    ],
-    "kalla_display": "Bergensjakk",
-    "datum": "Mon, 26 Oct 2026 05:45:04 +0000",
-    "hittad": "2026-10-26T11:19:14.411947"
-  },
-  {
-    "id": "f52bb346a39f",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "English Chess Federation",
-        "url": "https://www.englishchess.org.uk/bodhana-sivanandan-11-breaks-38-year-world-record/",
-        "title": "Bodhana Sivanandan, 11, breaks 38-year world record",
-        "date": "Sun, 25 Oct 2026 09:58:02 +0000",
-        "tag": "English Chess Federation",
-        "_rss_content": "Many congratulations to Bodhana! The English Chess Federation hails a “generational talent” after chess sensation Bodhana Sivanandan broke her most impressive record yet. The 11-year-old schoolgirl from Harrow has broken..."
-      }
-    ],
-    "kalla_display": "English Chess Federation",
-    "datum": "Sun, 25 Oct 2026 09:58:02 +0000",
-    "hittad": "2026-10-26T11:19:14.411951"
-  },
-  {
-    "id": "c6efc0b3fb74",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/business-or-pleasure-in-the-maldives",
-        "title": "Business or Pleasure in the Maldives?",
-        "date": "Sun, 25 Oct 2026 15:52:47 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "It is a long way from a FIDE election count to a small island federation's meeting room. Yet this autumn the two men who contested the world federation's presidency, Timur Turlov and Wadim Rosenstein, both made time for the Maldives' chess community"
-      }
-    ],
-    "kalla_display": "Chess News Network",
-    "datum": "Sun, 25 Oct 2026 15:52:47 GMT",
-    "hittad": "2026-10-26T11:19:14.411955"
-  },
-  {
-    "id": "010712db7585",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/nakamura-extends-winning-streak-in-bullet-brawl",
-        "title": "Nakamura Extends Winning Streak in Bullet Brawl",
-        "date": "Sun, 25 Oct 2026 15:36:54 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "GM Hikaru Nakamura wins seventh consecutive Bullet Brawl"
-      }
-    ],
-    "kalla_display": "Chess News Network",
-    "datum": "Sun, 25 Oct 2026 15:36:54 GMT",
-    "hittad": "2026-10-26T11:19:14.411958"
-  },
-  {
-    "id": "cc03ea196c3f",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Kenya Chess Masala",
-        "url": "https://kenyachessmasala.com/2026/10/2026-kcb-open-chaderek-manyok-panchol-triumphs.html",
-        "title": "2026 KCB Open – Chaderek Manyok Panchol triumphs",
-        "date": "Sun, 25 Oct 2026 13:21:41 +0000",
-        "tag": "Kenya Chess Masala",
-        "_rss_content": "2026 KCB Open &#8211; Chaderek Manyok Panchol triumphs The 2026 KCB Open ended on a high note with Chaderek Manyok Panchol of South Sudan winning the event almost effortlessly by scoring seven points out of 8 rounds. His only loss came in round 8 when he lost to compatriot Samuel Gai Ngong in the last [...] The post 2026 KCB Open &#8211; Chaderek Manyok Panchol triumphs appeared first on Kenya Chess Masala ."
-      }
-    ],
-    "kalla_display": "Kenya Chess Masala",
-    "datum": "Sun, 25 Oct 2026 13:21:41 +0000",
-    "hittad": "2026-10-26T11:19:14.411962"
   }
 ]
