@@ -1,196 +1,353 @@
 [
   {
-    "id": "3b86f232a5aa",
+    "id": "231c10a896c1",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-clutch-chess-champions-showdown-day-1",
-        "title": "2026 Clutch Chess Champions Showdown Day 1",
-        "date": "2026-10-27T11:26:29.502040",
+        "url": "https://www.chess.com/news/view/2026-clutch-chess-champions-showdown-day-2",
+        "title": "2026 Clutch Chess Champions Showdown Day 2",
+        "date": "2026-10-28T11:37:02.379057",
         "tag": "Chess.com"
-      },
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/clutch-chess-showdown-2026-1",
-        "title": "Clutch Chess: Nakamura leads after lively first day of action",
-        "date": "Wed, 28 Oct 2026 07:00:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Hikaru Nakamura took the early lead at the Clutch Chess: Champions Showdown tournament in Saint Louis, scoring two wins and four draws to finish day one on 4/6 points. Javokhir Sindarov follows half a point behind, while Fabiano Caruana and Praggnanandhaa Rameshbabu occupy third and fourth place. The opening day featured five decisive games and plenty of exciting battles. Victories will be worth increasingly more points over the next two days. | Photo: Lennart Ootes / Saint Louis Chess Club"
       },
       {
         "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/clutch-chess-2026-day-1-report",
-        "title": "SpotlightTop storyDevansh Singh·4 hours agoClutch Chess 2026 Day 1: Hikaru Nakamura Takes an Early Lead",
-        "date": "2026-10-27T11:26:54.735650",
+        "url": "https://www.chessbase.in/news/clutch-chess-2026-day-2-pragg-shines",
+        "title": "SpotlightTop storyDevansh Singh·4 hours agoPraggnanandhaa Unstoppable on day 2 | Clutch Chess 2026",
+        "date": "2026-10-28T11:37:26.667389",
         "tag": "ChessBase India"
       },
       {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/clutch-chess-showdown-2026-directo-2",
-        "title": "Champions Showdown: Día 1",
-        "date": "Tue, 27 Oct 2026 18:00:00 GMT",
-        "tag": "ChessBase España",
-        "_rss_content": "El «Clutch Chess: Champions Showdown» es un torneo de ajedrez rápido que reúne a cuatro jugadores de élite. Javokhir Sindarov, quien el próximo mes disputará el título mundial ante Gukesh Dommaraju, se enfrentará a Fabiano Caruana, Hikaru Nakamura y Praggnanandhaa Rameshbabu en una competición de tres días. El torneo se celebra del 27 al 29 de octubre y sigue un formato «clutch» de tres liguillas a doble vuelta, en el que los resultados tienen un valor progresivamente mayor en cada liguilla. | Sigue las partidas en directo a partir de las 18:00 hora de Madrid (14:00 Buenos Aires, 11:00 Ciudad de México)."
-      }
-    ],
-    "kalla_display": "Chess.com + ChessBase + ChessBase España + ChessBase India",
-    "datum": "2026-10-27T11:26:29.502040",
-    "hittad": "2026-10-28T11:28:08.027329"
-  },
-  {
-    "id": "7aa8d55d8382",
-    "status": "pending",
-    "rubriker": [
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/clutch-chess-champions-showdown-2026-jour-2-10122.html",
+        "title": "Clutch Chess Champions Showdown 2026Clutch Chess : Pragg passe de dernier à premier, Nakamura fait le chemin inverse !",
+        "date": "2026-10-28T11:37:38.592985",
+        "tag": "Europe Echecs"
+      },
       {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/woodward-wins-titled-tuesday-october-27-2026",
-        "title": "Woodward Wins Titled Tuesday October 27 2026",
-        "date": "2026-10-27T11:26:29.502070",
-        "tag": "Chess.com"
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/pragg-turning-everything-around",
+        "title": "Pragg Turning Everything Around",
+        "date": "Thu, 29 Oct 2026 10:59:38 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Praggnanandhaa goes from last to first on day two of the champions showdown, beating Nakamura twice and leaving him at the bottom."
       }
     ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-10-27T11:26:29.502070",
-    "hittad": "2026-10-28T11:28:08.027340"
+    "kalla_display": "Chess News Network + Chess.com + ChessBase India + Europe Echecs",
+    "datum": "2026-10-28T11:37:02.379057",
+    "hittad": "2026-10-29T11:38:32.007936"
   },
   {
-    "id": "2ce1420225d8",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/announcing-chesscom-crazyhouse-chess-championship-2026",
-        "title": "Announcing Chesscom Crazyhouse Chess Championship 2026",
-        "date": "2026-10-27T11:26:29.502088",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-10-27T11:26:29.502088",
-    "hittad": "2026-10-28T11:28:08.027344"
-  },
-  {
-    "id": "063f02189128",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/roman-shogdzhiev-second-gm-norm",
-        "title": "Second GM norm puts 11-year-old Shogdzhiev on course for historic achievement",
-        "date": "Tue, 27 Oct 2026 14:00:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Eleven-year-old Roman Shogdzhiev has earned his second grandmaster norm after scoring 6/9 at the Serbian Super League, where he represented Partizan Belgrade. The Russian youngster gained 26 rating points and now needs one more norm to secure the GM title. With eight months remaining to break Abhimanyu Mishra's age record, Shogdzhiev has a realistic chance of becoming the youngest grandmaster in history. | Photo: Eteri Kublashvili"
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Tue, 27 Oct 2026 14:00:00 GMT",
-    "hittad": "2026-10-28T11:28:08.027348"
-  },
-  {
-    "id": "7f71565c68c7",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/sverige/2026/10/nytt-datum-for-foretagsmasterskapet/?utm_source=rss&utm_medium=rss&utm_campaign=nytt-datum-for-foretagsmasterskapet",
-        "title": "Nytt datum för Företagsmästerskapet",
-        "date": "Wed, 28 Oct 2026 09:13:10 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Företagsmästerskapet har flyttats två veckor. Från den 7 november till den 21 november. &#8211; Det beror på en ändring av datumet för elitseriesammandraget, som stör det ursprungliga datumet förklarar Stefan [&#8230;] Inlägget Nytt datum för Företagsmästerskapet dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Wed, 28 Oct 2026 09:13:10 +0000",
-    "hittad": "2026-10-28T11:28:08.027351"
-  },
-  {
-    "id": "94fa4684daf0",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettantopp/2026/10/startfaltet-klart-infor-ulfs-jubileumsturnering/?utm_source=rss&utm_medium=rss&utm_campaign=startfaltet-klart-infor-ulfs-jubileumsturnering",
-        "title": "Startfältet klart inför Ulfs jubileumsturnering",
-        "date": "Tue, 27 Oct 2026 11:15:21 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Under veckan så hedras GM Ulf Andersson, som fyllde 75 år i somras. Och som valdes in i världsschackförbundets Hall Of Fame i St Louis, USA under helgen som gick. [&#8230;] Inlägget Startfältet klart inför Ulfs jubileumsturnering dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Tue, 27 Oct 2026 11:15:21 +0000",
-    "hittad": "2026-10-28T11:28:08.027355"
-  },
-  {
-    "id": "6abc05152a2c",
+    "id": "c229fec05048",
     "status": "pending",
     "rubriker": [
       {
         "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/move-cup-2027-presentation-10120.html",
-        "title": "Move Cup 2027Move Cup : un nouveau tournoi rapide à Barcelone avec Magnus Carlsen",
-        "date": "2026-10-27T11:27:06.271656",
+        "url": "https://www.europe-echecs.com/art/clutch-chess-champions-showdown-2026-jour-1-10121.html",
+        "title": "Lire l'articleClutch Chess Champions Showdown 2026Clutch Chess : Nakamura en tête après la première journée2",
+        "date": "2026-10-28T11:37:38.593018",
         "tag": "Europe Echecs"
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/hikaru-clutches-day-1",
+        "title": "Hikaru Clutches Day 1",
+        "date": "Wed, 28 Oct 2026 12:25:57 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Nakamura Leads the Champions Showdown After an Unbeaten Day One, While Praggnanandhaa, Fresh Off His Grand Chess Tour Win, Finishes Last"
       }
     ],
-    "kalla_display": "Europe Echecs",
-    "datum": "2026-10-27T11:27:06.271656",
-    "hittad": "2026-10-28T11:28:08.027359"
+    "kalla_display": "Chess News Network + Europe Echecs",
+    "datum": "2026-10-28T11:37:38.593018",
+    "hittad": "2026-10-29T11:38:32.007950"
   },
   {
-    "id": "df151bff2050",
+    "id": "a5f3c27ffa9c",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/the-priest-the-manuscript-and-the-wall-how-the-ruy-lopez-became-chesss-most-endu",
-        "title": "The Priest, the Manuscript and the Wall: How the Ruy Lopez Became Chess's Most Enduring Opening",
-        "date": "Tue, 27 Oct 2026 12:36:57 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Three moves. That is all it takes to start one of the longest-running stories in chess."
-      }
-    ],
-    "kalla_display": "Chess News Network",
-    "datum": "Tue, 27 Oct 2026 12:36:57 GMT",
-    "hittad": "2026-10-28T11:28:08.027365"
-  },
-  {
-    "id": "754bc4dc98bb",
-    "status": "pending",
-    "rubriker": [
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/sverige/2026/10/startfaltet-klart-infor-ulfs-jubileumsturnering/?utm_source=rss&utm_medium=rss&utm_campaign=startfaltet-klart-infor-ulfs-jubileumsturnering",
+        "title": "Startfältet klart inför Ulfs jubileumsturnering",
+        "date": "Tue, 27 Oct 2026 11:15:21 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Under veckan så hedras GM Ulf Andersson, som fyllde 75 år i somras. Och som valdes in i världsschackförbundets Hall Of Fame i St Louis, USA under helgen som gick. [&#8230;] Inlägget Startfältet klart inför Ulfs jubileumsturnering dök först upp på Sveriges Schackförbund ."
+      },
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/turlov-unveils-a-new-fide",
-        "title": "Turlov Unveils a \"New\" FIDE",
-        "date": "Tue, 27 Oct 2026 08:32:00 GMT",
+        "url": "https://chessnewsnetwork.com/article/ulf-andersson-celebrates-75th-birthday-year-with-stockholm-invitational",
+        "title": "Ulf Andersson celebrates 75th birthday year with Stockholm invitational",
+        "date": "Thu, 29 Oct 2026 07:44:55 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "A month after winning the presidency, Timur Turlov has shown how he wants to run FIDE. In a first-person statement published on October 26, he says the federation has reached its next stage of development."
+        "_rss_content": "Fresh from his induction into the World Chess Hall of Fame, Ulf Andersson will join friends and fellow grandmasters for the Svarta Hästen Invitational in Stockholm on Thursday, 29 October."
       }
     ],
-    "kalla_display": "Chess News Network",
-    "datum": "Tue, 27 Oct 2026 08:32:00 GMT",
-    "hittad": "2026-10-28T11:28:08.027369",
+    "kalla_display": "Chess News Network + Schack.se",
+    "datum": "Tue, 27 Oct 2026 11:15:21 +0000",
+    "hittad": "2026-10-29T11:38:32.007956",
     "liknar": {
-      "titel": "FIDE splittrat efter Turlovs presidentseger",
-      "url": "https://gambit.se/fide-splittrat-efter-turlovs-presidentseger/",
+      "titel": "Startfältet klart inför Ulf Anderssons jubileumsturnering",
+      "url": "https://gambit.se/startfaltet-klart-infor-ulf-anderssons-jubileumsturnering/",
+      "datum": "2026-10-28"
+    }
+  },
+  {
+    "id": "f034665811bb",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/oro-taher-lead-9z-globant-to-victory-in-october-chess-club-showdown",
+        "title": "Oro Taher Lead 9Z Globant To Victory In October Chess Club Showdown",
+        "date": "2026-10-28T11:37:02.379083",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-10-28T11:37:02.379083",
+    "hittad": "2026-10-29T11:38:32.007960"
+  },
+  {
+    "id": "0507c994fd59",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/sipke-ernst-attacking-chess-know-when-to-strike",
+        "title": "Sipke Ernst - Attacking Chess: Know When to Strike",
+        "date": "Thu, 29 Oct 2026 07:03:12 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "GM Sipke Ernst explains how to recognize when an attack is truly justified, focusing on factors such as development, king safety, open lines and central control. Through successful and failed examples, he shows when to strike, when to build pressure, and when a quieter or prophylactic move is the stronger choice."
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Thu, 29 Oct 2026 07:03:12 GMT",
+    "hittad": "2026-10-29T11:38:32.007964"
+  },
+  {
+    "id": "6126ef046903",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/kazchess-masters-almaty-2026-r3",
+        "title": "KazChess Masters: Mamedov and Makhnev set the pace in Almaty",
+        "date": "Wed, 28 Oct 2026 23:40:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Kazakh grandmasters Edgar Mamedov (pictured) and Denis Makhnev share the lead at the KazChess Masters in Almaty after three rounds, both with 2½ points. Mamedov, aged 16, started with two consecutive wins, while Makhnev caught up by defeating Aram Hakobyan in round three. Three of the five international participants - Daniil Dubov, Shamsiddin Vokhidov and Denis Lazavik - are half a point behind the leading duo. | Photo: Nils Rohde / ChessBase"
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Wed, 28 Oct 2026 23:40:00 GMT",
+    "hittad": "2026-10-29T11:38:32.007968"
+  },
+  {
+    "id": "403361fba36b",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/clutch-chess-showdown-2026-live",
+        "title": "Clutch Chess: Champions Showdown - Live!",
+        "date": "Wed, 28 Oct 2026 17:45:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Clutch Chess: Champions Showdown is a high-profile rapid tournament gathering four elite competitors. Javokhir Sindarov, who is set to challenge Gukesh Dommaraju for the World Championship title next month, joins Fabiano Caruana, Hikaru Nakamura and Praggnanandhaa Rameshbabu in a three-day battle. The competition runs from 27 to 29 October and follows a \"clutch\" structure of three double round-robins, where results become progressively more valuable with each round-robin. | Follow the action live starting at 18.00 CET (13.00 ET, 22.30 IST) | Photo: Crystal Fuller"
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Wed, 28 Oct 2026 17:45:00 GMT",
+    "hittad": "2026-10-29T11:38:32.007972"
+  },
+  {
+    "id": "e86f1fbaa412",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/dragons-of-the-olympiad-2026-the-monthly-dragon",
+        "title": "Dragons of the Olympiad 2026 - The Monthly Dragon",
+        "date": "Wed, 28 Oct 2026 14:31:20 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "In this Olympiad special of the Monthly Dragon, Chris Ward looks at five Dragon games from a wide range of rating levels and shows just how successful the opening was in Samarkand. The examples highlight typical Dragon themes such as pressure on the c file, the strength of the dark squared bishop, exchange sacrifices, tactical ideas around the queenside and the importance of knowing the right plans once the opening theory ends. Chris also examines several instructive mistakes, showing how quickly a position can collapse when White loses track of key Dragon motifs. | Photo: John Upham"
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Wed, 28 Oct 2026 14:31:20 GMT",
+    "hittad": "2026-10-29T11:38:32.007978"
+  },
+  {
+    "id": "34bf26b0147e",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/ettan4/2026/10/studentlag-sm-2027-spelas-i-vaxjo/?utm_source=rss&utm_medium=rss&utm_campaign=studentlag-sm-2027-spelas-i-vaxjo",
+        "title": "Studentlag-SM 2027 spelas i Växjö",
+        "date": "Thu, 29 Oct 2026 11:22:41 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Nu finns inbjudan ute till Studentlag-SM 2027, som spelas på Elite Stadshotellet i Växjö den 27-28 februari. Studentlag-SM hade premiär 2026 och vände sig då till studerande vid högskolor och [&#8230;] Inlägget Studentlag-SM 2027 spelas i Växjö dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Thu, 29 Oct 2026 11:22:41 +0000",
+    "hittad": "2026-10-29T11:38:32.007983"
+  },
+  {
+    "id": "2090fcb20a43",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/sverige/2026/10/kampen-om-normer-pagar-i-upplands-vasby/?utm_source=rss&utm_medium=rss&utm_campaign=kampen-om-normer-pagar-i-upplands-vasby",
+        "title": "Kampen om normer pågår i Upplands Väsby",
+        "date": "Wed, 28 Oct 2026 12:31:33 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Tre Young Talents-turneringar av GM- och IM-format, med sammanlagt 30 spelare, pågår just nu i Upplands Väsby utanför Stockholm. Redan under den första speldagen så spelades en del intressanta pariter, [&#8230;] Inlägget Kampen om normer pågår i Upplands Väsby dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Wed, 28 Oct 2026 12:31:33 +0000",
+    "hittad": "2026-10-29T11:38:32.007986"
+  },
+  {
+    "id": "1ba29773314e",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/internationellt/2026/10/pia-segrade-i-europacupen-med-monte-carlo/?utm_source=rss&utm_medium=rss&utm_campaign=pia-segrade-i-europacupen-med-monte-carlo",
+        "title": "Pia segrade i Europacupen med Monte Carlo",
+        "date": "Sun, 25 Oct 2026 16:23:12 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Pia Cramlings Cercle d&#8217;Echecs Monte Carlo segrade i årets upplaga av European Chess Club Cup för damer i Budva, Montenegro. Monte Carlo hade ett starkt lag, vilket framgår av att [&#8230;] Inlägget Pia segrade i Europacupen med Monte Carlo dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Sun, 25 Oct 2026 16:23:12 +0000",
+    "hittad": "2026-10-29T11:38:32.007989",
+    "liknar": {
+      "titel": "Bayegan Pendik och Monte-Carlo tog guld i Europacupen",
+      "url": "https://gambit.se/bayegan-pendik-och-monte-carlo-tog-guld-i-europacupen/",
       "datum": "2026-10-25"
     }
   },
   {
-    "id": "0aa7c51560ee",
+    "id": "793e7cf39fdd",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Dansk Skak Union",
+        "url": "https://nyheder.skak.dk/2026/10/29/flere-undervisningshold-i-skakkens-hus-hjernens-motionscenter/?utm_source=rss&utm_medium=rss&utm_campaign=flere-undervisningshold-i-skakkens-hus-hjernens-motionscenter",
+        "title": "Flere undervisningshold i Skakkens Hus – hjernens motionscenter®",
+        "date": "Thu, 29 Oct 2026 09:00:00 +0000",
+        "tag": "Dansk Skak Union",
+        "_rss_content": "Dansk Skoleskaks generalsekretær, Mads Jacobsen, skriver til skak.dk om de udvidede undervisningstilbud i Skakkens Hus &#8211; hjernens motionscenter®: Undervisningen i Skakkens Hus – hjernens motionscenter® går godt, så der nu udvides med flere hold – alt imens vi venter på at håndværkerne bliver helt færdige (se billede ovenfor). Bl.a. får Sarah Derlich sit eget hold [&#8230;]"
+      }
+    ],
+    "kalla_display": "Dansk Skak Union",
+    "datum": "Thu, 29 Oct 2026 09:00:00 +0000",
+    "hittad": "2026-10-29T11:38:32.007993"
+  },
+  {
+    "id": "ce2e7e797e6f",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Dansk Skak Union",
+        "url": "https://nyheder.skak.dk/2026/10/28/mikkel-manosris-kontrakt-forlaenget/?utm_source=rss&utm_medium=rss&utm_campaign=mikkel-manosris-kontrakt-forlaenget",
+        "title": "Mikkel Manosris kontrakt forlænget",
+        "date": "Wed, 28 Oct 2026 11:47:42 +0000",
+        "tag": "Dansk Skak Union",
+        "_rss_content": "FU-medlem Christian Thelin skriver til skak.dk: DSU forlænger samarbejdet med kvindelandstrænerenBeslutningen kommer efter en grundig evaluering af både forberedelserne frem mod skakolympiaden i Samarkand og selve turneringsforløbet. Målet er at bygge videre på den positive udvikling og samtidig styrke rammerne for kvindelandsholdet frem mod de kommende opgaver Overordnet set vurderer DSU, at holdets resultatmæssige præstation [&#8230;]"
+      }
+    ],
+    "kalla_display": "Dansk Skak Union",
+    "datum": "Wed, 28 Oct 2026 11:47:42 +0000",
+    "hittad": "2026-10-29T11:38:32.007996"
+  },
+  {
+    "id": "bc55f04cbfab",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/10/29/rustadlynet-viii-gp-2026/",
+        "title": "Rustadlynet VIII GP 2026",
+        "date": "Thu, 29 Oct 2026 05:22:42 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Rustad Sjakklubb i Oslo arrangerte Rustadlynet VIII GP onsdag 28. oktober 2026. Turneringen inngår i Norges Grand Prix 2026-27 og hadde 75 deltakere. CM Daniel Arvola tok en overlegen førsteplass i A-gruppen. Juniorspilleren fra Vestby vant alle sine 9 partier og endte mer enn 4 poeng over forventet score. Dette ga en ratingframgang på hele Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Thu, 29 Oct 2026 05:22:42 +0000",
+    "hittad": "2026-10-29T11:38:32.008000"
+  },
+  {
+    "id": "8b08a48262a8",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/dutch-player-got-fm-title-for-free",
+        "title": "Dutch Player Got FM Title For Free",
+        "date": "Wed, 28 Oct 2026 19:59:13 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "A 2113-Rated Dutch Player Collects an FM Title at the European Club Cup, and a Croatian Creator Says the Rules Need Changing"
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Wed, 28 Oct 2026 19:59:13 GMT",
+    "hittad": "2026-10-29T11:38:32.008003"
+  },
+  {
+    "id": "53e743fa00ad",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/are-titles-and-ratings-overrated",
+        "title": "Are Titles and Ratings Overrated?",
+        "date": "Wed, 28 Oct 2026 19:48:25 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Hikaru Nakamura Says Titles and Ratings No Longer Tell the Whole Story, and Points to 17-Year-Old Iranian FM Artin Ashraf as Proof"
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Wed, 28 Oct 2026 19:48:25 GMT",
+    "hittad": "2026-10-29T11:38:32.008005"
+  },
+  {
+    "id": "973f90045fa9",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/game-of-the-day-gm-shamsiddin-vokhidov-beats-gm-mahammad-muradli",
+        "title": "Game of the Day: GM Shamsiddin Vokhidov Beats GM Mahammad Muradli",
+        "date": "Wed, 28 Oct 2026 11:46:50 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "GM Shamsiddin Vokhidov beat GM Mahammad Muradli in round 2, board 4 of the KazChess Masters Almaty 2026, winning in 42 moves."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Wed, 28 Oct 2026 11:46:50 GMT",
+    "hittad": "2026-10-29T11:38:32.008009"
+  },
+  {
+    "id": "e95acb687ecd",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/pronosticos-gukesh-sindarov-ginebra-uvencio-blanco",
-        "title": "Pronósticos para Gukesh y Sindarov en el match de Ginebra",
-        "date": "Tue, 27 Oct 2026 21:45:00 GMT",
+        "url": "https://es.chessbase.com/post/roman-shogdzhiev-segunda-norma-gm",
+        "title": "A los 11 años, Shogdzhiev queda a una norma del título de Gran Maestro",
+        "date": "Wed, 28 Oct 2026 21:40:00 GMT",
         "tag": "ChessBase España",
-        "_rss_content": "El próximo Campeonato Mundial entre Gukesh Dommaraju y Javokhir Sindarov enfrenta a dos de los grandes talentos de la nueva generación en un duelo especialmente equilibrado. El análisis compara sus ratings Elo, su forma reciente, su experiencia en matches, su preparación, sus estilos y su rendimiento en rápidas. Sindarov parte como favorito moderado, aunque la experiencia mundialista y el potencial competitivo de Gukesh mantienen abierto un encuentro que promete máxima exigencia. | Imagen: FIDE"
+        "_rss_content": "Roman Shogdzhiev, de 11 años, consiguió su segunda norma de Gran Maestro tras sumar 6 puntos en 9 partidas en la Superliga de Serbia, donde representó al Partizan de Belgrado. El joven ruso ganó 26 puntos de Elo y ahora necesita una norma más para obtener el título de GM. A falta de ocho meses para que venza el plazo para superar el récord de precocidad de Abhimanyu Mishra, Shogdzhiev tiene grandes posibilidades de convertirse en el GM más joven de la historia. | Foto: Eteri Kublashvili"
       }
     ],
     "kalla_display": "ChessBase España",
-    "datum": "Tue, 27 Oct 2026 21:45:00 GMT",
-    "hittad": "2026-10-28T11:28:08.027372"
+    "datum": "Wed, 28 Oct 2026 21:40:00 GMT",
+    "hittad": "2026-10-29T11:38:32.008012"
   }
 ]
