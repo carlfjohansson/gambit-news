@@ -1,184 +1,33 @@
 [
   {
-    "source": "Schack.se",
-    "original_url": "https://schack.se/nyhet/sverige/2026/10/kampen-om-normer-pagar-i-upplands-vasby/?utm_source=rss&utm_medium=rss&utm_campaign=kampen-om-normer-pagar-i-upplands-vasby",
-    "original_title": "Kampen om normer pågår i Upplands Väsby",
-    "swedish_title": "Sällsynt mattbild med två springare i Upplands Väsby",
-    "swedish_content": "Tre Young Talents-turneringar i GM- och IM-format pågår i Upplands Väsby utanför Stockholm, med sammanlagt 30 spelare. Under den första speldagen uppmärksammade turneringsledaren Vladimir Poley flera intressanta partier. Mest utmärkande var mötet mellan IM Tarun Kanyamarata, Indien, och GM Gevorg Harutjunyan, Armenien, där svart lyckades sätta matt med enbart två springare kvar mot en kung och en bonde – en mattbild som bara är möjlig eftersom motståndarens bonde eliminerar pattmöjligheterna.\n\nUkrainske IM Jevgenij Roshka, som ligger nära 2500 i rating, vann klart mot FM Nimay Agrawal, Indien, i ett katalanskt parti avgjort av ett offer på f7. Mellan FM Leonardo Vincenti, Italien, och Vyom Malhotra, Indien, blev det dramatik i ett Naidorf-sicilianskt: svart hade stor fördel men missade säkerheten för egen kung, medan vit i ömsesidig tidsnöd blundrade bort sin fribonde på a6 och förlorade partiet.\n\nBland de svenska deltagarna märks GM Daniel Semcesen och GM Vitalij Sivuk i GM-turnering 1, samt FM Joar Ölund och FM Hugo Wernberg i GM-turnering 2.",
-    "date": "Wed, 28 Oct 2026 12:31:33 +0000",
-    "tag": "Svenska Schackförbundet",
-    "processed_at": "2026-10-30T21:23:21.681478",
-    "bild_alternativ": []
-  },
-  {
-    "source": "Chess News Network",
-    "original_url": "https://chessnewsnetwork.com/article/dutch-player-got-fm-title-for-free",
-    "original_title": "Dutch Player Got FM Title For Free",
-    "swedish_title": "Nederländsk spelare får FM-titel trots svag prestation",
-    "swedish_content": "En kritikstorm har uppstått kring hur FIDE delar ut FM-titeln efter ett resultat i Budva. Dick De Graaf, nederländsk spelare med rating 2113, säkrade titeln genom en regel som låter ett starkt resultat i European Club Cup leda direkt till FM-titeln.\n\nDen kroatiske FM:en och innehållsskaparen Vjekoslav Nemec publicerade en video på sin kanal Chessentials där han anklagar De Graaf för att utnyttja FIDE:s regelverk och argumenterar för att reglerna bör revideras. Enligt regelverket för European Club Cup 2026 kan en spelare säkra FM-titeln genom att nå minst 5/7 poäng med en rating över 2100 – samma gräns som gällde vid 2025 års turnering i Rhodos, där tre spelare blev FM enligt FIDE:s tabell för direkttitlar som trädde i kraft i maj 2025.\n\nDe Graaf spelade på lag­ets sista bord och tog 5/7 poäng. Bland hans fem vinster fanns en seger mot en spelare rankad 1575 och två segrar mot ospelade spelare. Hans prestationsrating för turneringen landade på 2049 – 64 poäng under hans egen rating. Samtliga lagkamrater hade rating under 2000, varav två saknade rating helt.\n\nNemec jämför fallet med en spelare från samma klubb som fick FM-titeln 2025 efter att ha spelat på första bordet med en prestationsrating under 2000. Inget i rapporteringen tyder på att De Graaf brutit mot några regler – han uppfyllde de uppställda kraven, och kritiken riktas mot själva regelverket snarare än mot hans agerande. Varken De Graaf, den nederländska schackförbundet eller FIDE har kommenterat saken.",
-    "date": "Wed, 28 Oct 2026 19:59:13 GMT",
-    "tag": "Chess News Network",
-    "processed_at": "2026-10-30T21:23:45.976729",
-    "bild_alternativ": []
-  },
-  {
-    "source": "Chess News Network",
-    "original_url": "https://chessnewsnetwork.com/article/are-titles-and-ratings-overrated",
-    "original_title": "Are Titles and Ratings Overrated?",
-    "swedish_title": "Nakamura: Titlar och rating speglar inte verklig styrka",
-    "swedish_content": "Hikaru Nakamura menar att FIDE-titlar och ratingtal inte längre ger en rättvisande bild av spelares faktiska styrka. Som exempel lyfte han fram den 17-årige iranske FM:en Artin Ashraf, som han kallade \"i princip GM-stark\" och uppskattade till 2550–2600 i klassiskt schack. Nakamura noterade även att onlinerating på 3200 – tidigare extremt ovanligt – har blivit allt vanligare.\n\nFIDE:s siffror stämmer till stor del med Nakamuras beskrivning. Ashraf är född 2008 och fick FM-titeln 2022. Hans officiella rating i klassiskt schack ligger på 2470 på oktoberlistan, med 2274 i snabbschack och 2389 i blixt – de två förstnämnda är markerade som inaktiva av FIDE, och han saknar GM-normer. För att nå GM-titeln krävs rating 2500 och tre normer. Hans Chess.com-rating i blixt uppges till 3181, medan hans senaste partier under 2026 visar siffror mellan ungefär 3138 och 3204.\n\nNakamuras uttalande är inte verifierat i original – det kommer via en sammanfattning publicerad av ChessBase Nepal den 27 oktober, och varken exakt ordalydelse eller sammanhang (stream, intervju eller sändning från Champions Showdown) har kunnat bekräftas.",
-    "date": "Wed, 28 Oct 2026 19:48:25 GMT",
-    "tag": "Chess News Network",
-    "processed_at": "2026-10-30T21:24:06.842129",
+    "source": "ChessBase",
+    "original_url": "https://en.chessbase.com/post/chess-revival-simpsons-in-strand",
+    "original_title": "A chess revival at Simpson's-in-the-Strand",
+    "swedish_title": "Schackhistoria återupplivas på Simpson's-in-the-Strand",
+    "swedish_content": "Simpson's-in-the-Strand i London, en av Europas mest kända schackcaféer, öppnade 1828 under namnet \"Grand Cigar Divan\". Under mitten av 1800-talet var platsen den engelska schackscenens mötesplats i över 20 år, där spelare som Henry Bird, Wilhelm Steinitz och Johannes Hermann Zukertort samlades. I anslutning till den första stora internationella schackturneringen 1851 spelades här den berömda \"Immortal Game\" mellan Adolf Anderssen och Lionel Kieseritzky som ett vanligt parti. Mot slutet av 1800-talet var Arthur Conan Doyle en av stamgästerna, och restaurangen nämns i hans Sherlock Holmes-romaner. I början av 1900-talet byggdes Simpson's om och sågs under en tid som Englands bästa restaurang, men schacket hade då redan försvunnit från lokalen. Efter 1980-talet försökte engelska schackentusiaster återuppliva traditionen genom flera turneringar på platsen. Efter flera ägarbyten och en period som tomställd köptes Simpson's-in-the-Strand av Savoy Hotel Group och återöppnades som restaurang under ledning av Jeremy King.",
+    "date": "Fri, 30 Oct 2026 18:30:00 GMT",
+    "tag": "ChessBase",
+    "processed_at": "2026-10-31T15:56:49.662535",
     "bild_alternativ": [
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/London_Chess_Classic_2010_09.JPG/960px-London_Chess_Classic_2010_09.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Paweł Grochowalski (Wikimedia Commons, CC BY-SA 3.0)"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/London_1883_chess_tournament.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "kredit": "Foto: Edward Henry Corbould (Wikimedia Commons, Public domain)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/London_Chess_Classic_2010_Nakamura_01.jpg/960px-London_Chess_Classic_2010_Nakamura_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Paweł Grochowalski (Wikimedia Commons, CC BY-SA 3.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/The_Grand_international_centennial_chess_congress%2C_held_in_Philadelphia%2C_in_August%2C_1876%2C_during_the_celebration_of_the_American_centennial%3B_%28IA_grandinternation00gran%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Grand International Centennial Chess Congress (Philadelphia, Pa.) \n Philadelphia Chess Club \n Sayen, Henry W (Wikimedia Commons, Public domain)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/London_Chess_Classic_2010_Nakamura_02.jpg/960px-London_Chess_Classic_2010_Nakamura_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Paweł Grochowalski (Wikimedia Commons, CC BY-SA 3.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/The_grand_international_centennial_chess_congress%2C_held_in_Philadelphia%2C_in_August%2C_1876%2C_during_the_celebration_of_the_American_centennial_%28IA_grandinternation00saye%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Sayen, W. Henry, [from old catalog] ed (Wikimedia Commons, Public domain)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/London_Chess_Classic_2010_Nakamura_03.jpg/960px-London_Chess_Classic_2010_Nakamura_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Paweł Grochowalski (Wikimedia Commons, CC BY-SA 3.0)"
-      }
-    ]
-  },
-  {
-    "source": "Europe Echecs",
-    "original_url": "https://www.europe-echecs.com/art/clutch-chess-champions-showdown-2026-jour-2-10122.html",
-    "original_title": "Lire l'articleClutch Chess Champions Showdown 2026Clutch Chess : Pragg passe de dernier à premier, Nakamura fait le chemin inverse !4",
-    "swedish_title": "Pragg vänder allt – från sist till först i Clutch Chess",
-    "swedish_content": "Den andra speldagen i Clutch Chess Champions Showdown i Saint-Louis vände totalt upp och ner på ställningen. Praggnanandhaa Rameshbabu, som inledde dagen på sistaplats, slutade i stället i täten efter fyra vinster, en remi och en förlust på sex partier. Hikaru Nakamura, som lett efter dag ett, föll tillbaka kraftigt – fyra remier och två förluster, båda mot just Pragg.\n\nI det första inbördes mötet vann Pragg ett slutspel en bonde under efter att Nakamura missat från vinstställning. I rond nio hade amerikanen bara åtta sekunder kvar på klockan när han efter 36.Rb4 spelade 36...Kh7?? och lämnade sin springare på d7 i sticket. Det andra partiet, ett slutspel ur en Rossolimo-sicilianska, vann Pragg också.\n\nPragg slog dessutom Fabiano Caruana, som kollapsade i tidsnöd, och gjorde remi i returpartiet. Mot Javokhir Sindarov vann han det första partiet – ett tornslutspel där Sindarov missade den enda räddningen – medan uzbeken svarade med en kungsindisk vinst med svart i det andra, så den duellen slutade lika.\n\nDagens mest enkelriktade parti stod Caruana för, som besegrade Sindarov med svart tack vare en fri utpost på d5. Sindarov kallade det själv \"det sämsta partiet i mitt liv\" – en bitter påminnelse mindre än fyra veckor före hans VM-match mot Gukesh.\n\nEfter dag två leder Pragg, med Sindarov och Caruana strax bakom och Nakamura längst ner.",
-    "date": "2026-10-29T11:28:56.319292",
-    "tag": "Europe Echecs",
-    "processed_at": "2026-10-30T21:24:41.531415",
-    "alla_kallor": [
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/clutch-chess-champions-showdown-2026-jour-2-10122.html"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/pragg-turning-everything-around"
-      }
-    ],
-    "alla_urler": [
-      "https://www.europe-echecs.com/art/clutch-chess-champions-showdown-2026-jour-2-10122.html",
-      "https://chessnewsnetwork.com/article/pragg-turning-everything-around"
-    ],
-    "bild_alternativ": [
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Asian_Champions_2022-_GM_R_Praggnanandhaa_and_WGM_P._V._Nandhidhaa.jpg/960px-Asian_Champions_2022-_GM_R_Praggnanandhaa_and_WGM_P._V._Nandhidhaa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: NOVKILOSIERRA (Wikimedia Commons, CC0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Ian_Nepomniachtchi_vs_Rameshbabu_Praggnanandhaa.jpg/960px-Ian_Nepomniachtchi_vs_Rameshbabu_Praggnanandhaa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: TheBoburshokh (Wikimedia Commons, CC0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/London_Chess_Classic_2016_Day3-9_%2830767870714%29.jpg/960px-London_Chess_Classic_2016_Day3-9_%2830767870714%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Wolfgang Jekel (Wikimedia Commons, CC BY 2.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Praggnanandhaa_Tata_Steel_Chess_2019.jpg/960px-Praggnanandhaa_Tata_Steel_Chess_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Vysotsky (Wikimedia Commons, CC BY-SA 4.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/London_Chess_Classic_2010_09.JPG/960px-London_Chess_Classic_2010_09.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Paweł Grochowalski (Wikimedia Commons, CC BY-SA 3.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/London_Chess_Classic_2010_Nakamura_01.jpg/960px-London_Chess_Classic_2010_Nakamura_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Paweł Grochowalski (Wikimedia Commons, CC BY-SA 3.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/London_Chess_Classic_2010_Nakamura_02.jpg/960px-London_Chess_Classic_2010_Nakamura_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Paweł Grochowalski (Wikimedia Commons, CC BY-SA 3.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/London_Chess_Classic_2010_Nakamura_03.jpg/960px-London_Chess_Classic_2010_Nakamura_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Paweł Grochowalski (Wikimedia Commons, CC BY-SA 3.0)"
-      }
-    ]
-  },
-  {
-    "source": "Chess.com",
-    "original_url": "https://www.chess.com/news/view/istanbul-to-host-2026-world-rapid-blitz-championships",
-    "original_title": "Istanbul To Host 2026 World Rapid Blitz Championships",
-    "swedish_title": "Istanbul värd för VM i snabbschack och blixt 2026",
-    "swedish_content": "FIDE har bekräftat att Istanbul, Türkiye, blir värdstad för 2026 års World Rapid & Blitz Championships. Turneringen spelas 26–30 december, med ankomst den 25:e, och avgör fyra världsmästartitlar: öppen klass och damklass i både snabbschack och blixt.\n\nMagnus Carlsen försvarar titlarna i öppen klass efter att ha vunnit snabbschacks-VM i Doha med 10½/13, en hel poäng före fältet, samt blixt-VM genom att slå Nodirbek Abdusattorov 2½-1½ i finalen. Aleksandra Goryachkina är regerande mästare i damernas snabbschack efter särspelsseger över Zhu Jiner, medan Bibisara Assaubayeva vann damernas blixt genom att besegra Anna Muzychuk med samma 2½-1½-siffror.\n\nFreedom Holding Corp., FIDE:s strategiska partner sedan 2023, blir huvudsponsor för evenemanget. Som en del av samarbetsavtalet för 2026 stöder Freedom även andra stora FIDE-evenemang som Kandidatturneringen och VM-matchen, liksom schackträningscenter och skolprogram.\n\nIstanbul har tidigare arrangerat schackolympiaden 2012 och stod även värd för VM i snabbschack och blixt för junior i slutet av 2025. Bland lokala namn att hålla ögonen på nämns de unga turkiska spelarna Yağız Kaan Erdoğmuş och Ediz Gürel.\n\nFortfarande återstår att presentera officiell spelplats, prispengar, tidskontroller och anmälningsdetaljer, vilka väntas offentliggöras inom kort.",
-    "date": "2026-10-29T11:28:21.519661",
-    "tag": "Chess.com",
-    "processed_at": "2026-10-30T21:25:04.485187",
-    "alla_kallor": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/istanbul-to-host-2026-world-rapid-blitz-championships"
-      },
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/fide-world-rapid-blitz-ch-2026-venue"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/rapid-blitz-championships-coming-to-istanbul"
-      }
-    ],
-    "alla_urler": [
-      "https://www.chess.com/news/view/istanbul-to-host-2026-world-rapid-blitz-championships",
-      "https://en.chessbase.com/post/fide-world-rapid-blitz-ch-2026-venue",
-      "https://chessnewsnetwork.com/article/rapid-blitz-championships-coming-to-istanbul"
-    ],
-    "bild_filnamn": "bildbanken-A0TDJJlcBu.jpg",
-    "bild_kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund",
-    "bild_alternativ": [
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/A0TDJJlcBu.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/A0TDKdXwin.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/A0TDJBQ46v.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/A0TDJ1aVKD.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Carlsen_Giri_draw_in_Tata_Steel_Chess_2020.jpg/960px-Carlsen_Giri_draw_in_Tata_Steel_Chess_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Marien Raat (Wikimedia Commons, CC BY-SA 4.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Table_from_World_Chess_Championship_2016.jpg/960px-Table_from_World_Chess_Championship_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Upjav (Wikimedia Commons, CC0)"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Steinitz_and_New_Orleans_Chess_Club_1883.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "kredit": "Foto: Theo. Lilienthal (d. 1894) (Wikimedia Commons, Public domain)"
       },
       {
         "kalla": "commons",
@@ -192,242 +41,128 @@
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/46-Butunjahon_shaxmat_olimpiadasi_O%60zbekiston_1-terma_jamoasi.jpg/960px-46-Butunjahon_shaxmat_olimpiadasi_O%60zbekiston_1-terma_jamoasi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: TheBoburshokh (Wikimedia Commons, CC BY 4.0)"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Johannes_Zukertort_%28l%29_en_Wilhelm_Steinitz_%28r%29%2C_WK_schaken%2C_New_Orleans_1886.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "kredit": "Foto: The original uploader was  Andre Engels  at  Dutch Wikipedia . (Wikimedia Commons, Public domain)"
       },
       {
         "kalla": "commons",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Nodirbek_Abdusattorov_at_the_46th_FIDE_Chess_Olympiad_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "kredit": "Foto: TheBoburshokh (Wikimedia Commons, CC BY 4.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Zukertort%2C_Chess%2C_from_the_Goodwin_Champion_series_for_Old_Judge_and_Gypsy_Queen_Cigarettes_MET_DP821686.jpg/960px-Zukertort%2C_Chess%2C_from_the_Goodwin_Champion_series_for_Old_Judge_and_Gypsy_Queen_Cigarettes_MET_DP821686.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Goodwin &amp; Company (Wikimedia Commons, CC0)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Nodirbek_Abdusattorov_chess_player.jpg/960px-Nodirbek_Abdusattorov_chess_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Husniddin Ato (Wikimedia Commons, CC BY-SA 4.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/The_Immortal_Game%2C_written_by_Lionel_Kieseritzsky_in_La_R%C3%A9gence%2C_1851.png/960px-The_Immortal_Game%2C_written_by_Lionel_Kieseritzsky_in_La_R%C3%A9gence%2C_1851.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Lionel Kieseritzky (1806–1853) (Wikimedia Commons, Public domain)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Women_and_men%27s_Chess_Olympiad_teams_of_Uzbekistan_%2845th_chess_olympiad%29.jpg/960px-Women_and_men%27s_Chess_Olympiad_teams_of_Uzbekistan_%2845th_chess_olympiad%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: MiroJP (Wikimedia Commons, CC BY-SA 4.0)"
-      }
-    ]
-  },
-  {
-    "source": "Chess.com",
-    "original_url": "https://www.chess.com/news/view/gothamchess-harry-kane-michael-olise-bayern-munich",
-    "original_title": "Gothamchess Harry Kane Michael Olise Bayern Munich",
-    "swedish_title": "GothamChess spelade schack med Ballon d'Or-vinnaren Kane",
-    "swedish_content": "Levy Rozman, känd som GothamChess, besökte Bayern Munich för att spela schack mot fotbollsstjärnorna Harry Kane och Michael Olise. Besöket ägde rum bara två dagar efter att Kane vunnit Ballon d'Or i London.\n\nBayern delade bilder från besöket på Instagram, där Rozman kommenterade: \"An honor and a pleasure! Thank you for the invitation!\" Han släppte senare en video där han analyserade partiet mot Kane, som slutade på drag 27 när anfallaren förlorade på tid. Rozman berömde sin motståndare: \"He is an extremely good player... if I didn't know how good you were, I would've said probably like 2000.\"\n\nKane, som är Englands landslagskapten, blev den första engelska mottagaren av Ballon d'Or sedan Michael Owen 2001, efter att ha gjort 73 mål för klubb och landslag under säsongen 2025/26.",
-    "date": "2026-10-29T11:28:21.519685",
-    "tag": "Chess.com",
-    "processed_at": "2026-10-30T21:25:19.476696",
-    "alla_kallor": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/gothamchess-harry-kane-michael-olise-bayern-munich"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/gothamchess-meets-soccer-stars-for-chess-match"
-      }
-    ],
-    "alla_urler": [
-      "https://www.chess.com/news/view/gothamchess-harry-kane-michael-olise-bayern-munich",
-      "https://chessnewsnetwork.com/article/gothamchess-meets-soccer-stars-for-chess-match"
-    ],
-    "bild_alternativ": [
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Alexandra_Botez_and_Levy_Rozman_commentating_Pro_Chess_League_in_2019.png/960px-Alexandra_Botez_and_Levy_Rozman_commentating_Pro_Chess_League_in_2019.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: PRO Chess League (Wikimedia Commons, CC BY 3.0)"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/The_Immortal_Game.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "kredit": "Foto: Kaotao (Wikimedia Commons, CC0)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Levy_Rozman.png/960px-Levy_Rozman.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: PRO Chess League (Wikimedia Commons, CC BY 3.0)"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/World_Chess_Championship_1858-59_Paul_Morphy_Matches_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "kredit": "Foto: YoavDothan (Wikimedia Commons, Public domain)"
       },
       {
         "kalla": "commons",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Levy_Rozman_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "kredit": "Foto: PRO Chess League (Wikimedia Commons, CC BY 3.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Levy_Rozman_2021_interview_with_ChessRU.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "kredit": "Foto: ChessComRU (Wikimedia Commons, CC BY 3.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/The_plain_unvarnished_%28IA_plainunvarnished00shoo%29.pdf/page1-960px-The_plain_unvarnished_%28IA_plainunvarnished00shoo%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Shook, Virgil (Wikimedia Commons, Public domain)"
-      }
-    ]
-  },
-  {
-    "source": "Schack.se",
-    "original_url": "https://schack.se/nyhet/ettantopp/2026/10/ulf-andersson-vann-sin-egen-turnering/?utm_source=rss&utm_medium=rss&utm_campaign=ulf-andersson-vann-sin-egen-turnering",
-    "original_title": "Ulf Andersson vann sin egen turnering",
-    "swedish_title": "Ulf Andersson vann egen jubileumsturnering",
-    "swedish_content": "GM Ulf Andersson vann på torsdagen \"Svarta Hästen Invitational\", en snabbschacksturnering som arrangerades till hans ära på schackklubben och schackkrogen Svarta Hästen i centrala Stockholm. Med 5 poäng av 7 möjliga tog han förstaplatsen före stormästarkollegan Harry Schüssler, som slutade på samma poäng men fick se sig besegrad på tiebreak (26 mot 25 poäng).\n\nTurneringen arrangerades för att fira att Andersson fyllde 75 år i somras samt hans invalg i världsschackförbundets Hall of Fame i St Louis, USA, bara fem dagar tidigare. Andersson nådde som bäst fjärdeplats på världsrankingen 1983 och tillbringade stora delar av 1980-talet bland världens tio bästa spelare, känd för sin positionella förståelse och slutspelsteknik.\n\n16 spelare deltog i det blandade men mycket starka startfältet, där de fem främsta platserna samtliga intogs av stormästare. Flera av deltagarna hade bjudits in av Andersson själv. Bland de medverkande fanns GM Pia Cramling tillsammans med dottern WFM Anna Cramling, GM Ferdinand Hellers, GM Juan Bellon, IM Thomas Engqvist och IM Nils-Gustaf Renman.\n\nAndersson vann mestadels på sitt typiska positionella manér, bland annat mot Engqvist. Harry Schüsslers parti mot Bellon var mer dramatiskt och innehöll ett pjäsoffer som analyserades i detalj efteråt. Mot sin gamla vän Ferdinand Hellers fick Andersson tidigt möta angreppsschack – spelat med Skandinaviskt försvar.\n\nTurneringen arrangerades av Svarta Hästen SK på initiativ av Andersson, Håkan Östling och tävlingsledaren Carl-Fredrik Johansson, och sändes live på schack.se.",
-    "date": "Thu, 29 Oct 2026 19:23:54 +0000",
-    "tag": "Svenska Schackförbundet",
-    "processed_at": "2026-10-30T21:25:44.634033",
-    "alla_kallor": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettantopp/2026/10/ulf-andersson-vann-sin-egen-turnering/?utm_source=rss&utm_medium=rss&utm_campaign=ulf-andersson-vann-sin-egen-turnering"
-      },
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/sverige/2026/10/startfaltet-klart-infor-ulfs-jubileumsturnering/?utm_source=rss&utm_medium=rss&utm_campaign=startfaltet-klart-infor-ulfs-jubileumsturnering"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/ulf-andersson-celebrates-75th-birthday-year-with-stockholm-invitational"
-      }
-    ],
-    "alla_urler": [
-      "https://schack.se/nyhet/ettantopp/2026/10/ulf-andersson-vann-sin-egen-turnering/?utm_source=rss&utm_medium=rss&utm_campaign=ulf-andersson-vann-sin-egen-turnering",
-      "https://schack.se/nyhet/sverige/2026/10/startfaltet-klart-infor-ulfs-jubileumsturnering/?utm_source=rss&utm_medium=rss&utm_campaign=startfaltet-klart-infor-ulfs-jubileumsturnering",
-      "https://chessnewsnetwork.com/article/ulf-andersson-celebrates-75th-birthday-year-with-stockholm-invitational"
-    ],
-    "bild_filnamn": "bildbanken-AxPGU3NhTQ.jpg",
-    "bild_kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund",
-    "bild_alternativ": [
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/AxPGU3NhTQ.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/AxPEanHh4f.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/AxPFjQnsHN.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/AxPFI4yUlR.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/IBM_schaaktoernooi%2C_10e_ronde_tweelingdames_Unlnaut%2C_Bestanddeelnr_929-8313.jpg/960px-IBM_schaaktoernooi%2C_10e_ronde_tweelingdames_Unlnaut%2C_Bestanddeelnr_929-8313.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Rob Bogaerts / Anefo (Wikimedia Commons, CC0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/IBM_schaaktoernooi_Amsterdam_Jan_Timman_%28l%29_tegen_Zweed_Andersson%2C_Bestanddeelnr_929-8171.jpg/960px-IBM_schaaktoernooi_Amsterdam_Jan_Timman_%28l%29_tegen_Zweed_Andersson%2C_Bestanddeelnr_929-8171.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Koen Suyk / Anefo (Wikimedia Commons, CC0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Interpolisschaaktoernooi%2C_34%2C_56_Karpov_aan_zet%2C_Bestanddeelnr_929-3619.jpg/960px-Interpolisschaaktoernooi%2C_34%2C_56_Karpov_aan_zet%2C_Bestanddeelnr_929-3619.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Koen Suyk / Anefo (Wikimedia Commons, CC0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/R8_T1_URS_SWE_1984_Thessaloniki.JPG/960px-R8_T1_URS_SWE_1984_Thessaloniki.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: GFHund (Wikimedia Commons, CC BY 3.0)"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/AJKIfSJSXF.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/AJLD2aLFYx.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/AKRGORw6vr.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/AJKCFmmCb2.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/PhpQxP4pO.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "kredit": "Foto: Leo Livonus 1855 (Wikimedia Commons, Public domain)"
       }
     ]
   },
   {
     "source": "Chess News Network",
-    "original_url": "https://chessnewsnetwork.com/article/andy-woodward-continues-his-magnificent-year",
-    "original_title": "Andy Woodward Continues His Magnificent Year",
-    "swedish_title": "Woodward vinner Titled Tuesday efler mattmiss i rond ett",
-    "swedish_content": "Andy Woodward förlorade sitt första parti i Titled Tuesday den 27 oktober efter att ha missat matt i ett drag trots att han låg två bönder över. Den amerikanske stormästaren, som spelar som Philippians46 på Chess.com, spelade därefter nästan felfritt och vann till slut hela turneringen på tiebreak. Det var hans första Titled Tuesday-seger enligt Chess.com.\n\nWoodward, 37:e seedad, slutade på 9,5 poäng tillsammans med Arjun Erigaisi och Maxime Vachier-Lagrave. Woodward och Arjun var lika på den första tiebreaken, 71,5 vardera, men Woodward vann den andra. Han fick 2 500 dollar, Arjun 1 500 dollar och Vachier-Lagrave 1 000 dollar. Pranesh M, som vunnit turneringen två gånger tidigare, hade chans att säkra förstaplatsen men förlorade mot Vachier-Lagrave och slutade fyra.\n\nHöjdpunkten i turneringen kom i rond nio, då Woodward genomförde tornoffer mot Dmitry Andreikin som Chess.com beskriver som chockerande och som kommentatorn Robert Hess berömde. Woodward gav senare Ian Nepomniachtchi en chans att ta kontrollen men överlevde, och när Nepomniachtchi senare gav honom en motsvarande chans tog Woodward den. Arjun höll jämna steg genom att vinna ett 123-dragsslutspel mot Pranav V.\n\nSegern kommer efter ett starkt år online för Woodward. Den 9 maj vann han Bullet Brawl med 157 poäng, åtta före tvåan Andrew Tang. Den 19 juni vann han Chess.com Hyperbullet Championship och slog Tang i finalen efter att själv ha förlorat mot honom tidigare i turneringen, vilket gav honom 750 dollar.\n\nFIDE listar Woodward som Master 2021, International Master 2022 och Grandmaster 2024. Enligt ChessBase tog han stormästartiteln vid 13 år och 8 månader, vilket gör honom till den näst yngsta amerikanen att göra det, efter Abhimanyu Mishra.",
-    "date": "Fri, 30 Oct 2026 10:15:00 GMT",
+    "original_url": "https://chessnewsnetwork.com/article/rosenstein-responds-to-accusations",
+    "original_title": "Rosenstein Responds to Accusations",
+    "swedish_title": "Rosenstein bemöter sanktionsanklagelser",
+    "swedish_content": "Wadim Rosenstein svarar offentligt på en rad anklagelser om sanktionskringgående och kopplingar till Ryssland som förföljt honom under kampanjen. Anklagelserna, som kommer från ukrainska medierapporter och senare artiklar, hävdar bland annat att han levererat militärt användbara produkter och agerat som rysk påverkansagent – men ingen domstol, sanktionslistning eller myndighet har fattat beslut mot honom eller hans bolag.\n\nRosenstein säger att han inte driver VR Rus och inte tar ut utdelning därifrån, utan att en extern förvaltare sköter bolaget medan en rysk statlig kommission kontrollerar om han får lämna landet. Han uppger att WR Group förbjudit affärer med Ryssland och endast fullföljt tidigare kontrakt enligt EU-rätt, samt att logistikarbetet för NOVATEK pågick 2019–2021 och sedan avslutades. Han efterlyser att ingen artikel namngett en konkret affär, produkt eller specifik sanktionslistning.\n\nRosenstein har lämnat in klagomål till Etikkommissionen och hävdar att Turlov och en person rapporterna kallar Malcolm Payne brutit mot artikel 9.7 i valreglerna, som förbjuder samverkan eller manipulation av röstningen. Turlov är sedan tidigare föremål för ukrainska sanktioner. Varken Turlov eller FIDE har kommenterat anklagelserna. Ukrainas schackförbund säger samtidigt att man aldrig gett Mykhailo Podolyak mandat att företräda förbundet.",
+    "date": "Fri, 30 Oct 2026 20:19:00 GMT",
     "tag": "Chess News Network",
-    "processed_at": "2026-10-30T21:26:01.485655",
-    "bild_filnamn": "bildbanken-Af8ExHPW_B.jpg",
-    "bild_kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund",
+    "processed_at": "2026-10-31T15:57:17.231020",
+    "bild_alternativ": []
+  },
+  {
+    "source": "Chess News Network",
+    "original_url": "https://chessnewsnetwork.com/article/from-sicilian-manuscripts-to-fischer-and-kasparov-how-one-reply-to-1-e4-became-t",
+    "original_title": "From Sicilian Manuscripts to Fischer and Kasparov: How One Reply to 1.e4 Became the Fighting Opening",
+    "swedish_title": "Sicilianskan: 400 år av schackhistoria kartläggs",
+    "swedish_content": "Chess News Network publicerar den andra delen i sin serie om schackets stora öppningar, denna gång om Sicilianska försvaret – draget 1.e4 c5. De tidigaste analyserna kommer från Italien: Giulio Polerio behandlade idén i ett manuskript daterat 1594, följd av Alessandro Salvio 1604, Don Pietro Carrera omkring 1617 och Gioachino Greco 1623. Själva namnet etablerades dock först 1813, då engelsmannen Jacob Henry Sarratt skrev fast \"the Sicilian Defence\" på engelska med stöd av ett äldre italienskt manuskript som talade om \"il gioco siciliano\".\n\nÖppningen möttes inte alltid med entusiasm. År 1777 kallade Philidor den \"absolut defensiv och långt ifrån den bästa\", även om han medgav att den kunde vara användbar mot okända motståndare. Under 1800-talet spelades den ändå flitigt, bland annat av La Bourdonnais mot McDonnell 1834 och av Staunton mot Saint-Amant 1843. Därefter följde en lång svacka: Paul Morphy misstrodde den, Wilhelm Steinitz föredrog 1...e5, och Capablanca beskrev den senare som en öppning där \"Black's game is full of holes\". Vid St Petersburg 1914 spelades den i inget av de 75 partierna, och vid New York 1924 dök den bara upp sex gånger av 110 partier.\n\nDen sovjetiska skolan återupplivade Sicilianskan på 1940- och 1950-talen, med namn som Botvinnik, Boleslavsky, Kotov och Bronstein. Miguel Najdorf gav sitt namn åt draget 5...a6, utformat för att förbereda ...e5 genom att hindra vits löpare från att ge schack på b5. Paul Keres introducerade 1943 det skarpa 6.g4, en linje som fortfarande bär hans namn. Redan 1901 döpte Fyodor Dus-Chotimirsky Drakvarianten, efter hur Blacks bönder på d6, e7, f7 och g6 formar ett drakliknande mönster.",
+    "date": "Thu, 29 Oct 2026 11:13:00 GMT",
+    "tag": "Chess News Network",
+    "processed_at": "2026-10-31T15:57:31.871442",
     "bild_alternativ": [
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/AndyWoodward2026.jpg/960px-AndyWoodward2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Vysotsky (Wikimedia Commons, CC BY-SA 4.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Luigi_Mussini-_Leonardo_da_Cutro_e_Ruy_Lopez_giocano_a_scacchi_alla_corte_di_Spagna.jpg/960px-Luigi_Mussini-_Leonardo_da_Cutro_e_Ruy_Lopez_giocano_a_scacchi_alla_corte_di_Spagna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Luigi Mussini (Wikimedia Commons, Public domain)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/TataSteelChess2026-10.jpg/960px-TataSteelChess2026-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Vysotsky (Wikimedia Commons, CC BY-SA 4.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Questo_Libro_%C3%A9_di_Giulio_Cesare_Polerio_Lancianese_al_Suo_Comando%2C_e_Deli_Amici_%C3%A0_Presso_-_DPLA_-_ac674fc3662f7318ab6e1486161f7cf3_%28page_2%29.jpg/960px-Questo_Libro_%C3%A9_di_Giulio_Cesare_Polerio_Lancianese_al_Suo_Comando%2C_e_Deli_Amici_%C3%A0_Presso_-_DPLA_-_ac674fc3662f7318ab6e1486161f7cf3_%28page_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Polerio, Giulio Cesare (Wikimedia Commons, Public domain)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/TataSteelChess2026-11.jpg/960px-TataSteelChess2026-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Vysotsky (Wikimedia Commons, CC BY-SA 4.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Carrera_Pietro.jpg/960px-Carrera_Pietro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Unknown author Unknown author (Wikimedia Commons, Public domain)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/TataSteelChess2026-40.jpg/960px-TataSteelChess2026-40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Vysotsky (Wikimedia Commons, CC BY-SA 4.0)"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/Af8ExHPW_B.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/Af8EmTgj3M.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/Af8F814iBz.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/AS5Evbh8c-.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Chess-_Rendered_Familiar_by_Tabular_Demonstrations_of_the_Various_Positions_and_Movements_%28IA_dli.granth.17888%29.pdf/page1-960px-Chess-_Rendered_Familiar_by_Tabular_Demonstrations_of_the_Various_Positions_and_Movements_%28IA_dli.granth.17888%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Pohlman, J. G. (Wikimedia Commons, Public domain)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Arjun_Erigaisi_in_2025.jpg/960px-Arjun_Erigaisi_in_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Frans Peeters (Wikimedia Commons, CC BY-SA 2.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Chess-_theory_%26_practice%3B_containing_the_laws_%26_history_of_the_game%2C_together_with_an_analysis_of_the_openings%2C_%26_a_treatise_of_end_games_..._%28IA_chesstheorypract00stau%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Staunton, Howard, 1810-1874 \n Wormald, Robert B., ed (Wikimedia Commons, Public domain)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/India_derby_Arjun_erigaisi_and_Vidit_gurjathi.jpg/960px-India_derby_Arjun_erigaisi_and_Vidit_gurjathi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: TheBoburshokh (Wikimedia Commons, CC BY 4.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Philidor_L_analyze_des_echecs.djvu/page1-960px-Philidor_L_analyze_des_echecs.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: François-André Danican Philidor (Wikimedia Commons, Public domain)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/TataSteelChess2023-11.jpg/960px-TataSteelChess2023-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Vysotsky (Wikimedia Commons, CC BY-SA 4.0)"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Gioachino_Greco_on_the_game_of_chess_-_DPLA_-_71f69c4615c194ee3f6833ee7d2ef333_%28page_133%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "kredit": "Foto: Greco, Gioachino (Wikimedia Commons, Public domain)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/TataSteelChess2026-34.jpg/960px-TataSteelChess2026-34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Vysotsky (Wikimedia Commons, CC BY-SA 4.0)"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Gioachino_Greco_on_the_game_of_chess_-_DPLA_-_71f69c4615c194ee3f6833ee7d2ef333_%28page_136%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "kredit": "Foto: Greco, Gioachino (Wikimedia Commons, Public domain)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Gioachino_Greco_on_the_game_of_chess_-_DPLA_-_71f69c4615c194ee3f6833ee7d2ef333_%28page_19%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "kredit": "Foto: Greco, Gioachino (Wikimedia Commons, Public domain)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Gioachino_Greco_on_the_game_of_chess_-_DPLA_-_71f69c4615c194ee3f6833ee7d2ef333_%28page_96%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "kredit": "Foto: Greco, Gioachino (Wikimedia Commons, Public domain)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/A_Treatise_on_the_Game_of_Chess_...-_containing_a_regular_system_of_attack_and_defense%3B_also_..._%28IA_atreatiseongame00sarrgoog%29.pdf/page1-500px-A_Treatise_on_the_Game_of_Chess_...-_containing_a_regular_system_of_attack_and_defense%3B_also_..._%28IA_atreatiseongame00sarrgoog%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Jacob Henry Sarratt (Wikimedia Commons, Public domain)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/A_Treatise_on_the_Game_of_Chess_...-_containing_a_regular_system_of_attack_and_defense%3B_also_..._%28IA_atreatiseongame01sarrgoog%29.pdf/page1-500px-A_Treatise_on_the_Game_of_Chess_...-_containing_a_regular_system_of_attack_and_defense%3B_also_..._%28IA_atreatiseongame01sarrgoog%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Jacob Henry Sarratt (Wikimedia Commons, Public domain)"
       }
     ]
+  },
+  {
+    "source": "ChessBase España",
+    "original_url": "https://es.chessbase.com/post/ajedrez-patrimonio-cultural-inmaterial-uvencio-blanco",
+    "original_title": "El ajedrez como patrimonio cultural inmaterial: argumentos históricos y educativos",
+    "swedish_title": "Förslag om schack som kulturarv hos UNESCO",
+    "swedish_content": "Uvencio Blanco Hernández, ordförande för Venezuelas schackförbund (FVA) och för FIDE:s kommission för skolschack, har i över tre decennier drivit frågan om att få schack erkänt som immateriellt kulturarv av UNESCO. Förslaget presenterades under FIDE:s LXXXI kongress i Khanty-Mansijsk och godkändes av generalförsamlingen den 30 september, dokumenterat i bilaga 39 till mötesprotokollet. År 2021 publicerade Blanco Hernández boken \"Ajedrez, Patrimonio Cultural de la Humanidad\" på Amazon, där den historiska, filosofiska och pedagogiska grunden för förslaget utvecklas. FIDE:s exekutivråd har nyligen beslutat att granska ansökan på nytt, och förhoppningen är att den nya ledningen under Timur Turlov ska driva processen vidare enligt UNESCO:s krav.",
+    "date": "Fri, 30 Oct 2026 18:10:00 GMT",
+    "tag": "ChessBase España",
+    "processed_at": "2026-10-31T15:57:59.272094",
+    "bild_alternativ": []
   }
 ]
