@@ -1,309 +1,133 @@
 [
   {
-    "id": "e64e0ec6acb0",
+    "id": "2338c35f1433",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/sindarov-wins-2026-clutch-chess-champions-showdown",
-        "title": "Sindarov Wins 2026 Clutch Chess Champions Showdown",
-        "date": "2026-10-29T11:28:21.519632",
+        "url": "https://www.chess.com/news/view/movahed-wins-freestyle-friday-october-30-2026",
+        "title": "Movahed Wins Freestyle Friday October 30 2026",
+        "date": "2026-10-30T10:59:15.781372",
         "tag": "Chess.com"
-      },
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-10-30T10:59:15.781372",
+    "hittad": "2026-10-31T11:00:36.506706"
+  },
+  {
+    "id": "09ee9710b404",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/sarana-arjun-3-0-thursday-10-29-2026",
+        "title": "Sarana Arjun 3 0 Thursday 10 29 2026",
+        "date": "2026-10-30T10:59:15.781409",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-10-30T10:59:15.781409",
+    "hittad": "2026-10-31T11:00:36.506718"
+  },
+  {
+    "id": "f26bd223e27e",
+    "status": "pending",
+    "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/clutch-chess-showdown-2026-3",
-        "title": "Sindarov takes Clutch Chess title ahead of World Championship match",
-        "date": "Fri, 30 Oct 2026 05:20:00 GMT",
+        "url": "https://en.chessbase.com/post/chess-in-education-international-conference-almaty",
+        "title": "International conference \"Chess in Education\" to b­­e held in Almaty",
+        "date": "Sat, 31 Oct 2026 01:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "Javokhir Sindarov won the Clutch Chess: Champions Showdown in Saint Louis after overturning a 2½-point deficit on the final day. The Uzbek grandmaster scored three wins and three draws on Thursday, including a brilliant tactical victory over Hikaru Nakamura from the black side of a King's Indian Defence. Praggnanandhaa Rameshbabu finished second, 1½ points behind. The result gives Sindarov a tournament victory less than a month before his World Championship match against Gukesh Dommaraju in Geneva. | Photo: Lennart Ootes / Saint Louis Chess Club"
-      },
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/clutch-chess-champions-showdown-2026-bilan-10123.html",
-        "title": "Clutch Chess Champions Showdown 2026Clutch Chess : Sindarov s’impose avant son match contre Gukesh !",
-        "date": "2026-10-29T11:28:56.319252",
-        "tag": "Europe Echecs"
+        "_rss_content": "Almaty will host the 4th International Scientific and Practical Conference \"Chess in Education\" on 12–13 November at Narxoz University. Organised as part of Kazakhstan's national chess development plan, the event will focus on expanding school chess, improving teacher training and integrating chess more systematically into education. FIDE President Timur Turlov and international specialists will join discussions on cognitive development, curriculum design, digital tools and the training of educators. | Image: FIDE"
       }
     ],
-    "kalla_display": "Chess.com + ChessBase + Europe Echecs",
-    "datum": "2026-10-29T11:28:21.519632",
-    "hittad": "2026-10-30T11:29:52.981953"
+    "kalla_display": "ChessBase",
+    "datum": "Sat, 31 Oct 2026 01:00:00 GMT",
+    "hittad": "2026-10-31T11:00:36.506723"
   },
   {
-    "id": "c229fec05048",
+    "id": "f05257316d06",
     "status": "pending",
     "rubriker": [
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/clutch-chess-champions-showdown-2026-jour-1-10121.html",
-        "title": "Lire l'articleClutch Chess Champions Showdown 2026Clutch Chess : Nakamura en tête après la première journée3",
-        "date": "2026-10-29T11:28:56.319314",
-        "tag": "Europe Echecs"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/hikaru-clutches-day-1",
-        "title": "Hikaru Clutches Day 1",
-        "date": "Wed, 28 Oct 2026 12:25:57 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Nakamura Leads the Champions Showdown After an Unbeaten Day One, While Praggnanandhaa, Fresh Off His Grand Chess Tour Win, Finishes Last"
-      }
-    ],
-    "kalla_display": "Chess News Network + Europe Echecs",
-    "datum": "2026-10-29T11:28:56.319314",
-    "hittad": "2026-10-30T11:29:52.981970"
-  },
-  {
-    "id": "abfdfca65806",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/clutch-chess-champions-showdown-2026-jour-2-10122.html",
-        "title": "Lire l'articleClutch Chess Champions Showdown 2026Clutch Chess : Pragg passe de dernier à premier, Nakamura fait le chemin inverse !4",
-        "date": "2026-10-29T11:28:56.319292",
-        "tag": "Europe Echecs"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/pragg-turning-everything-around",
-        "title": "Pragg Turning Everything Around",
-        "date": "Thu, 29 Oct 2026 10:59:38 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Praggnanandhaa goes from last to first on day two of the champions showdown, beating Nakamura twice and leaving him at the bottom."
-      }
-    ],
-    "kalla_display": "Chess News Network + Europe Echecs",
-    "datum": "2026-10-29T11:28:56.319292",
-    "hittad": "2026-10-30T11:29:52.981978"
-  },
-  {
-    "id": "4909af78b86d",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/istanbul-to-host-2026-world-rapid-blitz-championships",
-        "title": "Istanbul To Host 2026 World Rapid Blitz Championships",
-        "date": "2026-10-29T11:28:21.519661",
-        "tag": "Chess.com"
-      },
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/fide-world-rapid-blitz-ch-2026-venue",
-        "title": "Istanbul to host FIDE World Rapid and Blitz Championships 2026",
-        "date": "Fri, 30 Oct 2026 01:30:00 GMT",
+        "url": "https://en.chessbase.com/post/chess-revival-simpsons-in-strand",
+        "title": "A chess revival at Simpson's-in-the-Strand",
+        "date": "Fri, 30 Oct 2026 18:30:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "Istanbul will host the 2026 FIDE World Rapid and Blitz Championships from 25 to 30 December, with hundreds of players expected to compete for four world titles in the open and women's sections. Freedom Holding Corp. will serve as title sponsor. The event marks another major international chess competition in Türkiye, which has hosted the Olympiad and several youth championships while continuing to expand chess through schools and national development programmes."
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/rapid-blitz-championships-coming-to-istanbul",
-        "title": "Rapid & Blitz Championships Coming to Istanbul",
-        "date": "Thu, 29 Oct 2026 19:50:01 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Istanbul Will Host the 2026 World Rapid and Blitz Championships Through December 30, With Carlsen Defending Two Titles"
+        "_rss_content": "The London chess café Simpson's-in-the-Strand was, for a time, a meeting place for the world's leading players. Now, thanks to Jeremy King and Jason Kouchak, the historic venue is enjoying a revival not only as a top restaurant but also as a gathering place for chess enthusiasts. | Photos: Chiao Lee"
       }
     ],
-    "kalla_display": "Chess News Network + Chess.com + ChessBase",
-    "datum": "2026-10-29T11:28:21.519661",
-    "hittad": "2026-10-30T11:29:52.981986"
+    "kalla_display": "ChessBase",
+    "datum": "Fri, 30 Oct 2026 18:30:00 GMT",
+    "hittad": "2026-10-31T11:00:36.506727"
   },
   {
-    "id": "ebf7a615a787",
+    "id": "529b2f9fe4e9",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/gothamchess-harry-kane-michael-olise-bayern-munich",
-        "title": "Gothamchess Harry Kane Michael Olise Bayern Munich",
-        "date": "2026-10-29T11:28:21.519685",
-        "tag": "Chess.com"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/gothamchess-meets-soccer-stars-for-chess-match",
-        "title": "GothamChess Meets Soccer Stars for Chess Match",
-        "date": "Thu, 29 Oct 2026 17:33:00 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "International Master Levy Rozman plays chess with Harry Kane and Michael Olise at Bayern Munich"
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/lhamsuren-myagmarsuren-1938-2026",
+        "title": "Lhamsuren Myagmarsuren (1938-2026)",
+        "date": "Fri, 30 Oct 2026 13:00:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Bobby Fischer fans in particular will probably be familiar with the name Lhamsuren Myagmarsuren. At the Interzonal Tournament in Sousse 1967, Fischer defeated him in a brilliant game that is still frequently cited. On 26 October, the multiple Mongolian champion, who represented his country on numerous occasions, died at the age of 88. | Foto: https://montsame.mn/"
       }
     ],
-    "kalla_display": "Chess News Network + Chess.com",
-    "datum": "2026-10-29T11:28:21.519685",
-    "hittad": "2026-10-30T11:29:52.981993"
+    "kalla_display": "ChessBase",
+    "datum": "Fri, 30 Oct 2026 13:00:00 GMT",
+    "hittad": "2026-10-31T11:00:36.506730"
   },
   {
-    "id": "579b5aae572a",
+    "id": "b115db766ad9",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettantopp/2026/10/ulf-andersson-vann-sin-egen-turnering/?utm_source=rss&utm_medium=rss&utm_campaign=ulf-andersson-vann-sin-egen-turnering",
+        "url": "https://schack.se/nyhet/damschack/2026/10/lyckade-damweekends-pa-gotland-och-i-smaland/?utm_source=rss&utm_medium=rss&utm_campaign=lyckade-damweekends-pa-gotland-och-i-smaland",
+        "title": "Lyckade Damweekends på Gotland och i Småland",
+        "date": "Fri, 30 Oct 2026 11:59:04 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Under oktober har både Hemse allmänna SK som Smålands SF arrangerat varsin Damweekend, som schack.se tidigare rapporterat om. Den här typen av träffar är viktiga för att bidra till en [&#8230;] Inlägget Lyckade Damweekends på Gotland och i Småland dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Fri, 30 Oct 2026 11:59:04 +0000",
+    "hittad": "2026-10-31T11:00:36.506733"
+  },
+  {
+    "id": "e08af75c4568",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/ettantopp3/2026/10/ulf-andersson-vann-sin-egen-turnering/?utm_source=rss&utm_medium=rss&utm_campaign=ulf-andersson-vann-sin-egen-turnering",
         "title": "Ulf Andersson vann sin egen turnering",
         "date": "Thu, 29 Oct 2026 19:23:54 +0000",
         "tag": "Svenska Schackförbundet",
         "_rss_content": "Med 5 poäng av 7 möjliga vann GM Ulf Andersson den 16 spelare starka snabbschacksturneringen &#8221;Svarta Hästen Invitational&#8221; på torsdagen. Stormästarkollegan Harry Schüssler slutade på samma poäng (Ulf hade 26 [&#8230;] Inlägget Ulf Andersson vann sin egen turnering dök först upp på Sveriges Schackförbund ."
-      },
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/sverige/2026/10/startfaltet-klart-infor-ulfs-jubileumsturnering/?utm_source=rss&utm_medium=rss&utm_campaign=startfaltet-klart-infor-ulfs-jubileumsturnering",
-        "title": "Startfältet klart inför Ulfs jubileumsturnering",
-        "date": "Tue, 27 Oct 2026 11:15:21 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Under veckan så hedras GM Ulf Andersson, som fyllde 75 år i somras. Och som valdes in i världsschackförbundets Hall Of Fame i St Louis, USA under helgen som gick. [&#8230;] Inlägget Startfältet klart inför Ulfs jubileumsturnering dök först upp på Sveriges Schackförbund ."
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/ulf-andersson-celebrates-75th-birthday-year-with-stockholm-invitational",
-        "title": "Ulf Andersson celebrates 75th birthday year with Stockholm invitational",
-        "date": "Thu, 29 Oct 2026 07:44:55 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Fresh from his induction into the World Chess Hall of Fame, Ulf Andersson will join friends and fellow grandmasters for the Svarta Hästen Invitational in Stockholm on Thursday, 29 October."
-      }
-    ],
-    "kalla_display": "Chess News Network + Schack.se",
-    "datum": "Thu, 29 Oct 2026 19:23:54 +0000",
-    "hittad": "2026-10-30T11:29:52.982001",
-    "liknar": {
-      "titel": "Startfältet klart inför Ulf Anderssons jubileumsturnering",
-      "url": "https://gambit.se/startfaltet-klart-infor-ulf-anderssons-jubileumsturnering/",
-      "datum": "2026-10-28"
-    }
-  },
-  {
-    "id": "911cf430291f",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/sverige/2026/10/os-trio-ar-med-sa-foljer-du-stockholm-grand-prix/?utm_source=rss&utm_medium=rss&utm_campaign=os-trio-ar-med-sa-foljer-du-stockholm-grand-prix",
-        "title": "OS-trio är med – så följer du Stockholm Grand Prix",
-        "date": "Thu, 29 Oct 2026 22:41:39 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Jung Min Seo, Edvin Trost och Lavinia Valcu – det är tre OS-spelare som är med i Stockholm Grand Prix under allhelgonahelgen. Totalt är drygt 200 spelare anmälda – och [&#8230;] Inlägget OS-trio är med – så följer du Stockholm Grand Prix dök först upp på Sveriges Schackförbund ."
-      },
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/sverige/2026/10/stockholm-grand-prix-blir-granne-med-globen/?utm_source=rss&utm_medium=rss&utm_campaign=stockholm-grand-prix-blir-granne-med-globen",
-        "title": "Stockholm Grand Prix blir granne med Globen",
-        "date": "Wed, 28 Oct 2026 17:06:25 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Stockholm Grand Prix som ingår i Svenskt Grand Prix avgörs under allhelgonahelgen 30 oktober–1 november. Nu har arrangören Stockholms Schacksällskap publicerat årets inbjudan. Där framgår det att tävlingen flyttar till [&#8230;] Inlägget Stockholm Grand Prix blir granne med Globen dök först upp på Sveriges Schackförbund ."
       }
     ],
     "kalla_display": "Schack.se",
-    "datum": "Thu, 29 Oct 2026 22:41:39 +0000",
-    "hittad": "2026-10-30T11:29:52.982008"
+    "datum": "Thu, 29 Oct 2026 19:23:54 +0000",
+    "hittad": "2026-10-31T11:00:36.506737",
+    "liknar": {
+      "titel": "Ulf Andersson vann egen jubileumsturnering",
+      "url": "https://gambit.se/?p=3810",
+      "datum": "2026-10-31"
+    }
   },
   {
-    "id": "954bf6b88f63",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-clutch-chess-champions-showdown-day-2",
-        "title": "2026 Clutch Chess Champions Showdown Day 2",
-        "date": "2026-10-29T11:28:21.519712",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-10-29T11:28:21.519712",
-    "hittad": "2026-10-30T11:29:52.982017"
-  },
-  {
-    "id": "f034665811bb",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/oro-taher-lead-9z-globant-to-victory-in-october-chess-club-showdown",
-        "title": "Oro Taher Lead 9Z Globant To Victory In October Chess Club Showdown",
-        "date": "2026-10-29T11:28:21.519737",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-10-29T11:28:21.519737",
-    "hittad": "2026-10-30T11:29:52.982024"
-  },
-  {
-    "id": "46c27f7e4849",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/stellar-line-up-for-2026-xtx-london-chess-classic",
-        "title": "Stellar line-up for 2026 XTX London Chess Classic",
-        "date": "Thu, 29 Oct 2026 22:30:25 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "The full ten-player line-up for the 2026 XTX Markets London Chess Classic has been announced, bringing together some of the biggest names in world chess for the UK's most prestigious international tournament. Defending champion Nodirbek Abdusattorov, the Uzbek world number five, will return to London seeking to become the first player since Magnus Carlsen in 2010 to win back-to-back Classic titles. Tennis star Andy Murray makes the ceremonial first move on Nodirbek Abdusattorov's board at the 2025 London Chess Classic, while tournament director Malcolm Pein looks on and provides commentary. | Photo: London Chess Classic"
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Thu, 29 Oct 2026 22:30:25 GMT",
-    "hittad": "2026-10-30T11:29:52.982029"
-  },
-  {
-    "id": "403361fba36b",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/clutch-chess-showdown-2026-live",
-        "title": "Clutch Chess: Champions Showdown - Live!",
-        "date": "Thu, 29 Oct 2026 17:45:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Clutch Chess: Champions Showdown is a high-profile rapid tournament gathering four elite competitors. Javokhir Sindarov, who is set to challenge Gukesh Dommaraju for the World Championship title next month, joins Fabiano Caruana, Hikaru Nakamura and Praggnanandhaa Rameshbabu in a three-day battle. The competition runs from 27 to 29 October and follows a \"clutch\" structure of three double round-robins, where results become progressively more valuable with each round-robin. | Follow the action live starting at 18.00 CET (13.00 ET, 22.30 IST) | Photo: Lennart Ootes"
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Thu, 29 Oct 2026 17:45:00 GMT",
-    "hittad": "2026-10-30T11:29:52.982035"
-  },
-  {
-    "id": "6126ef046903",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/kazchess-masters-almaty-2026-r3",
-        "title": "KazChess Masters: Mamedov and Makhnev set the pace in Almaty",
-        "date": "Wed, 28 Oct 2026 23:40:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Kazakh grandmasters Edgar Mamedov (pictured) and Denis Makhnev share the lead at the KazChess Masters in Almaty after three rounds, both with 2½ points. Mamedov, aged 16, started with two consecutive wins, while Makhnev caught up by defeating Aram Hakobyan in round three. Three of the five international participants - Daniil Dubov, Shamsiddin Vokhidov and Denis Lazavik - are half a point behind the leading duo. | Photo: Nils Rohde / ChessBase"
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Wed, 28 Oct 2026 23:40:00 GMT",
-    "hittad": "2026-10-30T11:29:52.982040"
-  },
-  {
-    "id": "e86f1fbaa412",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/dragons-of-the-olympiad-2026-the-monthly-dragon",
-        "title": "Dragons of the Olympiad 2026 - The Monthly Dragon",
-        "date": "Wed, 28 Oct 2026 14:31:20 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "In this Olympiad special of the Monthly Dragon, Chris Ward looks at five Dragon games from a wide range of rating levels and shows just how successful the opening was in Samarkand. The examples highlight typical Dragon themes such as pressure on the c file, the strength of the dark squared bishop, exchange sacrifices, tactical ideas around the queenside and the importance of knowing the right plans once the opening theory ends. Chris also examines several instructive mistakes, showing how quickly a position can collapse when White loses track of key Dragon motifs. | Photo: John Upham"
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Wed, 28 Oct 2026 14:31:20 GMT",
-    "hittad": "2026-10-30T11:29:52.982046"
-  },
-  {
-    "id": "34bf26b0147e",
+    "id": "998817bfd68a",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettan4/2026/10/studentlag-sm-2027-spelas-i-vaxjo/?utm_source=rss&utm_medium=rss&utm_campaign=studentlag-sm-2027-spelas-i-vaxjo",
+        "url": "https://schack.se/nyhet/sverige/2026/10/studentlag-sm-2027-spelas-i-vaxjo/?utm_source=rss&utm_medium=rss&utm_campaign=studentlag-sm-2027-spelas-i-vaxjo",
         "title": "Studentlag-SM 2027 spelas i Växjö",
         "date": "Thu, 29 Oct 2026 11:22:41 +0000",
         "tag": "Svenska Schackförbundet",
@@ -312,226 +136,196 @@
     ],
     "kalla_display": "Schack.se",
     "datum": "Thu, 29 Oct 2026 11:22:41 +0000",
-    "hittad": "2026-10-30T11:29:52.982051"
+    "hittad": "2026-10-31T11:00:36.506743"
   },
   {
-    "id": "2090fcb20a43",
+    "id": "a227025afe7f",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/sverige/2026/10/kampen-om-normer-pagar-i-upplands-vasby/?utm_source=rss&utm_medium=rss&utm_campaign=kampen-om-normer-pagar-i-upplands-vasby",
-        "title": "Kampen om normer pågår i Upplands Väsby",
-        "date": "Wed, 28 Oct 2026 12:31:33 +0000",
+        "url": "https://schack.se/nyhet/ettan5/2026/10/gm-korneev-vann-vastgota-open/?utm_source=rss&utm_medium=rss&utm_campaign=gm-korneev-vann-vastgota-open",
+        "title": "GM Korneev vann Västgöta Open",
+        "date": "Tue, 27 Oct 2026 09:22:56 +0000",
         "tag": "Svenska Schackförbundet",
-        "_rss_content": "Tre Young Talents-turneringar av GM- och IM-format, med sammanlagt 30 spelare, pågår just nu i Upplands Väsby utanför Stockholm. Redan under den första speldagen så spelades en del intressanta pariter, [&#8230;] Inlägget Kampen om normer pågår i Upplands Väsby dök först upp på Sveriges Schackförbund ."
+        "_rss_content": "GM Oleg Korneev, bosatt i Spanien, vann årets upplaga av Västgöta Open med 6,5 poäng av 7 möjliga. Korneev deltar just nu i en GM-turnering i Upplands Väsby utanför Stockholm, [&#8230;] Inlägget GM Korneev vann Västgöta Open dök först upp på Sveriges Schackförbund ."
       }
     ],
     "kalla_display": "Schack.se",
-    "datum": "Wed, 28 Oct 2026 12:31:33 +0000",
-    "hittad": "2026-10-30T11:29:52.982056"
+    "datum": "Tue, 27 Oct 2026 09:22:56 +0000",
+    "hittad": "2026-10-31T11:00:36.506746"
   },
   {
-    "id": "93c4ea582c21",
+    "id": "176c3b14d40d",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/gaurav-zagade-chess-parenting-book",
-        "title": "SpotlightTop storyRasika Ratnaparkhi·5 hours agoPsychologist Gaurav Zagade Writes a Guide to Chess Parenting",
-        "date": "2026-10-29T11:28:44.047782",
+        "url": "https://www.chessbase.in/news/1st-chola-chess-gm-2026-round-1-report",
+        "title": "SpotlightTop storyDevansh Singh·15 hours ago1st Chola Chess GM 2026 R1: Aravindh Leads the Charge While Youngsters Stun Grandmasters",
+        "date": "2026-10-30T10:59:37.494576",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-10-29T11:28:44.047782",
-    "hittad": "2026-10-30T11:29:52.982061"
+    "datum": "2026-10-30T10:59:37.494576",
+    "hittad": "2026-10-31T11:00:36.506750"
   },
   {
-    "id": "793e7cf39fdd",
+    "id": "80e0d42ba419",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/les-mondiaux-de-rapide-et-blitz-2026-auront-lieu-a-istanbul-10124.html",
+        "title": "Lire l'articleLes Mondiaux de rapide et blitz 2026 auront lieu à Istanbul3",
+        "date": "2026-10-30T10:59:48.022080",
+        "tag": "Europe Echecs"
+      }
+    ],
+    "kalla_display": "Europe Echecs",
+    "datum": "2026-10-30T10:59:48.022080",
+    "hittad": "2026-10-31T11:00:36.506752",
+    "liknar": {
+      "titel": "Istanbul värd för VM i snabbschack och blixt 2026",
+      "url": "https://gambit.se/?p=3806",
+      "datum": "2026-10-31"
+    }
+  },
+  {
+    "id": "1c72408364ef",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "TWIC",
+        "url": "https://theweekinchess.com/chessnews/events/clutch-chess-champions-showdown-2026",
+        "title": "Clutch Chess: Champions Showdown 2026 - Games and results",
+        "date": "Fri Oct 30 13:53:00 2026",
+        "tag": "TWIC",
+        "_rss_content": "The Clutch Chess: Champions Showdown took place Tue 27th Oct 2026 to 29th Oct 2026. The idea of the event is to have increasing scores from day 1 to day 3 so that the scoring is volatile and likely there will be something to play for right to the end. Javokhir Sindarov won the event with a draw in the final round, if Praggnanandhaa had won he would have taken the event. That said the players finished in exactly the order they would have finished with standard scoring."
+      }
+    ],
+    "kalla_display": "TWIC",
+    "datum": "Fri Oct 30 13:53:00 2026",
+    "hittad": "2026-10-31T11:00:36.506755"
+  },
+  {
+    "id": "a54ffec500a5",
     "status": "pending",
     "rubriker": [
       {
         "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/10/29/flere-undervisningshold-i-skakkens-hus-hjernens-motionscenter/?utm_source=rss&utm_medium=rss&utm_campaign=flere-undervisningshold-i-skakkens-hus-hjernens-motionscenter",
-        "title": "Flere undervisningshold i Skakkens Hus – hjernens motionscenter®",
-        "date": "Thu, 29 Oct 2026 09:00:00 +0000",
+        "url": "https://nyheder.skak.dk/2026/10/30/skakligaen-2026-27-starter-i-skanderborg/?utm_source=rss&utm_medium=rss&utm_campaign=skakligaen-2026-27-starter-i-skanderborg",
+        "title": "Skakligaen 2026/27 starter i Skanderborg",
+        "date": "Fri, 30 Oct 2026 15:42:44 +0000",
         "tag": "Dansk Skak Union",
-        "_rss_content": "Dansk Skoleskaks generalsekretær, Mads Jacobsen, skriver til skak.dk om de udvidede undervisningstilbud i Skakkens Hus &#8211; hjernens motionscenter®: Undervisningen i Skakkens Hus – hjernens motionscenter® går godt, så der nu udvides med flere hold – alt imens vi venter på at håndværkerne bliver helt færdige (se billede ovenfor). Bl.a. får Sarah Derlich sit eget hold [&#8230;]"
+        "_rss_content": "Skakligaen skydes i gang i weekenden 31. oktober – 1. november ved et stævne på Morten Børup Skolen i Skanderborg. Lørdag starter man kl. 14.00 mens anden runde spilles søndag kl. 10.00. Der vil være live-dækning af alle partier. De ti hold i skakligaen i lodtrækningsorden: Hillerød1. GM Jesper Søndergård Thybo2. GM Sune Berg Hansen3. [&#8230;]"
       }
     ],
     "kalla_display": "Dansk Skak Union",
-    "datum": "Thu, 29 Oct 2026 09:00:00 +0000",
-    "hittad": "2026-10-30T11:29:52.982068"
+    "datum": "Fri, 30 Oct 2026 15:42:44 +0000",
+    "hittad": "2026-10-31T11:00:36.506758"
   },
   {
-    "id": "ce2e7e797e6f",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/10/28/mikkel-manosris-kontrakt-forlaenget/?utm_source=rss&utm_medium=rss&utm_campaign=mikkel-manosris-kontrakt-forlaenget",
-        "title": "Mikkel Manosris kontrakt forlænget",
-        "date": "Wed, 28 Oct 2026 11:47:42 +0000",
-        "tag": "Dansk Skak Union",
-        "_rss_content": "FU-medlem Christian Thelin skriver til skak.dk: DSU forlænger samarbejdet med kvindelandstrænerenBeslutningen kommer efter en grundig evaluering af både forberedelserne frem mod skakolympiaden i Samarkand og selve turneringsforløbet. Målet er at bygge videre på den positive udvikling og samtidig styrke rammerne for kvindelandsholdet frem mod de kommende opgaver Overordnet set vurderer DSU, at holdets resultatmæssige præstation [&#8230;]"
-      }
-    ],
-    "kalla_display": "Dansk Skak Union",
-    "datum": "Wed, 28 Oct 2026 11:47:42 +0000",
-    "hittad": "2026-10-30T11:29:52.982073"
-  },
-  {
-    "id": "559ac4793710",
+    "id": "0c4bf28b96c8",
     "status": "pending",
     "rubriker": [
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/30/eliteserien-2026-27-starter/",
-        "title": "Eliteserien 2026-27 starter",
-        "date": "Fri, 30 Oct 2026 05:40:16 +0000",
+        "url": "https://bergensjakk.no/2026/10/31/eliteserien-2026-27-1-runde/",
+        "title": "Eliteserien 2026-27 – 1. runde",
+        "date": "Sat, 31 Oct 2026 06:30:01 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "I&#160;dag starter Eliteserien 2026-27. De tre første rundene spilles på Lambertseter gård i Oslo fra fredag 30. oktober til søndag 1. november 2026. Lagoppstillingene til alle helgens kamper ble offentliggjort torsdag kveld hos Turneringsservice: 1.&#160;runde &#124; 2. runde &#124; 3. runde. Den første helgen er det 11 stormestre i aksjon. Favoritter denne sesongen blir de Les mer"
+        "_rss_content": "1.&#160;runde i Eliteserien 2026-27 ble spilt fredag 30. oktober 2026 på Lambertseter gård i Oslo. De regjerende mesterene OSS fikk en drømmestart med knusende 6-0 mot Hell. På vinnerlaget var bl.a. stormestrene GM Jon Ludvig Hammer (2573), GM Elham Amar (2567) og GM Lars Oskar Hauge (2485). Porsgrunn mot Offerspill var en kamp mellom to Les mer"
       }
     ],
     "kalla_display": "Bergensjakk",
-    "datum": "Fri, 30 Oct 2026 05:40:16 +0000",
-    "hittad": "2026-10-30T11:29:52.982078"
+    "datum": "Sat, 31 Oct 2026 06:30:01 +0000",
+    "hittad": "2026-10-31T11:00:36.506761"
   },
   {
-    "id": "ac7f5cd985a9",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/29/fagernes-chess-international-fortsetter-i-2027/",
-        "title": "Fagernes Chess International fortsetter i 2027",
-        "date": "Thu, 29 Oct 2026 19:14:57 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "Det blir sjakkfestival på Fagernes også i påsken 2027. Hans Olav Lahlum og medhjelpere inviterer fra 20. til 28. mars til den fjortende utgaven av sjakkfestivalen Fagernes Chess International. Det blir en GM-gruppe og en åpen gruppe som begge spiller 10 runder langsjakk. I tillegg er det som vanlig pratelagsjakk og to lynsjakkturneringer på kveldstid. Les mer"
-      }
-    ],
-    "kalla_display": "Bergensjakk",
-    "datum": "Thu, 29 Oct 2026 19:14:57 +0000",
-    "hittad": "2026-10-30T11:29:52.982081"
-  },
-  {
-    "id": "bc55f04cbfab",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/10/29/rustadlynet-viii-gp-2026/",
-        "title": "Rustadlynet VIII GP 2026",
-        "date": "Thu, 29 Oct 2026 05:22:42 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "Rustad Sjakklubb i Oslo arrangerte Rustadlynet VIII GP onsdag 28. oktober 2026. Turneringen inngår i Norges Grand Prix 2026-27 og hadde 75 deltakere. CM Daniel Arvola tok en overlegen førsteplass i A-gruppen. Juniorspilleren fra Vestby vant alle sine 9 partier og endte mer enn 4 poeng over forventet score. Dette ga en ratingframgang på hele Les mer"
-      }
-    ],
-    "kalla_display": "Bergensjakk",
-    "datum": "Thu, 29 Oct 2026 05:22:42 +0000",
-    "hittad": "2026-10-30T11:29:52.982084"
-  },
-  {
-    "id": "e7ab7f520cb9",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "English Chess Federation",
-        "url": "https://www.englishchess.org.uk/english-championships-final-round-change-of-timing-important/",
-        "title": "English Championships final round change of timing – important!",
-        "date": "Thu, 29 Oct 2026 16:16:07 +0000",
-        "tag": "English Chess Federation",
-        "_rss_content": "Owing to unforeseen circumstances, the organisers are having to move the final round of the English Championships forward to 12 noon on Saturday 31st October (this Saturday). If you have..."
-      }
-    ],
-    "kalla_display": "English Chess Federation",
-    "datum": "Thu, 29 Oct 2026 16:16:07 +0000",
-    "hittad": "2026-10-30T11:29:52.982087"
-  },
-  {
-    "id": "fcc75c006f38",
+    "id": "34d8221a1674",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/andy-woodward-continues-his-magnificent-year",
-        "title": "Andy Woodward Continues His Magnificent Year",
-        "date": "Fri, 30 Oct 2026 10:15:00 GMT",
+        "url": "https://chessnewsnetwork.com/article/rosenstein-responds-to-accusations",
+        "title": "Rosenstein Responds to Accusations",
+        "date": "Fri, 30 Oct 2026 20:19:00 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "Andy Woodwards wins his first Titled Tuesday, continuing his year of big results."
+        "_rss_content": "Rosenstein has answered the sanctions accusations in detail, and no finding has been reported. Allegations are not evidence, and his complaint deserves an answer."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Fri, 30 Oct 2026 10:15:00 GMT",
-    "hittad": "2026-10-30T11:29:52.982090"
+    "datum": "Fri, 30 Oct 2026 20:19:00 GMT",
+    "hittad": "2026-10-31T11:00:36.506763"
   },
   {
-    "id": "8b08a48262a8",
+    "id": "1dbab0f8224c",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/dutch-player-got-fm-title-for-free",
-        "title": "Dutch Player Got FM Title For Free",
-        "date": "Wed, 28 Oct 2026 19:59:13 GMT",
+        "url": "https://chessnewsnetwork.com/article/fide-presents-administrative-team",
+        "title": "FIDE Presents Administrative Team",
+        "date": "Fri, 30 Oct 2026 16:34:02 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "A 2113-Rated Dutch Player Collects an FM Title at the European Club Cup, and a Croatian Creator Says the Rules Need Changing"
+        "_rss_content": "FIDE names the first members of its new administrative team, led by Secretary General Alina Dvoretskaya and including GM Pavel Tregubov."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Wed, 28 Oct 2026 19:59:13 GMT",
-    "hittad": "2026-10-30T11:29:52.982093"
+    "datum": "Fri, 30 Oct 2026 16:34:02 GMT",
+    "hittad": "2026-10-31T11:00:36.506765"
   },
   {
-    "id": "53e743fa00ad",
+    "id": "841179306fdd",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/are-titles-and-ratings-overrated",
-        "title": "Are Titles and Ratings Overrated?",
-        "date": "Wed, 28 Oct 2026 19:48:25 GMT",
+        "url": "https://chessnewsnetwork.com/article/from-sicilian-manuscripts-to-fischer-and-kasparov-how-one-reply-to-1-e4-became-t",
+        "title": "From Sicilian Manuscripts to Fischer and Kasparov: How One Reply to 1.e4 Became the Fighting Opening",
+        "date": "Thu, 29 Oct 2026 11:13:00 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "Hikaru Nakamura Says Titles and Ratings No Longer Tell the Whole Story, and Points to 17-Year-Old Iranian FM Artin Ashraf as Proof"
+        "_rss_content": "One move. That is all it takes. White plays 1.e4, Black answers 1...c5, and from that instant the game is no longer a polite conversation"
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Wed, 28 Oct 2026 19:48:25 GMT",
-    "hittad": "2026-10-30T11:29:52.982096"
+    "datum": "Thu, 29 Oct 2026 11:13:00 GMT",
+    "hittad": "2026-10-31T11:00:36.506768"
   },
   {
-    "id": "973f90045fa9",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/game-of-the-day-gm-shamsiddin-vokhidov-beats-gm-mahammad-muradli",
-        "title": "Game of the Day: GM Shamsiddin Vokhidov Beats GM Mahammad Muradli",
-        "date": "Wed, 28 Oct 2026 11:46:50 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "GM Shamsiddin Vokhidov beat GM Mahammad Muradli in round 2, board 4 of the KazChess Masters Almaty 2026, winning in 42 moves."
-      }
-    ],
-    "kalla_display": "Chess News Network",
-    "datum": "Wed, 28 Oct 2026 11:46:50 GMT",
-    "hittad": "2026-10-30T11:29:52.982099"
-  },
-  {
-    "id": "e95acb687ecd",
+    "id": "8fd35b1ff434",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/roman-shogdzhiev-segunda-norma-gm",
-        "title": "A los 11 años, Shogdzhiev queda a una norma del título de Gran Maestro",
-        "date": "Wed, 28 Oct 2026 21:40:00 GMT",
+        "url": "https://es.chessbase.com/post/clutch-chess-showdown-2026-reportaje",
+        "title": "Sindarov gana el Clutch Chess Champions Showdown, su último torneo antes del match ante Gukesh",
+        "date": "Fri, 30 Oct 2026 22:30:00 GMT",
         "tag": "ChessBase España",
-        "_rss_content": "Roman Shogdzhiev, de 11 años, consiguió su segunda norma de Gran Maestro tras sumar 6 puntos en 9 partidas en la Superliga de Serbia, donde representó al Partizan de Belgrado. El joven ruso ganó 26 puntos de Elo y ahora necesita una norma más para obtener el título de GM. A falta de ocho meses para que venza el plazo para superar el récord de precocidad de Abhimanyu Mishra, Shogdzhiev tiene grandes posibilidades de convertirse en el GM más joven de la historia. | Foto: Eteri Kublashvili"
+        "_rss_content": "Javokhir Sindarov se proclamó campeón del «Clutch Chess: Champions Showdown» en Saint Louis tras remontar una desventaja de 2½ puntos en la última jornada. El gran maestro uzbeko consiguió tres victorias y tres tablas el jueves, incluida una brillante victoria con negras ante Hikaru Nakamura en una Defensa India de Rey. Praggnanandhaa Rameshbabu terminó segundo, a 1½ puntos del ganador. Sindarov suma así un nuevo triunfo a menos de un mes de su encuentro por el Campeonato del Mundo contra Gukesh Dommaraju en Ginebra. | Foto: Lennart Ootes / Saint Louis Chess Club"
       }
     ],
     "kalla_display": "ChessBase España",
-    "datum": "Wed, 28 Oct 2026 21:40:00 GMT",
-    "hittad": "2026-10-30T11:29:52.982103"
+    "datum": "Fri, 30 Oct 2026 22:30:00 GMT",
+    "hittad": "2026-10-31T11:00:36.506770"
+  },
+  {
+    "id": "92b47f8647c4",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase España",
+        "url": "https://es.chessbase.com/post/ajedrez-patrimonio-cultural-inmaterial-uvencio-blanco",
+        "title": "El ajedrez como patrimonio cultural inmaterial: argumentos históricos y educativos",
+        "date": "Fri, 30 Oct 2026 18:10:00 GMT",
+        "tag": "ChessBase España",
+        "_rss_content": "El ajedrez puede entenderse no solo como juego y deporte, sino también como una tradición cultural transmitida y recreada durante siglos. El texto defiende su consideración como patrimonio cultural inmaterial a partir de su historia intercultural, su lenguaje propio, su memoria colectiva y su valor educativo. Al mismo tiempo, subraya que este reconocimiento exige preservar comunidades, prácticas y formas de transmisión, sin convertir una tradición viva en una pieza de museo. | Imagen (IA): Uvencio Blanco"
+      }
+    ],
+    "kalla_display": "ChessBase España",
+    "datum": "Fri, 30 Oct 2026 18:10:00 GMT",
+    "hittad": "2026-10-31T11:00:36.506773"
   }
 ]
