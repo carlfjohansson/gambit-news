@@ -1,324 +1,245 @@
 [
   {
-    "id": "d16a78496c6c",
+    "id": "71ca60227d8b",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/november-2026-fide-rating-list",
         "title": "November 2026 Fide Rating List",
-        "date": "2026-10-31T11:54:50.666871",
-        "tag": "Chess.com"
-      },
-      {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/fide-rating-list-november-2026",
-        "title": "SpotlightTop storyRasika Ratnaparkhi·3 hours agoFIDE Rating list November 2026: Nihal Sarin climbs into the World Top 20",
-        "date": "2026-10-31T11:55:13.082530",
-        "tag": "ChessBase India"
-      }
-    ],
-    "kalla_display": "Chess.com + ChessBase India",
-    "datum": "2026-10-31T11:54:50.666871",
-    "hittad": "2026-11-01T11:56:14.753506"
-  },
-  {
-    "id": "30acdc0798d4",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/carlsen-trains-with-abdusattorov-in-spain-ahead-of-total-chess-debut",
-        "title": "Carlsen Trains With Abdusattorov In Spain Ahead Of Total Chess Debut",
-        "date": "2026-10-31T11:54:50.666885",
+        "date": "2026-11-01T13:40:01.213971",
         "tag": "Chess.com"
       },
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/carlsen-prepares-for-total-chess-debut-with-training-camp-in-spain",
-        "title": "Carlsen Prepares for Total Chess Debut with Training Camp in Spain",
-        "date": "Sat, 31 Oct 2026 14:59:36 GMT",
+        "url": "https://chessnewsnetwork.com/article/sindarov-pulling-ahead-of-gukesh-with-72-rating",
+        "title": "Sindarov Pulling Ahead of Gukesh With 72 Rating",
+        "date": "Mon, 02 Nov 2026 07:45:27 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "Magnus Carlsen trains with Nodirbek Abdusattorov ahead of the Total Chess World Championship Tour Pilot"
+        "_rss_content": "Sindarov leads Gukesh by 72 rating points on FIDE’s November list and has just won Clutch Chess. Now the World Championship awaits."
       }
     ],
     "kalla_display": "Chess News Network + Chess.com",
-    "datum": "2026-10-31T11:54:50.666885",
-    "hittad": "2026-11-01T11:56:14.753521"
+    "datum": "2026-11-01T13:40:01.213971",
+    "hittad": "2026-11-02T13:41:24.158048"
   },
   {
-    "id": "ef4e7b909683",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/alireza-firouzja-wins-bullet-brawl-oct-31-2026",
-        "title": "Alireza Firouzja Wins Bullet Brawl Oct 31 2026",
-        "date": "2026-10-31T11:54:50.666845",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-10-31T11:54:50.666845",
-    "hittad": "2026-11-01T11:56:14.753528"
-  },
-  {
-    "id": "918fdebfec42",
+    "id": "3b1eca82bf29",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/wfcc-grand-prix-final-fujairah-announcement",
-        "title": "Fujairah to host WFCC Grand Prix Final, with world's best solvers and composers",
-        "date": "Sun, 01 Nov 2026 08:30:00 GMT",
+        "url": "https://en.chessbase.com/post/tegernsee-open-2026-r2",
+        "title": "Bavarian Championship: Few surprises in the opening rounds at Tegernsee",
+        "date": "Mon, 02 Nov 2026 06:30:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "The Grand Final of the WFCC Fujairah Grand Prix 2025–2026 will take place from 27 to 30 November in Fujairah, bringing together leading chess solvers for the conclusion of the series’ inaugural cycle. The finalists will compete across six solving rounds for a €30,000 prize fund, while an accompanying composing tournament will add another dimension, with the solvers themselves voting for the best original problems and studies used in the event. | Photo: Fujairah Chess & Culture Club / FIDE"
+        "_rss_content": "Fifty players remain on perfect scores after two rounds of the Bavarian Chess Championship, which has attracted 548 participants to Gmund am Tegernsee. Most of the leading seeds have made a strong start, though Jaime Santos, Leonardo Costa and Peter Acs - all among the top ten in the starting rank - were held to draws by lower-rated opponents. Top seed Frederik Svane (pictured) and third seed Alexander Donchenko are among those sharing the lead with 2/2 points. | Photo: Sandra Schmidt/OIBM"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Sun, 01 Nov 2026 08:30:00 GMT",
-    "hittad": "2026-11-01T11:56:14.753534"
+    "datum": "Mon, 02 Nov 2026 06:30:00 GMT",
+    "hittad": "2026-11-02T13:41:24.158061"
   },
   {
-    "id": "afb361a8211c",
+    "id": "cd0c26fe3f5f",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/review-libiszewski-s-chigorin-defence-calculated-risk-against-1-d4-d5-2-c4",
-        "title": "Review: Libiszewski's Chigorin Defence – Calculated Risk against 1.d4 d5 2.c4",
-        "date": "Sun, 01 Nov 2026 07:00:00 GMT",
+        "url": "https://en.chessbase.com/post/vasily-panov-influential-theoretician-dark-side",
+        "title": "Vasily Panov: An influential theoretician with a dark side",
+        "date": "Sun, 01 Nov 2026 18:15:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "\"The Chigorin Defence is an opening that brings back romantic chess memories for me. As a teenager, I played it for a few years. More precisely, between 1999 and 2001, as the Mega Database reminds me with unerring accuracy – a quarter of a century ago!\" says Hannes Langrock. He is an editor at a publishing house specialising in fiction and an International Master. He lives in Leipzig and plays for ESV Nickelhütte-Aue. Here he reviews Libiszewski's latest course, which brought back a number of memories. | Photos: ChessBase"
+        "_rss_content": "Born on 1 November 1906, Vasily Panov was not among the leading Soviet chess players of his generation. However, he was a prominent figure as an author and theoretician. Many players know his name as the inventor of the Panov Attack, which was named after him. Yet Panov's career also had a darker side."
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Sun, 01 Nov 2026 07:00:00 GMT",
-    "hittad": "2026-11-01T11:56:14.753539"
+    "datum": "Sun, 01 Nov 2026 18:15:00 GMT",
+    "hittad": "2026-11-02T13:41:24.158067"
   },
   {
-    "id": "ad9c3e65647e",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/kazchess-masters-almaty-2026-r6",
-        "title": "KazChess Masters: Dubov moves ahead with consecutive wins",
-        "date": "Sat, 31 Oct 2026 23:35:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Daniil Dubov has taken the sole lead at the KazChess Masters in Almaty after scoring consecutive wins in rounds five and six. The Russian grandmaster stands on 4½/6, half a point ahead of Shamsiddin Vokhidov and Denis Lazavik. Remarkably, the same three players - Dubov, Vokhidov and Mahammad Muradli - won their games in the last two rounds. Early leaders Edgar Mamedov and Denis Makhnev are now a point behind Dubov. | Photo: Niki Riga / FIDE"
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Sat, 31 Oct 2026 23:35:00 GMT",
-    "hittad": "2026-11-01T11:56:14.753543"
-  },
-  {
-    "id": "9117af90c4a5",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/peter-giannatos-interview-2026",
-        "title": "The amazing story of Peter Giannatos and the Charlotte Chess Center",
-        "date": "Sat, 31 Oct 2026 17:40:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Twelve years ago, a college student in Charlotte with an economics degree and no business plan asked his local chess community for $10,000 to open a chess club. They gave him $30,000. Today the Charlotte Chess Center teaches 2,500 children a week, runs more rated tournaments than there are days in the year, and hosts Judit Polgar, Peter Leko and Boris Gelfand as camp trainers. Sagar Shah travelled to Charlotte for the Daniel Naroditsky Memorial and sat down with founder Peter Giannatos to understand exactly how it was built. | All photos: Courtesy of Peter Giannatos and the Charlotte Chess Center"
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Sat, 31 Oct 2026 17:40:00 GMT",
-    "hittad": "2026-11-01T11:56:14.753548"
-  },
-  {
-    "id": "918b2a702531",
+    "id": "b819ee2cb1df",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettan/2026/10/sthlm-gp-seo-leder-infor-epilogen/?utm_source=rss&utm_medium=rss&utm_campaign=sthlm-gp-seo-leder-infor-epilogen",
-        "title": "Sthlm GP: Seo leder inför epilogen",
-        "date": "Sat, 31 Oct 2026 22:40:27 +0000",
+        "url": "https://schack.se/nyhet/ettantopp/2026/11/seo-holl-undan-till-seger-i-stockholm-gp/?utm_source=rss&utm_medium=rss&utm_campaign=seo-holl-undan-till-seger-i-stockholm-gp",
+        "title": "Seo höll undan till seger i Stockholm GP",
+        "date": "Mon, 02 Nov 2026 13:22:45 +0000",
         "tag": "Svenska Schackförbundet",
-        "_rss_content": "Efter sex ronder så har IM Jung Min Seo och IM Edvin Trost 5,5 poäng av sex möjliga i Stockholm Grand Prix &#8211; men Jung Min har bättre särskiljningspoäng. Dessa [&#8230;] Inlägget Sthlm GP: Seo leder inför epilogen dök först upp på Sveriges Schackförbund ."
+        "_rss_content": "Med en säker remi mot GM Vitaly Sivuk i den sista ronden, så höll SK Rockadens IM Jung Min Seo i den ledning som han hade med sig inför söndagens [&#8230;] Inlägget Seo höll undan till seger i Stockholm GP dök först upp på Sveriges Schackförbund ."
       }
     ],
     "kalla_display": "Schack.se",
-    "datum": "Sat, 31 Oct 2026 22:40:27 +0000",
-    "hittad": "2026-11-01T11:56:14.753556"
+    "datum": "Mon, 02 Nov 2026 13:22:45 +0000",
+    "hittad": "2026-11-02T13:41:24.158073"
   },
   {
-    "id": "5f8cc6593432",
+    "id": "6933d6e49d1d",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/junior-och-ungdom/2026/11/15-spelare-i-svenska-truppen-i-ungdoms-em/?utm_source=rss&utm_medium=rss&utm_campaign=15-spelare-i-svenska-truppen-i-ungdoms-em",
+        "title": "15 spelare i svenska truppen i ungdoms-EM",
+        "date": "Sun, 01 Nov 2026 12:20:28 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Sverige skickar en stor trupp på 15 spelare till ungdoms-EM som avgörs i grekiska Hersonissos 3–12 november. Den här gången kommer Sverige ha representanter i flera flickklasser:Lavinia Valcu i 18-årsklassen, [&#8230;] Inlägget 15 spelare i svenska truppen i ungdoms-EM dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Sun, 01 Nov 2026 12:20:28 +0000",
+    "hittad": "2026-11-02T13:41:24.158077"
+  },
+  {
+    "id": "633de3ce70bc",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/ettan/2026/10/ulf-andersson-vann-sin-egen-turnering/?utm_source=rss&utm_medium=rss&utm_campaign=ulf-andersson-vann-sin-egen-turnering",
+        "title": "Ulf Andersson vann sin egen turnering",
+        "date": "Thu, 29 Oct 2026 19:23:54 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Med 5 poäng av 7 möjliga vann GM Ulf Andersson den 16 spelare starka snabbschacksturneringen &#8221;Svarta Hästen Invitational&#8221; på torsdagen. Stormästarkollegan Harry Schüssler slutade på samma poäng (Ulf hade 26 [&#8230;] Inlägget Ulf Andersson vann sin egen turnering dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Thu, 29 Oct 2026 19:23:54 +0000",
+    "hittad": "2026-11-02T13:41:24.158081"
+  },
+  {
+    "id": "678f7f3ec6f2",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase India",
+        "url": "https://www.chessbase.in/news/the-rangan-scholarship-venkat-rangan-donates-rs-50000-to-daakshin-arun",
+        "title": "SpotlightTop storyJyotsna Bhushan·4 hours agoThe Rangan Scholarship: Venkat Rangan donates ₹50,000 to Daakshin Arun",
+        "date": "2026-11-01T13:40:22.548124",
+        "tag": "ChessBase India"
+      }
+    ],
+    "kalla_display": "ChessBase India",
+    "datum": "2026-11-01T13:40:22.548124",
+    "hittad": "2026-11-02T13:41:24.158085"
+  },
+  {
+    "id": "f28b65e0dc41",
     "status": "pending",
     "rubriker": [
       {
         "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/gukesh-sindarov-qui-est-le-favori-dans-le-match-pour-le-titre-mondial-10113.html",
-        "title": "Gukesh - Sindarov : qui est le favori dans le match pour le titre mondial ?",
-        "date": "2026-10-31T11:55:24.756109",
+        "url": "https://www.europe-echecs.com/art/capechecs-2026-classement-final-10125.html",
+        "title": "CapEchecs 2026CapÉchecs : Laurent Fressinet impérial en blitz, Marc'Andria Maurizzi remporte l'open",
+        "date": "2026-11-01T13:40:32.222358",
         "tag": "Europe Echecs"
       }
     ],
     "kalla_display": "Europe Echecs",
-    "datum": "2026-10-31T11:55:24.756109",
-    "hittad": "2026-11-01T11:56:14.753561",
-    "liknar": {
-      "titel": "VM-matchen Gukesh–Sindarov inleds 24 november i Genève",
-      "url": "https://gambit.se/vm-matchen-gukesh-sindarov-inleds-24-november-i-geneve/",
-      "datum": "2026-11-01"
-    }
+    "datum": "2026-11-01T13:40:32.222358",
+    "hittad": "2026-11-02T13:41:24.158093"
   },
   {
-    "id": "d48bac0836dc",
+    "id": "e33d4e6e18ab",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "TWIC",
+        "url": "https://theweekinchess.com/chessnews/events/english-open-championships-2026",
+        "title": "English Open Championships 2026 - Games and Results",
+        "date": "Mon Nov  2 13:23:00 2026",
+        "tag": "TWIC",
+        "_rss_content": "The English Open Championships 2026 took place Sat 24th October to Sun 1st November 2026. English Open 2026: Gawain Maroroa Jones won with 7½/9 a point clear of Michael Adams, Brandon Gi Clarke and Daniel W Gormally on 6½. English Women's 2026: Elmira Mirzoeva won with 7½/9 a point clear of Anusha Subramanian on 6½."
+      }
+    ],
+    "kalla_display": "TWIC",
+    "datum": "Mon Nov  2 13:23:00 2026",
+    "hittad": "2026-11-02T13:41:24.158098"
+  },
+  {
+    "id": "83511ac7d532",
     "status": "pending",
     "rubriker": [
       {
         "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/10/31/skanderborg-foerer-skakligaen/?utm_source=rss&utm_medium=rss&utm_campaign=skanderborg-foerer-skakligaen",
-        "title": "Skanderborg fører Skakligaen",
-        "date": "Sat, 31 Oct 2026 19:12:30 +0000",
+        "url": "https://nyheder.skak.dk/2026/11/01/tre-hold-i-spidsen-for-skakligaen/?utm_source=rss&utm_medium=rss&utm_campaign=tre-hold-i-spidsen-for-skakligaen",
+        "title": "Tre hold med maksimum i Skakligaen",
+        "date": "Sun, 01 Nov 2026 16:36:06 +0000",
         "tag": "Dansk Skak Union",
-        "_rss_content": "Skanderborg er i weekenden vært for de to første runder i Skakligaen. Man kan ikke ligefrem sige, at værterne er fredelig stemt overfor gæsterne. Køge måtte indkassere et 0 – 8 nederlag til Skanderborg i første runde. Køge var meget afbudsramt – ingen af de tre stormestre på styrkelisten var med – så storsejren var [&#8230;]"
+        "_rss_content": "Hillerød, Skanderborg og ØBRO har alle 4 matchpoint efter de to første runder af Skakligaen. Skanderborg har klart flest brætpoint og topper tabellen. Ligesom sidste år er der lagt op til et kampløb mellem Skanderborg og Hillerød, der først skal mødes i sidste runde. At ØBRO også er med i toppen er lidt overraskende, da [&#8230;]"
       }
     ],
     "kalla_display": "Dansk Skak Union",
-    "datum": "Sat, 31 Oct 2026 19:12:30 +0000",
-    "hittad": "2026-11-01T11:56:14.753566"
+    "datum": "Sun, 01 Nov 2026 16:36:06 +0000",
+    "hittad": "2026-11-02T13:41:24.158102"
   },
   {
-    "id": "04f4256e873e",
+    "id": "4f0246b16588",
     "status": "pending",
     "rubriker": [
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/11/01/eliteserien-2026-27-2-runde/",
-        "title": "Eliteserien 2026-27 – 2. runde",
-        "date": "Sun, 01 Nov 2026 06:05:29 +0000",
+        "url": "https://bergensjakk.no/2026/11/02/eliteserien-2026-27-3-runde/",
+        "title": "Eliteserien 2026-27 – 3. runde",
+        "date": "Mon, 02 Nov 2026 06:20:36 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "Etter 2. runde av Eliteserien 2026-27 står Porsgrunn igjen som det eneste laget med full pott og 4 lagpoeng. I denne runden ble det seier 3&#189;-2&#189; i en jevn og spennende kamp mot Tromsø. Monika Machlik (2088) ga Tromsø ledelsen med en relativt rask seier på sjettebord, og Tromsø tok også førstebordet hvor GM Benjamin Les mer"
+        "_rss_content": "Porsgrunn hadde ingen problemer med å forsvare førsteplassen på tabellen i 3. runde av Eliteserien 2026-27. Det endte med knusende 6-0 mot Hell, men laget fra Trøndelag kunne fått med seg noen individuelle poeng. FM Martin Øksendal (2338) og FM Sergey Eliseev (2317) hadde svært lovende stillinger underveis på toppbordene mot IM Geir Sune Tallaksen Les mer"
       }
     ],
     "kalla_display": "Bergensjakk",
-    "datum": "Sun, 01 Nov 2026 06:05:29 +0000",
-    "hittad": "2026-11-01T11:56:14.753571"
+    "datum": "Mon, 02 Nov 2026 06:20:36 +0000",
+    "hittad": "2026-11-02T13:41:24.158106"
   },
   {
-    "id": "0317be28bee5",
+    "id": "b4a79fc7ac8e",
     "status": "pending",
     "rubriker": [
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/11/01/hotel-stockholm-north-by-first-hotels-young-talents-oktober-2026/",
-        "title": "Hotel Stockholm North by First Hotels young talents – oktober 2026",
-        "date": "Sun, 01 Nov 2026 06:05:20 +0000",
+        "url": "https://bergensjakk.no/2026/11/02/bodosjakken-2026/",
+        "title": "Bodøsjakken 2026",
+        "date": "Mon, 02 Nov 2026 06:20:28 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "Hotel Stockholm North by First Hotels young talents er en svensk serie med lukkede turneringer som startet i februar 2025. Så langt er det spilt 12 GM-turneringer og 9 IM-turneringer. Hotellet man spiller på ligger i Upplands Väsby, like nord for Stockholm. I perioden 26-31. oktober 2026 ble det spilt to GM-turneringer og en IM-turnering. Les mer"
+        "_rss_content": "Bodø Sjakklag inviterte til Bodøsjakken på Stormen Kulturhus fra 30. oktober til 1. november 2026. Det var 44 deltakere som spilte fem runder langsjakk. I A-gruppen vant arrangørklubbens Tomas Engkvist mot førsterangerte IM Torstein Bae i første runde. 16-åringen vant også sine øvrige fire partier, og dermed ble det 5 poeng og førsteplass til Engkvist. Les mer"
       }
     ],
     "kalla_display": "Bergensjakk",
-    "datum": "Sun, 01 Nov 2026 06:05:20 +0000",
-    "hittad": "2026-11-01T11:56:14.753575"
+    "datum": "Mon, 02 Nov 2026 06:20:28 +0000",
+    "hittad": "2026-11-02T13:41:24.158110"
   },
   {
-    "id": "58bf83ca6427",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/11/01/kongsvingerlyn-ngp-2026/",
-        "title": "Kongsvingerlyn NGP 2026",
-        "date": "Sun, 01 Nov 2026 06:05:10 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "Kongsvinger Sjakkklubb arrangerte Kongsvingerlyn NGP lørdag 30. oktober 2026. Turneringen besto av 12 runder lynsjakk og inngår i Norges Grand Prix 2026-2027. Det var 16 deltakere på Innlandet Science Park i Kongsvinger. Uvanlig nok var det et søskenpar som gjorde opp om førsteplassen. Frederik Nordahl og Christine Nordahl tok begge 10 poeng, men Frederik vant Les mer"
-      }
-    ],
-    "kalla_display": "Bergensjakk",
-    "datum": "Sun, 01 Nov 2026 06:05:10 +0000",
-    "hittad": "2026-11-01T11:56:14.753579"
-  },
-  {
-    "id": "c9995f6c9aed",
+    "id": "31b8d7c058b8",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/africa-backed-turlov-so-where-is-africa-in-the-new-fide",
-        "title": "Africa Backed Turlov. So Where Is Africa in the New FIDE?",
-        "date": "Sun, 01 Nov 2026 10:47:00 GMT",
+        "url": "https://chessnewsnetwork.com/article/game-of-the-day-gm-aram-hakobyan-beats-gm-mahammad-muradli",
+        "title": "Game of the Day: GM Aram Hakobyan Beats GM Mahammad Muradli",
+        "date": "Mon, 02 Nov 2026 06:15:00 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "A pointed post from Zimbabwean chess voice Tatenda Gondo asks what the African Chess Confederation's endorsement actually bought the continent — and the first wave of appointments gives him plenty to work with."
+        "_rss_content": "GM Aram Hakobyan beat GM Mahammad Muradli in round 7, board 5 of the KazChess Masters Almaty 2026, winning in 62 moves."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Sun, 01 Nov 2026 10:47:00 GMT",
-    "hittad": "2026-11-01T11:56:14.753583"
+    "datum": "Mon, 02 Nov 2026 06:15:00 GMT",
+    "hittad": "2026-11-02T13:41:24.158113"
   },
   {
-    "id": "20d5da8768ff",
+    "id": "a3744a184cb4",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/mizere-re-elected-in-malawi",
-        "title": "Mizere Re-Elected in Malawi",
-        "date": "Sat, 31 Oct 2026 21:36:19 GMT",
+        "url": "https://chessnewsnetwork.com/article/firouzja-ends-nakamuras-streak-in-bullet-brawl",
+        "title": "Firouzja Ends Nakamura's Streak in Bullet Brawl",
+        "date": "Sun, 01 Nov 2026 20:35:08 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "After Mpilo Mizere’s re-election as Chessam president, former president Kezzie Msukwa is urging Malawi chess to heal and let the vote divide no one."
+        "_rss_content": "GM Alireza Firouzja won the Bullet Brawl arena, ending GM Hikaru Nakamura's record-breaking victory streak"
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Sat, 31 Oct 2026 21:36:19 GMT",
-    "hittad": "2026-11-01T11:56:14.753588"
-  },
-  {
-    "id": "7834f8bf4fa8",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/hte-queens-gambit-half-a-millennium-old-still-the-best",
-        "title": "The Queen's Gambit: Half a Millennium Old, Still The Best",
-        "date": "Sat, 31 Oct 2026 15:59:00 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "From a 500-year-old manuscript to Capablanca-Alekhine and Netflix, this is the story of the Queen's Gambit."
-      }
-    ],
-    "kalla_display": "Chess News Network",
-    "datum": "Sat, 31 Oct 2026 15:59:00 GMT",
-    "hittad": "2026-11-01T11:56:14.753591"
-  },
-  {
-    "id": "ab8810b8fa3c",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/game-of-the-day-gm-volodar-murzin-beats-gm-yue-wang",
-        "title": "Game of the Day: GM Volodar Murzin Beats GM Yue Wang",
-        "date": "Sat, 31 Oct 2026 15:37:32 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "GM Volodar Murzin beat GM Yue Wang in round 4, board 11 of the 2026 Chinese Chess League Division A (Round-Robin, R7-11), winning in 57 moves."
-      }
-    ],
-    "kalla_display": "Chess News Network",
-    "datum": "Sat, 31 Oct 2026 15:37:32 GMT",
-    "hittad": "2026-11-01T11:56:14.753594"
-  },
-  {
-    "id": "c94b308f1a59",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/torneo-san-andres-azkoitia-2026-previa",
-        "title": "XXXI Torneo San Andrés – Azkoitia 2026",
-        "date": "Sat, 31 Oct 2026 18:40:00 GMT",
-        "tag": "ChessBase España",
-        "_rss_content": "El tradicional Torneo de San Andrés de Azkoitia celebrará su 31.ª edición el 28 de noviembre con una novedad importante: el traslado al frontón Gurea debido a la convocatoria electoral. La competición mantendrá su formato habitual de nueve rondas de blitz a 3+2, con numerosos premios por clasificación, Elo, edad y categorías especiales. La organización espera completar un aforo máximo de 189 participantes."
-      }
-    ],
-    "kalla_display": "ChessBase España",
-    "datum": "Sat, 31 Oct 2026 18:40:00 GMT",
-    "hittad": "2026-11-01T11:56:14.753596"
+    "datum": "Sun, 01 Nov 2026 20:35:08 GMT",
+    "hittad": "2026-11-02T13:41:24.158117"
   }
 ]
