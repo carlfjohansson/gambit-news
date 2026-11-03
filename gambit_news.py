@@ -146,6 +146,17 @@ rapid = snabbschack · blitz = blixt · Swiss system = schweizersystem
 round robin = rundturnering · board (i lagmatch) = bord
 the Candidates = Kandidatturneringen · world number one = världsetta"""
 
+# Tillägg till prompten vid ett omförsök när första svaret låg för nära
+# källtexten ordagrant (se for_likt_originalet nedan).
+OMSKRIVNING_PAMINNELSE = """
+
+VIKTIGT: Ditt förra svar låg för nära källtextens egna formuleringar -
+nästan samma meningar i nästan samma ordning. Det räknas som avskrift, inte
+omskrivning, även med källhänvisning. Skriv om EN GÅNG TILL med helt annan
+meningsbyggnad och ordföljd än källtexten - behåll bara sakuppgifterna
+(namn, siffror, resultat), inte formuleringarna. Hellre kortare och i egna
+ord än nära originalets ordval."""
+
 # Ladda Anthropic om API-nyckel finns
 anthropic_client = None
 if ANTHROPIC_API_KEY:
@@ -202,6 +213,30 @@ def korta_vid_meningsslut(text, maxlangd):
         return kandidat[:sista_mellanslag].rstrip() + '…'
 
     return kandidat.rstrip() + '…'
+
+
+def for_likt_originalet(kalltext, ny_text, troskel=0.5):
+    """Grov plagiatkontroll: hur stor andel av NY_TEXTs 6-ordsfraser
+    ("shingles") finns ordagrant i källtexten. En riktig omskrivning byter
+    meningsbyggnad och ordval så mycket att nästan inga 6-ordsfraser blir
+    identiska - en text som bara lätt omformulerat originalet delar desto
+    fler. Skiftlägesokänsligt, skiljetecken bortplockade.
+
+    Används av translate_article/group/digest_with_claude för att fånga
+    fall där Claude av misstag återger källtexten nästan ordagrant i stället
+    för att skriva om den (Carl Fredrik uppmärksammade detta 2026-11-03 för
+    en Schack.se-notis).
+    """
+    def fraser(text):
+        ord_ = re.findall(r"[a-zåäöA-ZÅÄÖ0-9]+", (text or "").lower())
+        return {tuple(ord_[i:i + 6]) for i in range(len(ord_) - 5)}
+
+    kalla = fraser(kalltext)
+    nya = fraser(ny_text)
+    if not nya or not kalla:
+        return False
+    delade = kalla & nya
+    return (len(delade) / len(nya)) >= troskel
 
 
 def hamta_text(response):
@@ -2226,6 +2261,33 @@ ORIGINALTEXT: {content[:2500]}"""
            tak = max(2000, int(max_chars * 1.4))
            swedish_content = korta_vid_meningsslut(swedish_content, tak)
 
+           if swedish_content and for_likt_originalet(content[:2500], swedish_content):
+               logger.warning(
+                   f"⚠️ Omskrivningen låg för nära originaltexten för {article['title'][:50]} "
+                   f"({article['source']}) - skriver om en gång till"
+               )
+               try:
+                   omforsok = claude_message(
+                       max_tokens=2000,
+                       temperature=0.5,
+                       messages=[{"role": "user", "content": prompt + OMSKRIVNING_PAMINNELSE}]
+                   )
+                   omforsok_text = hamta_text(omforsok)
+               except Exception as e:
+                   logger.error(f"❌ Omförsök misslyckades för {article['title'][:50]}: {e}")
+                   return None
+               if "RUBRIK:" in omforsok_text and "TEXT:" in omforsok_text:
+                   delar_om = omforsok_text.split("TEXT:", 1)
+                   ny_titel = delar_om[0].replace("RUBRIK:", "").strip()
+                   ny_text = delar_om[1].strip()
+               else:
+                   ny_titel, ny_text = "", ""
+               if ny_text and not for_likt_originalet(content[:2500], ny_text):
+                   swedish_title, swedish_content = ny_titel, ny_text
+               else:
+                   logger.warning(f"⚠️ Fortfarande för likt originaltexten för {article['title'][:50]} - hoppar över")
+                   return None
+
            if not swedish_content or len(swedish_content) < 80:
                logger.warning(f"⚠️ För kort/trasigt Claude-svar för {article['title'][:50]} - hoppar över")
                return None
@@ -2347,6 +2409,30 @@ KÄLLOR: {kallnamn}
        if len(swedish_content) > tak:
            swedish_content = korta_vid_meningsslut(swedish_content, tak)
 
+       if swedish_content and for_likt_originalet(samlad, swedish_content):
+           logger.warning(f"⚠️ Omskrivningen låg för nära originaltexten vid sammanslagning av {kallnamn} - skriver om en gång till")
+           try:
+               omforsok = claude_message(
+                   max_tokens=2200,
+                   temperature=0.5,
+                   messages=[{"role": "user", "content": prompt + OMSKRIVNING_PAMINNELSE}]
+               )
+               omforsok_text = hamta_text(omforsok)
+           except Exception as e:
+               logger.error(f"❌ Omförsök misslyckades vid sammanslagning av {kallnamn}: {e}")
+               return None
+           if "RUBRIK:" in omforsok_text and "TEXT:" in omforsok_text:
+               delar_om = omforsok_text.split("TEXT:", 1)
+               ny_titel = delar_om[0].replace("RUBRIK:", "").strip()
+               ny_text = delar_om[1].strip()
+           else:
+               ny_titel, ny_text = "", ""
+           if ny_text and not for_likt_originalet(samlad, ny_text):
+               swedish_title, swedish_content = ny_titel, ny_text
+           else:
+               logger.warning(f"⚠️ Fortfarande för likt originaltexten vid sammanslagning av {kallnamn} - hoppar över")
+               return None
+
        if not swedish_content or len(swedish_content) < 80:
            logger.warning(f"⚠️ För kort/trasigt sammanslaget Claude-svar för {kallnamn} - hoppar över")
            return None
@@ -2465,6 +2551,30 @@ KÄLLOR: {kallnamn}
        tak = max(2200, int(max_chars * 1.4))
        if len(swedish_content) > tak:
            swedish_content = korta_vid_meningsslut(swedish_content, tak)
+
+       if swedish_content and for_likt_originalet(samlad, swedish_content):
+           logger.warning(f"⚠️ Omskrivningen låg för nära originaltexten i samlingsartikeln om {kallnamn} - skriver om en gång till")
+           try:
+               omforsok = claude_message(
+                   max_tokens=2400,
+                   temperature=0.5,
+                   messages=[{"role": "user", "content": prompt + OMSKRIVNING_PAMINNELSE}]
+               )
+               omforsok_text = hamta_text(omforsok)
+           except Exception as e:
+               logger.error(f"❌ Omförsök misslyckades för samlingsartikeln om {kallnamn}: {e}")
+               return None
+           if "RUBRIK:" in omforsok_text and "TEXT:" in omforsok_text:
+               delar_om = omforsok_text.split("TEXT:", 1)
+               ny_titel = delar_om[0].replace("RUBRIK:", "").strip()
+               ny_text = delar_om[1].strip()
+           else:
+               ny_titel, ny_text = "", ""
+           if ny_text and not for_likt_originalet(samlad, ny_text):
+               swedish_title, swedish_content = ny_titel, ny_text
+           else:
+               logger.warning(f"⚠️ Fortfarande för likt originaltexten i samlingsartikeln om {kallnamn} - hoppar över")
+               return None
 
        if not swedish_content or len(swedish_content) < 80:
            logger.warning(f"⚠️ För kort/trasig samlingsartikel för {kallnamn} - hoppar över")
