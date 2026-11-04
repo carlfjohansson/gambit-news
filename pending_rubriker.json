@@ -1,149 +1,268 @@
 [
   {
-    "id": "4915cd9f5a5d",
+    "id": "b42a046f8a9e",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/fide-ratings-november-2026",
-        "title": "FIDE ratings - November 2026",
-        "date": "Mon, 02 Nov 2026 23:50:00 GMT",
+        "url": "https://en.chessbase.com/post/kazchess-masters-almaty-2026-r9-2",
+        "title": "KazChess Masters: Lazavik takes title, Smirnov earns GM norm",
+        "date": "Tue, 03 Nov 2026 23:15:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "The US Chess Championships and the European Club Cup were the most important tournaments of the past month, bringing about a number of changes in the rankings of the world's top players. Magnus Carlsen, Hou Yifan, Yagiz Kaan Erdogmus and Alice Lee top the rankings in their respective categories. Meanwhile, Nihal Sarin entered the world top 20 and Hans Niemann dropped below the 2700 mark."
+        "_rss_content": "Denis Lazavik won the KazChess Masters in Almaty with 6½/9 points, finishing unbeaten after drawing his final-round game against Aram Hakobyan. The 19-year-old Belarusian overtook Daniil Dubov in the penultimate round and eventually finished half a point ahead of the Russian. Another notable result came from 14-year-old Kazakh IM Mark Smirnov, who scored 5½/9, shared third place with Shamsiddin Vokhidov and earned his first GM norm. | Photo: Michal Walusza / FIDE (World Rapid and Blitz Team Championships 2026)"
+      },
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/kazchess-masters-2026-bilan-10128.html",
+        "title": "KazChess Masters 2026KazChess Masters : Denis Lazavik s’impose, le jeune Mark Smirnov marque les esprits",
+        "date": "2026-11-03T13:06:39.005992",
+        "tag": "Europe Echecs"
+      }
+    ],
+    "kalla_display": "ChessBase + Europe Echecs",
+    "datum": "Tue, 03 Nov 2026 23:15:00 GMT",
+    "hittad": "2026-11-04T13:07:27.479340"
+  },
+  {
+    "id": "0efd4f5b27ac",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Dansk Skak Union",
+        "url": "https://nyheder.skak.dk/2026/11/03/senior-vm-6/?utm_source=rss&utm_medium=rss&utm_campaign=senior-vm-6",
+        "title": "Senior VM",
+        "date": "Tue, 03 Nov 2026 13:42:29 +0000",
+        "tag": "Dansk Skak Union",
+        "_rss_content": "Senior VM spilles fra den 3. til 14. november i Vrnjacka Banja, Serbien. Der spilles i fire grupper: Kvinder 50+, Open 50 +, Kvinder 65+ og Open 65+. Mogens Henrik Thuesen fra Brønshøj spiller med i Open 65+ gruppen og IM Jacob Sylvan fra Nordkalotten er med i Open 50+ gruppen. Også GM Henrik Danielsen [&#8230;]"
       },
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/november-rating-update-young-stars-rising-fast",
-        "title": "November Rating Update: Young Stars Rising Fast",
-        "date": "Mon, 02 Nov 2026 17:27:36 GMT",
+        "url": "https://chessnewsnetwork.com/article/fide-world-senior-chess-championship-2026-underway-in-serbia",
+        "title": "FIDE World Senior Chess Championship 2026 Underway in Serbia",
+        "date": "Tue, 03 Nov 2026 18:15:00 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "On FIDE’s November list, U.S. Women’s Champion Rachael Li gained 50 points and 11-year-old Bodhana Sivanandan 31, while Carissa Yip dropped 31. Here are the biggest women’s movers of the past month."
+        "_rss_content": "The FIDE World Senior Chess Championship 2026 has begun in Vrnjačka Banja, Serbia, with 385 players from 65 national federations competing in four sections."
       }
     ],
-    "kalla_display": "Chess News Network + ChessBase",
-    "datum": "Mon, 02 Nov 2026 23:50:00 GMT",
-    "hittad": "2026-11-03T12:54:42.166972"
+    "kalla_display": "Chess News Network + Dansk Skak Union",
+    "datum": "Tue, 03 Nov 2026 13:42:29 +0000",
+    "hittad": "2026-11-04T13:07:27.479355"
   },
   {
-    "id": "d111c4353164",
+    "id": "25789cddff74",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/challenge-the-grand-chess-auto-bots",
-        "title": "Challenge The Grand Chess Auto Bots",
-        "date": "2026-11-02T12:53:14.740878",
+        "url": "https://www.chess.com/news/view/firouzja-wins-titled-tuesday-november-3-2026",
+        "title": "Firouzja Wins Titled Tuesday November 3 2026",
+        "date": "2026-11-03T13:06:07.369232",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-11-02T12:53:14.740878",
-    "hittad": "2026-11-03T12:54:42.166989"
+    "datum": "2026-11-03T13:06:07.369232",
+    "hittad": "2026-11-04T13:07:27.479360"
   },
   {
-    "id": "4c86eaf82620",
+    "id": "4c3cddea455c",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/announcing-speed-chess-championship-2026",
+        "title": "Announcing Speed Chess Championship 2026",
+        "date": "2026-11-03T13:06:07.369268",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-11-03T13:06:07.369268",
+    "hittad": "2026-11-04T13:07:27.479365"
+  },
+  {
+    "id": "b5df4641685d",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/speelman-agony-245",
-        "title": "Jon Speelman: Ya-hoo!",
-        "date": "Mon, 02 Nov 2026 18:30:00 GMT",
+        "url": "https://en.chessbase.com/post/gothamchess-to-host-new-total-chess-highlights-show-in-budapest",
+        "title": "GothamChess to host new Total Chess highlights show in Budapest",
+        "date": "Wed, 04 Nov 2026 08:12:32 GMT",
         "tag": "ChessBase",
-        "_rss_content": "With the World Championship match in Geneva just over three weeks away, Jon Speelman considers the prospects of defending champion Gukesh Dommaraju and challenger Javokhir Sindarov. He reflects on the demands of a 14-game match, recent form and the importance of preparation, while revisiting Sindarov’s attacking win over Hikaru Nakamura in Saint Louis. Speelman also draws on past Candidates battles to underline the tactical possibilities ahead. | Photo: Nils Rohde / ChessBase"
+        "_rss_content": "From November 10 to 20, Budapest will host the first Total Chess tournament, bringing together 24 top players, including Magnus Carlsen. The new format combines Fast Classic, Rapid and Blitz chess to test players across three time controls. The organisers have now announced their broadcast team: Anna Rudolf, Fiona Steil-Antoni, David Howell and Jovanka Houska will cover the tournament, while Levy Rozman, better known as GothamChess, will host a daily highlights show featuring interviews, analysis and special guests."
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Mon, 02 Nov 2026 18:30:00 GMT",
-    "hittad": "2026-11-03T12:54:42.166996"
+    "datum": "Wed, 04 Nov 2026 08:12:32 GMT",
+    "hittad": "2026-11-04T13:07:27.479369"
   },
   {
-    "id": "23d9909d3c3d",
+    "id": "5e55cc9ba246",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/english-championship-2026-main-tournament",
+        "title": "Gawain Maroroa Jones wins English Championship 2026",
+        "date": "Tue, 03 Nov 2026 09:25:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "The open tournament at this year’s English Championships was dominated by the two top seeds. Gawain Maroroa Jones won convincingly, finishing unbeaten with 7½ points out of 9. In round five, he drew with Michael Adams, who also remained undefeated and secured second place, one point behind the winner. In the women's event, Elmira Mirzoeva claimed the title with the same one-point margin over runner-up Anusha Subramanian. | Photos: Official website / Melinda White"
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Tue, 03 Nov 2026 09:25:00 GMT",
+    "hittad": "2026-11-04T13:07:27.479373"
+  },
+  {
+    "id": "3cacfda47d14",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettan/2026/11/komet-fran-indien-besokte-stockholm/?utm_source=rss&utm_medium=rss&utm_campaign=komet-fran-indien-besokte-stockholm",
-        "title": "Komet från Indien besökte Stockholm",
-        "date": "Tue, 03 Nov 2026 10:14:55 +0000",
+        "url": "https://schack.se/nyhet/internationellt/2026/11/har-spelas-vm-i-blixt-och-snabbschack/?utm_source=rss&utm_medium=rss&utm_campaign=har-spelas-vm-i-blixt-och-snabbschack",
+        "title": "Här spelas VM i blixt och snabbschack",
+        "date": "Wed, 04 Nov 2026 07:21:39 +0000",
         "tag": "Svenska Schackförbundet",
-        "_rss_content": "IM Jung Min Seo vann Stockholm Grand Prix på 7 poäng av 8. Ett resultat på 87,5 procent. Men bäst segerprocent i turneringen hade faktiskt den tolvårige indiern Vyom Malhotra [&#8230;] Inlägget Komet från Indien besökte Stockholm dök först upp på Sveriges Schackförbund ."
+        "_rss_content": "Det blev en lång väntan. Men nu är spelorten klar för VM i blixt och snabbschack. Istanbul kommer att stå värd för mästerskapet som avgörs 26–30 december och där spelarna [&#8230;] Inlägget Här spelas VM i blixt och snabbschack dök först upp på Sveriges Schackförbund ."
       }
     ],
     "kalla_display": "Schack.se",
-    "datum": "Tue, 03 Nov 2026 10:14:55 +0000",
-    "hittad": "2026-11-03T12:54:42.167004"
+    "datum": "Wed, 04 Nov 2026 07:21:39 +0000",
+    "hittad": "2026-11-04T13:07:27.479377"
   },
   {
-    "id": "b6c92331788e",
+    "id": "0f4ca4ab9eed",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/junior-och-ungdom/2026/11/schackgladje-for-23e-gangen-nybro-lockar-fler-unga-till-bradena/?utm_source=rss&utm_medium=rss&utm_campaign=schackgladje-for-23e-gangen-nybro-lockar-fler-unga-till-bradena",
+        "title": "Schackglädje för 23:e gången – Nybro lockar fler unga till brädena",
+        "date": "Tue, 03 Nov 2026 16:17:46 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Femton unga spelare från fem föreningar samlades på Harlekin i Nybro när Möregruppen Open inledde en ny säsong den 31 oktober. Turneringen handlar om att ge fler barn och ungdomar [&#8230;] Inlägget Schackglädje för 23:e gången – Nybro lockar fler unga till brädena dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Tue, 03 Nov 2026 16:17:46 +0000",
+    "hittad": "2026-11-04T13:07:27.479385"
+  },
+  {
+    "id": "fc5d629c1e4a",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/alisher-suleymenov-on-gukesh-sindarov-and-the-psychological-side-of-chess",
-        "title": "SpotlightTop storyRasika Ratnaparkhi·3 hours agoAlisher Suleymenov on Gukesh, Sindarov and the psychological side of chess",
-        "date": "2026-11-02T12:53:37.695034",
+        "url": "https://www.chessbase.in/news/india-wins-five-medals-at-4th-asian-rapid-chess-championship-for-players-with-disabilities-2026",
+        "title": "SpotlightTop storyRasika Ratnaparkhi·11 minutes agoIndia wins ten medals at 4th Asian Rapid & Blitz Chess Championship for Players with Disabilities 2026",
+        "date": "2026-11-03T13:06:27.791137",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-11-02T12:53:37.695034",
-    "hittad": "2026-11-03T12:54:42.167011"
+    "datum": "2026-11-03T13:06:27.791137",
+    "hittad": "2026-11-04T13:07:27.479389"
   },
   {
-    "id": "bb63dda72b33",
+    "id": "2e30baf23335",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/femmes-et-jeu-d-echecs-ce-que-revele-l-enquete-de-la-fide-10126.html",
+        "title": "Lire l'articleFemmes et jeu d'échecs : ce que révèle l’enquête de la FIDE10",
+        "date": "2026-11-03T13:06:39.006026",
+        "tag": "Europe Echecs"
+      }
+    ],
+    "kalla_display": "Europe Echecs",
+    "datum": "2026-11-03T13:06:39.006026",
+    "hittad": "2026-11-04T13:07:27.479393"
+  },
+  {
+    "id": "9bc9419be6ed",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Dansk Skak Union",
+        "url": "https://nyheder.skak.dk/2026/11/03/kort-nyt-uge-43-og-44/?utm_source=rss&utm_medium=rss&utm_campaign=kort-nyt-uge-43-og-44",
+        "title": "Kort Nyt uge 43 og 44",
+        "date": "Tue, 03 Nov 2026 19:22:35 +0000",
+        "tag": "Dansk Skak Union",
+        "_rss_content": "Valby Skakklub bød forrige lørdag velkommen til et brag af et pige- og kvindearrangement! 17 deltagere nød fire timer med skak, undervisning og godt selskab. Victoria Rasmussen og Steen Pedersen underviste, og WFM Sandra de Blecourt Dalsberg var med som inspirerende rollemodel, hvilket skabte mange gode og spændende samtaler. Nyhedsredaktør Mads Boe er blevet sygemeldt. [&#8230;]"
+      }
+    ],
+    "kalla_display": "Dansk Skak Union",
+    "datum": "Tue, 03 Nov 2026 19:22:35 +0000",
+    "hittad": "2026-11-04T13:07:27.479397"
+  },
+  {
+    "id": "49b61a8de75e",
     "status": "pending",
     "rubriker": [
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/11/03/em-for-ungdom-2026-starter/",
-        "title": "EM for ungdom 2026 starter",
-        "date": "Tue, 03 Nov 2026 05:58:10 +0000",
+        "url": "https://bergensjakk.no/2026/11/04/nortekk-superlyn-november-2026/",
+        "title": "Nortekk Superlyn november 2026",
+        "date": "Wed, 04 Nov 2026 06:09:48 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "I&#160;dag starter EM i sjakk for ungdom i Hellas. Mesterskapet har 9 runder og går fram til 12. november 2026. Det spilles i aldersklassene U8, U10, U12, U14, U16 og U18 med åpen klasse og jenteklasse. Norge har som vanlig en stor delegasjon, og i år er består denne av 24 spillere. Det store norske Les mer"
+        "_rss_content": "Oslo Schakselskap inviterte til Nortekk Superlyn tirsdag 3. november 2026. Favoritten IM Håvard Haug vant alle sine 9 partier og tok en klar førsteplass. Haug tok også 9 av 9 i tilsvarende turnering i september. Andreplass gikk til FM Louis Khoo-Thwe på 7&#189; poeng, fulgt av Abyl Kizatbay med 6&#189; og Axel Tunsjø med 6 Les mer"
       }
     ],
     "kalla_display": "Bergensjakk",
-    "datum": "Tue, 03 Nov 2026 05:58:10 +0000",
-    "hittad": "2026-11-03T12:54:42.167018",
-    "liknar": {
-      "titel": "15 svenska spelare till ungdoms-EM i Grekland",
-      "url": "https://gambit.se/?p=3847",
-      "datum": "2026-11-03"
-    }
+    "datum": "Wed, 04 Nov 2026 06:09:48 +0000",
+    "hittad": "2026-11-04T13:07:27.479400"
   },
   {
-    "id": "54d7fe371ca4",
+    "id": "543598706621",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/fide-can-t-stay-silent-on-donetsk",
-        "title": "FIDE Can’t Stay Silent on Donetsk",
-        "date": "Tue, 03 Nov 2026 10:30:00 GMT",
+        "url": "https://chessnewsnetwork.com/article/leko-and-svidler-confirmed-for-geneva",
+        "title": "Leko and Svidler Confirmed for Geneva",
+        "date": "Wed, 04 Nov 2026 09:03:00 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "FIDE has gone quiet on a Donetsk team in Sochi while Turlov’s new leadership leans on familiar faces. The questions keep rolling in every week post FIDE election. We're taking a closer look at the latest one."
+        "_rss_content": "Leko and Svidler will commentate Gukesh vs Sindarov in Geneva, with Game 1 on November 24. Here is what is known about the match and the pair."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Tue, 03 Nov 2026 10:30:00 GMT",
-    "hittad": "2026-11-03T12:54:42.167025"
+    "datum": "Wed, 04 Nov 2026 09:03:00 GMT",
+    "hittad": "2026-11-04T13:07:27.479403"
   },
   {
-    "id": "f374967b085e",
+    "id": "52f968cf3ae3",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/the-italian-game-chesss-quiet-opening-keeps-coming-back",
+        "title": "The Italian Game: Chess's Quiet Opening Keeps Coming Back",
+        "date": "Tue, 03 Nov 2026 20:46:20 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "From Damiano and the Evans Gambit to today’s grandmasters, how the “quiet game” kept coming back. Opening Stories #4: the Italian Game."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Tue, 03 Nov 2026 20:46:20 GMT",
+    "hittad": "2026-11-04T13:07:27.479406"
+  },
+  {
+    "id": "e9551a42b43d",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/capablanca-oro-buenos-aires-1939",
-        "title": "El broche de oro de Capablanca en la Olimpiada de Buenos Aires",
-        "date": "Mon, 02 Nov 2026 20:40:00 GMT",
+        "url": "https://es.chessbase.com/post/opiniones-prensa-gukesh-sindarov-uvencio-blanco",
+        "title": "¿Qué opiniones maneja la prensa deportiva respecto al match entre Gukesh y Sindarov?",
+        "date": "Tue, 03 Nov 2026 21:40:00 GMT",
         "tag": "ChessBase España",
-        "_rss_content": "Las Olimpiadas de Ajedrez dan lugar a historias extraordinarias. La Olimpiada de Ajedrez de 1939, celebrada en Buenos Aires, fue especialmente dramática, pues Alemania invadió Polonia el 1 de septiembre de 1939, cuando el torneo aún estaba en marcha, lo que marcó el inicio de la Segunda Guerra Mundial. En este contexto, es fácil pasar por alto que José Raúl Capablanca, campeón del mundo entre 1921 y 1927, disputó en Buenos Aires su último torneo y su última partida de competición."
+        "_rss_content": "El match por el Campeonato Mundial entre Gukesh y Javokhir Sindarov ha generado una amplia variedad de pronósticos en la prensa internacional, india y uzbeka. Aunque la mayoría sitúa al retador como favorito por su forma reciente, Elo y estabilidad, el campeón conserva argumentos de peso: experiencia mundialista, capacidad de preparación y un techo competitivo elevado. El texto compara esas miradas y examina cómo cada entorno construye su propia narrativa. | Foto: Lennart Ootes / Grand Chess Tour"
       }
     ],
     "kalla_display": "ChessBase España",
-    "datum": "Mon, 02 Nov 2026 20:40:00 GMT",
-    "hittad": "2026-11-03T12:54:42.167036"
+    "datum": "Tue, 03 Nov 2026 21:40:00 GMT",
+    "hittad": "2026-11-04T13:07:27.479409"
   }
 ]
