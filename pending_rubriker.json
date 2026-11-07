@@ -1,253 +1,218 @@
 [
   {
-    "id": "aba8edf544a8",
+    "id": "d4606775313b",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/ccl-week-6-2026",
-        "title": "Ccl Week 6 2026",
-        "date": "2026-11-05T13:03:41.591751",
+        "url": "https://www.chess.com/news/view/yakubboev-wins-freestyle-friday-november-6-2026",
+        "title": "Yakubboev Wins Freestyle Friday November 6 2026",
+        "date": "2026-11-06T11:48:45.798935",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-11-05T13:03:41.591751",
-    "hittad": "2026-11-06T13:05:09.605710"
+    "datum": "2026-11-06T11:48:45.798935",
+    "hittad": "2026-11-07T11:50:14.653016"
   },
   {
-    "id": "288179f35acb",
+    "id": "dac8b7c53bc4",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/nakamura-maghsoodloo-movahed-3-0-thursday-11-5-2026",
+        "title": "Nakamura Maghsoodloo Movahed 3 0 Thursday 11 5 2026",
+        "date": "2026-11-06T11:48:45.798966",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-11-06T11:48:45.798966",
+    "hittad": "2026-11-07T11:50:14.653028"
+  },
+  {
+    "id": "5819a11c0aad",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/chess-returns-esports-world-cup-2027",
+        "title": "Chess Returns Esports World Cup 2027",
+        "date": "2026-11-06T11:48:45.798986",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-11-06T11:48:45.798986",
+    "hittad": "2026-11-07T11:50:14.653034"
+  },
+  {
+    "id": "09338982c895",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/loek-van-wely-10-chess-principles-that-actually-matter",
-        "title": "Loek van Wely: 10 Chess Principles That Actually Matter",
-        "date": "Fri, 06 Nov 2026 10:00:00 GMT",
+        "url": "https://en.chessbase.com/post/review-the-petroff-defence-fight-for-more-than-equality-by-gm-fabien-libiszewski",
+        "title": "Review: The Petroff Defence - Fight for More Than Equality by GM Fabien Libiszewski",
+        "date": "Sat, 07 Nov 2026 07:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "In his new course, GM Loek van Wely shares ten practical principles from a career spanning 14 Olympiads, eight Dutch championship titles and decades of games against Karpov, Kasparov, Anand and Carlsen. Instead of opening lines, he focuses on how decisions are really made at the board: managing your clock around the critical moments, knowing when to simplify, staying objective about mistakes and recognising the right moment to take a risk. He also covers the psychological side of chess, from not being intimidated by stronger opponents to trusting your own calculation under pressure. A course about the part of chess that opening theory can’t teach you."
+        "_rss_content": "For a long time, the Petroff Defence had a reputation for being a purely drawish opening – reliable but dry. Those days are over, however. In a ChessBase video course, Grandmaster Fabien Libiszewski demonstrates how modern players can turn this old reputation to their psychological advantage. Christian Höthe took a close look at the course. | Photos: ChessBase"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Fri, 06 Nov 2026 10:00:00 GMT",
-    "hittad": "2026-11-06T13:05:09.605732"
+    "datum": "Sat, 07 Nov 2026 07:00:00 GMT",
+    "hittad": "2026-11-07T11:50:14.653040"
   },
   {
-    "id": "5a3a64bc2102",
+    "id": "5563e1df284c",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/tegernsee-open-2026-r6",
-        "title": "Bavarian Championship: Gopal emerges as sole leader",
-        "date": "Fri, 06 Nov 2026 08:50:00 GMT",
+        "url": "https://en.chessbase.com/post/total-chess-world-ch-2026-combined-champion",
+        "title": "Who will become the FIDE World Combined Champion?",
+        "date": "Fri, 06 Nov 2026 15:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "Indian grandmaster G.N. Gopal has taken the sole lead at the Bavarian Chess Championship in Gmund am Tegernsee, reaching 5½/6 points after defeating 15-year-old German IM Hussain Besou on Thursday. Twelve players follow half a point behind, including top seed Frederik Svane, who defeated Polish IM Klaudia Kulon. | Photo: Finn Engesser"
+        "_rss_content": "The Total Chess World Championship series is a new tournament format combining three different time controls: fast classic, rapid and blitz. The winner of the series will be crowned the FIDE World Combined Champion. Both the winner and the runner-up will then qualify for the Candidates Tournament for the classical World Championship. How did this format come about? | Photo: Michal Walusza / Norway Chess"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Fri, 06 Nov 2026 08:50:00 GMT",
-    "hittad": "2026-11-06T13:05:09.605743"
+    "datum": "Fri, 06 Nov 2026 15:00:00 GMT",
+    "hittad": "2026-11-07T11:50:14.653046"
   },
   {
-    "id": "f21784344e89",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/world-senior-championship-2026-r3",
-        "title": "World Senior Championships underway in Serbia: Cramling, Georgiev and Gaprindashvili among participants",
-        "date": "Fri, 06 Nov 2026 06:50:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "The 2026 FIDE World Senior Chess Championships are taking place in Vrnjačka Banja, Serbia, from 3 to 14 November. A total of 385 players from 65 federations are competing for four world titles, divided into the open and women's 50+ and 65+ categories. Among the participants are legendary grandmasters Pia Cramling, Kiril Georgiev, Zurab Sturua and former women's world champion Nona Gaprindashvili. Each tournament consists of 11 rounds. | Photo: FIDE"
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Fri, 06 Nov 2026 06:50:00 GMT",
-    "hittad": "2026-11-06T13:05:09.605753",
-    "liknar": {
-      "titel": "Senior-VM inlett i Serbien",
-      "url": "https://gambit.se/senior-vm-inlett-i-serbien/",
-      "datum": "2026-11-04"
-    }
-  },
-  {
-    "id": "4aa6de77878e",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/world-championship-2026-commentators",
-        "title": "Peter Leko and Peter Svidler to commentate on the Gukesh v. Sindarov Geneva match",
-        "date": "Thu, 05 Nov 2026 23:30:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Peter Leko and Peter Svidler will provide the official commentary for the 2026 FIDE World Championship match between Gukesh Dommaraju and Javokhir Sindarov in Geneva. Leko brings first-hand experience of playing for the world title, while Svidler combines extensive top-level experience with a long-standing reputation as a commentator. Their coverage will accompany the 14-game match, which begins on 24 November at the Fondation Martin Bodmer in Cologny. | Image: FIDE"
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Thu, 05 Nov 2026 23:30:00 GMT",
-    "hittad": "2026-11-06T13:05:09.605765"
-  },
-  {
-    "id": "11096fc6444e",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/alisher-suleymenov-interview-wch",
-        "title": "Suleymenov on Gukesh, Sindarov and the psychological side of chess",
-        "date": "Thu, 05 Nov 2026 16:34:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Chennai has given GM Alisher Suleymenov a title and a reason to return. After winning the 1st Chola Chess International GM Round Robin earlier this year, the Kazakh grandmaster is back for the 1st Chola Chess GM 2026. In this interview with Devansh Singh, he recalls beating a 12-year-old Gukesh Dommaraju and explains why he considers Javokhir Sindarov the favourite in the World Championship match. He also speaks about his ambitions in chess and the importance of staying psychologically strong. | Photo: ChessBase India"
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Thu, 05 Nov 2026 16:34:00 GMT",
-    "hittad": "2026-11-06T13:05:09.605773"
-  },
-  {
-    "id": "4e3596f1bbc6",
+    "id": "0cda4d924c30",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettantopp/2026/11/elitserien-ar-igang-igen/?utm_source=rss&utm_medium=rss&utm_campaign=elitserien-ar-igang-igen",
-        "title": "Elitserien är igång igen!",
-        "date": "Fri, 06 Nov 2026 11:13:08 +0000",
+        "url": "https://schack.se/nyhet/ettan3/2026/11/extrakongress-i-december/?utm_source=rss&utm_medium=rss&utm_campaign=extrakongress-i-december",
+        "title": "Extrakongress i december",
+        "date": "Sat, 07 Nov 2026 08:05:35 +0000",
         "tag": "Svenska Schackförbundet",
-        "_rss_content": "SK Rockaden har vunnit Elitserien i schack fyra gånger i rad. Och fem av de sex senaste säsongerna. &#8211; Rockadens förstalag kommer att se ut ungefär som inför förra säsongen. [&#8230;] Inlägget Elitserien är igång igen! dök först upp på Sveriges Schackförbund ."
+        "_rss_content": "Sveriges Schackförbunds styrelse har kallat till extra kongress, onsdag den 2 december kl. 19:30. Anledningen är en rösträttsbegränsning i nuvarande stadgemall för föreningar, vilken innebär att rösträtten endast gäller medlemmar [&#8230;] Inlägget Extrakongress i december dök först upp på Sveriges Schackförbund ."
       }
     ],
     "kalla_display": "Schack.se",
-    "datum": "Fri, 06 Nov 2026 11:13:08 +0000",
-    "hittad": "2026-11-06T13:05:09.605781"
+    "datum": "Sat, 07 Nov 2026 08:05:35 +0000",
+    "hittad": "2026-11-07T11:50:14.653050"
   },
   {
-    "id": "02152f6b0649",
+    "id": "d24071c3c0df",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettan/2026/11/samarbetet-med-kriminalvarden-vaxer/?utm_source=rss&utm_medium=rss&utm_campaign=samarbetet-med-kriminalvarden-vaxer",
-        "title": "Samarbetet med Kriminalvården växer",
-        "date": "Thu, 05 Nov 2026 10:07:38 +0000",
+        "url": "https://schack.se/nyhet/sverige/2026/11/storseger-for-sk-rockaden-i-premiaren/?utm_source=rss&utm_medium=rss&utm_campaign=storseger-for-sk-rockaden-i-premiaren",
+        "title": "Storseger för SK Rockaden i premiären",
+        "date": "Sat, 07 Nov 2026 07:28:52 +0000",
         "tag": "Svenska Schackförbundet",
-        "_rss_content": "Sveriges Schackförbund inledde i början av året ett pilotprojekt, där SSF introducerade organiserat schack på fyra anstalter i ett nytt samarbete med Kriminalvården.&#160; Projektet, som löper på ett år, går [&#8230;] Inlägget Samarbetet med Kriminalvården växer dök först upp på Sveriges Schackförbund ."
+        "_rss_content": "Senaste årens elitseriesuverän, SK Rockaden, fick en smakstart på årets säsong i Allsvenskan i schack. Det blev seger med hela 7–1 mot starka Limhamns SK som tog silver i Elitserien [&#8230;] Inlägget Storseger för SK Rockaden i premiären dök först upp på Sveriges Schackförbund ."
       }
     ],
     "kalla_display": "Schack.se",
-    "datum": "Thu, 05 Nov 2026 10:07:38 +0000",
-    "hittad": "2026-11-06T13:05:09.605791",
-    "liknar": {
-      "titel": "Schackprojekt i fängelser kan utökas kraftigt",
-      "url": "https://gambit.se/?p=3879",
-      "datum": "2026-11-05"
-    }
+    "datum": "Sat, 07 Nov 2026 07:28:52 +0000",
+    "hittad": "2026-11-07T11:50:14.653055"
   },
   {
-    "id": "6927d02daa8d",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettan2/2026/11/komet-fran-indien-besokte-stockholm/?utm_source=rss&utm_medium=rss&utm_campaign=komet-fran-indien-besokte-stockholm",
-        "title": "Komet från Indien besökte Stockholm",
-        "date": "Tue, 03 Nov 2026 10:14:55 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "IM Jung Min Seo vann Stockholm Grand Prix på 7 poäng av 8. Ett resultat på 87,5 procent. Men bäst segerprocent i turneringen hade faktiskt den tolvårige indiern Vyom Malhotra [&#8230;] Inlägget Komet från Indien besökte Stockholm dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Tue, 03 Nov 2026 10:14:55 +0000",
-    "hittad": "2026-11-06T13:05:09.605798"
-  },
-  {
-    "id": "e293498d2975",
+    "id": "5b5cb3ab1c9d",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/1st-chola-chess-gm-2026-round-7-report",
-        "title": "SpotlightTop storyDevansh Singh·12 hours ago1st Chola Chess GM 2026 R7: Sarbartho Stuns Sayantan; Narayanan Claims Sole Lead",
-        "date": "2026-11-05T13:04:02.375796",
+        "url": "https://www.chessbase.in/news/1st-chola-chess-gm-2026-round-8-report",
+        "title": "SpotlightTop storyDevansh Singh·7 hours ago1st Chola Chess GM 2026 R8: 14-Year-Old Aadik Theophane Lenin Becomes India's Latest IM",
+        "date": "2026-11-06T11:49:08.329778",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-11-05T13:04:02.375796",
-    "hittad": "2026-11-06T13:05:09.605829"
+    "datum": "2026-11-06T11:49:08.329778",
+    "hittad": "2026-11-07T11:50:14.653063"
   },
   {
-    "id": "16753c9fcc30",
+    "id": "b53483f7dae2",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/hommage-a-andreas-duckstein-1927-2024-10129.html",
+        "title": "Hommage à Andreas Duckstein (1927 - 2024)",
+        "date": "2026-11-06T11:49:18.956381",
+        "tag": "Europe Echecs"
+      }
+    ],
+    "kalla_display": "Europe Echecs",
+    "datum": "2026-11-06T11:49:18.956381",
+    "hittad": "2026-11-07T11:50:14.653069"
+  },
+  {
+    "id": "046b35ef77b5",
     "status": "pending",
     "rubriker": [
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/11/06/baerumsrappen-10-ngp-2026/",
-        "title": "Bærumsrappen #10 NGP 2026",
-        "date": "Fri, 06 Nov 2026 05:45:34 +0000",
+        "url": "https://bergensjakk.no/2026/11/07/em-for-ungdom-2026-runde-1-til-4/",
+        "title": "EM for ungdom 2026 – runde 1 til 4",
+        "date": "Sat, 07 Nov 2026 05:25:05 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "Bærum Schakselskap arrangerte torsdag 5. november 2026 hurtigsjakkturneringen Bærumsrappen #10 NGP. Turneringen hadde 6 runder og inngår i Norges Grand Prix 2026-27. Det var 28 deltakere i Bærum Idrettspark. Det ble svært jevnt i kampen om førsteplass, med hele seks spillere på 4&#189; poeng. 13-årige Oskar Meisingset fra SK 1911 hadde best kvalitetspoeng og gikk Les mer"
+        "_rss_content": "EM&#160;i&#160;sjakk&#160;for&#160;ungdom i Hellas nærmer seg halvspilt, med fire av de ni rundene unnagjort. Det spilles i aldersklassene U8, U10, U12, U14, U16 og U18 med åpen klasse og jenteklasse. De tre norske spillerne som ligger best an så langt, har alle 3 poeng og er ubeseiret med to seire og to remiser. Den som har Les mer"
       }
     ],
     "kalla_display": "Bergensjakk",
-    "datum": "Fri, 06 Nov 2026 05:45:34 +0000",
-    "hittad": "2026-11-06T13:05:09.605838"
+    "datum": "Sat, 07 Nov 2026 05:25:05 +0000",
+    "hittad": "2026-11-07T11:50:14.653073"
   },
   {
-    "id": "45c44fe49348",
+    "id": "77049f623b0c",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/young-challengers-surge-when-ding-and-wang-hao-exits",
-        "title": "Young Challengers Surge when Ding and Wang Hao Exits",
-        "date": "Fri, 06 Nov 2026 08:41:00 GMT",
+        "url": "https://chessnewsnetwork.com/article/speed-chess-championship-celebrates-10-years",
+        "title": "Speed Chess Championship Celebrates 10 Years",
+        "date": "Sat, 07 Nov 2026 07:05:00 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "Ding Liren and Wang Hao fall in the quarterfinals of the Chinese Rapid Championship. Yu Yangyi faces Xu Xiangyu and Xiao Tong faces Lu Shanglei next."
+        "_rss_content": "The Speed Chess Championship marks ten years with a $250,000 edition and live finals in London in February. Firouzja has already qualified."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Fri, 06 Nov 2026 08:41:00 GMT",
-    "hittad": "2026-11-06T13:05:09.605846"
+    "datum": "Sat, 07 Nov 2026 07:05:00 GMT",
+    "hittad": "2026-11-07T11:50:14.653077"
   },
   {
-    "id": "0fa5f7c7c43e",
+    "id": "d727df849473",
     "status": "pending",
     "rubriker": [
       {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/mundial-sub-20-2026-caracas",
-        "title": "Caracas se convertirá en la capital mundial del ajedrez juvenil sub-20",
-        "date": "Fri, 06 Nov 2026 08:30:00 GMT",
-        "tag": "ChessBase España",
-        "_rss_content": "Caracas será sede del Campeonato Mundial Juvenil Sub-20 FIDE 2026, que reunirá del 17 al 28 de noviembre a más de 250 jugadores de más de 50 países en las categorías abierta y femenina. El certamen, que regresa a Latinoamérica, se disputará a 11 rondas en el Eurobuilding Hotel & Suites y combinará competición internacional, actividades culturales y un amplio dispositivo organizativo para recibir a las delegaciones participantes."
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/begmuratov-and-roebers-win-the-world-junior-rapid-titles",
+        "title": "Begmuratov and Roebers Win the World Junior Rapid Titles",
+        "date": "Fri, 06 Nov 2026 19:03:00 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Begmuratov wins the World Junior Rapid open title unbeaten, and top seed Eline Roebers takes the girls crown in Al Ain after strong finishes."
       }
     ],
-    "kalla_display": "ChessBase España",
-    "datum": "Fri, 06 Nov 2026 08:30:00 GMT",
-    "hittad": "2026-11-06T13:05:09.605853"
+    "kalla_display": "Chess News Network",
+    "datum": "Fri, 06 Nov 2026 19:03:00 GMT",
+    "hittad": "2026-11-07T11:50:14.653081"
   },
   {
-    "id": "dbb452d2d6e5",
+    "id": "5d4f97f06587",
     "status": "pending",
     "rubriker": [
       {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/eugenio-torre-75-cumpleanhos",
-        "title": "Eugenio Torre, el primer GM asiático, cumple 75 años",
-        "date": "Thu, 05 Nov 2026 19:00:00 GMT",
-        "tag": "ChessBase España",
-        "_rss_content": "En 1974, Eugenio Torre se convirtió en el primer ajedrecista asiático en obtener el título de gran maestro. En su mejor momento, el filipino formó parte de la élite mundial y fue capaz de vencer a algunos de los jugadores más fuertes de la época. Torre también ostenta el récord de participaciones en Olimpiadas de Ajedrez, con 23 ediciones disputadas. Además, fue una de las pocas personas que mantuvieron una estrecha amistad con Bobby Fischer durante muchos años. Este pasado miércoles, el legendario Eugenio Torre cumplió 75 años. | Foto: Abierto de Reikiavik"
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/fide-renewing-its-trust-in-sutovsky",
+        "title": "FIDE Renewing Its Trust In Sutovsky",
+        "date": "Fri, 06 Nov 2026 14:02:06 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "FIDE names Emil Sutovsky CEO of its Swiss commercial arm, FIDE Enterprises, alongside his adviser role to Turlov."
       }
     ],
-    "kalla_display": "ChessBase España",
-    "datum": "Thu, 05 Nov 2026 19:00:00 GMT",
-    "hittad": "2026-11-06T13:05:09.605860",
-    "liknar": {
-      "titel": "Eugenio Torre, Asiens förste stormästare, fyller 75",
-      "url": "https://gambit.se/?p=3877",
-      "datum": "2026-11-05"
-    }
+    "kalla_display": "Chess News Network",
+    "datum": "Fri, 06 Nov 2026 14:02:06 GMT",
+    "hittad": "2026-11-07T11:50:14.653085"
   }
 ]
