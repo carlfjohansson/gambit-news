@@ -1,188 +1,163 @@
 [
   {
-    "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/world-championship-2026-commentators",
-    "original_title": "Peter Leko and Peter Svidler to commentate on the Gukesh v. Sindarov Geneva match",
-    "swedish_title": "Leko och Svidler kommenterar VM-matchen i Genève",
-    "swedish_content": "FIDE meddelade den 2 november 2026 att GM Peter Leko och GM Peter Svidler blir kommentatorer för Salesforce FIDE World Championship 2026, där Gukesh Dommaraju försvarar sin titel mot Javokhir Sindarov. Matchen spelas i Fondation Martin Bodmer i Cologny, Genève, med första partiet den 24 november. Peter Leko spelade själv VM-match om världstiteln mot Vladimir Kramnik 2004 i Brissago, senast Schweiz stod värd för en VM-match. Peter Svidler har vunnit den ryska mästerskapstiteln åtta gånger, första gången 1994 som 18-åring. Matchen avgörs i bäst av 14 klassiska partier och spelas 24 november–12 december 2026.",
-    "date": "Thu, 05 Nov 2026 23:30:00 GMT",
-    "tag": "ChessBase",
-    "processed_at": "2026-11-06T18:52:22.790206",
-    "bild_filnamn": "bildbanken-Af8EpvHyYq.jpg",
+    "source": "Chess.com",
+    "original_url": "https://www.chess.com/news/view/chess-returns-esports-world-cup-2027",
+    "original_title": "Chess Returns Esports World Cup 2027",
+    "swedish_title": "Schack återvänder till Esports World Cup 2027",
+    "swedish_content": "Schack bekräftades idag som gren i Esports World Cup (EWC) 2027. Turneringen återvänder till Riyadh, Saudiarabien, nästa sommar, och kvalspelet pågår redan genom en omarbetad Champions Chess Tour (CCT).\n\nGM Magnus Carlsen är den enda spelare som garanterats en plats, som regerande mästare. Norrmannen vann sin andra EWC-titel i Paris i augusti efter en dominant seger mot GM Denis Lazavik, och tog hem 250 000 dollar. Carlsen vann även den första upplagan i Riyadh 2025 efter att ha besegrat GM Alireza Firouzja i finalen.\n\nTolv platser till EWC kommer att delas ut via en poängtabell som kombinerar resultat från Titled Tuesday, Speed Chess Championship och Chess.com Open. Den största förändringen är att automatisk kvalificering för de tre bästa i Speed Chess Championship och Chess.com Open tas bort – dessa event ger istället poäng till den totala ställningen, där vinnare får 150 poäng.\n\nArrangörerna har även presenterat ett separat satellitkvalprogram som inkluderar schack. Vinnare av godkända satellitturneringar får en plats i en EWC Last Chance Qualifier, där de tävlar om platser i huvudturneringen. Detaljer om deltagande turneringar och antal platser är ännu inte klara.",
+    "date": "2026-11-06T11:48:45.798986",
+    "tag": "Chess.com",
+    "processed_at": "2026-11-07T16:43:59.509144",
+    "bild_filnamn": "bildbanken-A0TDJJlcBu.jpg",
     "bild_kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund",
     "bild_alternativ": [
       {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Erwin_l%27Ami_%26_Peter_Leko_2025.jpg/960px-Erwin_l%27Ami_%26_Peter_Leko_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Frans Peeters (Wikimedia Commons, CC BY-SA 2.0)"
+        "kalla": "bildbanken",
+        "url": "https://bildbanken.schack.se/Home/A0TDJJlcBu.jpg",
+        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
+      },
+      {
+        "kalla": "bildbanken",
+        "url": "https://bildbanken.schack.se/Home/A0TDKdXwin.jpg",
+        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
+      },
+      {
+        "kalla": "bildbanken",
+        "url": "https://bildbanken.schack.se/Home/A0TDJBQ46v.jpg",
+        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
+      },
+      {
+        "kalla": "bildbanken",
+        "url": "https://bildbanken.schack.se/Home/A0TDJ1aVKD.jpg",
+        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/PLeko10.jpg/960px-PLeko10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Carlsen_Giri_draw_in_Tata_Steel_Chess_2020.jpg/960px-Carlsen_Giri_draw_in_Tata_Steel_Chess_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Marien Raat (Wikimedia Commons, CC BY-SA 4.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Table_from_World_Chess_Championship_2016.jpg/960px-Table_from_World_Chess_Championship_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Upjav (Wikimedia Commons, CC0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Top_chess_GM.png/960px-Top_chess_GM.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: El Comandante (Wikimedia Commons, CC BY 4.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Top_chess_GM_%28desaturated%29.png/960px-Top_chess_GM_%28desaturated%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: El Comandante (Wikimedia Commons, CC BY 4.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/DenisLazavik23.jpg/960px-DenisLazavik23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "kredit": "Foto: Stefan64 (Wikimedia Commons, CC BY-SA 3.0)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Peter_Leko_2026_Olympiad.jpg/960px-Peter_Leko_2026_Olympiad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Yunfan Zhao  / lichess.org (Wikimedia Commons, CC BY-SA 4.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/DenisLazavik23a.jpg/960px-DenisLazavik23a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Stefan64 (Wikimedia Commons, CC BY-SA 3.0)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Peter_Leko_at_the_46th_FIDE_Chess_Olympiad.jpg/960px-Peter_Leko_at_the_46th_FIDE_Chess_Olympiad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Yunfan Zhao  / lichess.org (Wikimedia Commons, CC BY-SA 4.0)"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/Af8EpvHyYq.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/Af8F7XbSZE.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/Af8F0mQZ-T.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/Af8EvBctM6.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/DenisLazavik23b.jpg/960px-DenisLazavik23b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Stefan64 (Wikimedia Commons, CC BY-SA 3.0)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Ehrung_Mainz_2004-08-08.ogv/500px--Ehrung_Mainz_2004-08-08.ogv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-        "kredit": "Foto: GFHund (Wikimedia Commons, CC BY 3.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Peter_Svidler_2013.jpg/960px-Peter_Svidler_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: This photo was taken by  Przemysław Jahr  Autorem zdjęcia jest  Przemysław Jahr   Wykorzystując zdjęcie proszę podać jako autora:  Przemysław Jahr / Wikimedia Commons (Wikimedia Commons, CC BY-SA 3.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Pressekonferenz_Mainz_2004-08-08.ogv/500px--Pressekonferenz_Mainz_2004-08-08.ogv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-        "kredit": "Foto: GFHund (Wikimedia Commons, CC BY 3.0)"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/Af8EnQ5YbY.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Alireza_Firouzja_2026_Norway_Chess.jpg/960px-Alireza_Firouzja_2026_Norway_Chess.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Ahmed0112 (Wikimedia Commons, CC0)"
       }
     ]
   },
   {
-    "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/alisher-suleymenov-interview-wch",
-    "original_title": "Suleymenov on Gukesh, Sindarov and the psychological side of chess",
-    "swedish_title": "Suleymenov tillbaka i Chennai för Chola GM Open",
-    "swedish_content": "Stormästaren Alisher Suleymenov från Kazakstan är tillbaka i Chennai, staden där han tidigare i år vann 1st Chola Chess International GM Round Robin. Han är 21:a seedad i Chola GM Open, en turnering med snittrating 2412 och 30–35 stormästare – den starkaste i sitt slag som hittills spelats i Indien. I en intervju med ChessBase India berättar Suleymenov att detta är hans sjunde besök i Indien och tredje gången i Chennai, dit han tidigare rest för att spela 44th Chess Olympiad. Intervjun tar även upp hans seger över en då tolvårige Gukesh Dommaraju, den kommande VM-matchen och de psykologiska aspekterna av schack.",
-    "date": "Thu, 05 Nov 2026 16:34:00 GMT",
-    "tag": "ChessBase",
-    "processed_at": "2026-11-06T18:52:41.201742",
-    "bild_filnamn": "bildbanken-Af8EnQ5YbY.jpg",
+    "source": "Schack.se",
+    "original_url": "https://schack.se/nyhet/sverige/2026/11/storseger-for-sk-rockaden-i-premiaren/?utm_source=rss&utm_medium=rss&utm_campaign=storseger-for-sk-rockaden-i-premiaren",
+    "original_title": "Storseger för SK Rockaden i premiären",
+    "swedish_title": "SK Rockaden krossar Limhamn i Allsvenskan-premiären",
+    "swedish_content": "SK Rockaden, senaste årens elitserievinnare, inledde säsongen i Allsvenskan med en storseger på 7–1 mot Limhamns SK, som tog silver i Elitserien säsongen 2024/2025. Matchen spelades i Upplands Väsby, där även SS 4 Springare, Lunds ASK och Wasa SK vann sina matcher i första omgången. Farsta och Luleå delade på poängen efter 4–4. I Superettan tog ThunderChess, SS Manhem, Växjö, SK Rockaden II och Kungstornet samtliga vinster i premiäromgången.",
+    "date": "Sat, 07 Nov 2026 07:28:52 +0000",
+    "tag": "Svenska Schackförbundet",
+    "processed_at": "2026-11-07T16:44:13.707100",
+    "bild_alternativ": []
+  },
+  {
+    "source": "Bergensjakk",
+    "original_url": "https://bergensjakk.no/2026/11/07/em-for-ungdom-2026-runde-1-til-4/",
+    "original_title": "EM for ungdom 2026 – runde 1 til 4",
+    "swedish_title": "Krbacevic imponerar med 2378 i ratingprestation",
+    "swedish_content": "EM för ungdom 2026 i Grekland har spelat fyra av nio ronder. Turneringen omfattar åldersklasserna U8, U10, U12, U14, U16 och U18, med öppen klass och flickklass. Tre norska spelare leder den norska truppen med 3 poäng, obesegrade efter två vinster och två remier: CM Michael Mortensen (2168) i Open U10, William Fegth Olsen (2038) i Open U12 och Mia Ouyang (1574) i Girls U10.\n\nStarkast norsk prestation står dock Mateja Krbacevic (2031) för i Open U16, trots \"bara\" 2½ poäng. Han har en ratingprestation på 2378 efter segrar mot FM Reinis Valdats (LAT 2283) och CM Matthew Portelli (MLT 2276).\n\nMortensen ligger ett poäng efter ledaren i sin klass, förstarankade CM Han Nam Pham (FRA 2283). Femte ronden spelas idag klockan 14.00 norsk tid, följt av vilodag på söndag innan de fyra sista ronderna avgörs måndag till torsdag.",
+    "date": "Sat, 07 Nov 2026 05:25:05 +0000",
+    "tag": "Bergensjakk",
+    "processed_at": "2026-11-07T16:44:29.256899",
+    "bild_filnamn": "bildbanken-Ab4H39tmRb.jpg",
     "bild_kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund",
     "bild_alternativ": [
       {
         "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/Af8EnQ5YbY.jpg",
+        "url": "https://bildbanken.schack.se/Home/Ab4H39tmRb.jpg",
         "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
       },
       {
         "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/Af8EosVlC6.jpg",
+        "url": "https://bildbanken.schack.se/Home/Ab3GJfmHTY.jpg",
         "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/Af8EwJp4qG.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/Af8ExenfeD.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/D_Gukesh_at_2025_Tata_Steel_CT.jpg/960px-D_Gukesh_at_2025_Tata_Steel_CT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Frans Peeters (Wikimedia Commons, CC BY-SA 2.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Gukesh_in_2025.jpg/960px-Gukesh_in_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Frans Peeters (Wikimedia Commons, CC BY-SA 2.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Gukesh_in_2025_%28cropped%29.jpg/960px-Gukesh_in_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Frans Peeters (Wikimedia Commons, CC BY-SA 2.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/TataSteelChess2023-22.jpg/960px-TataSteelChess2023-22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Vysotsky (Wikimedia Commons, CC BY-SA 4.0)"
       }
     ]
   },
   {
     "source": "Chess News Network",
-    "original_url": "https://chessnewsnetwork.com/article/young-challengers-surge-when-ding-and-wang-hao-exits",
-    "original_title": "Young Challengers Surge when Ding and Wang Hao Exits",
-    "swedish_title": "Ding Liren och Wang Hao slås ut i Shaoxing",
-    "swedish_content": "Vid det kinesiska snabbschack-mästerskapet i Shaoxing, som spelas 2–6 november som en cupturnering med 24 spelare, åkte både förre världsmästaren Ding Liren och veteranen Wang Hao ut i kvartsfinalen samma dag. Ding föll mot den unge stormästaren Xiao Tong efter att alla fyra snabbschackpartier och det första blixtpartiet slutat remi. I det andra blixtpartiet hade Ding fördel med svart men lyckades inte omsätta den, och i tidsnöd vann Xiao avgörandet.\n\nWang Hao förlorade med 1,5–2,5 mot Xu Xiangyu i en match med flera grova missar från båda spelarna – vardera vann ett parti innan Xu tog det andra partiet med vitt och höll remi i det fjärde för att avgöra matchen.\n\nI de andra kvartsfinalerna besegrade Lu Shanglei Bu Xiangzhi med 2,5–1,5, medan titelförsvararen Yu Yangyi slog Bai Jinshi med samma siffror efter att ha vunnit det första partiet och hållit remi i resterande tre. Semifinalerna blir Yu Yangyi mot Xu Xiangyu samt Xiao Tong mot Lu Shanglei. Song Yuxin var den enda kvinnliga deltagaren i huvudturneringen men föll mot Ding Liren redan i åttondelsfinalen.",
-    "date": "Fri, 06 Nov 2026 08:41:00 GMT",
+    "original_url": "https://chessnewsnetwork.com/article/begmuratov-and-roebers-win-the-world-junior-rapid-titles",
+    "original_title": "Begmuratov and Roebers Win the World Junior Rapid Titles",
+    "swedish_title": "Begmuratov och Roebers tog VM-titlarna i junior-snabbschack",
+    "swedish_content": "Khumoyun Begmuratov från Uzbekistan vann herrklassen vid World Junior Rapid Championship i Al Ain utan en enda förlust, med 7,5 poäng av 9 möjliga på sex vinster och tre remier. Pranav V. från Indien tog silver och Raad Samadov från Azerbajdzjan brons, båda på 7/9, där särspel skilde dem åt.\n\nStällningen såg annorlunda ut efter sex ronder, då Pranav ledde med 6/6 efter att bland annat ha slagit andraseedade Artem Uskov i rond fem, medan Begmuratov var en av fyra spelare på 5/6. Pranav tog bara en poäng under de sista tre ronderna, medan Begmuratov vann 2,5 av 3.\n\nI flickklassen vann toppseedade Eline Roebers från Nederländerna med 7/9. Umida Omonova från Uzbekistan slutade tvåa och Marina Kuznetsova, som tävlade under FIDE-flagg, trea, båda på 6,5/9 efter särspel. Även Roebers gjorde en sen vändning – hon låg på 4,5/6 efter sex ronder, en poäng efter ledarna Omonova och Valeria Kleymenova, innan hon avslutade med 2,5 poäng av 3.\n\nSnabbschacket spelades över nio ronder den 2–4 november på Danat Al Ain Resort, med tidskontrollen 15 minuter plus 10 sekunder per drag. Turneringen samlade 185 spelare från 40 länder, och blixtschacket spelades den 5–6 november.",
+    "date": "Fri, 06 Nov 2026 19:03:00 GMT",
     "tag": "Chess News Network",
-    "processed_at": "2026-11-06T18:52:56.232315",
+    "processed_at": "2026-11-07T16:44:54.341216",
     "bild_alternativ": [
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/World_Chess_Championship_2023%2C_game_01%2C_start.jpg/960px-World_Chess_Championship_2023%2C_game_01%2C_start.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Vladimir Barsky (Владимир Барский), ruchess.ru (Wikimedia Commons, CC BY-SA 3.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Khumoyun_Begmuratov_2026_Olympiad.jpg/960px-Khumoyun_Begmuratov_2026_Olympiad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Yunfan Zhao / lichess.org (Wikimedia Commons, CC BY-SA 4.0)"
       },
       {
         "kalla": "commons",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/World_Chess_Championship_2023%2C_game_03%2C_Ian_Nepomniachtchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "kredit": "Foto: Vladimir Barsky (Владимир Барский), ruchess.ru (Wikimedia Commons, CC BY-SA 3.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Khumoyun_Begmuratov_chess_player.jpg/960px-Khumoyun_Begmuratov_chess_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Husniddin Ato (Wikimedia Commons, CC BY-SA 4.0)"
       },
       {
         "kalla": "commons",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Chinese_chess_team.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "kredit": "Foto: Somattac (Wikimedia Commons, Public domain)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Khumoyun_Begmuratov_chess_player_%28cropped%29.jpg/960px-Khumoyun_Begmuratov_chess_player_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Husniddin Ato (Wikimedia Commons, CC BY-SA 4.0)"
       },
       {
         "kalla": "commons",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Hao%2CWang_2018_Karlsruhe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "kredit": "Foto: GFHund (Wikimedia Commons, CC BY-SA 4.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/PranavVenkatesh_2022.jpg/960px-PranavVenkatesh_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Kreymer (Wikimedia Commons, CC BY-SA 4.0)"
       },
       {
         "kalla": "commons",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Wang_Hao_%28chess_player%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "kredit": "Foto: Knight Tour (Wikimedia Commons, CC BY-SA 4.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Savva_Vetokhin_vs_Artem_Uskov.jpg/960px-Savva_Vetokhin_vs_Artem_Uskov.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Павел Константинович Безусов (Wikimedia Commons, CC0)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Xu_Xiangyu_WTRBCC2026_R11.jpg/960px-Xu_Xiangyu_WTRBCC2026_R11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Yunfan Zhao / Lichess (Wikimedia Commons, CC BY-SA 4.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Savva_Vetokhin_vs_Artem_Uskov_2.jpg/960px-Savva_Vetokhin_vs_Artem_Uskov_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Павел Константинович Безусов (Wikimedia Commons, CC0)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Xu_Xiangyu_WTRBCC2026_R11_%28cropped%29.jpg/960px-Xu_Xiangyu_WTRBCC2026_R11_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Yunfan Zhao / Lichess (Wikimedia Commons, CC BY-SA 4.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Savva_Vetokhin_vs_Artem_Uskov_3.jpg/960px-Savva_Vetokhin_vs_Artem_Uskov_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Павел Константинович Безусов (Wikimedia Commons, CC0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Savva_Vetokhin_vs_Artem_Uskov_3_%28cropped%29_%28cropped%29.jpg/960px-Savva_Vetokhin_vs_Artem_Uskov_3_%28cropped%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Павел Константинович Безусов (Wikimedia Commons, CC0)"
       }
     ]
-  },
-  {
-    "source": "ChessBase España",
-    "original_url": "https://es.chessbase.com/post/mundial-sub-20-2026-caracas",
-    "original_title": "Caracas se convertirá en la capital mundial del ajedrez juvenil sub-20",
-    "swedish_title": "Caracas värd för VM för ungdomar Sub-20",
-    "swedish_content": "Fide och den venezuelanska schackfederationen FVA har officiellt bekräftat att Caracas arrangerar VM för ungdomar Sub-20 i schack 2026, både i öppen klass och damklass. Turneringen spelas 17–28 november och markerar den här mästerskapsseriens historiska återkomst till Latinamerika. Över 250 spelare från mer än 50 länder väntas delta. Spelplatsen är femstjärniga Eurobuilding Hotel & Suites Caracas i kommunen Baruta i delstaten Miranda. Betänketiden är 90 minuter för de första 40 dragen, följt av 30 minuter för resten av partiet, med ett tillägg på 30 sekunder per drag från första draget.",
-    "date": "Fri, 06 Nov 2026 08:30:00 GMT",
-    "tag": "ChessBase España",
-    "processed_at": "2026-11-06T18:53:12.363547",
-    "bild_alternativ": []
   }
 ]
