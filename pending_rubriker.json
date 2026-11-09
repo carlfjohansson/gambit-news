@@ -1,50 +1,107 @@
 [
   {
-    "id": "49ea3a092ad0",
+    "id": "32de691b2d12",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-nov-7-2026",
-        "title": "Hikaru Nakamura Wins Bullet Brawl Nov 7 2026",
-        "date": "2026-11-07T12:00:24.349291",
-        "tag": "Chess.com"
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/salamanca-festival-2026-preview",
+        "title": "Bodhana Sivanandan joins strong field in Salamanca",
+        "date": "Sun, 08 Nov 2026 17:30:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "The Salamanca Chess Festival will take place from 10 to 14 November, bringing together six players for a rapid round-robin tournament. The field includes 11-year-old Bodhana Sivanandan (pictured), former world top-ten player Loek van Wely and Spanish grandmaster Paco Vallejo, who returns to top-level competition after a lengthy absence. Elisabeth Paehtz, José Martínez Alcántara and Anastasiia Hnatyshyn complete the lineup. Several side events are also scheduled. | Photo: Nils Rohde / ChessBase"
       },
       {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/bullet-grandpa-wins-2026-100-project-season-1",
-        "title": "Bullet Grandpa Wins 2026 100 Project Season 1",
-        "date": "2026-11-07T12:00:24.349329",
-        "tag": "Chess.com"
+        "source": "ChessBase España",
+        "url": "https://es.chessbase.com/post/salamanca-festival-2026-previa",
+        "title": "Bodhana Sivanandan jugará el Magistral de Salamanca junto a Vallejo y Van Wely",
+        "date": "Sat, 07 Nov 2026 21:50:00 GMT",
+        "tag": "ChessBase España",
+        "_rss_content": "El Festival de Ajedrez de Salamanca se celebrará del 10 al 14 de noviembre y reunirá a seis jugadores en un torneo rápido por sistema de liga. Entre los participantes figuran Bodhana Sivanandan (en la imagen), de 11 años, el exintegrante del top 10 mundial Loek van Wely y el gran maestro español Paco Vallejo, que regresa a la alta competición tras una ausencia prolongada. Elisabeth Paehtz, José Martínez Alcántara y Anastasiia Hnatyshyn completan la nómina de participantes. También están previstas varias actividades paralelas. | Foto: Nils Rohde / ChessBase"
+      }
+    ],
+    "kalla_display": "ChessBase + ChessBase España",
+    "datum": "Sun, 08 Nov 2026 17:30:00 GMT",
+    "hittad": "2026-11-09T14:05:12.466262"
+  },
+  {
+    "id": "65c7e02debad",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase India",
+        "url": "https://www.chessbase.in/news/pranav-venkatesh-wins-world-junior-blitz-2026",
+        "title": "SpotlightTop storySagar Shah·3 minutes agoV. Pranav is the World Junior Blitz Champion 2026!",
+        "date": "2026-11-08T14:04:09.822676",
+        "tag": "ChessBase India"
       },
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/amateur-player-wins-game-against-super-gm-in-100-0-project",
-        "title": "Amateur Player Wins Game Against Super-GM in 100-0 Project",
-        "date": "Sun, 08 Nov 2026 08:47:26 GMT",
+        "url": "https://chessnewsnetwork.com/article/flawless-pranav-wins-junior-crown",
+        "title": "Flawless Pranav Wins Junior Crown",
+        "date": "Sat, 07 Nov 2026 18:18:46 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "Josh Smith, also known as @BulletGrandpa, won a game against Daniil Dubov in the final match of the 100-0 Project Season 1"
+        "_rss_content": "Pranav V. starts the World Junior Rapid with six straight wins, takes rapid silver, then wins the blitz crown in Al Ain by a full point."
       }
     ],
-    "kalla_display": "Chess News Network + Chess.com",
-    "datum": "2026-11-07T12:00:24.349291",
-    "hittad": "2026-11-08T12:01:43.278389"
+    "kalla_display": "Chess News Network + ChessBase India",
+    "datum": "2026-11-08T14:04:09.822676",
+    "hittad": "2026-11-09T14:05:12.466280",
+    "liknar": {
+      "titel": "Begmuratov och Roebers tog VM-titlarna i junior-snabbschack",
+      "url": "https://gambit.se/?p=3903",
+      "datum": "2026-11-07"
+    }
   },
   {
-    "id": "9a8002495273",
+    "id": "55661ed735e7",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-crazyhouse-chess-championship-awatramani",
-        "title": "2026 Crazyhouse Chess Championship Awatramani",
-        "date": "2026-11-07T12:00:24.349384",
+        "url": "https://www.chess.com/news/view/fide-women-in-chess-survey-discrimination-harassment",
+        "title": "Fide Women In Chess Survey Discrimination Harassment",
+        "date": "2026-11-08T14:03:48.621314",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-11-07T12:00:24.349384",
-    "hittad": "2026-11-08T12:01:43.278406"
+    "datum": "2026-11-08T14:03:48.621314",
+    "hittad": "2026-11-09T14:05:12.466289"
+  },
+  {
+    "id": "892a5422703b",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/tegernsee-open-2026-r9",
+        "title": "Bavarian Championship: Four players finish tied for first, Sasikiran claims title on tiebreaks",
+        "date": "Mon, 09 Nov 2026 08:30:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Indian grandmaster Krishnan Sasikiran won the Bavarian Chess Championship in Gmund am Tegernsee, finishing on 7½/9 points and taking first place on tiebreaks. German GMs Frederik Svane and Roven Vogel finished second and third, while Indian FM Arun Daakshin also reached 7½ points. All four won their final-round games with the black pieces, bringing an event that attracted 548 participants to a close. | Photo: Sandra Schmidt"
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Mon, 09 Nov 2026 08:30:00 GMT",
+    "hittad": "2026-11-09T14:05:12.466296"
+  },
+  {
+    "id": "3950a62d3763",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/chinese-rapid-championship-2026-final",
+        "title": "Yu Yangyi retains Chinese Rapid Championship title after Armageddon decider",
+        "date": "Sun, 08 Nov 2026 13:40:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Yu Yangyi successfully defended his Chinese Rapid Championship title in Shaoxing, defeating 18-year-old Xiao Tong in an Armageddon decider after six games had failed to separate the finalists. Xiao had previously eliminated Ding Liren and Lu Shanglei in blitz tiebreaks to reach the final. Meanwhile, Lu secured third place by defeating Xu Xiangyu. | Photo: Chinese Chess Association"
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Sun, 08 Nov 2026 13:40:00 GMT",
+    "hittad": "2026-11-09T14:05:12.466303"
   },
   {
     "id": "cabbfdcdbaf3",
@@ -61,7 +118,7 @@
     ],
     "kalla_display": "ChessBase",
     "datum": "Sat, 07 Nov 2026 20:25:00 GMT",
-    "hittad": "2026-11-08T12:01:43.278414"
+    "hittad": "2026-11-09T14:05:12.466311"
   },
   {
     "id": "01e0c1e6b2cd",
@@ -78,197 +135,281 @@
     ],
     "kalla_display": "ChessBase",
     "datum": "Sat, 07 Nov 2026 19:20:00 GMT",
-    "hittad": "2026-11-08T12:01:43.278422"
+    "hittad": "2026-11-09T14:05:12.466318"
   },
   {
-    "id": "d3bb8747b3be",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/tegernsee-open-2026-r7",
-        "title": "Bavarian Championship: Sasikiran joins Gopal in the lead",
-        "date": "Sat, 07 Nov 2026 15:00:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "With 6 points from 7 rounds, Indian grandmasters Krishnan Sasikiran and G.N. Gopal share the lead at the Bavarian Chess Championship in Tegernsee. Their opponents' average ratings of 2413 (Sasikiran) and 2411 (Gopal) also leave them closely matched on tiebreaks, with both having faced stronger opposition on average than any other participant. Gopal drew with Elham Amar on the top board. While the games on the neighbouring boards also ended in draws, including Frederik Svane (5½/7) against Adrian Gschnitzer, Sasikiran secured a win over Rithvik Raja. | Photo: Sandra Schmidt"
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Sat, 07 Nov 2026 15:00:00 GMT",
-    "hittad": "2026-11-08T12:01:43.278429"
-  },
-  {
-    "id": "3651adae1012",
+    "id": "88bda67a1f07",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/sverige/2026/11/lulea-slog-till-mot-lunds-ask/?utm_source=rss&utm_medium=rss&utm_campaign=lulea-slog-till-mot-lunds-ask",
-        "title": "Luleå slog till mot Lunds ASK",
-        "date": "Sat, 07 Nov 2026 21:35:33 +0000",
+        "url": "https://schack.se/nyhet/sverige/2026/11/tre-stockholmslag-med-full-pott/?utm_source=rss&utm_medium=rss&utm_campaign=tre-stockholmslag-med-full-pott",
+        "title": "Tre Stockholmslag med full pott",
+        "date": "Sun, 08 Nov 2026 20:14:16 +0000",
         "tag": "Svenska Schackförbundet",
-        "_rss_content": "Som nykomling i fjol balanserade SS Luleå precis över nedflyttningsstrecket. Den här säsongen är klubben uppe på en annan nivå. Efter 4–4 mot Farsta i fredags blev det en imponerande [&#8230;] Inlägget Luleå slog till mot Lunds ASK dök först upp på Sveriges Schackförbund ."
+        "_rss_content": "Det är tre Stockholmslag i topp i elitserien efter det första elitsammandraget som avslutades i Upplands Väsby på söndagen – och alla tre var på prispallen förra säsongen. Bakom obesegrade [&#8230;] Inlägget Tre Stockholmslag med full pott dök först upp på Sveriges Schackförbund ."
       }
     ],
     "kalla_display": "Schack.se",
-    "datum": "Sat, 07 Nov 2026 21:35:33 +0000",
-    "hittad": "2026-11-08T12:01:43.278436"
+    "datum": "Sun, 08 Nov 2026 20:14:16 +0000",
+    "hittad": "2026-11-09T14:05:12.466328"
   },
   {
-    "id": "668743b5b299",
+    "id": "47dd6b950b1a",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/forbundsnytt/2026/11/extrakongress-i-december/?utm_source=rss&utm_medium=rss&utm_campaign=extrakongress-i-december",
-        "title": "Extrakongress i december",
-        "date": "Sat, 07 Nov 2026 08:05:35 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Sveriges Schackförbunds styrelse har kallat till extra kongress, onsdag den 2 december kl. 19:30. Anledningen är en rösträttsbegränsning i nuvarande stadgemall för föreningar, vilken innebär att rösträtten endast gäller medlemmar [&#8230;] Inlägget Extrakongress i december dök först upp på Sveriges Schackförbund ."
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/dubov-gagne-99-1-et-perd-son-defi-10131.html",
+        "title": "Dubov gagne 99–1… et perd son défi !",
+        "date": "2026-11-08T14:04:19.915129",
+        "tag": "Europe Echecs"
       }
     ],
-    "kalla_display": "Schack.se",
-    "datum": "Sat, 07 Nov 2026 08:05:35 +0000",
-    "hittad": "2026-11-08T12:01:43.278442"
+    "kalla_display": "Europe Echecs",
+    "datum": "2026-11-08T14:04:19.915129",
+    "hittad": "2026-11-09T14:05:12.466336"
   },
   {
-    "id": "b810c48db2dd",
+    "id": "499e72c2ee31",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/sverige/2026/11/seo-holl-undan-till-seger-i-stockholm-gp/?utm_source=rss&utm_medium=rss&utm_campaign=seo-holl-undan-till-seger-i-stockholm-gp",
-        "title": "Seo höll undan till seger i Stockholm GP",
-        "date": "Mon, 02 Nov 2026 13:22:45 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Med en säker remi mot GM Vitaly Sivuk i den sista ronden, så höll SK Rockadens IM Jung Min Seo i den ledning som han hade med sig inför söndagens [&#8230;] Inlägget Seo höll undan till seger i Stockholm GP dök först upp på Sveriges Schackförbund ."
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/championnat-du-monde-total-chess-2026-presentation-10130.html",
+        "title": "Lire l'articleChampionnat du monde Total Chess 2026Le Championnat du monde Total à l'essai à Budapest5",
+        "date": "2026-11-08T14:04:19.915188",
+        "tag": "Europe Echecs"
       }
     ],
-    "kalla_display": "Schack.se",
-    "datum": "Mon, 02 Nov 2026 13:22:45 +0000",
-    "hittad": "2026-11-08T12:01:43.278452",
-    "liknar": {
-      "titel": "Jungmin Seo vann Stockholm GP",
-      "url": "https://gambit.se/jungmin-seo-vann-stockholm-gp/",
-      "datum": "2026-11-04"
-    }
+    "kalla_display": "Europe Echecs",
+    "datum": "2026-11-08T14:04:19.915188",
+    "hittad": "2026-11-09T14:05:12.466341"
   },
   {
-    "id": "cc8ffea8dcb4",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/meet-wfm-nivedita-double-gold-and-three-wim-norms",
-        "title": "SpotlightTop storyJyotsna Bhushan·4 hours agoMeet WFM Nivedita V.C.: Double Gold and Three WIM Norms",
-        "date": "2026-11-07T12:00:44.014822",
-        "tag": "ChessBase India"
-      }
-    ],
-    "kalla_display": "ChessBase India",
-    "datum": "2026-11-07T12:00:44.014822",
-    "hittad": "2026-11-08T12:01:43.278460"
-  },
-  {
-    "id": "60388daba729",
+    "id": "20b6bc4e6558",
     "status": "pending",
     "rubriker": [
       {
         "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/11/08/ole-block-1943-2026/?utm_source=rss&utm_medium=rss&utm_campaign=ole-block-1943-2026",
-        "title": "Ole Block 1943 – 2026",
-        "date": "Sun, 08 Nov 2026 10:45:10 +0000",
+        "url": "https://nyheder.skak.dk/2026/11/08/ungdoms-em-midtvejsrapport/?utm_source=rss&utm_medium=rss&utm_campaign=ungdoms-em-midtvejsrapport",
+        "title": "Ungdoms EM midtvejsrapport",
+        "date": "Sun, 08 Nov 2026 21:49:02 +0000",
         "tag": "Dansk Skak Union",
-        "_rss_content": "Æresmedlem af Dansk Skak Union Ole Herman Block er den 3. november afgået ved døden kort før sin 83-års fødselsdag. Ole Block blev medlem af DSU og SK41 i 1962, og selvom han selv havde mesterspillerstyrke ved brættet, er det mest det kolossale organisatoriske arbejde, der efterlader et stort aftryk i Dansk Skak Unions historie. [&#8230;]"
+        "_rss_content": "Ungdoms EM er i fuld gang på solskinsøen Kreta. Rejseleder Shanne Hedegaard Jakobsen skriver til skak.dk: Mens efteråret hjemme i Danmark hænger grå og trist over landet, summer det af skak i feriebyen Hersonissos på Kreta. Europamesterskaberne for ungdom er skudt i gang, og omkring 1.250 unge spillere fra hele kontinentet kæmper om pladserne over [&#8230;]"
       }
     ],
     "kalla_display": "Dansk Skak Union",
-    "datum": "Sun, 08 Nov 2026 10:45:10 +0000",
-    "hittad": "2026-11-08T12:01:43.278467"
+    "datum": "Sun, 08 Nov 2026 21:49:02 +0000",
+    "hittad": "2026-11-09T14:05:12.466348"
   },
   {
-    "id": "0c7647d685f2",
+    "id": "6a0498b59dde",
     "status": "pending",
     "rubriker": [
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/11/08/bronstein-cup-2026-ngp/",
-        "title": "Bronstein Cup 2026 NGP",
-        "date": "Sun, 08 Nov 2026 05:46:45 +0000",
+        "url": "https://bergensjakk.no/2026/11/09/ny-podkast-sjakklubben-med-torstein-og-silje/",
+        "title": "Ny podkast: SJAKKLUBBEN med Torstein og Silje",
+        "date": "Mon, 09 Nov 2026 13:07:16 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "Hurtigsjakkturneringen Bronstein Cup NGP ble spilt lørdag 7. november 2026 på Liljevatnet kulturskole, like vest for Bergen. Arrangør var Sotra Sjakklubb. Turneringen inngår i Norges Grand Prix 2026-2027 og hadde 25 deltakere. Bronstein Cup har vært arrangert hvert år siden 1994, da tidligere VM-utfordrer GM David Bronstein besøkte Sotra og vant den første turneringen. Øyvind Les mer"
+        "_rss_content": "I dag 9. november 2026 lanseres en ny norsk podkast, SJAKKLUBBEN med Torstein Bae og Silje Bjerke. I startfasen kommer det nye episoder 11. november, 13. november og 16. november. Fra og med tirsdag 17. november kommer det en ny episode hver tirsdag morgen, pluss bonusepisoder enkelte uker. Podkasten er tilgjengelig på alle plattformer inkludert Les mer"
       }
     ],
     "kalla_display": "Bergensjakk",
-    "datum": "Sun, 08 Nov 2026 05:46:45 +0000",
-    "hittad": "2026-11-08T12:01:43.278473"
+    "datum": "Mon, 09 Nov 2026 13:07:16 +0000",
+    "hittad": "2026-11-09T14:05:12.466353"
   },
   {
-    "id": "09a8951545a5",
+    "id": "aaf630400c25",
     "status": "pending",
     "rubriker": [
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/11/08/rauma-ngp-lyn-host-2026/",
-        "title": "Rauma NGP Lyn Høst 2026",
-        "date": "Sun, 08 Nov 2026 05:46:35 +0000",
+        "url": "https://bergensjakk.no/2026/11/09/tonsberg-grand-prix-2026-vt-tour/",
+        "title": "Tønsberg Grand Prix 2026 – VT TOUR",
+        "date": "Mon, 09 Nov 2026 05:41:01 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "Rauma Sjakklubb arrangerte Rauma NGP Lyn Høst i Åndalsnes lørdag 7. november 2026. Turneringen inngår i Norges Grand Prix 2026-2027 og hadde 26 deltakere. Førsteplass gikk til favoritten, Tor Wetle W. Hoem fra Molde, med 8 poeng på 9 runder. Jakob Mork Furstrand ble nummer to med 7&#189; poeng, fulgt av Andreas Nicolai Blindheim med Les mer"
+        "_rss_content": "Tønsberg Schackklubb arrangerte Tønsberg Grand Prix 6-8. november 2026. Turneringen hadde to runder hurtigsjakk og fire runder langsjakk. Den inngår i både Norges Grand Prix 2026-27 og Vestfold og Telemark GP Tour 2026. Det var 56 deltakere. I A-gruppen gikk IM Mads Vestby-Ellingsen til topps med 5&#189; poeng på 6 runder. Vinneren avga bare et Les mer"
       }
     ],
     "kalla_display": "Bergensjakk",
-    "datum": "Sun, 08 Nov 2026 05:46:35 +0000",
-    "hittad": "2026-11-08T12:01:43.278480"
+    "datum": "Mon, 09 Nov 2026 05:41:01 +0000",
+    "hittad": "2026-11-09T14:05:12.466359"
   },
   {
-    "id": "c58c3a68a44e",
+    "id": "9bc93e33156d",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/11/09/ntg-hurtig-gp-november-2026/",
+        "title": "NTG Hurtig-GP november 2026",
+        "date": "Mon, 09 Nov 2026 05:40:52 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "NTG Hurtig-GP november ble spilt hos NTG i Bærum søndag 8. november 2026. Arrangører var NTG Sjakklinja og Dragen Sjakklubb. Turneringen inngår i Norges Grand Prix 2026-27. Førsteplassen gikk til FM Nicolai Østensen med 6 poeng på 7 runder. Han vant sine fem første partier og avsluttet med to remiser. På de neste plassene finner Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Mon, 09 Nov 2026 05:40:52 +0000",
+    "hittad": "2026-11-09T14:05:12.466364"
+  },
+  {
+    "id": "c39d15a4391a",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/11/09/orkland-hurtig-grand-prix-2026/",
+        "title": "Orkland Hurtig Grand Prix 2026",
+        "date": "Mon, 09 Nov 2026 05:40:42 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Orkland Hurtig Grand Prix ble spilt i Orkanger søndag 8. november 2026 med 30 deltakere. Turneringen var kretsmesterskap i hurtigsjakk for Trøndelag og inngår i Norges Grand Prix 2026-27. Orkdal Sjakklubb var arrangør. Det var jevnt i kampen om førsteplass, med de tre Hell-spillerne CM Shadi Sian, FM Martin Øksendal og FM Trygve Dahl alle Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Mon, 09 Nov 2026 05:40:42 +0000",
+    "hittad": "2026-11-09T14:05:12.466369"
+  },
+  {
+    "id": "3fb5eeb9faec",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/11/09/desperados-grand-prix-2026/",
+        "title": "Desperados Grand Prix 2026",
+        "date": "Mon, 09 Nov 2026 05:40:27 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Nord-Østerdal sjakklubb arrangerte Desperados Grand Prix i Alvdal 7-8. november 2026. Turneringen besto av fem runder langsom hurtigsjakk (45+10) og inngår i Norges Grand Prix 2026-27. I A-gruppen endte Sigurd Kittilsen og Geir Brobakken begge på 3&#189; poeng. Det ble omspill for å kåre vinneren, og her gikk Kittilsen seirende ut. Tredjeplass gikk til Ivan Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Mon, 09 Nov 2026 05:40:27 +0000",
+    "hittad": "2026-11-09T14:05:12.466375"
+  },
+  {
+    "id": "9f17679fcd17",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/11/09/apent-klubbmesterskap-i-hurtigsjakk-i-kristiansund-2026/",
+        "title": "Åpent klubbmesterskap i hurtigsjakk i Kristiansund 2026",
+        "date": "Mon, 09 Nov 2026 05:40:14 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Kristiansund Sjakklubb arrangerte åpent klubbmesterskap i hurtigsjakk søndag 8. november 2026. Turneringen hadde fem runder og inngår i Norges Grand Prix 2026-27. Etter de fem rundene sto Vegard Simensen og Hannes Spånberg igjen med 4 poeng. Da ble det omspill om klubbmestertittelen hvor Simensen gikk seirende ut, og henviste Spånberg til andreplass. Tore Kristiansen på Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Mon, 09 Nov 2026 05:40:14 +0000",
+    "hittad": "2026-11-09T14:05:12.466380"
+  },
+  {
+    "id": "1761e645ab17",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/11/08/juleavslutning-pa-international-school-of-bergen-2026/",
+        "title": "Juleavslutning på International School of Bergen 2026",
+        "date": "Sun, 08 Nov 2026 16:49:28 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Helgen 11-13. desember 2026 blir det juleavslutning på International School of Bergen (ISB). Da blir det bl.a. fire turneringer og en regional jente- og kvinnesamling. Dette er første gang på seks år det er en slik jente- og kvinnesamling i Bergen. Dette er starten på oppkjøringen til NM for jenter og kvinner i Bergen 12-14. Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Sun, 08 Nov 2026 16:49:28 +0000",
+    "hittad": "2026-11-09T14:05:12.466386"
+  },
+  {
+    "id": "7e99bc5c4c4d",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/11/08/ostfoldmesterskapet-i-hurtigsjakk-for-lag-2026/",
+        "title": "Østfoldmesterskapet i hurtigsjakk for lag 2026",
+        "date": "Sun, 08 Nov 2026 16:29:01 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Østfoldmesterskapet i hurtigsjakk for lag ble spilt torsdag 5. november 2026 med Fredriksstad Schakselskap som arrangør. Det var 15 deltakende lag med totalt 62 spillere. Mesterskapet ble spilt over fem runder med fire spillere på laget. Førsteplassen gikk til Vestby 1, som vant alle sine fem kamper og endte på 10 lagpoeng. På vinnerlaget spilte Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Sun, 08 Nov 2026 16:29:01 +0000",
+    "hittad": "2026-11-09T14:05:12.466391"
+  },
+  {
+    "id": "532844bed33f",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/flawless-pranav-wins-junior-crown",
-        "title": "Flawless Pranav Wins Junior Crown",
-        "date": "Sat, 07 Nov 2026 18:18:46 GMT",
+        "url": "https://chessnewsnetwork.com/article/11-year-wcm-old-amaya-wins-u12-prize-in-world-junior-rapid",
+        "title": "11-Year WCM Old Amaya Wins U12 Prize in World Junior Rapid",
+        "date": "Mon, 09 Nov 2026 12:02:59 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "Pranav V. starts the World Junior Rapid with six straight wins, takes rapid silver, then wins the blitz crown in Al Ain by a full point."
+        "_rss_content": "England’s Amaya Agarwal, 11, scored 5/9 in the girls U20 World Junior Rapid in Al Ain and won the $500 best under-12 prize."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Sat, 07 Nov 2026 18:18:46 GMT",
-    "hittad": "2026-11-08T12:01:43.278487"
+    "datum": "Mon, 09 Nov 2026 12:02:59 GMT",
+    "hittad": "2026-11-09T14:05:12.466397"
   },
   {
-    "id": "3c29a9b7bb9a",
+    "id": "9c1d5c12c5d8",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/game-of-the-day-gm-pa-iniyan-beats-gm-murali-karthikeyan",
-        "title": "Game of the Day: GM Pa Iniyan Beats GM Murali Karthikeyan",
-        "date": "Sat, 07 Nov 2026 18:14:36 GMT",
+        "url": "https://chessnewsnetwork.com/article/nakamura-claims-73rd-bullet-brawl-title",
+        "title": "Nakamura Claims 73rd Bullet Brawl Title",
+        "date": "Mon, 09 Nov 2026 11:02:10 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "GM Pa Iniyan beat GM Murali Karthikeyan in round 8, board 4 of the 1st Chola Chess Open International Grandmasters Chess Tournament 2026, winning in 35 moves."
+        "_rss_content": "GM Hikaru Nakamura won the 73rd Bullet Brawl title, finishing ahead of GM Ediz Gurel and GM Parham Maghsoodloo."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Sat, 07 Nov 2026 18:14:36 GMT",
-    "hittad": "2026-11-08T12:01:43.278494"
+    "datum": "Mon, 09 Nov 2026 11:02:10 GMT",
+    "hittad": "2026-11-09T14:05:12.466403"
   },
   {
-    "id": "689938706d98",
+    "id": "ef468cb00556",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Kenya Chess Masala",
-        "url": "https://kenyachessmasala.com/2026/11/2026-kisii-open-chess.html",
-        "title": "2026 Kisii Open Chess Tournament – Gong Thon Gong is the winner",
-        "date": "Sat, 07 Nov 2026 19:12:01 +0000",
-        "tag": "Kenya Chess Masala",
-        "_rss_content": "2026 Kisii Open Chess Tournament &#8211; Gong Thon Gong is the winner The 2026 Kisii Open Chess Tournament concluded on a high note as Gong Thon Gong of South Sudan emerged victorious, scoring an impressive seven points out of eight rounds and earning a prize of KES 30,000 for his outstanding performance. Mark Nyola Wasswa [...] The post 2026 Kisii Open Chess Tournament &#8211; Gong Thon Gong is the winner appeared first on Kenya Chess Masala ."
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/the-caro-kann-chesss-quiet-fortress",
+        "title": "The Caro-Kann: Chess's Quiet Fortress",
+        "date": "Sun, 08 Nov 2026 21:51:00 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "The Caro-Kann looks like a quiet shield but plays like a spring. From Capablanca to Karpov to this week’s junior rapid, here’s why it endures."
       }
     ],
-    "kalla_display": "Kenya Chess Masala",
-    "datum": "Sat, 07 Nov 2026 19:12:01 +0000",
-    "hittad": "2026-11-08T12:01:43.278497"
+    "kalla_display": "Chess News Network",
+    "datum": "Sun, 08 Nov 2026 21:51:00 GMT",
+    "hittad": "2026-11-09T14:05:12.466409"
+  },
+  {
+    "id": "ead3d0cd88be",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/chess-is-back-at-the-esports-world-cup-in-2027",
+        "title": "Chess Is Back at the Esports World Cup in 2027",
+        "date": "Sun, 08 Nov 2026 16:49:00 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Chess returns to the 2027 Esports World Cup in Riyadh. Carlsen already has his place, and 12 spots go to the Champions Chess Tour leaders."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Sun, 08 Nov 2026 16:49:00 GMT",
+    "hittad": "2026-11-09T14:05:12.466415",
+    "liknar": {
+      "titel": "Schack återvänder till Esports World Cup 2027",
+      "url": "https://gambit.se/?p=3902",
+      "datum": "2026-11-07"
+    }
   }
 ]
