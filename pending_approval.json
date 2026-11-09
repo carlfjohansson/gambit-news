@@ -1,138 +1,36 @@
 [
   {
-    "source": "Chess.com",
-    "original_url": "https://www.chess.com/news/view/chess-returns-esports-world-cup-2027",
-    "original_title": "Chess Returns Esports World Cup 2027",
-    "swedish_title": "Schack återvänder till Esports World Cup 2027",
-    "swedish_content": "Schack bekräftades idag som gren i Esports World Cup (EWC) 2027. Turneringen återvänder till Riyadh, Saudiarabien, nästa sommar, och kvalspelet pågår redan genom en omarbetad Champions Chess Tour (CCT).\n\nGM Magnus Carlsen är den enda spelare som garanterats en plats, som regerande mästare. Norrmannen vann sin andra EWC-titel i Paris i augusti efter en dominant seger mot GM Denis Lazavik, och tog hem 250 000 dollar. Carlsen vann även den första upplagan i Riyadh 2025 efter att ha besegrat GM Alireza Firouzja i finalen.\n\nTolv platser till EWC kommer att delas ut via en poängtabell som kombinerar resultat från Titled Tuesday, Speed Chess Championship och Chess.com Open. Den största förändringen är att automatisk kvalificering för de tre bästa i Speed Chess Championship och Chess.com Open tas bort – dessa event ger istället poäng till den totala ställningen, där vinnare får 150 poäng.\n\nArrangörerna har även presenterat ett separat satellitkvalprogram som inkluderar schack. Vinnare av godkända satellitturneringar får en plats i en EWC Last Chance Qualifier, där de tävlar om platser i huvudturneringen. Detaljer om deltagande turneringar och antal platser är ännu inte klara.",
-    "date": "2026-11-06T11:48:45.798986",
-    "tag": "Chess.com",
-    "processed_at": "2026-11-07T16:43:59.509144",
-    "bild_filnamn": "bildbanken-A0TDJJlcBu.jpg",
-    "bild_kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund",
+    "source": "ChessBase",
+    "original_url": "https://en.chessbase.com/post/140-years-aaron-nimzowitsch",
+    "original_title": "Aaron Nimzowitsch: 140 years since the birth of a chess pioneer",
+    "swedish_title": "140 år sedan Nimzowitschs födelse",
+    "swedish_content": "Aaron Nimzowitsch föddes den 7 november 1886 i den lettiska huvudstaden Riga, då en provins i Ryska imperiet. Familjenamnet var ursprungligen Ņimcovičs på lettiska, vilket ungefär betyder \"den tyskes son\", och skrevs senare i förtyskad form Niemzowitsch innan \"e\" försvann i samband med att ett pass utfärdades.\n\nNimzowitsch lärde sig schack vid åtta års ålder av sin far Isaja Abramovich, en förmögen judisk timmergrossist som själv var en skicklig schackspelare. Hans talang visade sig tidigt – hans första partier publicerades i en Riga-tidning när han bara var nio år gammal och trycktes senare om i andra schackpublikationer. Familjen flyttade senare till Dvinsk (nuvarande Daugavpils), där Nimzowitsch gick i en talmudskola.\n\n1903 reste Nimzowitsch till Berlin för att studera filosofi, men ägnade istället alltmer tid åt schack på Café Kaiserhof. Han skrev senare in sig för matematikstudier både i Göttingen och Zürich utan att fullfölja någon av utbildningarna, och valde till slut att göra schack till sitt yrke.\n\nNimzowitsch spelade sin första turnering 1904 i Coburg under Tyska Schackförbundets 14:e kongress, där han slutade sexa i ett starkt fält. Efter turneringar i Wien och Barmen, samt en seger i München, deltog han i maj 1907 i den stora internationella turneringen i Ostende, där 29 spelare tävlade under nästan sex veckor och den då 20-årige Nimzowitsch tillhörde de ledande.",
+    "date": "Sat, 07 Nov 2026 20:25:00 GMT",
+    "tag": "ChessBase",
+    "processed_at": "2026-11-09T22:51:53.295498",
     "bild_alternativ": [
       {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/A0TDJJlcBu.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/A0TDKdXwin.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/A0TDJBQ46v.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/A0TDJ1aVKD.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
+        "kalla": "commons",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Saint-S%C3%A9bastien_Tournoi_de_ma%C3%AEtres_1911.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "kredit": "Foto: Henri Delaire (Wikimedia Commons, Public domain)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Carlsen_Giri_draw_in_Tata_Steel_Chess_2020.jpg/960px-Carlsen_Giri_draw_in_Tata_Steel_Chess_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Marien Raat (Wikimedia Commons, CC BY-SA 4.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Table_from_World_Chess_Championship_2016.jpg/960px-Table_from_World_Chess_Championship_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Upjav (Wikimedia Commons, CC0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Top_chess_GM.png/960px-Top_chess_GM.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: El Comandante (Wikimedia Commons, CC BY 4.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Top_chess_GM_%28desaturated%29.png/960px-Top_chess_GM_%28desaturated%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: El Comandante (Wikimedia Commons, CC BY 4.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/DenisLazavik23.jpg/960px-DenisLazavik23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Stefan64 (Wikimedia Commons, CC BY-SA 3.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/DenisLazavik23a.jpg/960px-DenisLazavik23a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Stefan64 (Wikimedia Commons, CC BY-SA 3.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/DenisLazavik23b.jpg/960px-DenisLazavik23b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Stefan64 (Wikimedia Commons, CC BY-SA 3.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Alireza_Firouzja_2026_Norway_Chess.jpg/960px-Alireza_Firouzja_2026_Norway_Chess.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Ahmed0112 (Wikimedia Commons, CC0)"
-      }
-    ]
-  },
-  {
-    "source": "Schack.se",
-    "original_url": "https://schack.se/nyhet/sverige/2026/11/storseger-for-sk-rockaden-i-premiaren/?utm_source=rss&utm_medium=rss&utm_campaign=storseger-for-sk-rockaden-i-premiaren",
-    "original_title": "Storseger för SK Rockaden i premiären",
-    "swedish_title": "SK Rockaden krossar Limhamn i Allsvenskan-premiären",
-    "swedish_content": "SK Rockaden, senaste årens elitserievinnare, inledde säsongen i Allsvenskan med en storseger på 7–1 mot Limhamns SK, som tog silver i Elitserien säsongen 2024/2025. Matchen spelades i Upplands Väsby, där även SS 4 Springare, Lunds ASK och Wasa SK vann sina matcher i första omgången. Farsta och Luleå delade på poängen efter 4–4. I Superettan tog ThunderChess, SS Manhem, Växjö, SK Rockaden II och Kungstornet samtliga vinster i premiäromgången.",
-    "date": "Sat, 07 Nov 2026 07:28:52 +0000",
-    "tag": "Svenska Schackförbundet",
-    "processed_at": "2026-11-07T16:44:13.707100",
-    "bild_alternativ": []
-  },
-  {
-    "source": "Bergensjakk",
-    "original_url": "https://bergensjakk.no/2026/11/07/em-for-ungdom-2026-runde-1-til-4/",
-    "original_title": "EM for ungdom 2026 – runde 1 til 4",
-    "swedish_title": "Krbacevic imponerar med 2378 i ratingprestation",
-    "swedish_content": "EM för ungdom 2026 i Grekland har spelat fyra av nio ronder. Turneringen omfattar åldersklasserna U8, U10, U12, U14, U16 och U18, med öppen klass och flickklass. Tre norska spelare leder den norska truppen med 3 poäng, obesegrade efter två vinster och två remier: CM Michael Mortensen (2168) i Open U10, William Fegth Olsen (2038) i Open U12 och Mia Ouyang (1574) i Girls U10.\n\nStarkast norsk prestation står dock Mateja Krbacevic (2031) för i Open U16, trots \"bara\" 2½ poäng. Han har en ratingprestation på 2378 efter segrar mot FM Reinis Valdats (LAT 2283) och CM Matthew Portelli (MLT 2276).\n\nMortensen ligger ett poäng efter ledaren i sin klass, förstarankade CM Han Nam Pham (FRA 2283). Femte ronden spelas idag klockan 14.00 norsk tid, följt av vilodag på söndag innan de fyra sista ronderna avgörs måndag till torsdag.",
-    "date": "Sat, 07 Nov 2026 05:25:05 +0000",
-    "tag": "Bergensjakk",
-    "processed_at": "2026-11-07T16:44:29.256899",
-    "bild_filnamn": "bildbanken-Ab4H39tmRb.jpg",
-    "bild_kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund",
-    "bild_alternativ": [
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/Ab4H39tmRb.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/Ab3GJfmHTY.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/San_Remo_1930_Chess_Turnier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "kredit": "Foto: Unknown author Unknown author (Wikimedia Commons, Public domain)"
       }
     ]
   },
   {
     "source": "Chess News Network",
-    "original_url": "https://chessnewsnetwork.com/article/begmuratov-and-roebers-win-the-world-junior-rapid-titles",
-    "original_title": "Begmuratov and Roebers Win the World Junior Rapid Titles",
-    "swedish_title": "Begmuratov och Roebers tog VM-titlarna i junior-snabbschack",
-    "swedish_content": "Khumoyun Begmuratov från Uzbekistan vann herrklassen vid World Junior Rapid Championship i Al Ain utan en enda förlust, med 7,5 poäng av 9 möjliga på sex vinster och tre remier. Pranav V. från Indien tog silver och Raad Samadov från Azerbajdzjan brons, båda på 7/9, där särspel skilde dem åt.\n\nStällningen såg annorlunda ut efter sex ronder, då Pranav ledde med 6/6 efter att bland annat ha slagit andraseedade Artem Uskov i rond fem, medan Begmuratov var en av fyra spelare på 5/6. Pranav tog bara en poäng under de sista tre ronderna, medan Begmuratov vann 2,5 av 3.\n\nI flickklassen vann toppseedade Eline Roebers från Nederländerna med 7/9. Umida Omonova från Uzbekistan slutade tvåa och Marina Kuznetsova, som tävlade under FIDE-flagg, trea, båda på 6,5/9 efter särspel. Även Roebers gjorde en sen vändning – hon låg på 4,5/6 efter sex ronder, en poäng efter ledarna Omonova och Valeria Kleymenova, innan hon avslutade med 2,5 poäng av 3.\n\nSnabbschacket spelades över nio ronder den 2–4 november på Danat Al Ain Resort, med tidskontrollen 15 minuter plus 10 sekunder per drag. Turneringen samlade 185 spelare från 40 länder, och blixtschacket spelades den 5–6 november.",
-    "date": "Fri, 06 Nov 2026 19:03:00 GMT",
+    "original_url": "https://chessnewsnetwork.com/article/flawless-pranav-wins-junior-crown",
+    "original_title": "Flawless Pranav Wins Junior Crown",
+    "swedish_title": "Pranav tappade rapid-guldet men tog blixt-titeln",
+    "swedish_content": "V. Pranav inledde World Junior Rapid i Al Ain med sex raka vinster, däribland en offensiv seger mot tvåan Artem Uskov där han offrade tornet med 23...Rh1+!! i en ställning som enligt ChessBase India var helt jämn fram till drag 19. De tre sista ronderna gick sämre, och Khumoyun Begmuratov från Uzbekistan vann till slut turneringen obesegrad på 7.5/9. Pranav slutade på 7/9 och tog silver före Azerbajdzjans Raad Samadov på tiebreak.\n\nTvå dagar senare reste sig indiern igen och vann World Junior Blitz Championship med 10.5 poäng på 13 ronder, en hel poäng före fältet. Kirgizistans Eldiyar Orozbaev och Armeniens Robert Piliposyan delade silvret på 9.5 poäng, medan Syriens Mazen Fandi tog brons på tiebreak. Blixtturneringen spelades med tidskontrollen tre minuter plus två sekunder per drag.\n\nPranav är Indiens 75:e stormästare, utsedd 2022, och regerande världsmästare för juniorer i klassiskt schack efter 9/11 i Petrovac 2025.",
+    "date": "Sat, 07 Nov 2026 18:18:46 GMT",
     "tag": "Chess News Network",
-    "processed_at": "2026-11-07T16:44:54.341216",
+    "processed_at": "2026-11-09T22:52:11.600945",
     "bild_alternativ": [
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Khumoyun_Begmuratov_2026_Olympiad.jpg/960px-Khumoyun_Begmuratov_2026_Olympiad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Yunfan Zhao / lichess.org (Wikimedia Commons, CC BY-SA 4.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Khumoyun_Begmuratov_chess_player.jpg/960px-Khumoyun_Begmuratov_chess_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Husniddin Ato (Wikimedia Commons, CC BY-SA 4.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Khumoyun_Begmuratov_chess_player_%28cropped%29.jpg/960px-Khumoyun_Begmuratov_chess_player_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Husniddin Ato (Wikimedia Commons, CC BY-SA 4.0)"
-      },
       {
         "kalla": "commons",
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/PranavVenkatesh_2022.jpg/960px-PranavVenkatesh_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -157,6 +55,106 @@
         "kalla": "commons",
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Savva_Vetokhin_vs_Artem_Uskov_3_%28cropped%29_%28cropped%29.jpg/960px-Savva_Vetokhin_vs_Artem_Uskov_3_%28cropped%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "kredit": "Foto: Павел Константинович Безусов (Wikimedia Commons, CC0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Khumoyun_Begmuratov_2026_Olympiad.jpg/960px-Khumoyun_Begmuratov_2026_Olympiad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Yunfan Zhao / lichess.org (Wikimedia Commons, CC BY-SA 4.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Khumoyun_Begmuratov_chess_player.jpg/960px-Khumoyun_Begmuratov_chess_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Husniddin Ato (Wikimedia Commons, CC BY-SA 4.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Khumoyun_Begmuratov_chess_player_%28cropped%29.jpg/960px-Khumoyun_Begmuratov_chess_player_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Husniddin Ato (Wikimedia Commons, CC BY-SA 4.0)"
+      }
+    ]
+  },
+  {
+    "source": "Chess.com",
+    "original_url": "https://www.chess.com/news/view/fide-women-in-chess-survey-discrimination-harassment",
+    "original_title": "Fide Women In Chess Survey Discrimination Harassment",
+    "swedish_title": "Tre av fyra kvinnor möter diskriminering i schack",
+    "swedish_content": "En ny FIDE-undersökning visar att tre av fyra kvinnor och flickor som svarade har upplevt diskriminering eller trakasserier i schacksammanhang, medan 44 procent uppgav att de övervägt att lämna sporten. Undersökningen, \"Women in Chess Representation, Participation and Development Survey\", leddes av Arhan Boyd från Indian School of Business och WCM Tris-Ann Richards, ordförande för FIDE:s Commission for Women's Chess. Den analyserade 672 svar från 127 förbund och publicerades den 13 oktober.\n\nTotalt rapporterade 63 procent av de svarande att de upplevt könsbaserad fördom eller sexism, medan 76 procent angav minst en av åtta former av diskriminering eller trakasserier. Siffrorna var högre bland vuxna och titelbärande spelare – 81 procent av FIDE-titelbärande kvinnor rapporterade könsbaserad fördom, jämfört med 70 procent bland vuxna generellt. 38 procent uppgav att de utsatts för sexuella trakasserier eller olämpligt beteende, medan samma andel rapporterade nätbaserade övergrepp. 37 procent uppgav att de uteslutits från coachning, lag, turneringar eller ledarskapsmöjligheter.\n\nBland respondenter i åldern 18–24 år hade 64 procent övervägt att lämna schacket. Kvinnor och flickor utgör ungefär en sjättedel av aktiva FIDE-registrerade spelare, med ännu lägre representation bland titelbärare, domare, tränare och förbundstjänstemän.",
+    "date": "2026-11-08T14:03:48.621314",
+    "tag": "Chess.com",
+    "processed_at": "2026-11-09T22:52:29.790186",
+    "bild_alternativ": []
+  },
+  {
+    "source": "Chess News Network",
+    "original_url": "https://chessnewsnetwork.com/article/the-caro-kann-chesss-quiet-fortress",
+    "original_title": "The Caro-Kann: Chess's Quiet Fortress",
+    "swedish_title": "Caro-Kann: schackhistoriens tysta fästning",
+    "swedish_content": "Öppningen 1...c6, känd som Caro-Kann, bär namnen Horatio Caro och Marcus Kann men historien bakom dem är snårig. Caro föddes i Newcastle upon Tyne 1862 och började skriva om draget i sin tidning Brüderschaft 1886, medan österrikaren Kann spelade draget i Wien redan 1884 och Max Weiss provade det fyra gånger i Nürnberg 1883. Curt von Bardeleben kopplade samman de två namnen i tryck 1890, och Steinitz kallade då Kanns idé för ett \"bisarrt drag\".\n\nJosé Raúl Capablanca gjorde öppningen rumsren, och huvudvarianten 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 bär fortfarande hans namn. Hans seger över Aron Nimzowitsch i New York 1927 fick Advance-varianten, 3.e5, att betraktas som undermålig i decennier.\n\nDe sovjetiska mästarna tog sedan över öppningen. Mikhail Botvinnik gav namn åt Panov-Botvinnik-anfallet med 4.c4, medan Vasily Smyslov och Anatoly Karpov utvecklade moderna varianten 4...Nd7. David Bronstein och Bent Larsen valde i stället 5...gxf6 för att öppna g-linjen, och Bobby Fischer testade både tvåspringardraget och avbytesvarianten i unga år. Advance-varianten levde i skuggan av Capablancas parti i över femtio år, innan Alexei Shirovs vassa g4-drag bidrog till dess återupplivande.",
+    "date": "Sun, 08 Nov 2026 21:51:00 GMT",
+    "tag": "Chess News Network",
+    "processed_at": "2026-11-09T22:52:43.184385",
+    "bild_filnamn": "bildbanken-B8EKXb7yR4.jpg",
+    "bild_kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund",
+    "bild_alternativ": [
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Memorable_chess_games%2C_brilliants_and_miniatures%2C_with_notes%2C_queries_and_answers_%28IA_memorablechessga00moffiala%29.pdf/page1-500px-Memorable_chess_games%2C_brilliants_and_miniatures%2C_with_notes%2C_queries_and_answers_%28IA_memorablechessga00moffiala%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Moffatt, W (Wikimedia Commons, Public domain)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/The_Enterprise_1924-09-11_%28IA_cssf_001473%29.pdf/page1-960px-The_Enterprise_1924-09-11_%28IA_cssf_001473%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Wikimedia Commons (Public domain)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Chess_Fever_Kapablanka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "kredit": "Foto: en:Vsevolod Pudovkin  (director) (Wikimedia Commons, Public domain)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/My_Chess_Career_%28Capablanca%29.djvu/page1-960px-My_Chess_Career_%28Capablanca%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: José Raúl Capablanca (Wikimedia Commons, Public domain)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Top_chess_GM.png/960px-Top_chess_GM.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: El Comandante (Wikimedia Commons, CC BY 4.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Top_chess_GM_%28desaturated%29.png/960px-Top_chess_GM_%28desaturated%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: El Comandante (Wikimedia Commons, CC BY 4.0)"
+      },
+      {
+        "kalla": "bildbanken",
+        "url": "https://bildbanken.schack.se/Home/B8EKXb7yR4.jpg",
+        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
+      },
+      {
+        "kalla": "bildbanken",
+        "url": "https://bildbanken.schack.se/Home/B94CqTAQFJ.jpg",
+        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
+      },
+      {
+        "kalla": "bildbanken",
+        "url": "https://bildbanken.schack.se/Home/B8CC1tOA-x.jpg",
+        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
+      },
+      {
+        "kalla": "bildbanken",
+        "url": "https://bildbanken.schack.se/Home/B7HI9W0dwe.jpg",
+        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Chess_Life%2C_1951.pdf/page1-960px-Chess_Life%2C_1951.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Various (Wikimedia Commons, Public domain)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Chess_Life%2C_1962.pdf/page1-960px-Chess_Life%2C_1962.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Various (Wikimedia Commons, Public domain)"
       }
     ]
   }
