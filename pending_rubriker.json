@@ -1,85 +1,82 @@
 [
   {
-    "id": "507633296456",
+    "id": "fb8328dfbeba",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/anuj-shrivatri-india-100th-grandmaster",
-        "title": "Anuj Shrivatri India 100Th Grandmaster",
-        "date": "2026-11-09T13:37:09.402637",
+        "url": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-1",
+        "title": "2026 Total Chess World Championship Tour Pilot Day 1",
+        "date": "2026-11-10T12:49:20.749160",
         "tag": "Chess.com"
       },
       {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/india-marks-chess-milestone-with-100th-grandmaster",
-        "title": "India Marks Chess Milestone with 100th Grandmaster",
-        "date": "Tue, 10 Nov 2026 06:24:29 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Anuj Shrivatri becomes India's 100th grandmaster after winning a tournament in the Philippines"
-      }
-    ],
-    "kalla_display": "Chess News Network + Chess.com",
-    "datum": "2026-11-09T13:37:09.402637",
-    "hittad": "2026-11-10T13:38:32.580763"
-  },
-  {
-    "id": "78081793dcce",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/chessbase-for-mac",
-        "title": "ChessBase for Mac",
-        "date": "Tue, 10 Nov 2026 12:58:26 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Our database program – used by everyone, from the World Champion to lowly club players – is now available for Mac users. The new version has been developed from the ground up: modern, built for fast access to what matters. The cost: just €9.95 per month, or €99.95 per year. Make sure you don’t miss the launch of a new era in chess study on the Mac."
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/championnat-du-monde-total-chess-2026-blitz-swiss-10133.html",
+        "title": "Championnat du monde Total Chess 2026Magnus remporte le blitz inaugural ; MVL (2e) et Firouzja (4e) en forme",
+        "date": "2026-11-10T12:49:52.346116",
+        "tag": "Europe Echecs"
       },
       {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/chessbase-para-mac",
-        "title": "ChessBase para Mac",
-        "date": "Tue, 10 Nov 2026 13:00:48 GMT",
-        "tag": "ChessBase España",
-        "_rss_content": "Nuestro programa de bases de datos, utilizado por todo tipo de ajedrecistas, desde el campeón del mundo hasta los aficionados de clubes locales, ¡ya está disponible para usuarios de Mac! La nueva versión ha sido desarrollada desde cero, con un diseño moderno y pensada para ofrecer un acceso rápido a lo que de verdad importa. Y todo ello por tan solo 9,95€ al mes o 99,95€ al año. ¡No te pierdas el comienzo de una nueva era!"
-      }
-    ],
-    "kalla_display": "ChessBase + ChessBase España",
-    "datum": "Tue, 10 Nov 2026 12:58:26 GMT",
-    "hittad": "2026-11-10T13:38:32.580781"
-  },
-  {
-    "id": "926f7a27285a",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/total-chess-budapest-2026-format",
-        "title": "Total Chess – totally complicated",
-        "date": "Tue, 10 Nov 2026 08:10:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "The 2025 Chess Calendar established that there are 151 official World Chess Championships. Another will be added in 2027 – the Total Chess Championship. The pilot tournament takes place in Budapest from 10 to 20 November. The field is strong, the format is complicated, and ChessBase has gone through the Total Chess webpage in an attempt to understand it. However, it is unclear whether all the rules have been correctly understood and reproduced. The following information is therefore provided without guarantee of accuracy."
-      },
-      {
-        "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/11/09/total-chess-world-championship/?utm_source=rss&utm_medium=rss&utm_campaign=total-chess-world-championship",
-        "title": "Total Chess World Championship",
-        "date": "Mon, 09 Nov 2026 17:34:11 +0000",
-        "tag": "Dansk Skak Union",
-        "_rss_content": "Fra 10. november spilles pilotturneringen til en ny FIDE-godkendt verdensmesterskabsserie, hvor lyn-, hurtig- og hurtig-klassisk skak skal afgøre, hvem der er den mest &#8220;komplette&#8221; skakspiller. Idéen er at finde den spiller, der er bedst på tværs af forskellige tidskontroller. Der spilles i tre tidskontroller: hurtig-klassisk (45 minutter plus 30 sekunder pr. træk), hurtig (15+10) og [&#8230;]"
+        "source": "TWIC",
+        "url": "https://theweekinchess.com/chessnews/events/total-chess-pilot-2026",
+        "title": "Total Chess Pilot 2026 - Games and Results",
+        "date": "Tue Nov 10 15:35:00 2026",
+        "tag": "TWIC",
+        "_rss_content": "The Total Chess Pilot tournament takes place in Budapest Tue 10th Nov to Sat 21st Nov 2026. Three stages. A preliminary blitz, group stages and then a final knockout stage. Games will take place across a multiplicity of time controls and weighted results. (Blitz: 3 min + 2 sec per move, starting from move 1 Rapid: 15 min + 10 sec per move, starting from move 1 Fast Classic: 45 min + 30 sec per move, starting from move 1) Players: Magnus Carlsen, Fabiano Caruana, Wesley So, Vincent Keymer, Nodirbek Abdusattorov, Praggnanandhaa Rameshbabu, Arjun Erigaisi, Anish Giri, Alireza Firouzja, Jan-Krzysztof Duda, Quang Liem Le, Richard Rapport, Levon Aronian, Hans Moke Niemann, Shakhriyar Mamedyarov, Ian Nepomniachtchi, Maxime Vachier-Lagrave, Jorden van Foreest, Haik M. Martirosyan, Vladislav Artemiev, Abhimanyu Mishra, Andrew Hong, Bibisara Assaubayeva, Rameshbabu Vaishali."
       },
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/11/10/total-chess-pilot-2026-starter/",
-        "title": "Total Chess Pilot 2026 starter",
-        "date": "Tue, 10 Nov 2026 06:32:36 +0000",
+        "url": "https://bergensjakk.no/2026/11/11/total-chess-pilot-2026-lynsjakkturnering/",
+        "title": "Total Chess Pilot 2026 – Lynsjakkturnering",
+        "date": "Wed, 11 Nov 2026 06:19:54 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "I dag starter Total Chess Pilot i ungarske Budapest. Dette er en frittstående prøveturnering for neste års nye VM-syklus Total Chess. Her mikser man lynsjakk, hurtigsjakk og rask langsjakk for å kåre en ny verdensmester. Planen er å arrangere fire slike turneringer som dette i året, og siden Norway Chess-arrangørene står bak tipper vi en av Les mer"
+        "_rss_content": "GM&#160;Magnus Carlsen (2860) fikk en perfekt start på Total Chess Pilot i Ungarn, med førsteplass i den innledende lynsjakkturneringen. Carlsen, som er regjerende verdensmester i lynsjakk, tok 7 poeng på de 9 rundene. GM Maxime Vachier-Lagrave (FRA 2734) var en farlig utfordrer hele veien, men endte til slutt på andreplass med 6&#189; poeng. GM Levon Les mer"
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/carlsen-goes-unbeaten-in-the-total-chess-blitz-opener",
+        "title": "Carlsen Goes Unbeaten in the Total Chess Blitz Opener",
+        "date": "Tue, 10 Nov 2026 20:06:01 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Magnus Carlsen did not need a trophy to make a point on the opening day in Budapest. He played nine blitz games, won five, drew four and lost none."
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/total-chess-starts-today-with-blitz-tournament",
+        "title": "Total Chess Starts Today With Blitz Tournament",
+        "date": "Tue, 10 Nov 2026 14:08:54 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Total Chess opens in Budapest with a nine-round blitz Swiss that sets all later seeding and tiebreaks. Carlsen leads the field of 24, with no prize at stake."
       }
     ],
-    "kalla_display": "Bergensjakk + ChessBase + Dansk Skak Union",
-    "datum": "Tue, 10 Nov 2026 08:10:00 GMT",
-    "hittad": "2026-11-10T13:38:32.580792"
+    "kalla_display": "Bergensjakk + Chess News Network + Chess.com + Europe Echecs + TWIC",
+    "datum": "2026-11-10T12:49:20.749160",
+    "hittad": "2026-11-11T12:50:41.931875"
+  },
+  {
+    "id": "9ac6bd44b121",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/abdusattorov-sindarov-top-tata-steel-chess-2027-field",
+        "title": "Abdusattorov Sindarov Top Tata Steel Chess 2027 Field",
+        "date": "2026-11-10T12:49:20.749288",
+        "tag": "Chess.com"
+      },
+      {
+        "source": "TWIC",
+        "url": "https://theweekinchess.com/chessnews/events/89th-tata-steel-2027",
+        "title": "89th Tata Steel 2027 - Games and Results",
+        "date": "Tue Nov 10 15:28:00 2026",
+        "tag": "TWIC",
+        "_rss_content": "The 89th Tata Steel Chess tournament takes place in Wijk aan Zee Fri 15th Jan to Sun 31st Jan 2027. Masters: Vincent Keymer, Arjun Erigaisi, Anish Giri, Rameshbabu Praggnanandhaa, Dommaraju Gukesh, Nodirbek Abdusattorov, Javokhir Sindarov, Hans Niemann, Vladimir Fedoseev, Jorden van Foreest, Aravindh Chithambaram, Matthias Bluebaum, Yagiz Kaan Erdogmus, Thai Dai Van Nguyen. Challengers: Velimir Ivic, Erwin l'Ami, Aydin Suleymanli, Marc'Andria Maurizzi, Andy Woodward, Vasyl Ivanchuk, Daniil Yuffa, Max Warmerdam, Faustino Oro, Bibisara Assaubayeva, Carissa Yip, Lu Miaoyi, Vedant Panesar, Eline Roebers."
+      }
+    ],
+    "kalla_display": "Chess.com + TWIC",
+    "datum": "2026-11-10T12:49:20.749288",
+    "hittad": "2026-11-11T12:50:41.931894"
   },
   {
     "id": "24f4b3535667",
@@ -104,24 +101,88 @@
     ],
     "kalla_display": "ChessBase + ChessBase España",
     "datum": "Mon, 09 Nov 2026 22:50:00 GMT",
-    "hittad": "2026-11-10T13:38:32.580801"
+    "hittad": "2026-11-11T12:50:41.931904"
   },
   {
-    "id": "1aaa56f006a2",
+    "id": "c345c96a0c01",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/aace-cracker-wins-2026-gambit-cup-2",
+        "title": "Aace Cracker Wins 2026 Gambit Cup 2",
+        "date": "2026-11-10T12:49:20.749214",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-11-10T12:49:20.749214",
+    "hittad": "2026-11-11T12:50:41.931911"
+  },
+  {
+    "id": "421014499562",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/movahed-wins-titled-tuesday-november-10-2026",
+        "title": "Movahed Wins Titled Tuesday November 10 2026",
+        "date": "2026-11-10T12:49:20.749255",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-11-10T12:49:20.749255",
+    "hittad": "2026-11-11T12:50:41.931918"
+  },
+  {
+    "id": "ad0c08066f7e",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/hikaru-nakamura-renews-with-chess-com",
+        "title": "Hikaru Nakamura Renews With Chess Com",
+        "date": "2026-11-10T12:49:20.749317",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-11-10T12:49:20.749317",
+    "hittad": "2026-11-11T12:50:41.931924"
+  },
+  {
+    "id": "2a6a25678ccb",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/gukesh-sindarov-predictions-kasparov-nakamura",
+        "title": "Gukesh Sindarov Predictions Kasparov Nakamura",
+        "date": "2026-11-10T12:49:20.749347",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-11-10T12:49:20.749347",
+    "hittad": "2026-11-11T12:50:41.931931"
+  },
+  {
+    "id": "56c2002e7560",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/chola-chess-open-2026-final-report",
-        "title": "Pranesh wins Chola Chess Open as young talents make their mark",
-        "date": "Mon, 09 Nov 2026 19:30:00 GMT",
+        "url": "https://en.chessbase.com/post/what-happens-with-my-databases-chessbase-on-mac",
+        "title": "What happens with my databases? - ChessBase on Mac",
+        "date": "Wed, 11 Nov 2026 11:46:54 GMT",
         "tag": "ChessBase",
-        "_rss_content": "Pranesh M won the inaugural Chola Chess Open in Chennai, scoring 7/9 points after finishing with two consecutive victories. The Indian grandmaster ended half a point ahead of five players, including runner-up S. L. Narayanan. The tournament also saw 16-year-old Viresh Sharnarthi earn his second GM norm in ten days, while 11-year-old Sarbartho Mani secured his first IM norm. Nine title norms were achieved in total. | Photo: Devansh Singh"
+        "_rss_content": "One of the biggest questions for chess players switching to ChessBase for Mac is what happens to their databases from the Windows version. Can you still use them? Can you transfer databases in the .cbh format, too? And if so, how much work does it take? In under two minutes, our Mac developer Stefan Raetzke von Stoyentin explains whether and how you can keep using your existing ChessBase databases on a Mac."
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Mon, 09 Nov 2026 19:30:00 GMT",
-    "hittad": "2026-11-10T13:38:32.580808"
+    "datum": "Wed, 11 Nov 2026 11:46:54 GMT",
+    "hittad": "2026-11-11T12:50:41.931941"
   },
   {
     "id": "01e0c1e6b2cd",
@@ -138,24 +199,58 @@
     ],
     "kalla_display": "ChessBase",
     "datum": "Sat, 07 Nov 2026 19:20:00 GMT",
-    "hittad": "2026-11-10T13:38:32.580815"
+    "hittad": "2026-11-11T12:50:41.931948"
   },
   {
-    "id": "b3238fc71532",
+    "id": "6f5f16f34015",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/forbundsnytt/2026/11/nytt-tillfalle-att-ga-domarkurs-30-november/?utm_source=rss&utm_medium=rss&utm_campaign=nytt-tillfalle-att-ga-domarkurs-30-november",
-        "title": "Nytt tillfälle att gå domarkurs 30 november",
-        "date": "Tue, 10 Nov 2026 07:20:02 +0000",
+        "url": "https://schack.se/nyhet/ettantopp/2026/11/em-pa-kreta-sofia-och-lavinia-basta-poangplockare/?utm_source=rss&utm_medium=rss&utm_campaign=em-pa-kreta-sofia-och-lavinia-basta-poangplockare",
+        "title": "EM på Kreta: Sofia och Lavinia bästa poängplockare",
+        "date": "Wed, 11 Nov 2026 09:58:16 +0000",
         "tag": "Svenska Schackförbundet",
-        "_rss_content": "Måndagen den 30 november ges nästa tillfälle att gå SSF:s digitala domarkurs NA steg 1. Efter godkänd kurs blir deltagarna behöriga att döma Elo-rankade tävlingar och får titeln National Arbiter. [&#8230;] Inlägget Nytt tillfälle att gå domarkurs 30 november dök först upp på Sveriges Schackförbund ."
+        "_rss_content": "Med två ronder kvar av ungdoms-EM på Kreta i Grekland, så är Sofia Maximova och Lavinia Valcu just nu de två bästa svenska poängplockarna med 5,5 respektive 5 poäng på [&#8230;] Inlägget EM på Kreta: Sofia och Lavinia bästa poängplockare dök först upp på Sveriges Schackförbund ."
       }
     ],
     "kalla_display": "Schack.se",
-    "datum": "Tue, 10 Nov 2026 07:20:02 +0000",
-    "hittad": "2026-11-10T13:38:32.580822"
+    "datum": "Wed, 11 Nov 2026 09:58:16 +0000",
+    "hittad": "2026-11-11T12:50:41.931955"
+  },
+  {
+    "id": "ee0412e0ba10",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/veteran/2026/11/fide-presidentens-fina-gest-till-pia-cramling/?utm_source=rss&utm_medium=rss&utm_campaign=fide-presidentens-fina-gest-till-pia-cramling",
+        "title": "FIDE-presidentens fina gest till Pia Cramling",
+        "date": "Wed, 11 Nov 2026 08:59:19 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Med en bugning visade nyvalde FIDE-presidenten Timur Turlov sin uppskattning för Pia Cramlings schackgärning. Mötet mellan schackvärldens mäktigaste person och Sveriges schackstjärna skedde strax före den sjätte ronden av veteran-VM [&#8230;] Inlägget FIDE-presidentens fina gest till Pia Cramling dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Wed, 11 Nov 2026 08:59:19 +0000",
+    "hittad": "2026-11-11T12:50:41.931961"
+  },
+  {
+    "id": "ec4393eee0e6",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/sverige/2026/11/dags-att-anmala-sig-till-nasta-gp-tavling-malmo-open/?utm_source=rss&utm_medium=rss&utm_campaign=dags-att-anmala-sig-till-nasta-gp-tavling-malmo-open",
+        "title": "Dags att anmäla sig till nästa GP-tävling: Malmö Open",
+        "date": "Tue, 10 Nov 2026 20:07:41 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Schackpjäserna ligger inte länge och dammar i lådorna när Svenskt Grand Prix är igång. Bara en dryg vecka efter Stockholm Grand Prix börjar nu uppladdningen för nästa deltävling: Malmö Open [&#8230;] Inlägget Dags att anmäla sig till nästa GP-tävling: Malmö Open dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Tue, 10 Nov 2026 20:07:41 +0000",
+    "hittad": "2026-11-11T12:50:41.931967"
   },
   {
     "id": "0670e0857967",
@@ -172,32 +267,15 @@
     ],
     "kalla_display": "Schack.se",
     "datum": "Tue, 10 Nov 2026 06:51:30 +0000",
-    "hittad": "2026-11-10T13:38:32.580833"
+    "hittad": "2026-11-11T12:50:41.931973"
   },
   {
-    "id": "8e4a617ec379",
+    "id": "d0387bb4c296",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettan2/2026/11/jalling-far-heltidstjanst-inom-fide/?utm_source=rss&utm_medium=rss&utm_campaign=jalling-far-heltidstjanst-inom-fide",
-        "title": "Jalling får heltidstjänst inom FIDE",
-        "date": "Mon, 09 Nov 2026 16:47:26 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Sveriges Schackförbunds före detta ordförande och det Nordiska Schackförbundets nuvarande dito, Håkan Jalling, har blivit anställd av världsschackförbundet, FIDE. Han är en av tre nyutnämnda “presidential representatives” inom FIDE. Jalling [&#8230;] Inlägget Jalling får heltidstjänst inom FIDE dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Mon, 09 Nov 2026 16:47:26 +0000",
-    "hittad": "2026-11-10T13:38:32.580840"
-  },
-  {
-    "id": "6ee961553bf3",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/ettantopp/2026/11/forsta-dopingkontrollen-i-svenskt-schack/?utm_source=rss&utm_medium=rss&utm_campaign=forsta-dopingkontrollen-i-svenskt-schack",
+        "url": "https://schack.se/nyhet/sverige/2026/11/forsta-dopingkontrollen-i-svenskt-schack/?utm_source=rss&utm_medium=rss&utm_campaign=forsta-dopingkontrollen-i-svenskt-schack",
         "title": "Första dopingkontrollen i svenskt schack",
         "date": "Mon, 09 Nov 2026 16:39:39 +0000",
         "tag": "Svenska Schackförbundet",
@@ -206,57 +284,62 @@
     ],
     "kalla_display": "Schack.se",
     "datum": "Mon, 09 Nov 2026 16:39:39 +0000",
-    "hittad": "2026-11-10T13:38:32.580849"
+    "hittad": "2026-11-11T12:50:41.932006",
+    "liknar": {
+      "titel": "Första dopingkontrollen genomförd i svenskt schack",
+      "url": "https://gambit.se/?p=3914",
+      "datum": "2026-11-11"
+    }
   },
   {
-    "id": "9fc30f6a3e75",
+    "id": "0c8fddbc6234",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/asian-nations-chess-cup-2026-preview-report",
-        "title": "SpotlightTop storyDevansh Singh·51 minutes agoThe Asian Nations Chess Cup 2026 Starts Today at the Sheraton Abu Dhabi",
-        "date": "2026-11-09T13:37:30.941842",
+        "url": "https://www.chessbase.in/news/prakash-ram-triumphs-at-9th-n-l-pandiyar-memorial-classical-rating-2026",
+        "title": "SpotlightTop storyDevansh Singh·2 minutes agoPrakash Ram Triumphs at 9th N L Pandiyar Memorial Classical Rating 2026",
+        "date": "2026-11-10T12:49:42.767660",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-11-09T13:37:30.941842",
-    "hittad": "2026-11-10T13:38:32.580854"
+    "datum": "2026-11-10T12:49:42.767660",
+    "hittad": "2026-11-11T12:50:41.932012"
   },
   {
-    "id": "376a50ae7f65",
+    "id": "b4ac84278fee",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/11/10/kort-nyt-uge-45-9/?utm_source=rss&utm_medium=rss&utm_campaign=kort-nyt-uge-45-9",
-        "title": "Kort Nyt uge 45",
-        "date": "Tue, 10 Nov 2026 13:08:06 +0000",
-        "tag": "Dansk Skak Union",
-        "_rss_content": "Kort nyt er skrevet af Filip Boe Olsen og Thomas Vestergård. Nyt afsnit af Skakspilleren med Claus Andersen, formand for 6. HK, som gæst. Se foto øverst i artiklen. Christian Thelin skriver om udsendelsen:Claus Andersen har spillet skak siden hans hans farfar tog ham med ned i skakklubben. Igennem årene har han været formand for [&#8230;]"
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/game-of-the-day-gm-nihal-sarin-beats-im-akram-khoder",
+        "title": "Game of the Day: GM Nihal Sarin Beats IM Akram Khoder",
+        "date": "Wed, 11 Nov 2026 09:06:22 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "GM Nihal Sarin beat IM Akram Khoder in round 1, board 1 of the Asian Nations Chess Cup 2026 (Men), winning in 34 moves."
       }
     ],
-    "kalla_display": "Dansk Skak Union",
-    "datum": "Tue, 10 Nov 2026 13:08:06 +0000",
-    "hittad": "2026-11-10T13:38:32.580858"
+    "kalla_display": "Chess News Network",
+    "datum": "Wed, 11 Nov 2026 09:06:22 GMT",
+    "hittad": "2026-11-11T12:50:41.932018"
   },
   {
-    "id": "d68c453de77e",
+    "id": "dd3672c3e150",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/11/10/offene-internationale-bayerische-schach-meisterschaften-2026/",
-        "title": "Offene Internationale Bayerische Schach-Meisterschaften 2026",
-        "date": "Tue, 10 Nov 2026 06:32:26 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "Den åpne GM-turneringen Offene Internationale Bayerische Schach-Meisterschaften ble spilt i tyske Tegernsee fra 31. oktober til 8. november 2026. Fire spillere endte øverst på tabellen med 7&#189; poeng på 9 runder. GM Krishnan Sasikiran (IND 2520) hadde møtt høyest ratingsnitt og tok dermed førsteplassen foran GM Frederik Svane (GER 2662), GM Roven Vogel (GER 2514) Les mer"
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/vaishali-impressing-in-budapest",
+        "title": "Vaishali Impressing In Budapest",
+        "date": "Tue, 10 Nov 2026 20:04:55 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Vaishali beat Hans Niemann and Wesley So with Black in the opening blitz at Total Chess in Budapest, warning her opponents ahead of tomorrows main event start."
       }
     ],
-    "kalla_display": "Bergensjakk",
-    "datum": "Tue, 10 Nov 2026 06:32:26 +0000",
-    "hittad": "2026-11-10T13:38:32.580861"
+    "kalla_display": "Chess News Network",
+    "datum": "Tue, 10 Nov 2026 20:04:55 GMT",
+    "hittad": "2026-11-11T12:50:41.932023"
   },
   {
     "id": "8d69e223044f",
@@ -273,11 +356,28 @@
     ],
     "kalla_display": "Chess News Network",
     "datum": "Mon, 09 Nov 2026 14:21:14 GMT",
-    "hittad": "2026-11-10T13:38:32.580865",
+    "hittad": "2026-11-11T12:50:41.932029",
     "liknar": {
       "titel": "Tre av fyra kvinnor möter diskriminering i schack",
       "url": "https://gambit.se/?p=3909",
       "datum": "2026-11-10"
     }
+  },
+  {
+    "id": "11a093a12747",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase España",
+        "url": "https://es.chessbase.com/post/total-chess-budapest-2026-directo",
+        "title": "Total Chess en Budapest: Fase de grupos",
+        "date": "Wed, 11 Nov 2026 11:30:00 GMT",
+        "tag": "ChessBase España",
+        "_rss_content": "El torneo piloto del Total Chess World Championship Tour se está jugando en Budapest del 10 al 20 de noviembre. Magnus Carlsen, Fabiano Caruana, Vincent Keymer y Wesley So lideran la nómina de 24 participantes. El evento combina ajedrez clásico con un ritmo de juego reducido, rápidas y blitz en un nuevo formato, que comienza con un torneo de blitz a nueve rondas antes de la fase de grupos y las eliminatorias. | Sigue la acción en directo a partir de las 15:00 hora de Madrid (11:00 Buenos Aires, 8:00 Ciudad de México)."
+      }
+    ],
+    "kalla_display": "ChessBase España",
+    "datum": "Wed, 11 Nov 2026 11:30:00 GMT",
+    "hittad": "2026-11-11T12:50:41.932035"
   }
 ]
