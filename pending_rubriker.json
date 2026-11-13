@@ -1,89 +1,28 @@
 [
   {
-    "id": "5952e8920461",
+    "id": "d376489e7498",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
-        "title": "Total Chess: Group stage - Live!",
-        "date": "Thu, 12 Nov 2026 14:45:00 GMT",
+        "url": "https://en.chessbase.com/post/anthony-miles-25-years-death",
+        "title": "Tony Miles: 25 years since the sudden death of an English star",
+        "date": "Thu, 12 Nov 2026 21:30:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "The group stage of the Total Chess Pilot is underway in Budapest, and only the group winners will advance to the knockout final to compete for the tournament title. The 24 participants are divided into four groups of six, playing a double round-robin in each group. From Wednesday to Sunday, each participant plays two games per day with a Fast Classic time control (45+30). On Thursday, Maxime Vachier-Lagrave faces Wesley So, while Fabiano Caruana (pictured) faces Praggnanandhaa Rameshbabu. | Follow the action live, starting at 15.00 CET (9.00 ET, 19.30 IST) | Photo: Michal Walusza"
+        "_rss_content": "Twenty-five years ago today, on 12 November 2001, English chess lost one of its finest players, Anthony Miles. He was the first English player ever to be awarded the title of international grandmaster by FIDE. Miles was among the world's top ten players for a time. His death came as a great surprise. | Photo: British Chess News"
       },
       {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/total-chess-budapest-2026-groups-1",
-        "title": "Total Chess: Top scorers obtain 4/6 points on first day of group stage",
-        "date": "Thu, 12 Nov 2026 08:00:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "The group stage of the Total Chess Pilot began in Budapest on Wednesday, with players contesting two games at a 45+30 time control. Six players finished the day with 4 points out of a possible 6: Fabiano Caruana, Alireza Firouzja (pictured), Maxime Vachier-Lagrave, Ian Nepomniachtchi, Jan-Krzysztof Duda and Le Quang Liem. The football-style scoring system made an immediate difference, as Magnus Carlsen and Anish Giri - who drew both their encounters - find themselves trailing players who collected a win and a loss. | Photo: Michal Walusza / Total Chess"
-      },
-      {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/total-chess-pilot-2026-day-1-anish-giri-holds-carlsen",
-        "title": "SpotlightTop storySagar Shah·6 hours agoTotal Chess Pilot 2026 Day 1: Magnus plays the Dutch against the Dutch no.1",
-        "date": "2026-11-11T13:52:38.173687",
-        "tag": "ChessBase India"
-      },
-      {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/11/12/total-chess-pilot-2026-gruppespill-dag-1/",
-        "title": "Total Chess Pilot 2026 – Gruppespill – dag 1",
-        "date": "Thu, 12 Nov 2026 06:09:54 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "Gruppespillet i Total Chess Pilot i Ungarn startet onsdag med første runde. GM Magnus Carlsen (2823) spilte to raske langsjakkpartier mot GM Anish Giri (NED 2747), og begge endte remis. På tross av betenkningstiden, som raskt førte til gjensidig tidsnød, ble det to velspilte partier uten spesielle vinstsjanser til noen av partene. I grupppen til Les mer"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/total-chess-kicks-off-with-round-1",
-        "title": "Total Chess Kicks Off With Round 1",
-        "date": "Wed, 11 Nov 2026 17:40:07 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Total Chess groups open with six wins in 12 games. Firouzja, Aronian, Caruana, Nepomniachtchi, Mamedyarov and Vachier-Lagrave lead; Carlsen drew Giri."
-      },
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/championnat-du-monde-total-2026-ronde-1-2-phase-de-poule-10135.html",
-        "title": "Lire l'articleChampionnat du monde Total 2026Ronde 1 & 2 : premiers duels en Fast Classic2",
-        "date": "2026-11-11T13:52:48.702490",
-        "tag": "Europe Echecs"
+        "source": "ChessBase España",
+        "url": "https://es.chessbase.com/post/anthony-miles-25-anhos-repentina-muerte",
+        "title": "A 25 años de la repentina muerte de Tony Miles",
+        "date": "Thu, 12 Nov 2026 21:15:00 GMT",
+        "tag": "ChessBase España",
+        "_rss_content": "Hace exactamente veinticinco años, el 12 de noviembre de 2001, el ajedrez inglés perdió a uno de sus mejores jugadores, Anthony Miles. Fue el primer ajedrecista inglés en recibir el título de gran maestro internacional otorgado por la FIDE. Miles llegó a figurar entre los diez mejores jugadores del mundo. Su fallecimiento fue repentino e inesperado. | Foto: British Chess News"
       }
     ],
-    "kalla_display": "Bergensjakk + Chess News Network + ChessBase + ChessBase India + Europe Echecs",
-    "datum": "Thu, 12 Nov 2026 14:45:00 GMT",
-    "hittad": "2026-11-12T13:53:42.628564"
-  },
-  {
-    "id": "a55c977c2d4a",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/abdusattorov-sindarov-top-tata-steel-chess-2027-field",
-        "title": "Abdusattorov Sindarov Top Tata Steel Chess 2027 Field",
-        "date": "2026-11-11T13:52:17.511303",
-        "tag": "Chess.com"
-      },
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/tata-steel-chess-2027-participants-10134.html",
-        "title": "Tata Steel Chess 2027Firouzja de retour au Tata Steel, Abdusattorov défendra son titre",
-        "date": "2026-11-11T13:52:48.702455",
-        "tag": "Europe Echecs"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/abdusattorov-sindarov-headline-tata-steel-chess-2027",
-        "title": "Abdusattorov, Sindarov Headline Tata Steel Chess 2027",
-        "date": "Wed, 11 Nov 2026 15:45:26 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Defending champion and potential new world champion lead the field at upcoming tournament"
-      }
-    ],
-    "kalla_display": "Chess News Network + Chess.com + Europe Echecs",
-    "datum": "2026-11-11T13:52:17.511303",
-    "hittad": "2026-11-12T13:53:42.628579"
+    "kalla_display": "ChessBase + ChessBase España",
+    "datum": "Thu, 12 Nov 2026 21:30:00 GMT",
+    "hittad": "2026-11-13T13:16:39.104125"
   },
   {
     "id": "24f4b3535667",
@@ -108,23 +47,195 @@
     ],
     "kalla_display": "ChessBase + ChessBase España",
     "datum": "Mon, 09 Nov 2026 22:50:00 GMT",
-    "hittad": "2026-11-12T13:53:42.628587"
+    "hittad": "2026-11-13T13:16:39.104138"
   },
   {
-    "id": "851d6bf784e8",
+    "id": "6ad0e8268fd2",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/total-chess-budapest-2026-groups-1",
+        "title": "Total Chess: Top scorers obtain 4/6 points on first day of group stage",
+        "date": "Thu, 12 Nov 2026 08:00:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "The group stage of the Total Chess Pilot began in Budapest on Wednesday, with players contesting two games at a 45+30 time control. Six players finished the day with 4 points out of a possible 6: Fabiano Caruana, Alireza Firouzja (pictured), Maxime Vachier-Lagrave, Ian Nepomniachtchi, Jan-Krzysztof Duda and Le Quang Liem. The football-style scoring system made an immediate difference, as Magnus Carlsen and Anish Giri - who drew both their encounters - find themselves trailing players who collected a win and a loss. | Photo: Michal Walusza / Total Chess"
+      },
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/11/12/total-chess-pilot-2026-gruppespill-dag-1/",
+        "title": "Total Chess Pilot 2026 – Gruppespill – dag 1",
+        "date": "Thu, 12 Nov 2026 06:09:54 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Gruppespillet i Total Chess Pilot i Ungarn startet onsdag med første runde. GM Magnus Carlsen (2823) spilte to raske langsjakkpartier mot GM Anish Giri (NED 2747), og begge endte remis. På tross av betenkningstiden, som raskt førte til gjensidig tidsnød, ble det to velspilte partier uten spesielle vinstsjanser til noen av partene. I grupppen til Les mer"
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/total-chess-kicks-off-with-round-1",
+        "title": "Total Chess Kicks Off With Round 1",
+        "date": "Wed, 11 Nov 2026 17:40:07 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Total Chess groups open with six wins in 12 games. Firouzja, Aronian, Caruana, Nepomniachtchi, Mamedyarov and Vachier-Lagrave lead; Carlsen drew Giri."
+      }
+    ],
+    "kalla_display": "Bergensjakk + Chess News Network + ChessBase",
+    "datum": "Thu, 12 Nov 2026 08:00:00 GMT",
+    "hittad": "2026-11-13T13:16:39.104143"
+  },
+  {
+    "id": "6ff4c68823b5",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-3",
+        "title": "2026 Total Chess World Championship Tour Pilot Day 3",
+        "date": "2026-11-12T13:15:15.689223",
+        "tag": "Chess.com"
+      },
+      {
+        "source": "Chess.com",
         "url": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-2",
         "title": "2026 Total Chess World Championship Tour Pilot Day 2",
-        "date": "2026-11-11T13:52:17.511204",
+        "date": "2026-11-12T13:15:15.689271",
+        "tag": "Chess.com"
+      },
+      {
+        "source": "ChessBase India",
+        "url": "https://www.chessbase.in/news/total-chess-world-championship-pilot-2026-day-2",
+        "title": "SpotlightTop storySagar Shah·this minuteTotal Chess Pilot 2026 Day 2: Caruana sacrifices his house against Pragg!",
+        "date": "2026-11-12T13:15:35.424350",
+        "tag": "ChessBase India"
+      },
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/11/13/total-chess-pilot-2026-gruppespill-dag-2/",
+        "title": "Total Chess Pilot 2026 – Gruppespill – dag 2",
+        "date": "Fri, 13 Nov 2026 06:00:13 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "GM&#160;Magnus Carlsen (2823) sliter med å komme i gang i gruppespillet i Total Chess Pilot i Ungarn. På dag to ble det igjen bare remiser, og Carlsen kan prise seg lykkelig over å slippe unna med dette mot 17-årige GM Abhimanyu Mishra (USA 2644). Carlsen fikk ingen hvitfordel i første parti, og ofret en offiser Les mer"
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/total-chess-championship-round-2",
+        "title": "Total Chess Championship Round 2",
+        "date": "Fri, 13 Nov 2026 12:12:19 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "n Round 2 of the Total Chess World Championship Tour pilot on Thursday, he drew both games against Abhimanyu Mishra, which makes four draws from four Fast Classic games so far."
+      }
+    ],
+    "kalla_display": "Bergensjakk + Chess News Network + Chess.com + ChessBase India",
+    "datum": "2026-11-12T13:15:15.689223",
+    "hittad": "2026-11-13T13:16:39.104149"
+  },
+  {
+    "id": "4f380fe8519c",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/total-chess-budapest-2026-groups-2",
+        "title": "Total Chess: Double wins for Caruana and Niemann, first 2700+ scalp for Assaubayeva",
+        "date": "Fri, 13 Nov 2026 08:15:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Fabiano Caruana and Hans Niemann scored back-to-back wins on Thursday at the Total Chess Pilot in Budapest, defeating Praggnanandhaa and Vaishali Rameshbabu respectively. Caruana now leads Group B with 10 points, while Niemann shares first place in Group D with Maxime Vachier-Lagrave. Meanwhile, Magnus Carlsen remains winless but just 2 points off the lead in Group C after again signing two draws. Notably, Bibisara Assaubayeva obtained a memorable upset victory over Arjun Erigaisi. | Photo: Michal Walusza / Total Chess"
+      },
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/championnat-du-monde-total-2026-ronde-3-4-10136.html",
+        "title": "Lire l'articleChampionnat du monde Total 2026Fabiano Caruana impressionne, Magnus Carlsen reste sur sa faim3",
+        "date": "2026-11-12T13:15:46.940102",
+        "tag": "Europe Echecs"
+      }
+    ],
+    "kalla_display": "ChessBase + Europe Echecs",
+    "datum": "Fri, 13 Nov 2026 08:15:00 GMT",
+    "hittad": "2026-11-13T13:16:39.104152"
+  },
+  {
+    "id": "5b1c5a8aa237",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/abdusattorov-sindarov-top-tata-steel-chess-2027-field",
+        "title": "Abdusattorov Sindarov Top Tata Steel Chess 2027 Field",
+        "date": "2026-11-12T13:15:15.689359",
+        "tag": "Chess.com"
+      },
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/tata-steel-chess-2027-participants-10134.html",
+        "title": "Lire l'articleTata Steel Chess 2027Firouzja de retour au Tata Steel, Abdusattorov défendra son titre",
+        "date": "2026-11-12T13:15:46.940115",
+        "tag": "Europe Echecs"
+      },
+      {
+        "source": "TWIC",
+        "url": "https://theweekinchess.com/chessnews/events/89th-tata-steel-2027",
+        "title": "89th Tata Steel 2027 - Games and Results",
+        "date": "Tue Nov 10 15:28:00 2026",
+        "tag": "TWIC",
+        "_rss_content": "The 89th Tata Steel Chess tournament takes place in Wijk aan Zee Fri 15th Jan to Sun 31st Jan 2027. Masters: Vincent Keymer, Arjun Erigaisi, Anish Giri, Rameshbabu Praggnanandhaa, Dommaraju Gukesh, Nodirbek Abdusattorov, Javokhir Sindarov, Hans Niemann, Vladimir Fedoseev, Jorden van Foreest, Aravindh Chithambaram, Matthias Bluebaum, Yagiz Kaan Erdogmus, Thai Dai Van Nguyen. Challengers: Velimir Ivic, Erwin l'Ami, Aydin Suleymanli, Marc'Andria Maurizzi, Andy Woodward, Vasyl Ivanchuk, Daniil Yuffa, Max Warmerdam, Faustino Oro, Bibisara Assaubayeva, Carissa Yip, Lu Miaoyi, Vedant Panesar, Eline Roebers."
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/abdusattorov-sindarov-headline-tata-steel-chess-2027",
+        "title": "Abdusattorov, Sindarov Headline Tata Steel Chess 2027",
+        "date": "Wed, 11 Nov 2026 15:45:26 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Defending champion and potential new world champion lead the field at upcoming tournament"
+      }
+    ],
+    "kalla_display": "Chess News Network + Chess.com + Europe Echecs + TWIC",
+    "datum": "2026-11-12T13:15:15.689359",
+    "hittad": "2026-11-13T13:16:39.104157"
+  },
+  {
+    "id": "e6206ea49118",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/ettantopp/2026/11/godkand-svensk-insats-i-ungdoms-em/?utm_source=rss&utm_medium=rss&utm_campaign=godkand-svensk-insats-i-ungdoms-em",
+        "title": "Godkänd svensk insats i ungdoms-EM",
+        "date": "Fri, 13 Nov 2026 08:01:52 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Ungdoms-EM på Kreta är färdigspelat &#8211; och det svenska laget kan glädja sig åt många fina insatser. Lagledare FM Linus Olsson: &#8211; Alla våra spelare kämpade väl och gjorde sitt [&#8230;] Inlägget Godkänd svensk insats i ungdoms-EM dök först upp på Sveriges Schackförbund ."
+      },
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/11/13/em-for-ungdom-2026-runde-5-til-9/",
+        "title": "EM for ungdom 2026 – runde 5 til 9",
+        "date": "Fri, 13 Nov 2026 05:59:59 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Det&#160;ble ingen norske topplasseringer i EM&#160;i&#160;sjakk&#160;for&#160;ungdom, som ble spilt i Hellas fra 3. til 12. november 2026. Den som fikk høyeste plassering var WCM Oda Kofoed Skramstad (2114) i Girls U16, som endte på 11. plass med 6 poeng. Dette var en plass over forhåndsrangeringen, men likevel litt under forventet score. På forhånd var det Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk + Schack.se",
+    "datum": "Fri, 13 Nov 2026 08:01:52 +0000",
+    "hittad": "2026-11-13T13:16:39.104160",
+    "liknar": {
+      "titel": "Sofia och Lavinia bäst för Sverige på ungdoms-EM",
+      "url": "https://gambit.se/?p=3920",
+      "datum": "2026-11-11"
+    }
+  },
+  {
+    "id": "de21d25dc3d7",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/win-prizes-in-the-fall-2026-ccl-predictions-challenge",
+        "title": "Win Prizes In The Fall 2026 Ccl Predictions Challenge",
+        "date": "2026-11-12T13:15:15.689256",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-11-11T13:52:17.511204",
-    "hittad": "2026-11-12T13:53:42.628592"
+    "datum": "2026-11-12T13:15:15.689256",
+    "hittad": "2026-11-13T13:16:39.104165"
   },
   {
     "id": "114860a7d848",
@@ -134,13 +245,13 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/chessboxing-world-championship-2026-istanbul",
         "title": "Chessboxing World Championship 2026 Istanbul",
-        "date": "2026-11-11T13:52:17.511237",
+        "date": "2026-11-12T13:15:15.689291",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-11-11T13:52:17.511237",
-    "hittad": "2026-11-12T13:53:42.628597"
+    "datum": "2026-11-12T13:15:15.689291",
+    "hittad": "2026-11-13T13:16:39.104169"
   },
   {
     "id": "2a6a25678ccb",
@@ -150,13 +261,18 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/gukesh-sindarov-predictions-kasparov-nakamura",
         "title": "Gukesh Sindarov Predictions Kasparov Nakamura",
-        "date": "2026-11-11T13:52:17.511331",
+        "date": "2026-11-12T13:15:15.689385",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-11-11T13:52:17.511331",
-    "hittad": "2026-11-12T13:53:42.628602"
+    "datum": "2026-11-12T13:15:15.689385",
+    "hittad": "2026-11-13T13:16:39.104171",
+    "liknar": {
+      "titel": "Sindarov favorittippas inför VM-match mot Gukesh",
+      "url": "https://gambit.se/?p=3865",
+      "datum": "2026-11-13"
+    }
   },
   {
     "id": "9f777349ff83",
@@ -173,7 +289,7 @@
     ],
     "kalla_display": "ChessBase",
     "datum": "Wed, 11 Nov 2026 21:30:00 GMT",
-    "hittad": "2026-11-12T13:53:42.628607"
+    "hittad": "2026-11-13T13:16:39.104174"
   },
   {
     "id": "01e0c1e6b2cd",
@@ -190,7 +306,7 @@
     ],
     "kalla_display": "ChessBase",
     "datum": "Sat, 07 Nov 2026 19:20:00 GMT",
-    "hittad": "2026-11-12T13:53:42.628614"
+    "hittad": "2026-11-13T13:16:39.104176"
   },
   {
     "id": "c4e5619b2233",
@@ -207,7 +323,7 @@
     ],
     "kalla_display": "Schack.se",
     "datum": "Thu, 12 Nov 2026 08:50:54 +0000",
-    "hittad": "2026-11-12T13:53:42.628620"
+    "hittad": "2026-11-13T13:16:39.104179"
   },
   {
     "id": "d0387bb4c296",
@@ -224,29 +340,61 @@
     ],
     "kalla_display": "Schack.se",
     "datum": "Mon, 09 Nov 2026 16:39:39 +0000",
-    "hittad": "2026-11-12T13:53:42.628625",
+    "hittad": "2026-11-13T13:16:39.104181",
     "liknar": {
       "titel": "Första dopingkontrollen genomförd i svenskt schack",
       "url": "https://gambit.se/?p=3914",
-      "datum": "2026-11-11"
+      "datum": "2026-11-13"
     }
   },
   {
-    "id": "15910371710e",
+    "id": "9c9b3164a50d",
     "status": "pending",
     "rubriker": [
       {
-        "source": "TWIC",
-        "url": "https://theweekinchess.com/chessnews/events/89th-tata-steel-2027",
-        "title": "89th Tata Steel 2027 - Games and Results",
-        "date": "Tue Nov 10 15:28:00 2026",
-        "tag": "TWIC",
-        "_rss_content": "The 89th Tata Steel Chess tournament takes place in Wijk aan Zee Fri 15th Jan to Sun 31st Jan 2027. Masters: Vincent Keymer, Arjun Erigaisi, Anish Giri, Rameshbabu Praggnanandhaa, Dommaraju Gukesh, Nodirbek Abdusattorov, Javokhir Sindarov, Hans Niemann, Vladimir Fedoseev, Jorden van Foreest, Aravindh Chithambaram, Matthias Bluebaum, Yagiz Kaan Erdogmus, Thai Dai Van Nguyen. Challengers: Velimir Ivic, Erwin l'Ami, Aydin Suleymanli, Marc'Andria Maurizzi, Andy Woodward, Vasyl Ivanchuk, Daniil Yuffa, Max Warmerdam, Faustino Oro, Bibisara Assaubayeva, Carissa Yip, Lu Miaoyi, Vedant Panesar, Eline Roebers."
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/championnat-d-europe-jeunes-2026-bilan-10137.html",
+        "title": "Championnat d'Europe Jeunes 2026Han Nam Pham champion d'Europe U10",
+        "date": "2026-11-12T13:15:46.940067",
+        "tag": "Europe Echecs"
       }
     ],
-    "kalla_display": "TWIC",
-    "datum": "Tue Nov 10 15:28:00 2026",
-    "hittad": "2026-11-12T13:53:42.628629"
+    "kalla_display": "Europe Echecs",
+    "datum": "2026-11-12T13:15:46.940067",
+    "hittad": "2026-11-13T13:16:39.104183"
+  },
+  {
+    "id": "363399604c39",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/championnat-du-monde-total-2026-ronde-1-2-phase-de-poule-10135.html",
+        "title": "Lire l'articleChampionnat du monde Total 2026Ronde 1 & 2 : premiers duels en Fast Classic2",
+        "date": "2026-11-12T13:15:46.940128",
+        "tag": "Europe Echecs"
+      }
+    ],
+    "kalla_display": "Europe Echecs",
+    "datum": "2026-11-12T13:15:46.940128",
+    "hittad": "2026-11-13T13:16:39.104185"
+  },
+  {
+    "id": "4e2ef25fea5b",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Dansk Skak Union",
+        "url": "https://nyheder.skak.dk/2026/11/12/2-trippelrunde-af-bundesligaen/?utm_source=rss&utm_medium=rss&utm_campaign=2-trippelrunde-af-bundesligaen",
+        "title": "2. trippelrunde af Bundesligaen",
+        "date": "Thu, 12 Nov 2026 17:00:00 +0000",
+        "tag": "Dansk Skak Union",
+        "_rss_content": "I weekenden d. 13.-15. november spilles runde 4, 5 og 6 i en af verdens stærkeste ligaer, Bundesligaen. FC St. Pauli, der er eneste hold med danskere på holdkortet, spiller alle tre runder i Solingen, nær Düsseldorf. Der er mulighed for, at Jonas Buhl Bjerre, Jesper Søndergaard Thybo, Mads Andersen og Filip Boe Olsen kan [&#8230;]"
+      }
+    ],
+    "kalla_display": "Dansk Skak Union",
+    "datum": "Thu, 12 Nov 2026 17:00:00 +0000",
+    "hittad": "2026-11-13T13:16:39.104188"
   },
   {
     "id": "bd24f9fc9c30",
@@ -263,7 +411,24 @@
     ],
     "kalla_display": "Bergensjakk",
     "datum": "Thu, 12 Nov 2026 06:09:43 +0000",
-    "hittad": "2026-11-12T13:53:42.628633"
+    "hittad": "2026-11-13T13:16:39.104190"
+  },
+  {
+    "id": "79316dbe920f",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/how-to-win-by-letting-white-have-everything",
+        "title": "How to Win by Letting White Have Everything",
+        "date": "Thu, 12 Nov 2026 17:18:00 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Give White the whole center, then take it back. The King’s Indian Defence went from suspect to Fischer and Kasparov’s weapon, and it still bites."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Thu, 12 Nov 2026 17:18:00 GMT",
+    "hittad": "2026-11-13T13:16:39.104192"
   },
   {
     "id": "fe2af6a0a94e",
@@ -280,7 +445,7 @@
     ],
     "kalla_display": "Chess News Network",
     "datum": "Thu, 12 Nov 2026 11:14:28 GMT",
-    "hittad": "2026-11-12T13:53:42.628637"
+    "hittad": "2026-11-13T13:16:39.104194"
   },
   {
     "id": "8d69e223044f",
@@ -297,11 +462,11 @@
     ],
     "kalla_display": "Chess News Network",
     "datum": "Mon, 09 Nov 2026 14:21:14 GMT",
-    "hittad": "2026-11-12T13:53:42.628641",
+    "hittad": "2026-11-13T13:16:39.104196",
     "liknar": {
       "titel": "Tre av fyra kvinnor möter diskriminering i schack",
-      "url": "https://gambit.se/?p=3909",
-      "datum": "2026-11-10"
+      "url": "https://gambit.se/tre-av-fyra-kvinnor-moter-diskriminering-i-schack/",
+      "datum": "2026-11-13"
     }
   }
 ]
