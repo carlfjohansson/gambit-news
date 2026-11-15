@@ -1,69 +1,5 @@
 [
   {
-    "id": "3ed15501f84f",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/total-chess-budapest-2026-groups-3",
-        "title": "Total Chess: Caruana and MVL impress, Martirosyan upsets Carlsen",
-        "date": "Sat, 14 Nov 2026 10:05:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Haik Martirosyan defeated Magnus Carlsen on Friday to take the sole lead in Group C at the Total Chess Pilot in Budapest. Fabiano Caruana remains the tournament's top scorer with 14 points, while Alireza Firouzja and Maxime Vachier-Lagrave also lead their respective groups. Carlsen's struggles have cost him 15.8 rating points so far in the event, leaving Caruana just 7.2 points behind the Norwegian at the top of the live classical rankings. | Photo: Michal Walusza / Total Chess"
-      },
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/championnat-du-monde-total-2026-ronde-5-et-6-10138.html",
-        "title": "Championnat du monde Total 2026Magnus Carlsen en plein doute",
-        "date": "2026-11-13T12:19:44.579639",
-        "tag": "Europe Echecs"
-      },
-      {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/11/14/total-chess-pilot-2026-gruppespill-dag-3/",
-        "title": "Total Chess Pilot 2026 – Gruppespill – dag 3",
-        "date": "Sat, 14 Nov 2026 06:00:07 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "På&#160;tredje dag av gruppespillet i Total Chess Pilot ble remisrekken til GM Magnus Carlsen (2823) brutt. Dessverre var det et tap og ikke en seier som brøt mønsteret. Dagens motstander var GM Haik M. Martirosyan (ARM 2669). Carlsen valgte Siciliansk Najdorf med svart, og sto helt fint fram til han spilte feil i trekk 34 Les mer"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/caruana-soars-as-carlsen-suffers",
-        "title": "Caruana Soars as Carlsen Suffers",
-        "date": "Sat, 14 Nov 2026 10:59:54 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Martirosyan beat Carlsen in Total Chess Round 3 in Budapest to lead Group C, while Caruana hit 2800 and sits 7.2 rating points behind Carlsen."
-      }
-    ],
-    "kalla_display": "Bergensjakk + Chess News Network + ChessBase + Europe Echecs",
-    "datum": "Sat, 14 Nov 2026 10:05:00 GMT",
-    "hittad": "2026-11-14T12:20:38.931821"
-  },
-  {
-    "id": "7a94076413d9",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/andreikin-nearly-sweeps-3-0-thursday-tournaments",
-        "title": "Andreikin Nearly Sweeps 3 0 Thursday Tournaments",
-        "date": "2026-11-13T12:19:11.721395",
-        "tag": "Chess.com"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/andreikin-falls-just-short-of-historic-sweep",
-        "title": "Andreikin Falls Just Short of Historic Sweep",
-        "date": "Fri, 13 Nov 2026 20:02:57 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "GM Dmitry Andreikin nearly achieved a perfect sweep in three Chess.com Thursday tournaments"
-      }
-    ],
-    "kalla_display": "Chess News Network + Chess.com",
-    "datum": "2026-11-13T12:19:11.721395",
-    "hittad": "2026-11-14T12:20:38.931837"
-  },
-  {
     "id": "d376489e7498",
     "status": "pending",
     "rubriker": [
@@ -86,7 +22,7 @@
     ],
     "kalla_display": "ChessBase + ChessBase España",
     "datum": "Thu, 12 Nov 2026 21:30:00 GMT",
-    "hittad": "2026-11-14T12:20:38.931843"
+    "hittad": "2026-11-15T12:52:21.645673"
   },
   {
     "id": "24f4b3535667",
@@ -111,111 +47,137 @@
     ],
     "kalla_display": "ChessBase + ChessBase España",
     "datum": "Mon, 09 Nov 2026 22:50:00 GMT",
-    "hittad": "2026-11-14T12:20:38.931847"
+    "hittad": "2026-11-15T12:52:21.645685"
   },
   {
-    "id": "b306f7bcd492",
+    "id": "4f4ea13af98b",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-4",
-        "title": "2026 Total Chess World Championship Tour Pilot Day 4",
-        "date": "2026-11-13T12:19:11.721348",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-11-13T12:19:11.721348",
-    "hittad": "2026-11-14T12:20:38.931851"
-  },
-  {
-    "id": "a07ec64ebfd3",
-    "status": "pending",
-    "rubriker": [
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/veteran/2026/11/pia-cramlings-vag-till-guldsuccen-superspurt-avgjorde/?utm_source=rss&utm_medium=rss&utm_campaign=pia-cramlings-vag-till-guldsuccen-superspurt-avgjorde",
+        "title": "Pia Cramlings väg till guldsuccén – superspurt avgjorde",
+        "date": "Sun, 15 Nov 2026 07:03:56 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Det var en lång och tuff väg till segern i veteran-VM för Pia Cramling. Mästerskapet i Vrnjacka Banja i Serbien avgjordes över elva ronder. Svenska schackstjärnan låg länge en liten [&#8230;] Inlägget Pia Cramlings väg till guldsuccén – superspurt avgjorde dök först upp på Sveriges Schackförbund ."
+      },
       {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/dau-wins-freestyle-friday-november-13-2026",
-        "title": "Dau Wins Freestyle Friday November 13 2026",
-        "date": "2026-11-13T12:19:11.721379",
-        "tag": "Chess.com"
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/veteran/2026/11/pia-cramling-tog-guld-i-veteran-vm/?utm_source=rss&utm_medium=rss&utm_campaign=pia-cramling-tog-guld-i-veteran-vm",
+        "title": "Pia Cramling tog guld i veteran-VM",
+        "date": "Sat, 14 Nov 2026 16:51:41 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Pia Cramling är världsmästare i veteranschack. På lördagen vann hon det avslutande partiet och säkrade därmed guldet i klassen Damer 50+. Det är en ny milstolpe i hennes 50-åriga karriär [&#8230;] Inlägget Pia Cramling tog guld i veteran-VM dök först upp på Sveriges Schackförbund ."
       }
     ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-11-13T12:19:11.721379",
-    "hittad": "2026-11-14T12:20:38.931855"
-  },
-  {
-    "id": "2a6a25678ccb",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/gukesh-sindarov-predictions-kasparov-nakamura",
-        "title": "Gukesh Sindarov Predictions Kasparov Nakamura",
-        "date": "2026-11-13T12:19:11.721498",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-11-13T12:19:11.721498",
-    "hittad": "2026-11-14T12:20:38.931859"
-  },
-  {
-    "id": "aa10371ea257",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/review-robert-ris-fritztrainers-on-openings-calculation-and-strategic-thinking-part-3",
-        "title": "Review: Robert Ris' FritzTrainers on openings, calculation and strategic thinking (Part 3)",
-        "date": "Sat, 14 Nov 2026 07:00:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "“The third and final part of my author special on Robert Ris rounds off my review of his work by looking at his middlegame courses, which focus primarily on chess strategy,” writes Lukas Köpl in his comprehensive review of Robert Ris’s video courses."
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Sat, 14 Nov 2026 07:00:00 GMT",
-    "hittad": "2026-11-14T12:20:38.931866"
-  },
-  {
-    "id": "02e089ea446c",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/tata-steel-chess-2027-announcement",
-        "title": "Top players and rising stars head to Tata Steel Chess Tournament 2027",
-        "date": "Fri, 13 Nov 2026 15:50:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "The 89th Tata Steel Chess Tournament will take place in Wijk aan Zee from 15 to 31 January 2027, with a Masters field led by Javokhir Sindarov (pictured), Nodirbek Abdusattorov, Vincent Keymer, Alireza Firouzja, Anish Giri and Levon Aronian. The Challengers section will also feature a strong international lineup, including Aravindh Chithambaram, Zhu Jiner, Bibisara Assaubayeva, Alice Lee and returning Ukrainian grandmaster Ihor Samunenkov. | Photo: Nils Rohde / ChessBase"
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Fri, 13 Nov 2026 15:50:00 GMT",
-    "hittad": "2026-11-14T12:20:38.931870",
+    "kalla_display": "Schack.se",
+    "datum": "Sun, 15 Nov 2026 07:03:56 +0000",
+    "hittad": "2026-11-15T12:52:21.645693",
     "liknar": {
-      "titel": "Abdusattorov och Sindarov toppar Tata Steel Chess 2027",
-      "url": "https://gambit.se/?p=3941",
+      "titel": "FIDE-presidenten hyllade Pia Cramling med bugning",
+      "url": "https://gambit.se/?p=3918",
       "datum": "2026-11-13"
     }
   },
   {
-    "id": "01e0c1e6b2cd",
+    "id": "32456ac3ba7b",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-5",
+        "title": "2026 Total Chess World Championship Tour Pilot Day 5",
+        "date": "2026-11-14T12:50:51.578821",
+        "tag": "Chess.com"
+      },
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/11/15/total-chess-pilot-2026-gruppespill-dag-4/",
+        "title": "Total Chess Pilot 2026 – Gruppespill – dag 4",
+        "date": "Sun, 15 Nov 2026 05:57:59 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "GM&#160;Magnus Carlsen (2823) står fortsatt uten en eneste seier etter fjerde dag av gruppespillet i Total Chess Pilot, men han kom nærmere enn i tidligere runder. Sjansen kom i dagens første parti, som var med hvit mot GM Shakhriyar Mamedyarov (AZE 2709). Her fikk Carlsen en solid fordel i midtspillet da Mamedyarov ukorrekt ofret en Les mer"
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/carlsen-close-to-losing-world-no-1",
+        "title": "Carlsen Close to Losing World No 1",
+        "date": "Sat, 14 Nov 2026 22:15:27 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Carlsen drew Mamedyarov twice in Total Chess Round 4 as Giri took the Group C lead and Vachier-Lagrave, Niemann and Erigaisi tied atop Group D."
+      }
+    ],
+    "kalla_display": "Bergensjakk + Chess News Network + Chess.com",
+    "datum": "2026-11-14T12:50:51.578821",
+    "hittad": "2026-11-15T12:52:21.645700"
+  },
+  {
+    "id": "853f60f1166c",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/world-championship-2026-gukesh-pelletier",
-        "title": "The young king faces his toughest challenge",
-        "date": "Sat, 07 Nov 2026 19:20:00 GMT",
+        "url": "https://en.chessbase.com/post/rueckblick-alle-neuerscheinungen-im-oktober-3",
+        "title": "Review: All new releases in October!",
+        "date": "Sun, 15 Nov 2026 07:00:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "Gukesh Dommaraju will defend his world title against Javokhir Sindarov in Geneva after a remarkable rise that made him the youngest undisputed champion in history. Since his 2024 triumph, however, the Indian grandmaster has endured a more difficult period and slipped down the world rankings. The match therefore presents a different challenge: rediscovering his best form while facing a younger rival who arrives with strong recent results and considerable momentum. | Image: FIDE"
+        "_rss_content": "The new ChessBase products released in October offer plenty of practical chess advice, including tips on choosing the right moment to launch an attack, as well as several exciting opening variations that can quickly be put into practice. ChessBase Magazine 234 Extra and databases for fans of the Italian Game round off October's varied selection. | All photos: ChessBase"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Sat, 07 Nov 2026 19:20:00 GMT",
-    "hittad": "2026-11-14T12:20:38.931873"
+    "datum": "Sun, 15 Nov 2026 07:00:00 GMT",
+    "hittad": "2026-11-15T12:52:21.645705"
+  },
+  {
+    "id": "1d3d418d809d",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/chessbase-for-mac-people-are-loving-it",
+        "title": "ChessBase for Mac: people are loving it",
+        "date": "Sun, 15 Nov 2026 01:07:42 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Charlize van Zyl is a South African chess player and Woman International Master (WIM) who earned her title in 2013 at the age of 13. She had so far not worked with ChessBase – because she didn't have a Windows computer. Now that we have published the Mac version of our program, is quite delighted. In a a deep dive into the program Charlize shares her experience. In this second clip she shows and explains some new features."
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Sun, 15 Nov 2026 01:07:42 GMT",
+    "hittad": "2026-11-15T12:52:21.645711"
+  },
+  {
+    "id": "8168fdf4a013",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/like-to-play-magnus-in-london",
+        "title": "Like to play Magnus in London?",
+        "date": "Sat, 14 Nov 2026 21:15:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "The World No. 1 is making a rare appearance in a public event. Magnus Carlsen is warming up to defend his World Rapid and Blitz titles at the XTX Markets London Chess Classic Super Rapid, which runs from December 5 to 6. Anyone could face him in Round 1. In addition: the 11-year-old UK sensation Bodhana Sivanandan will also compete."
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Sat, 14 Nov 2026 21:15:00 GMT",
+    "hittad": "2026-11-15T12:52:21.645715"
+  },
+  {
+    "id": "6c6c21de72d2",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/sverige/2026/11/kjell-krantz-har-lamnat-jordelivet/?utm_source=rss&utm_medium=rss&utm_campaign=kjell-krantz-har-lamnat-jordelivet",
+        "title": "Kjell Krantz har lämnat jordelivet",
+        "date": "Sat, 14 Nov 2026 20:59:19 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Calle Erlandsson meddelar med nedanstående rader på Lunds ASKs hemsida, att LASKs hedersledamot Kjell Krantz har gått ur tiden. Han föddes i Ljungby 3 augusti 1942 och började spela schack [&#8230;] Inlägget Kjell Krantz har lämnat jordelivet dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Sat, 14 Nov 2026 20:59:19 +0000",
+    "hittad": "2026-11-15T12:52:21.645723"
   },
   {
     "id": "8efe224ed4d6",
@@ -232,24 +194,41 @@
     ],
     "kalla_display": "Schack.se",
     "datum": "Fri, 13 Nov 2026 22:19:19 +0000",
-    "hittad": "2026-11-14T12:20:38.931877"
+    "hittad": "2026-11-15T12:52:21.645728"
   },
   {
-    "id": "8eee3bf580df",
+    "id": "f8c13d979f4e",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/junior-och-ungdom/2026/11/godkand-svensk-insats-i-ungdoms-em/?utm_source=rss&utm_medium=rss&utm_campaign=godkand-svensk-insats-i-ungdoms-em",
-        "title": "Godkänd svensk insats i ungdoms-EM",
-        "date": "Fri, 13 Nov 2026 08:01:52 +0000",
+        "url": "https://schack.se/nyhet/sverige/2026/11/nytt-datum-for-foretagsmasterskapet/?utm_source=rss&utm_medium=rss&utm_campaign=nytt-datum-for-foretagsmasterskapet",
+        "title": "Nytt datum för Företagsmästerskapet",
+        "date": "Fri, 13 Nov 2026 09:13:10 +0000",
         "tag": "Svenska Schackförbundet",
-        "_rss_content": "Ungdoms-EM på Kreta är färdigspelat &#8211; och det svenska laget kan glädja sig åt många fina insatser. Lagledare FM Linus Olsson: &#8211; Alla våra spelare kämpade väl och gjorde sitt [&#8230;] Inlägget Godkänd svensk insats i ungdoms-EM dök först upp på Sveriges Schackförbund ."
+        "_rss_content": "Företagsmästerskapet har flyttats två veckor. Från den 7 november till den 21 november. &#8211; Det beror på en ändring av datumet för elitseriesammandraget, som stör det ursprungliga datumet förklarar Stefan [&#8230;] Inlägget Nytt datum för Företagsmästerskapet dök först upp på Sveriges Schackförbund ."
       }
     ],
     "kalla_display": "Schack.se",
-    "datum": "Fri, 13 Nov 2026 08:01:52 +0000",
-    "hittad": "2026-11-14T12:20:38.931880",
+    "datum": "Fri, 13 Nov 2026 09:13:10 +0000",
+    "hittad": "2026-11-15T12:52:21.645733"
+  },
+  {
+    "id": "cf41c8370187",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/junior-och-ungdom/2026/11/em-pa-kreta-sofia-och-lavinia-basta-poangplockare/?utm_source=rss&utm_medium=rss&utm_campaign=em-pa-kreta-sofia-och-lavinia-basta-poangplockare",
+        "title": "EM på Kreta: Sofia och Lavinia bästa poängplockare",
+        "date": "Wed, 11 Nov 2026 09:58:16 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Med två ronder kvar av ungdoms-EM på Kreta i Grekland, så är Sofia Maximova och Lavinia Valcu just nu de två bästa svenska poängplockarna med 5,5 respektive 5 poäng på [&#8230;] Inlägget EM på Kreta: Sofia och Lavinia bästa poängplockare dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Wed, 11 Nov 2026 09:58:16 +0000",
+    "hittad": "2026-11-15T12:52:21.645737",
     "liknar": {
       "titel": "Sofia och Lavinia bäst för Sverige på ungdoms-EM",
       "url": "https://gambit.se/?p=3920",
@@ -257,70 +236,154 @@
     }
   },
   {
-    "id": "a878566ed7d9",
+    "id": "f676e9681bbb",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/sandeep-singhal-spots-gukesh-x-factor",
-        "title": "SpotlightTop storyHarsh Kumar·1 hour agoHe spotted Gukesh's X factor in an online fitness class!",
-        "date": "2026-11-13T12:19:32.963880",
+        "url": "https://www.chessbase.in/news/asian-nations-chess-cup-2026-round-6-report",
+        "title": "SpotlightTop storyDevansh Singh·5 hours agoAsian Nations Cup 2026 R6: Russia Takes Sole Lead in Both Sections, India Draws China",
+        "date": "2026-11-14T12:51:13.225211",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-11-13T12:19:32.963880",
-    "hittad": "2026-11-14T12:20:38.931883"
+    "datum": "2026-11-14T12:51:13.225211",
+    "hittad": "2026-11-15T12:52:21.645742"
   },
   {
-    "id": "6a1272ad005d",
+    "id": "cf4da4e5d622",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/championnat-du-monde-total-2026-ronde-7-8-10139.html",
+        "title": "Championnat du monde Total 2026Carlsen hors course, les leaders temporisent",
+        "date": "2026-11-14T12:51:25.018282",
+        "tag": "Europe Echecs"
+      }
+    ],
+    "kalla_display": "Europe Echecs",
+    "datum": "2026-11-14T12:51:25.018282",
+    "hittad": "2026-11-15T12:52:21.645746"
+  },
+  {
+    "id": "438e3a052972",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Dansk Skak Union",
+        "url": "https://nyheder.skak.dk/2026/11/14/1-divisionerne-spiller-2-runde/?utm_source=rss&utm_medium=rss&utm_campaign=1-divisionerne-spiller-2-runde",
+        "title": "1. Divisionerne spiller 2. runde",
+        "date": "Sat, 14 Nov 2026 20:52:57 +0000",
+        "tag": "Dansk Skak Union",
+        "_rss_content": "Søndag den 15. november spilles 2. runde i de fire 1. divisioner. Skakligaen spiller deres 3. runde søndag den 29. november. I 1. division gruppe 1 fører Brønshøj 2 efter en sejr på 5-3 mod Frederiksbjerg. Valby har i år forstærket sig med de tidligere Køge-svenskere Hampus Sørensen og Milton Pantzar, men måtte se sig [&#8230;]"
+      }
+    ],
+    "kalla_display": "Dansk Skak Union",
+    "datum": "Sat, 14 Nov 2026 20:52:57 +0000",
+    "hittad": "2026-11-15T12:52:21.645750"
+  },
+  {
+    "id": "3b052566afb6",
     "status": "pending",
     "rubriker": [
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/11/14/geilo-sjakkdager-2026-bonuslyn/",
-        "title": "Geilo Sjakkdager 2026 – Bonuslyn",
-        "date": "Sat, 14 Nov 2026 05:59:56 +0000",
+        "url": "https://bergensjakk.no/2026/11/15/nm-i-hurtigsjakk-for-kvinner-og-jenter-2026/",
+        "title": "NM i hurtigsjakk for kvinner og jenter 2026",
+        "date": "Sun, 15 Nov 2026 05:57:51 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "Årets fjerde sjakkfestival på Geilo har startet, denne gang under navnet Geilo Sjakkdager. Det er som sist syv turneringer over tre dager. Bak festivalen står Hallingskarvet Sjakklubb med assistanse fra Søråshøgda Sjakklubb. Fredag 13. november ble det spilt Bonuslyn. Her gikk den store favoritten, FM Joachim Solberg, til topps med maksimale 9 poeng. Trond Thomassen Les mer"
+        "_rss_content": "Oslo Schakselskap arrangerte lørdag 14. november 2026 tidenes første NM i hurtigsjakk for kvinner og jenter. Spillested var klubbens lokaler i Bogstadveien i Oslo. Det var 62 deltakere fra Kristiansand i sør til Tromsø i nord. Norgesmester for kvinner ble WFM Oda Kofoed Skramstad fra Dragen med 5&#189; poeng på 6 runder. Hun kvalifiserte seg Les mer"
       }
     ],
     "kalla_display": "Bergensjakk",
-    "datum": "Sat, 14 Nov 2026 05:59:56 +0000",
-    "hittad": "2026-11-14T12:20:38.931885"
+    "datum": "Sun, 15 Nov 2026 05:57:51 +0000",
+    "hittad": "2026-11-15T12:52:21.645754"
   },
   {
-    "id": "53d7e24342d0",
+    "id": "50c991a021ce",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/11/15/senior-vm-2026/",
+        "title": "Senior-VM 2026",
+        "date": "Sun, 15 Nov 2026 05:57:41 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Senior-VM ble arrangert i Serbia 3-14. november 2026. Det ble spilt 11 runder langsjakk i aldersklassene 50+ og 65+, med åpen klasse og kvinneklasse. IM Maxim Barth Stanford (2265) gjorde et sterkt resultat i Open 50+, og spilte for medalje i siste runde. Med seier der ville det blitt sølv, men det ble til slutt Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Sun, 15 Nov 2026 05:57:41 +0000",
+    "hittad": "2026-11-15T12:52:21.645758"
+  },
+  {
+    "id": "f3084a091931",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/11/15/geilo-sjakkdager-2026-maraton-hurtigsjakk/",
+        "title": "Geilo Sjakkdager 2026: Maraton-hurtigsjakk",
+        "date": "Sun, 15 Nov 2026 05:57:30 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Den andre av tre ratede turneringer under Geilo Sjakkdager var Maraton-hurtigsjakk lørdag 14. november 2026. Arrangør var Hallingskarvet Sjakklubb med assistanse fra Søråshøgda Sjakklubb. Førsteplass gikk til uratede Leander Ryo-Bergstad fra Hallingskarvet, som tok 8&#189; poeng på 11 runder. Tanveer Hussain fra Pakistan ledet med et helt poeng tre runder før slutt, men fikk så Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Sun, 15 Nov 2026 05:57:30 +0000",
+    "hittad": "2026-11-15T12:52:21.645762"
+  },
+  {
+    "id": "98e91d1eafb6",
     "status": "pending",
     "rubriker": [
       {
         "source": "English Chess Federation",
-        "url": "https://www.englishchess.org.uk/play-10-grandmasters-in-london/",
-        "title": "Play 10 Grandmasters in London",
-        "date": "Fri, 13 Nov 2026 17:19:00 +0000",
+        "url": "https://www.englishchess.org.uk/celebrating-the-ecf-awards-2026/",
+        "title": "Celebrating the ECF Awards 2026",
+        "date": "Sun, 15 Nov 2026 09:53:27 +0000",
         "tag": "English Chess Federation",
-        "_rss_content": "Chess players will have the opportunity to play alongside ten grandmasters, including former World Blitz Champion Maxime Vachier-Lagrave, at the Royal Automobile Club in London on Saturday 6 March 2027...."
+        "_rss_content": "The English Chess Federation recognised the achievements and contributions of individuals, clubs and organisers across English chess at its Annual General Meeting on Saturday 14 November 2026. The ECF Awards..."
       }
     ],
     "kalla_display": "English Chess Federation",
-    "datum": "Fri, 13 Nov 2026 17:19:00 +0000",
-    "hittad": "2026-11-14T12:20:38.931887"
+    "datum": "Sun, 15 Nov 2026 09:53:27 +0000",
+    "hittad": "2026-11-15T12:52:21.645766"
   },
   {
-    "id": "dc25953b64e4",
+    "id": "d1d485900234",
     "status": "pending",
     "rubriker": [
       {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/ajedrez-y-juegos-olimpicos-uvencio-blanco",
-        "title": "Ajedrez y Juegos Olímpicos: criterios que frenan su inclusión  en el programa oficial",
-        "date": "Fri, 13 Nov 2026 11:40:00 GMT",
-        "tag": "ChessBase España",
-        "_rss_content": "El ajedrez cuenta con reconocimiento institucional, alcance global y una sólida tradición competitiva, pero continúa fuera del programa oficial de los Juegos Olímpicos. El texto analiza las razones de esta exclusión, desde la percepción de un esfuerzo físico limitado hasta las exigencias comerciales y mediáticas del deporte espectáculo. También examina los argumentos a favor de su incorporación y las posibilidades de impulsar formatos rápidos con vistas a futuras ediciones olímpicas. | Imagen (IA): Uvencio Blanco"
+        "source": "English Chess Federation",
+        "url": "https://www.englishchess.org.uk/ecf-book-of-the-year-2026-winner-announced/",
+        "title": "ECF Book of the Year 2026 – Winner Announced",
+        "date": "Sat, 14 Nov 2026 16:00:19 +0000",
+        "tag": "English Chess Federation",
+        "_rss_content": "The English Chess Federation is pleased to announce that Luis Fernández Siles has won the ECF Book of the Year 2026 award for The Stories, Games, and Intrigues of Capablanca..."
       }
     ],
-    "kalla_display": "ChessBase España",
-    "datum": "Fri, 13 Nov 2026 11:40:00 GMT",
-    "hittad": "2026-11-14T12:20:38.931889"
+    "kalla_display": "English Chess Federation",
+    "datum": "Sat, 14 Nov 2026 16:00:19 +0000",
+    "hittad": "2026-11-15T12:52:21.645770"
+  },
+  {
+    "id": "fdf7fb3dc034",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/untitled-draft-2",
+        "title": "Praggnanandhaa Walks Into Mate in One After Dominating Rapport in Budapest",
+        "date": "Sun, 15 Nov 2026 10:08:00 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Sixty-two seconds. That's how long R Praggnanandhaa sat on move 42 on Saturday, with a winning position on the board and the end of a long, tense afternoon finally in sight. Then he played Bc8."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Sun, 15 Nov 2026 10:08:00 GMT",
+    "hittad": "2026-11-15T12:52:21.645774"
   }
 ]
