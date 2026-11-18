@@ -1,19 +1,216 @@
 [
   {
-    "id": "de2ee101bf87",
+    "id": "c7ac963c378a",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/internationellt/2026/11/carlsen-kom-aldrig-till-spel-mot-damstjarnan/?utm_source=rss&utm_medium=rss&utm_campaign=carlsen-kom-aldrig-till-spel-mot-damstjarnan",
+        "title": "Carlsen kom aldrig till spel mot damstjärnan",
+        "date": "Wed, 18 Nov 2026 08:19:17 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Magnus Carlsen lämnade Kazakstans damstjärna Bibisara Assaubayeva ensam vid bordet när deras sista parti i semifinalen om 17:e-platsen i Total Chess skulle spelas. Carlsens beslut att lämna w.o och inte [&#8230;] Inlägget Carlsen kom aldrig till spel mot damstjärnan dök först upp på Sveriges Schackförbund ."
+      },
+      {
+        "source": "ChessBase India",
+        "url": "https://www.chessbase.in/news/total-chess-pilot-semi-finals-day-1-carlsen-doesnt-show-up",
+        "title": "SpotlightTop storySagar Shah·5 hours agoHow did the world react on Magnus Carlsen not showing up to his game against Bibisara?",
+        "date": "2026-11-17T14:19:50.363741",
+        "tag": "ChessBase India"
+      },
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/11/18/total-chess-pilot-2026-cupspill-dag-1/",
+        "title": "Total Chess Pilot 2026 – Cupspill – dag 1",
+        "date": "Wed, 18 Nov 2026 06:28:13 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "GM Magnus Carlsen (2823) vant enkelt den første av to matcher mot GM Bibisara Assaubayeva (KAZ 2532) i cupspillet i Total Chess Pilot. Det ble likevel skandale da Carlsen nektet å spille det avsluttende langsjakkpartiet siden matchen allerede var vunnet. Dagen startet med fire lynsjakkpartier. Assaubayeva hadde klar fordel i midtspilet i første parti, men Carlsen Les mer"
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/brewing-carlsen-scandal-at-total-chess",
+        "title": "Brewing Carlsen Scandal at Total Chess",
+        "date": "Wed, 18 Nov 2026 09:54:07 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Carlsen skipped a game he didn’t need to play. Sutovsky and Niemann call it unsportsmanlike, So defends it, and the organisers back him."
+      }
+    ],
+    "kalla_display": "Bergensjakk + Chess News Network + ChessBase India + Schack.se",
+    "datum": "Wed, 18 Nov 2026 08:19:17 +0000",
+    "hittad": "2026-11-18T14:20:55.191801"
+  },
+  {
+    "id": "b24fc09b656a",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/total-chess-budapest-2026-ko-1",
+        "title": "Total Chess: Firouzja and Giri win opening sets, Carlsen sparks controversy",
+        "date": "Wed, 18 Nov 2026 07:50:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Alireza Firouzja and Anish Giri (pictured) won the opening sets of their semifinal matches at the Total Chess Pilot in Budapest, defeating Fabiano Caruana and Maxime Vachier-Lagrave respectively. The first day of knockout action also brought controversy, as Magnus Carlsen declined to play the final fast classic game against Bibisara Assaubayeva, having already secured the set victory. The Norwegian's decision prompted criticism, given the game's implications for his classical rating. | Photo: Michal Walusza / Total Chess"
+      },
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/championnat-du-monde-total-2026-demi-finale-match-1-10141.html",
+        "title": "Championnat du monde Total 2026Total Chess : Firouzja prend une option, MVL dos au mur",
+        "date": "2026-11-17T14:20:00.186688",
+        "tag": "Europe Echecs"
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/giri-and-firouzja-open-big-leads-in-budapest",
+        "title": "Giri and Firouzja Open Big Leads in Budapest",
+        "date": "Wed, 18 Nov 2026 08:49:00 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Giri crushed MVL, Firouzja held off Caruana, Carlsen skipped a game after clinching his match, and Martirosyan came back from 3-9. Day 1 of the Total Chess knockout."
+      }
+    ],
+    "kalla_display": "Chess News Network + ChessBase + Europe Echecs",
+    "datum": "Wed, 18 Nov 2026 07:50:00 GMT",
+    "hittad": "2026-11-18T14:20:55.191816"
+  },
+  {
+    "id": "6515d47342cf",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/2026-speed-chess-championship-r16-nakamura-erdogmus",
         "title": "2026 Speed Chess Championship R16 Nakamura Erdogmus",
-        "date": "2026-11-16T14:41:28.192457",
+        "date": "2026-11-17T14:19:29.939567",
+        "tag": "Chess.com"
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/nakamura-advances-in-speed-chess-championship-xi",
+        "title": "Nakamura Advances in Speed Chess Championship XI",
+        "date": "Tue, 17 Nov 2026 13:02:00 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "GM Hikaru Nakamura defeated GM Yagiz Erdogmus in the Round of 16"
+      }
+    ],
+    "kalla_display": "Chess News Network + Chess.com",
+    "datum": "2026-11-17T14:19:29.939567",
+    "hittad": "2026-11-18T14:20:55.191823"
+  },
+  {
+    "id": "296e2ffd346e",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/pranav-venkatesh-signs-revenant-xspark",
+        "title": "Pranav Venkatesh Signs Revenant Xspark",
+        "date": "2026-11-17T14:19:29.939395",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-11-16T14:41:28.192457",
-    "hittad": "2026-11-17T14:42:53.746329"
+    "datum": "2026-11-17T14:19:29.939395",
+    "hittad": "2026-11-18T14:20:55.191829"
+  },
+  {
+    "id": "a937c2e85d29",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-7",
+        "title": "2026 Total Chess World Championship Tour Pilot Day 7",
+        "date": "2026-11-17T14:19:29.939426",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-11-17T14:19:29.939426",
+    "hittad": "2026-11-18T14:20:55.191834"
+  },
+  {
+    "id": "6d8e8f9faf4a",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/tabatabaei-wins-titled-tuesday-november-17-2026",
+        "title": "Tabatabaei Wins Titled Tuesday November 17 2026",
+        "date": "2026-11-17T14:19:29.939448",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-11-17T14:19:29.939448",
+    "hittad": "2026-11-18T14:20:55.191838"
+  },
+  {
+    "id": "809baeecc4de",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/gta-vi-streak-freeze",
+        "title": "Gta Vi Streak Freeze",
+        "date": "2026-11-17T14:19:29.939470",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-11-17T14:19:29.939470",
+    "hittad": "2026-11-18T14:20:55.191843"
+  },
+  {
+    "id": "2ca18ef3cca1",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/ccl-quarterfinals-fall-2026",
+        "title": "Ccl Quarterfinals Fall 2026",
+        "date": "2026-11-17T14:19:29.939488",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-11-17T14:19:29.939488",
+    "hittad": "2026-11-18T14:20:55.191850"
+  },
+  {
+    "id": "3e38684d7d0e",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/daily-chess-championship-2027",
+        "title": "Daily Chess Championship 2027",
+        "date": "2026-11-17T14:19:29.939505",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-11-17T14:19:29.939505",
+    "hittad": "2026-11-18T14:20:55.191855"
+  },
+  {
+    "id": "a8c5a2bf927b",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/gukesh-pressure-sindarov-world-championship",
+        "title": "Gukesh Pressure Sindarov World Championship",
+        "date": "2026-11-17T14:19:29.939545",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-11-17T14:19:29.939545",
+    "hittad": "2026-11-18T14:20:55.191860",
+    "liknar": {
+      "titel": "Sindarov favorittippas inför VM-matchen mot Gukesh",
+      "url": "https://gambit.se/sindarov-favorittippas-infor-vm-matchen-mot-gukesh/",
+      "datum": "2026-11-15"
+    }
   },
   {
     "id": "9242e17a805b",
@@ -23,13 +220,13 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/jp-morgan-chase-wins-north-american-corporate-chess-league-season-14",
         "title": "Jp Morgan Chase Wins North American Corporate Chess League Season 14",
-        "date": "2026-11-16T14:41:28.192502",
+        "date": "2026-11-17T14:19:29.939585",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-11-16T14:41:28.192502",
-    "hittad": "2026-11-17T14:42:53.746351"
+    "datum": "2026-11-17T14:19:29.939585",
+    "hittad": "2026-11-18T14:20:55.191865"
   },
   {
     "id": "275f23d74ce5",
@@ -39,13 +236,47 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/speed-chess-championship-first-round-preview",
         "title": "Speed Chess Championship First Round Preview",
-        "date": "2026-11-16T14:41:28.192528",
+        "date": "2026-11-17T14:19:29.939603",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-11-16T14:41:28.192528",
-    "hittad": "2026-11-17T14:42:53.746360"
+    "datum": "2026-11-17T14:19:29.939603",
+    "hittad": "2026-11-18T14:20:55.191869"
+  },
+  {
+    "id": "5fe58bdac5e4",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/forbundsnytt/2026/11/sveriges-schackforbund-prisar-anstalten-osteraker/?utm_source=rss&utm_medium=rss&utm_campaign=sveriges-schackforbund-prisar-anstalten-osteraker",
+        "title": "Sveriges Schackförbund prisar anstalten Österåker",
+        "date": "Wed, 18 Nov 2026 10:52:35 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Sveriges Schackförbund tilldelar anstalten Österåker världsschackförbundet FIDE:s medalj ”Outstanding contribution award” inom området ”social chess”. Detta efter ett framgångsrikt pilotprojekt där intagna på fyra anstalter har erbjudits schackutbildning organiserad av [&#8230;] Inlägget Sveriges Schackförbund prisar anstalten Österåker dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Wed, 18 Nov 2026 10:52:35 +0000",
+    "hittad": "2026-11-18T14:20:55.191873"
+  },
+  {
+    "id": "98cce8103fbb",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/ettan2/2026/11/19-lag-anmalda-till-foretagsmasterskapet/?utm_source=rss&utm_medium=rss&utm_campaign=19-lag-anmalda-till-foretagsmasterskapet",
+        "title": "19 lag anmälda till Företagsmästerskapet",
+        "date": "Wed, 18 Nov 2026 09:31:30 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "På lördag är det återigen dags för Företagsmästerskapet i schack. &#8211; 19 lag är anmälda. Ett lag mer än i fjol. Men vi håller dörren lite på glänt den här [&#8230;] Inlägget 19 lag anmälda till Företagsmästerskapet dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Wed, 18 Nov 2026 09:31:30 +0000",
+    "hittad": "2026-11-18T14:20:55.191876"
   },
   {
     "id": "b1a16b6ff7d8",
@@ -62,7 +293,7 @@
     ],
     "kalla_display": "Schack.se",
     "datum": "Tue, 17 Nov 2026 09:35:51 +0000",
-    "hittad": "2026-11-17T14:42:53.746369"
+    "hittad": "2026-11-18T14:20:55.191879"
   },
   {
     "id": "8879c64e8482",
@@ -79,7 +310,7 @@
     ],
     "kalla_display": "Schack.se",
     "datum": "Tue, 17 Nov 2026 08:39:18 +0000",
-    "hittad": "2026-11-17T14:42:53.746377"
+    "hittad": "2026-11-18T14:20:55.191881"
   },
   {
     "id": "32f63658d37a",
@@ -96,23 +327,7 @@
     ],
     "kalla_display": "Schack.se",
     "datum": "Tue, 17 Nov 2026 07:42:23 +0000",
-    "hittad": "2026-11-17T14:42:53.746384"
-  },
-  {
-    "id": "be3ffe0b5939",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/chessbase-27-is-here",
-        "title": "SpotlightTop storyChessBase·53 minutes agoChessBase 27 is here: what's new and what it costs in India",
-        "date": "2026-11-16T14:41:48.600725",
-        "tag": "ChessBase India"
-      }
-    ],
-    "kalla_display": "ChessBase India",
-    "datum": "2026-11-16T14:41:48.600725",
-    "hittad": "2026-11-17T14:42:53.746390"
+    "hittad": "2026-11-18T14:20:55.191884"
   },
   {
     "id": "465f0f412ec1",
@@ -122,29 +337,13 @@
         "source": "ChessBase India",
         "url": "https://www.chessbase.in/news/category/organisation-policy",
         "title": "171 storiesOrganisation & PolicyVidit Gujrathi and Divya Deshmukh receive the Arjuna Award from President Droupadi Murmu",
-        "date": "2026-11-16T14:41:48.601047",
+        "date": "2026-11-17T14:19:50.363986",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-11-16T14:41:48.601047",
-    "hittad": "2026-11-17T14:42:53.746400"
-  },
-  {
-    "id": "f8e203e5f78e",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/championnat-du-monde-total-2026-demi-finale-match-1-10141.html",
-        "title": "Championnat du monde Total 2026Deux Français dans le dernier carré du Total Chess",
-        "date": "2026-11-16T14:41:59.393843",
-        "tag": "Europe Echecs"
-      }
-    ],
-    "kalla_display": "Europe Echecs",
-    "datum": "2026-11-16T14:41:59.393843",
-    "hittad": "2026-11-17T14:42:53.746407"
+    "datum": "2026-11-17T14:19:50.363986",
+    "hittad": "2026-11-18T14:20:55.191887"
   },
   {
     "id": "18829e6b9c66",
@@ -154,13 +353,13 @@
         "source": "Europe Echecs",
         "url": "https://www.europe-echecs.com/art/bundesliga-2027-phase-2-10142.html",
         "title": "Lire l'articleBundesliga 2027Bundesliga : Baden-Baden trébuche, Viernheim en profite1",
-        "date": "2026-11-16T14:41:59.393881",
+        "date": "2026-11-17T14:20:00.186725",
         "tag": "Europe Echecs"
       }
     ],
     "kalla_display": "Europe Echecs",
-    "datum": "2026-11-16T14:41:59.393881",
-    "hittad": "2026-11-17T14:42:53.746414"
+    "datum": "2026-11-17T14:20:00.186725",
+    "hittad": "2026-11-18T14:20:55.191890"
   },
   {
     "id": "38167909f00c",
@@ -177,7 +376,41 @@
     ],
     "kalla_display": "English Chess Federation",
     "datum": "Tue, 17 Nov 2026 09:20:32 +0000",
-    "hittad": "2026-11-17T14:42:53.746420"
+    "hittad": "2026-11-18T14:20:55.191892"
+  },
+  {
+    "id": "128d1a485128",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/aronian-niemann-and-vachier-lagrave-named-to-fides-new-athletes-commission",
+        "title": "Aronian, Niemann and Vachier-Lagrave Named to FIDE's New Athletes' Commission",
+        "date": "Wed, 18 Nov 2026 11:21:56 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "FIDE names its Athletes’ Commission for 2026-28: Aronian, Niemann, Krush, MVL and three IMs. It’s an interim body ahead of player-run elections in 2028."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Wed, 18 Nov 2026 11:21:56 GMT",
+    "hittad": "2026-11-18T14:20:55.191895"
+  },
+  {
+    "id": "8d077763500a",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/why-the-kings-gambit-refuses-to-die",
+        "title": "Why the King's Gambit Refuses to Die",
+        "date": "Tue, 17 Nov 2026 15:24:54 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Spielmann buried it in 1924, Fischer called it busted in 1961, and Spassky kept winning with it. The King’s Gambit is the opening that won’t die."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Tue, 17 Nov 2026 15:24:54 GMT",
+    "hittad": "2026-11-18T14:20:55.191898"
   },
   {
     "id": "733b77f7ca92",
@@ -194,6 +427,6 @@
     ],
     "kalla_display": "Chess News Network",
     "datum": "Mon, 16 Nov 2026 16:28:49 GMT",
-    "hittad": "2026-11-17T14:42:53.746426"
+    "hittad": "2026-11-18T14:20:55.191900"
   }
 ]
