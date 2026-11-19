@@ -1,43 +1,35 @@
 [
   {
-    "id": "c7ac963c378a",
+    "id": "e408712e82a4",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/internationellt/2026/11/carlsen-kom-aldrig-till-spel-mot-damstjarnan/?utm_source=rss&utm_medium=rss&utm_campaign=carlsen-kom-aldrig-till-spel-mot-damstjarnan",
-        "title": "Carlsen kom aldrig till spel mot damstjärnan",
-        "date": "Wed, 18 Nov 2026 08:19:17 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Magnus Carlsen lämnade Kazakstans damstjärna Bibisara Assaubayeva ensam vid bordet när deras sista parti i semifinalen om 17:e-platsen i Total Chess skulle spelas. Carlsens beslut att lämna w.o och inte [&#8230;] Inlägget Carlsen kom aldrig till spel mot damstjärnan dök först upp på Sveriges Schackförbund ."
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/total-chess-budapest-2026-ko-2",
+        "title": "Total Chess: Giri and Firouzja to battle for tournament title",
+        "date": "Thu, 19 Nov 2026 07:10:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Alireza Firouzja and Anish Giri will face each other in the final of the Total Chess Pilot in Budapest. Giri defeated Maxime Vachier-Lagrave in straight sets, while Firouzja needed an Armageddon decider to overcome Fabiano Caruana. Meanwhile, Magnus Carlsen once again forfeited his final fast classic game, with Richard Rapport and Abhimanyu Mishra following suit. The decisions have prompted further discussion about the tournament's format and demanding schedule. | Photo: Michal Walusza / Total Chess"
       },
       {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/total-chess-pilot-semi-finals-day-1-carlsen-doesnt-show-up",
-        "title": "SpotlightTop storySagar Shah·5 hours agoHow did the world react on Magnus Carlsen not showing up to his game against Bibisara?",
-        "date": "2026-11-17T14:19:50.363741",
-        "tag": "ChessBase India"
-      },
-      {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/11/18/total-chess-pilot-2026-cupspill-dag-1/",
-        "title": "Total Chess Pilot 2026 – Cupspill – dag 1",
-        "date": "Wed, 18 Nov 2026 06:28:13 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "GM Magnus Carlsen (2823) vant enkelt den første av to matcher mot GM Bibisara Assaubayeva (KAZ 2532) i cupspillet i Total Chess Pilot. Det ble likevel skandale da Carlsen nektet å spille det avsluttende langsjakkpartiet siden matchen allerede var vunnet. Dagen startet med fire lynsjakkpartier. Assaubayeva hadde klar fordel i midtspilet i første parti, men Carlsen Les mer"
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/championnat-du-monde-total-2026-bilan-demi-finales-10143.html",
+        "title": "Championnat du monde Total 2026Après un armageddon, Firouzja rejoint Giri en finale du Total Chess",
+        "date": "2026-11-18T14:32:39.246359",
+        "tag": "Europe Echecs"
       },
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/brewing-carlsen-scandal-at-total-chess",
-        "title": "Brewing Carlsen Scandal at Total Chess",
-        "date": "Wed, 18 Nov 2026 09:54:07 GMT",
+        "url": "https://chessnewsnetwork.com/article/firouzja-survives-armageddon-giri-stays-unbeaten",
+        "title": "Firouzja Survives Armageddon, Giri Stays Unbeaten",
+        "date": "Thu, 19 Nov 2026 11:50:54 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "Carlsen skipped a game he didn’t need to play. Sutovsky and Niemann call it unsportsmanlike, So defends it, and the organisers back him."
+        "_rss_content": "Giri stayed unbeaten, Firouzja won an Armageddon on the clock against Caruana, and Arjun saved a match with 35.d6!! Giri v Firouzja is the Total Chess final."
       }
     ],
-    "kalla_display": "Bergensjakk + Chess News Network + ChessBase India + Schack.se",
-    "datum": "Wed, 18 Nov 2026 08:19:17 +0000",
-    "hittad": "2026-11-18T14:20:55.191801"
+    "kalla_display": "Chess News Network + ChessBase + Europe Echecs",
+    "datum": "Thu, 19 Nov 2026 07:10:00 GMT",
+    "hittad": "2026-11-19T14:33:38.742032"
   },
   {
     "id": "b24fc09b656a",
@@ -54,8 +46,8 @@
       {
         "source": "Europe Echecs",
         "url": "https://www.europe-echecs.com/art/championnat-du-monde-total-2026-demi-finale-match-1-10141.html",
-        "title": "Championnat du monde Total 2026Total Chess : Firouzja prend une option, MVL dos au mur",
-        "date": "2026-11-17T14:20:00.186688",
+        "title": "Lire l'articleChampionnat du monde Total 2026Total Chess : Firouzja prend une option, MVL dos au mur30",
+        "date": "2026-11-18T14:32:39.246404",
         "tag": "Europe Echecs"
       },
       {
@@ -69,7 +61,40 @@
     ],
     "kalla_display": "Chess News Network + ChessBase + Europe Echecs",
     "datum": "Wed, 18 Nov 2026 07:50:00 GMT",
-    "hittad": "2026-11-18T14:20:55.191816"
+    "hittad": "2026-11-19T14:33:38.742051"
+  },
+  {
+    "id": "c38e9e363712",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/internationellt/2026/11/carlsen-kom-aldrig-till-spel-mot-damstjarnan/?utm_source=rss&utm_medium=rss&utm_campaign=carlsen-kom-aldrig-till-spel-mot-damstjarnan",
+        "title": "Carlsen kom aldrig till spel mot damstjärnan",
+        "date": "Wed, 18 Nov 2026 08:19:17 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Magnus Carlsen lämnade Kazakstans damstjärna Bibisara Assaubayeva ensam vid bordet när deras sista parti i semifinalen om 17:e-platsen i Total Chess skulle spelas. Carlsens beslut att lämna w.o och inte [&#8230;] Inlägget Carlsen kom aldrig till spel mot damstjärnan dök först upp på Sveriges Schackförbund ."
+      },
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/11/19/total-chess-pilot-2026-cupspill-dag-2/",
+        "title": "Total Chess Pilot 2026 – Cupspill – dag 2",
+        "date": "Thu, 19 Nov 2026 06:16:40 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "GM Magnus Carlsen (2823) gikk seirende ut mot GM Bibisara Assaubayeva (KAZ 2532) i cupspillet i Total Chess Pilot, etter at den andre matchen endte 10-10. Heller ikke denne gang stilte Carlsen opp til det avsluttende langsjakkpartiet, siden han ikke trengte poeng der. Carlsen vant alle de fire innledende lynsjakkpartiene og tok dermed ledelsen 4-0 i Les mer"
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/brewing-carlsen-scandal-at-total-chess",
+        "title": "Brewing Carlsen Scandal at Total Chess",
+        "date": "Wed, 18 Nov 2026 09:54:07 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Carlsen skipped a game he didn’t need to play. Sutovsky and Niemann call it unsportsmanlike, So defends it, and the organisers back him."
+      }
+    ],
+    "kalla_display": "Bergensjakk + Chess News Network + Schack.se",
+    "datum": "Wed, 18 Nov 2026 08:19:17 +0000",
+    "hittad": "2026-11-19T14:33:38.742059"
   },
   {
     "id": "6515d47342cf",
@@ -79,7 +104,7 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/2026-speed-chess-championship-r16-nakamura-erdogmus",
         "title": "2026 Speed Chess Championship R16 Nakamura Erdogmus",
-        "date": "2026-11-17T14:19:29.939567",
+        "date": "2026-11-18T14:31:56.837973",
         "tag": "Chess.com"
       },
       {
@@ -92,8 +117,85 @@
       }
     ],
     "kalla_display": "Chess News Network + Chess.com",
-    "datum": "2026-11-17T14:19:29.939567",
-    "hittad": "2026-11-18T14:20:55.191823"
+    "datum": "2026-11-18T14:31:56.837973",
+    "hittad": "2026-11-19T14:33:38.742065"
+  },
+  {
+    "id": "bd71a0d7a844",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/gukesh-pressure-sindarov-world-championship",
+        "title": "Gukesh Pressure Sindarov World Championship",
+        "date": "2026-11-18T14:31:56.837956",
+        "tag": "Chess.com"
+      },
+      {
+        "source": "ChessBase España",
+        "url": "https://es.chessbase.com/post/analistas-gukesh-sindarov-uvencio-blanco",
+        "title": "El equipo de analistas: ¿Claves invisibles del match entre Gukesh y Sindarov?",
+        "date": "Wed, 18 Nov 2026 18:30:00 GMT",
+        "tag": "ChessBase España",
+        "_rss_content": "El match por el título mundial entre Gukesh y Javokhir Sindarov no dependerá únicamente de lo que ocurra sobre el tablero. El texto examina cuánto pueden influir sus equipos de analistas y las tradiciones ajedrecísticas de India y Uzbekistán, comparando experiencia, infraestructura, preparación de aperturas, apoyo psicológico y trabajo colectivo. India parte con una estructura más consolidada, mientras Uzbekistán aporta una generación cohesionada y en plena forma competitiva. | Imagen: FIDE"
+      }
+    ],
+    "kalla_display": "Chess.com + ChessBase España",
+    "datum": "2026-11-18T14:31:56.837956",
+    "hittad": "2026-11-19T14:33:38.742071",
+    "liknar": {
+      "titel": "Sindarov favorittippas inför VM-matchen mot Gukesh",
+      "url": "https://gambit.se/sindarov-favorittippas-infor-vm-matchen-mot-gukesh/",
+      "datum": "2026-11-15"
+    }
+  },
+  {
+    "id": "4aa710265f19",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-8",
+        "title": "2026 Total Chess World Championship Tour Pilot Day 8",
+        "date": "2026-11-18T14:31:56.837675",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-11-18T14:31:56.837675",
+    "hittad": "2026-11-19T14:33:38.742075"
+  },
+  {
+    "id": "45cc79e7dfe5",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/9z-wins-3rd-straight-chess-club-showdown",
+        "title": "9Z Wins 3Rd Straight Chess Club Showdown",
+        "date": "2026-11-18T14:31:56.837723",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-11-18T14:31:56.837723",
+    "hittad": "2026-11-19T14:33:38.742079"
+  },
+  {
+    "id": "6f3dc003ca25",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/announcing-chesscom-glasses-by-zenni",
+        "title": "Announcing Chesscom Glasses By Zenni",
+        "date": "2026-11-18T14:31:56.837756",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-11-18T14:31:56.837756",
+    "hittad": "2026-11-19T14:33:38.742087"
   },
   {
     "id": "296e2ffd346e",
@@ -103,13 +205,13 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/pranav-venkatesh-signs-revenant-xspark",
         "title": "Pranav Venkatesh Signs Revenant Xspark",
-        "date": "2026-11-17T14:19:29.939395",
+        "date": "2026-11-18T14:31:56.837785",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-11-17T14:19:29.939395",
-    "hittad": "2026-11-18T14:20:55.191829"
+    "datum": "2026-11-18T14:31:56.837785",
+    "hittad": "2026-11-19T14:33:38.742092"
   },
   {
     "id": "a937c2e85d29",
@@ -119,13 +221,13 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-7",
         "title": "2026 Total Chess World Championship Tour Pilot Day 7",
-        "date": "2026-11-17T14:19:29.939426",
+        "date": "2026-11-18T14:31:56.837829",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-11-17T14:19:29.939426",
-    "hittad": "2026-11-18T14:20:55.191834"
+    "datum": "2026-11-18T14:31:56.837829",
+    "hittad": "2026-11-19T14:33:38.742096"
   },
   {
     "id": "6d8e8f9faf4a",
@@ -135,13 +237,13 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/tabatabaei-wins-titled-tuesday-november-17-2026",
         "title": "Tabatabaei Wins Titled Tuesday November 17 2026",
-        "date": "2026-11-17T14:19:29.939448",
+        "date": "2026-11-18T14:31:56.837859",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-11-17T14:19:29.939448",
-    "hittad": "2026-11-18T14:20:55.191838"
+    "datum": "2026-11-18T14:31:56.837859",
+    "hittad": "2026-11-19T14:33:38.742099"
   },
   {
     "id": "809baeecc4de",
@@ -151,13 +253,13 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/gta-vi-streak-freeze",
         "title": "Gta Vi Streak Freeze",
-        "date": "2026-11-17T14:19:29.939470",
+        "date": "2026-11-18T14:31:56.837886",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-11-17T14:19:29.939470",
-    "hittad": "2026-11-18T14:20:55.191843"
+    "datum": "2026-11-18T14:31:56.837886",
+    "hittad": "2026-11-19T14:33:38.742103"
   },
   {
     "id": "2ca18ef3cca1",
@@ -167,13 +269,13 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/ccl-quarterfinals-fall-2026",
         "title": "Ccl Quarterfinals Fall 2026",
-        "date": "2026-11-17T14:19:29.939488",
+        "date": "2026-11-18T14:31:56.837907",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-11-17T14:19:29.939488",
-    "hittad": "2026-11-18T14:20:55.191850"
+    "datum": "2026-11-18T14:31:56.837907",
+    "hittad": "2026-11-19T14:33:38.742106"
   },
   {
     "id": "3e38684d7d0e",
@@ -183,34 +285,13 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/daily-chess-championship-2027",
         "title": "Daily Chess Championship 2027",
-        "date": "2026-11-17T14:19:29.939505",
+        "date": "2026-11-18T14:31:56.837924",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-11-17T14:19:29.939505",
-    "hittad": "2026-11-18T14:20:55.191855"
-  },
-  {
-    "id": "a8c5a2bf927b",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/gukesh-pressure-sindarov-world-championship",
-        "title": "Gukesh Pressure Sindarov World Championship",
-        "date": "2026-11-17T14:19:29.939545",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-11-17T14:19:29.939545",
-    "hittad": "2026-11-18T14:20:55.191860",
-    "liknar": {
-      "titel": "Sindarov favorittippas inför VM-matchen mot Gukesh",
-      "url": "https://gambit.se/sindarov-favorittippas-infor-vm-matchen-mot-gukesh/",
-      "datum": "2026-11-15"
-    }
+    "datum": "2026-11-18T14:31:56.837924",
+    "hittad": "2026-11-19T14:33:38.742109"
   },
   {
     "id": "9242e17a805b",
@@ -220,13 +301,13 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/jp-morgan-chase-wins-north-american-corporate-chess-league-season-14",
         "title": "Jp Morgan Chase Wins North American Corporate Chess League Season 14",
-        "date": "2026-11-17T14:19:29.939585",
+        "date": "2026-11-18T14:31:56.837994",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-11-17T14:19:29.939585",
-    "hittad": "2026-11-18T14:20:55.191865"
+    "datum": "2026-11-18T14:31:56.837994",
+    "hittad": "2026-11-19T14:33:38.742113"
   },
   {
     "id": "275f23d74ce5",
@@ -236,13 +317,30 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/speed-chess-championship-first-round-preview",
         "title": "Speed Chess Championship First Round Preview",
-        "date": "2026-11-17T14:19:29.939603",
+        "date": "2026-11-18T14:31:56.838010",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-11-17T14:19:29.939603",
-    "hittad": "2026-11-18T14:20:55.191869"
+    "datum": "2026-11-18T14:31:56.838010",
+    "hittad": "2026-11-19T14:33:38.742116"
+  },
+  {
+    "id": "415688298a5e",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/sverige/2026/11/nastan-fullt-hus-i-gefle-elite-chess-open/?utm_source=rss&utm_medium=rss&utm_campaign=nastan-fullt-hus-i-gefle-elite-chess-open",
+        "title": "Nästan fullt hus i Gefle Elite Chess Open",
+        "date": "Thu, 19 Nov 2026 08:22:28 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Gefle Elite Chess Open (GECO) har på bara några år etablerat sig som en stark och populär weekendturnering i svenska schackkalendern. Till årets upplaga i Gävle finns det utrymme för [&#8230;] Inlägget Nästan fullt hus i Gefle Elite Chess Open dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Thu, 19 Nov 2026 08:22:28 +0000",
+    "hittad": "2026-11-19T14:33:38.742119"
   },
   {
     "id": "5fe58bdac5e4",
@@ -259,7 +357,7 @@
     ],
     "kalla_display": "Schack.se",
     "datum": "Wed, 18 Nov 2026 10:52:35 +0000",
-    "hittad": "2026-11-18T14:20:55.191873"
+    "hittad": "2026-11-19T14:33:38.742123"
   },
   {
     "id": "98cce8103fbb",
@@ -276,7 +374,7 @@
     ],
     "kalla_display": "Schack.se",
     "datum": "Wed, 18 Nov 2026 09:31:30 +0000",
-    "hittad": "2026-11-18T14:20:55.191876"
+    "hittad": "2026-11-19T14:33:38.742126"
   },
   {
     "id": "b1a16b6ff7d8",
@@ -293,7 +391,7 @@
     ],
     "kalla_display": "Schack.se",
     "datum": "Tue, 17 Nov 2026 09:35:51 +0000",
-    "hittad": "2026-11-18T14:20:55.191879"
+    "hittad": "2026-11-19T14:33:38.742129"
   },
   {
     "id": "8879c64e8482",
@@ -310,7 +408,7 @@
     ],
     "kalla_display": "Schack.se",
     "datum": "Tue, 17 Nov 2026 08:39:18 +0000",
-    "hittad": "2026-11-18T14:20:55.191881"
+    "hittad": "2026-11-19T14:33:38.742133"
   },
   {
     "id": "32f63658d37a",
@@ -327,23 +425,7 @@
     ],
     "kalla_display": "Schack.se",
     "datum": "Tue, 17 Nov 2026 07:42:23 +0000",
-    "hittad": "2026-11-18T14:20:55.191884"
-  },
-  {
-    "id": "465f0f412ec1",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/category/organisation-policy",
-        "title": "171 storiesOrganisation & PolicyVidit Gujrathi and Divya Deshmukh receive the Arjuna Award from President Droupadi Murmu",
-        "date": "2026-11-17T14:19:50.363986",
-        "tag": "ChessBase India"
-      }
-    ],
-    "kalla_display": "ChessBase India",
-    "datum": "2026-11-17T14:19:50.363986",
-    "hittad": "2026-11-18T14:20:55.191887"
+    "hittad": "2026-11-19T14:33:38.742136"
   },
   {
     "id": "18829e6b9c66",
@@ -353,13 +435,81 @@
         "source": "Europe Echecs",
         "url": "https://www.europe-echecs.com/art/bundesliga-2027-phase-2-10142.html",
         "title": "Lire l'articleBundesliga 2027Bundesliga : Baden-Baden trébuche, Viernheim en profite1",
-        "date": "2026-11-17T14:20:00.186725",
+        "date": "2026-11-18T14:32:39.246435",
         "tag": "Europe Echecs"
       }
     ],
     "kalla_display": "Europe Echecs",
-    "datum": "2026-11-17T14:20:00.186725",
-    "hittad": "2026-11-18T14:20:55.191890"
+    "datum": "2026-11-18T14:32:39.246435",
+    "hittad": "2026-11-19T14:33:38.742139"
+  },
+  {
+    "id": "ab87cebbed09",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Dansk Skak Union",
+        "url": "https://nyheder.skak.dk/2026/11/19/weekendskak-i-danmark/?utm_source=rss&utm_medium=rss&utm_campaign=weekendskak-i-danmark",
+        "title": "Weekendskak i Danmark",
+        "date": "Thu, 19 Nov 2026 08:43:12 +0000",
+        "tag": "Dansk Skak Union",
+        "_rss_content": "I weekenden d. 20.-22. november er der flere skakturneringer rundt i det danske skakland. Begge hurtigskakturneringer har tilmeldingsfrist i dag, torsdag d. 19. november! I Hillerød Skakklub afholdes Hillerød Open med tre hurtigskakpartier om fredagen og fire klassiske partier i weekenden. Turneringen spilles på U/Nord i Hillerød, hvor Skakligaen også plejer at spille. Der er [&#8230;]"
+      }
+    ],
+    "kalla_display": "Dansk Skak Union",
+    "datum": "Thu, 19 Nov 2026 08:43:12 +0000",
+    "hittad": "2026-11-19T14:33:38.742143"
+  },
+  {
+    "id": "56daa3a15a45",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/11/18/total-chess-pilot-2026-cupspill-dag-1/",
+        "title": "Total Chess Pilot 2026 – Cupspill – dag 1",
+        "date": "Wed, 18 Nov 2026 06:28:13 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "GM Magnus Carlsen (2823) vant enkelt den første av to matcher mot GM Bibisara Assaubayeva (KAZ 2532) i cupspillet i Total Chess Pilot. Det ble likevel skandale da Carlsen nektet å spille det avsluttende langsjakkpartiet siden matchen allerede var vunnet. Dagen startet med fire lynsjakkpartier. Assaubayeva hadde klar fordel i midtspilet i første parti, men Carlsen Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Wed, 18 Nov 2026 06:28:13 +0000",
+    "hittad": "2026-11-19T14:33:38.742146"
+  },
+  {
+    "id": "36340a2197a7",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "English Chess Federation",
+        "url": "https://www.englishchess.org.uk/keith-arkell-wins-silver-at-world-senior-championships/",
+        "title": "Keith Arkell wins Silver at World Senior Championships",
+        "date": "Thu, 19 Nov 2026 13:12:17 +0000",
+        "tag": "English Chess Federation",
+        "_rss_content": "Congratulations to GM Keith Arkell, who won the silver medal in the Open 65 and Over section at the FIDE World Senior Chess Championships in Vrnjačka Banja, Serbia.&#160;Keith scored an..."
+      }
+    ],
+    "kalla_display": "English Chess Federation",
+    "datum": "Thu, 19 Nov 2026 13:12:17 +0000",
+    "hittad": "2026-11-19T14:33:38.742149"
+  },
+  {
+    "id": "58358a2fa7b0",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "English Chess Federation",
+        "url": "https://www.englishchess.org.uk/two-bronze-medals-for-england-at-the-european-youth-championships/",
+        "title": "Two Bronze medals for England at the European Youth Championships",
+        "date": "Thu, 19 Nov 2026 13:07:51 +0000",
+        "tag": "English Chess Federation",
+        "_rss_content": "England&#8217;s junior players returned from the European Youth Chess Championships in Hersonissos, Crete, with two bronze medals after nine rounds.&#160;Harry Chan won bronze in the Open Under 8 section with..."
+      }
+    ],
+    "kalla_display": "English Chess Federation",
+    "datum": "Thu, 19 Nov 2026 13:07:51 +0000",
+    "hittad": "2026-11-19T14:33:38.742153"
   },
   {
     "id": "38167909f00c",
@@ -368,15 +518,32 @@
       {
         "source": "English Chess Federation",
         "url": "https://www.englishchess.org.uk/j-m-mouskos-foundation-to-sponsor-uk-chess-challenge/",
-        "title": "J.M. Mouskos Foundation to Sponsor UK Chess Challenge",
+        "title": "UK Chess Challenge and J.M. Mouskos Foundation announce five-year partnership",
         "date": "Tue, 17 Nov 2026 09:20:32 +0000",
         "tag": "English Chess Federation",
-        "_rss_content": "The UK Chess Challenge has announced a new five-year sponsorship agreement with the J.M Mouskos Foundation. From 2027, the competition will be known as the Mouskos UK Chess Challenge. The..."
+        "_rss_content": "The UK Chess Challenge has announced a new five-year partnership with the J.M. Mouskos Foundation. From 2027, the competition will be known as the Mouskos UK Chess Challenge. The ECF..."
       }
     ],
     "kalla_display": "English Chess Federation",
     "datum": "Tue, 17 Nov 2026 09:20:32 +0000",
-    "hittad": "2026-11-18T14:20:55.191892"
+    "hittad": "2026-11-19T14:33:38.742156"
+  },
+  {
+    "id": "2060949e855b",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/fide-unveils-interactive-chess-data-platform",
+        "title": "FIDE Unveils Interactive Chess Data Platform",
+        "date": "Thu, 19 Nov 2026 08:37:00 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Chess by the Numbers offers insights into a decade of tournament, rating, and player data"
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Thu, 19 Nov 2026 08:37:00 GMT",
+    "hittad": "2026-11-19T14:33:38.742159"
   },
   {
     "id": "128d1a485128",
@@ -393,7 +560,7 @@
     ],
     "kalla_display": "Chess News Network",
     "datum": "Wed, 18 Nov 2026 11:21:56 GMT",
-    "hittad": "2026-11-18T14:20:55.191895"
+    "hittad": "2026-11-19T14:33:38.742167"
   },
   {
     "id": "8d077763500a",
@@ -410,7 +577,7 @@
     ],
     "kalla_display": "Chess News Network",
     "datum": "Tue, 17 Nov 2026 15:24:54 GMT",
-    "hittad": "2026-11-18T14:20:55.191898"
+    "hittad": "2026-11-19T14:33:38.742170"
   },
   {
     "id": "733b77f7ca92",
@@ -427,6 +594,40 @@
     ],
     "kalla_display": "Chess News Network",
     "datum": "Mon, 16 Nov 2026 16:28:49 GMT",
-    "hittad": "2026-11-18T14:20:55.191900"
+    "hittad": "2026-11-19T14:33:38.742174"
+  },
+  {
+    "id": "9f2344042bb0",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase España",
+        "url": "https://es.chessbase.com/post/salamanca-festival-2026-final",
+        "title": "Paco Vallejo triunfa con autoridad en Salamanca",
+        "date": "Tue, 17 Nov 2026 07:00:00 GMT",
+        "tag": "ChessBase España",
+        "_rss_content": "Francisco «Paco» Vallejo se proclamó campeón del Magistral de Salamanca con 8½/10 puntos, tras terminar con una ventaja de 1½ puntos sobre José Martínez. El español de 44 años comenzó con seis victorias consecutivas y se recuperó de una derrota ante Martínez en la séptima ronda para finalmente quedarse con el título. Loek van Wely terminó tercero con 6½ puntos, mientras que Bodhana Sivanandan, de 11 años, ocupó el cuarto puesto con 3½/10 y ganó 34,4 puntos de Elo tras conseguir tres victorias. | Fotografía: Alumni - USAL"
+      }
+    ],
+    "kalla_display": "ChessBase España",
+    "datum": "Tue, 17 Nov 2026 07:00:00 GMT",
+    "hittad": "2026-11-19T14:33:38.742177"
+  },
+  {
+    "id": "3b4b31682905",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase España",
+        "url": "https://es.chessbase.com/post/total-chess-budapest-2026-grupos",
+        "title": "Total Chess: Vachier-Lagrave, Giri, Firouzja y Caruana se imponen en la fase de grupos",
+        "date": "Mon, 16 Nov 2026 17:40:00 GMT",
+        "tag": "ChessBase España",
+        "_rss_content": "Alireza Firouzja (en la imagen), Fabiano Caruana, Anish Giri y Maxime Vachier-Lagrave se han clasificado para la fase eliminatoria por el título del Total Chess Pilot de Budapest. MVL aseguró su clasificación tras una última jornada muy disputada en el Grupo D, mientras que los otros tres ganadores de grupo conservaron las ventajas que habían obtenido en jornadas previas. Magnus Carlsen, por su parte, terminó la fase de grupos sin conseguir ninguna victoria, con nueve tablas y una derrota. Ahora disputará la fase eliminatoria por el 17.º puesto. | Fotografía: Michal Walusza / Total Chess"
+      }
+    ],
+    "kalla_display": "ChessBase España",
+    "datum": "Mon, 16 Nov 2026 17:40:00 GMT",
+    "hittad": "2026-11-19T14:33:38.742180"
   }
 ]
