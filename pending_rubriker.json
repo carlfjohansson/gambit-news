@@ -1,116 +1,203 @@
 [
   {
-    "id": "4cc65c23c30d",
+    "id": "65398d7ac2a6",
     "status": "pending",
     "rubriker": [
       {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/total-chess-budapest-2026-ko-3",
-        "title": "Total Chess: Giri takes early lead over Firouzja, Carlsen forfeits rapid games",
-        "date": "Fri, 20 Nov 2026 07:10:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Anish Giri won the opening set of the Total Chess Pilot final against Alireza Firouzja in Budapest, while Fabiano Caruana did likewise against Maxime Vachier-Lagrave in the match for third place - both sets finished 11–9. Meanwhile, Magnus Carlsen sparked further controversy by forfeiting both rapid games against Vladislav Artemiev before returning to win the fast classic encounter. | Photo: Michal Walusza / Total Chess"
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/firouzja-wins-2026-total-chess-world-championship-tour-pilot",
+        "title": "Firouzja Wins 2026 Total Chess World Championship Tour Pilot",
+        "date": "2026-11-20T13:35:17.437387",
+        "tag": "Chess.com"
       },
       {
         "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/magnus-carlsen-beats-artemiev-in-fast-classic-and-anish-giri-beats-firouzja",
-        "title": "SpotlightTop storySagar Shah·4 hours agoMagnus skips the rapid, comes back and wins the classical, Anish Giri beats Firouzja",
-        "date": "2026-11-19T14:10:18.438609",
+        "url": "https://www.chessbase.in/news/alireza-firouzja-wins-total-chess-world-championship-pilot-2026",
+        "title": "SpotlightTop storySagar Shah·5 hours agoAlireza Firouzja wins the first ever Total Chess World Championship 2026 Pilot",
+        "date": "2026-11-20T13:35:40.143002",
         "tag": "ChessBase India"
       },
       {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/giri-leading-after-finals-day-1",
-        "title": "Giri Leading After Finals Day 1",
-        "date": "Fri, 20 Nov 2026 09:51:29 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Giri leads Firouzja 11-9 after day one of the Total Chess final, Caruana edges MVL for bronze, and Carlsen skips two rapid games."
-      }
-    ],
-    "kalla_display": "Chess News Network + ChessBase + ChessBase India",
-    "datum": "Fri, 20 Nov 2026 07:10:00 GMT",
-    "hittad": "2026-11-20T14:11:18.887117"
-  },
-  {
-    "id": "ea97cebe01d7",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/internationellt/2026/11/fortsatt-w-o-kaos-i-total-chess/?utm_source=rss&utm_medium=rss&utm_campaign=fortsatt-w-o-kaos-i-total-chess",
-        "title": "Fortsatt w.o-kaos i Total Chess",
-        "date": "Thu, 19 Nov 2026 20:16:09 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Det började i tisdags när världsettan Magnus Carlsen inte kom till det sista partiet i matchen mot Bibisara Assaubayeva. Dagen efter lämnade han på nytt walk over mot Assaubayeva i [&#8230;] Inlägget Fortsatt w.o-kaos i Total Chess dök först upp på Sveriges Schackförbund ."
-      },
-      {
         "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/championnat-du-monde-total-2026-magnus-carlsen-10145.html",
-        "title": "Lire l'articleChampionnat du monde Total 2026Magnus Carlsen refuse de jouer les deux parties rapides contre Artemiev au Total Chess10",
-        "date": "2026-11-19T14:10:28.582100",
+        "url": "https://www.europe-echecs.com/art/total-chess-2026-finale-jour-2-10148.html",
+        "title": "Total Chess 2026Alireza Firouzja gagne le Total Chess 2026 devant Giri et Caruana",
+        "date": "2026-11-20T13:35:52.058446",
         "tag": "Europe Echecs"
       },
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/11/20/total-chess-pilot-2026-finaler-dag-1/",
-        "title": "Total Chess Pilot 2026 – Finaler– dag 1",
-        "date": "Fri, 20 Nov 2026 06:06:25 +0000",
+        "url": "https://bergensjakk.no/2026/11/21/total-chess-pilot-2026-finaler-dag-2/",
+        "title": "Total Chess Pilot 2026 – Finaler – dag 2",
+        "date": "Sat, 21 Nov 2026 06:17:40 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "GM Magnus Carlsen (2823) vant sin første match mot GM Vladislav Artemiev (FID 2653) i Total Chess Pilot, men skapte nye kontroverser da han ikke stilte opp til noen av de to hurtigsjakkpartiene. Carlsen spilte bra i lynsjakken selv om han tapte første parti fra en klar vinststilling. De tre neste partiene ga alle seire, og Les mer"
+        "_rss_content": "GM Alireza Firouzja (FRA 2757) gikk til topps i Total Chess Pilot i Budapest etter seier mot GM Anish Giri (NED 2747) i finalen. Giri vant den første finalematchen, men Firouzja slo tilbake og vant 12-8 på dag 2. Dermed hadde spillerne hver sin matchseier, og det måtte spilles armageddon om førsteplass. Her gikk Firouzja Les mer"
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/firouzja-is-the-total-chess-champion",
+        "title": "Firouzja Is The Total Chess Champion",
+        "date": "Sat, 21 Nov 2026 07:34:00 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Firouzja won the Total Chess pilot, drawing an Armageddon with Black against Giri. Carlsen’s forfeits and the format’s quirks leave questions for 2027."
       }
     ],
-    "kalla_display": "Bergensjakk + Europe Echecs + Schack.se",
-    "datum": "Thu, 19 Nov 2026 20:16:09 +0000",
-    "hittad": "2026-11-20T14:11:18.887131"
+    "kalla_display": "Bergensjakk + Chess News Network + Chess.com + ChessBase India + Europe Echecs",
+    "datum": "2026-11-20T13:35:17.437387",
+    "hittad": "2026-11-21T13:36:43.605301"
   },
   {
-    "id": "85873d427bf9",
+    "id": "edf2bc6f815e",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/candidates-indias-chess-story-documentary",
-        "title": "Candidates Indias Chess Story Documentary",
-        "date": "2026-11-19T14:09:58.095695",
+        "url": "https://www.chess.com/news/view/2026-speed-chess-championship-r16-lazavik-andreikin",
+        "title": "2026 Speed Chess Championship R16 Lazavik Andreikin",
+        "date": "2026-11-20T13:35:17.437353",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-11-19T14:09:58.095695",
-    "hittad": "2026-11-20T14:11:18.887138"
+    "datum": "2026-11-20T13:35:17.437353",
+    "hittad": "2026-11-21T13:36:43.605317"
   },
   {
-    "id": "19b4441eb3cb",
+    "id": "a678c2bce689",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-9",
-        "title": "2026 Total Chess World Championship Tour Pilot Day 9",
-        "date": "2026-11-19T14:09:58.095733",
+        "url": "https://www.chess.com/news/view/sklokin-bagiyan-wins-freestyle-friday-november-20-2026",
+        "title": "Sklokin Bagiyan Wins Freestyle Friday November 20 2026",
+        "date": "2026-11-20T13:35:17.437407",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-11-19T14:09:58.095733",
-    "hittad": "2026-11-20T14:11:18.887143"
+    "datum": "2026-11-20T13:35:17.437407",
+    "hittad": "2026-11-21T13:36:43.605325"
   },
   {
-    "id": "53c3283e0572",
+    "id": "d47d5f2168d9",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/duy-dau-movahed-fedoseev-3-0-thursday-11-19-2026",
+        "title": "Duy Dau Movahed Fedoseev 3 0 Thursday 11 19 2026",
+        "date": "2026-11-20T13:35:17.437441",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-11-20T13:35:17.437441",
+    "hittad": "2026-11-21T13:36:43.605332"
+  },
+  {
+    "id": "a27ebffcb3d4",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/sindarov-documentary-salesforce-2026-fide-world-championship",
+        "title": "Sindarov Documentary Salesforce 2026 Fide World Championship",
+        "date": "2026-11-20T13:35:17.437472",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-11-20T13:35:17.437472",
+    "hittad": "2026-11-21T13:36:43.605338"
+  },
+  {
+    "id": "8336cc76b24e",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/the-difficult-road-to-defending-his-title-gukesh-dommaraju",
-        "title": "The difficult road to defending his title: Gukesh Dommaraju",
-        "date": "Thu, 19 Nov 2026 20:00:00 GMT",
+        "url": "https://en.chessbase.com/post/javokhir-sindarov-the-next-world-champion",
+        "title": "Javokhir Sindarov – the next World Champion?",
+        "date": "Sat, 21 Nov 2026 08:58:32 GMT",
         "tag": "ChessBase",
-        "_rss_content": "On 24 November, the first game of the eagerly anticipated World Championship match between defending champion Gukesh Dommaraju and challenger Javokhir Sindarov will be played in Geneva. Never before have two such young players competed for the title. In this article, we introduce the defending champion and offer insights into his career to date. | Photos: ChessBase India, Amruta Mokal / Michal Walusza / Eng Chin An (cover photo) / Tushar Damor /Frederic Friedel"
+        "_rss_content": "In a few days, Javokhir Sindarov will face Gukesh in Geneva for the World Championship title. Sindarov is currently fourth in the world rankings, but by the numbers, he is already the best player in the world. Over the twelve months leading up to the World Championship match, Sindarov has achieved an average performance rating of 2812 – higher than any other player. Over the past year, Sindarov has gained 61 Elo points, while Gukesh has lost 53. No wonder Sindarov is favourite in the World Championship match. | Photo: Nils Rohde"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Thu, 19 Nov 2026 20:00:00 GMT",
-    "hittad": "2026-11-20T14:11:18.887148"
+    "datum": "Sat, 21 Nov 2026 08:58:32 GMT",
+    "hittad": "2026-11-21T13:36:43.605345"
+  },
+  {
+    "id": "a1bd20b9656d",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/review-the-english-opening-an-overview",
+        "title": "Review: The English Opening – An overview",
+        "date": "Sat, 21 Nov 2026 07:00:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Jochen Schwarz is a club player from Bremen who enjoys playing the English Opening (1.c4), historically also known as the “Bremen Opening”. He has taken a look at the most important video courses in the ChessBase range and put together an overview. Some courses present a repertoire for White based on the English Opening, while others offer a repertoire for Black against it. There are also 60-minute courses devoted to specific variations."
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Sat, 21 Nov 2026 07:00:00 GMT",
+    "hittad": "2026-11-21T13:36:43.605351"
+  },
+  {
+    "id": "5f4a81dc2bf6",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/chess-by-the-numbers-salesforce",
+        "title": "Chess by the Numbers: Explore a decade of FIDE Data, powered by Salesforce Agentforce",
+        "date": "Fri, 20 Nov 2026 21:00:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "The official website of the Salesforce FIDE World Championship now includes an interactive \"Chess by the Numbers\" section, using more than a decade of FIDE data to explore trends across the game. Powered by Salesforce technology, the feature covers player ratings, national federations, participation, women in chess, tournament activity and historical rankings. It also includes head-to-head statistics for Gukesh Dommaraju and Javokhir Sindarov ahead of their World Championship match. | Image: FIDE"
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Fri, 20 Nov 2026 21:00:00 GMT",
+    "hittad": "2026-11-21T13:36:43.605362",
+    "liknar": {
+      "titel": "FIDE lanserar ny dataplattform för schack",
+      "url": "https://gambit.se/fide-lanserar-ny-dataplattform-for-schack/",
+      "datum": "2026-11-21"
+    }
+  },
+  {
+    "id": "f39331a6eebc",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/sverige/2026/11/folj-foretagsmasterskapet-via-live-och-webb-tv/?utm_source=rss&utm_medium=rss&utm_campaign=folj-foretagsmasterskapet-via-live-och-webb-tv",
+        "title": "Följ Företagsmästerskapet via live och webb-TV",
+        "date": "Fri, 20 Nov 2026 16:45:46 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "När Företagsmästerskapet i schack avgörs i advokatbyrån Vinges lokaler i Stockholm på lördagen kan du följa partierna via både livesändning och webb-TV. Den första ronden startar klockan 13.00, och här [&#8230;] Inlägget Följ Företagsmästerskapet via live och webb-TV dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Fri, 20 Nov 2026 16:45:46 +0000",
+    "hittad": "2026-11-21T13:36:43.605369"
+  },
+  {
+    "id": "79bdc020edf8",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/schack-i-skolan/2026/11/sladjana-prisas-av-fide-for-insatser-inom-schack-i-skolan/?utm_source=rss&utm_medium=rss&utm_campaign=sladjana-prisas-av-fide-for-insatser-inom-schack-i-skolan",
+        "title": "Sladjana prisas av FIDE för insatser inom schack i skolan",
+        "date": "Fri, 20 Nov 2026 16:36:02 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Sveriges Schackförbund tilldelar Sladjana Stojmenovic världsschackförbundet FIDE:s medalj&#160;Outstanding Contribution Award&#160;för enastående insatser inom området&#160;Chess in Schools&#160;(schack i skolan). I över tio års tid har Sladjana varit en engagerad eldsjäl inom [&#8230;] Inlägget Sladjana prisas av FIDE för insatser inom schack i skolan dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Fri, 20 Nov 2026 16:36:02 +0000",
+    "hittad": "2026-11-21T13:36:43.605376"
   },
   {
     "id": "465f0f412ec1",
@@ -120,96 +207,80 @@
         "source": "ChessBase India",
         "url": "https://www.chessbase.in/news/category/organisation-policy",
         "title": "171 storiesOrganisation & PolicyVidit Gujrathi and Divya Deshmukh receive the Arjuna Award from President Droupadi Murmu",
-        "date": "2026-11-19T14:10:18.438842",
+        "date": "2026-11-20T13:35:40.143324",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-11-19T14:10:18.438842",
-    "hittad": "2026-11-20T14:11:18.887153"
+    "datum": "2026-11-20T13:35:40.143324",
+    "hittad": "2026-11-21T13:36:43.605382"
   },
   {
-    "id": "94db932696a7",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/championnat-du-monde-total-2026-finales-jour-1-10144.html",
-        "title": "Lire l'articleChampionnat du monde Total 2026Total Chess : Giri gagne la manche aller de la finale contre Firouzja1",
-        "date": "2026-11-19T14:10:28.582116",
-        "tag": "Europe Echecs"
-      }
-    ],
-    "kalla_display": "Europe Echecs",
-    "datum": "2026-11-19T14:10:28.582116",
-    "hittad": "2026-11-20T14:11:18.887158"
-  },
-  {
-    "id": "a8d460380816",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/11/19/kort-nyt-uge-46-og-47-2/?utm_source=rss&utm_medium=rss&utm_campaign=kort-nyt-uge-46-og-47-2",
-        "title": "Kort Nyt uge 46 og 47",
-        "date": "Thu, 19 Nov 2026 18:00:00 +0000",
-        "tag": "Dansk Skak Union",
-        "_rss_content": "Bundesligaen: I weekenden d. 13.-15. november blev runde 4-6 af Bundesligaen spillet. Danskerklubben FC. St. Pauli havde hele fire danskere med: Jonas Buhl Bjerre, Jesper Søndergaard Thybo, Mads Andersen og debutant Filip Boe Olsen. Efter weekenden startede dårligt med et stort 6-2 nederlag mod de små favoritter fra SK Kirchweyhe, vandt St. Pauli om lørdagen [&#8230;]"
-      }
-    ],
-    "kalla_display": "Dansk Skak Union",
-    "datum": "Thu, 19 Nov 2026 18:00:00 +0000",
-    "hittad": "2026-11-20T14:11:18.887166"
-  },
-  {
-    "id": "f70004243ef9",
+    "id": "959af47fd0bb",
     "status": "pending",
     "rubriker": [
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/11/20/nm-for-barn-og-ungdom-2026-starter/",
-        "title": "NM for barn og ungdom 2026 starter",
-        "date": "Fri, 20 Nov 2026 00:00:28 +0000",
+        "url": "https://bergensjakk.no/2026/11/21/nm-for-barn-og-ungdom-2026-dag-1/",
+        "title": "NM for barn og ungdom 2026 – dag 1",
+        "date": "Sat, 21 Nov 2026 06:17:15 +0000",
         "tag": "Bergensjakk",
-        "_rss_content": "I&#160;starter NM i sjakk for barn og ungdom på Quality Airport Hotel Værnes i Stjørdal. Dette er få kilometer fra Trondheim lufthavn Værnes. Turneringen spilles fredag 20. til søndag 22. november 2026. Arrangør er Hell Sjakklubb. Mesterskapet har 281 påmeldte fordelt på åtte aldersinndelte klasser. Eldste klasse er U26 (født 2000 til 2006) og yngste Les mer"
+        "_rss_content": "NM&#160;i&#160;sjakk for barn og ungdom startet fredag 20. november på Quality Airport Hotel Værnes i Stjørdal. Det endelige deltakertallet ser ut til å bli 282. Klasse A (17-19 år) spiller sammen med U26 (20-26 år). I den kombinerte klassen ble det spilt ett langsjakkparti fredag kveld. Det eneste overraskende resultatet i første runde var at Les mer"
       }
     ],
     "kalla_display": "Bergensjakk",
-    "datum": "Fri, 20 Nov 2026 00:00:28 +0000",
-    "hittad": "2026-11-20T14:11:18.887171"
+    "datum": "Sat, 21 Nov 2026 06:17:15 +0000",
+    "hittad": "2026-11-21T13:36:43.605389"
   },
   {
-    "id": "75ceba77e86b",
+    "id": "577c1d069b53",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/the-scotch-game-an-opening-london-played-first",
-        "title": "The Scotch Game, an Opening London Played First",
-        "date": "Fri, 20 Nov 2026 10:33:00 GMT",
+        "url": "https://chessnewsnetwork.com/article/carlsen-forfeits-fast-classical-again",
+        "title": "Carlsen Forfeits Fast Classical Again",
+        "date": "Fri, 20 Nov 2026 18:13:21 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "The Scotch was first played by London, not the Scots. From a horse-and-carriage match in 1824 to Kasparov’s 1990 revival, here’s its story."
+        "_rss_content": "Carlsen skipped his Fast Classic against Artemiev, giving up 8 points. They are level after two days, so their 17th-place match goes to Armageddon."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Fri, 20 Nov 2026 10:33:00 GMT",
-    "hittad": "2026-11-20T14:11:18.887175"
+    "datum": "Fri, 20 Nov 2026 18:13:21 GMT",
+    "hittad": "2026-11-21T13:36:43.605396"
   },
   {
-    "id": "eabec82a8051",
+    "id": "d0fdc9bad621",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/analistas-gukesh-sindarov-uvencio-blanco",
-        "title": "El equipo de analistas: ¿Claves invisibles del match entre Gukesh y Sindarov?",
-        "date": "Wed, 18 Nov 2026 18:30:00 GMT",
+        "url": "https://es.chessbase.com/post/mundial-sub-20-2026-apertura",
+        "title": "Se puso en marcha el Campeonato Mundial Sub-20 en Caracas",
+        "date": "Fri, 20 Nov 2026 21:00:00 GMT",
         "tag": "ChessBase España",
-        "_rss_content": "El match por el título mundial entre Gukesh y Javokhir Sindarov no dependerá únicamente de lo que ocurra sobre el tablero. El texto examina cuánto pueden influir sus equipos de analistas y las tradiciones ajedrecísticas de India y Uzbekistán, comparando experiencia, infraestructura, preparación de aperturas, apoyo psicológico y trabajo colectivo. India parte con una estructura más consolidada, mientras Uzbekistán aporta una generación cohesionada y en plena forma competitiva. | Imagen: FIDE"
+        "_rss_content": "El Campeonato Mundial de Ajedrez Sub-20 se ha puesto en marcha en Caracas, con la participación de 136 jugadores de 32 países en las categorías abierta y femenina. Los torneos, que se disputan a 11 rondas, se celebran del 18 al 27 de noviembre en el Hotel Eurobuilding. La presidenta de Venezuela, Delcy Rodríguez, y el presidente de la Asamblea Nacional, Jorge Rodríguez, realizaron el primer movimiento ceremonial, mientras que el presidente de la FIDE, Timur Turlov, asistió a los actos inaugurales junto a autoridades nacionales del ajedrez y el deporte. | Fotos: Federación Venezolana de Ajedrez"
       }
     ],
     "kalla_display": "ChessBase España",
-    "datum": "Wed, 18 Nov 2026 18:30:00 GMT",
-    "hittad": "2026-11-20T14:11:18.887180"
+    "datum": "Fri, 20 Nov 2026 21:00:00 GMT",
+    "hittad": "2026-11-21T13:36:43.605402"
+  },
+  {
+    "id": "8cfd9cab9af1",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase España",
+        "url": "https://es.chessbase.com/post/historia-del-ajedrez-mega-2027",
+        "title": "Toda la historia del ajedrez en una sola base de datos: Mega Database 2027",
+        "date": "Thu, 19 Nov 2026 19:00:00 GMT",
+        "tag": "ChessBase España",
+        "_rss_content": "12,5 millones de partidas, desde el siglo XV hasta nuestros días, 115.000 de ellas comentadas: la Mega Database de ChessBase abarca toda la historia del ajedrez y es un recurso de valor incalculable para la preparación de torneos y partidas. La nueva edición, Mega 2027, acaba de salir al mercado. En comparación con Mega 2026, se han añadido casi 900.000 partidas de todas las épocas. Y esa no es la única novedad."
+      }
+    ],
+    "kalla_display": "ChessBase España",
+    "datum": "Thu, 19 Nov 2026 19:00:00 GMT",
+    "hittad": "2026-11-21T13:36:43.605405"
   }
 ]
