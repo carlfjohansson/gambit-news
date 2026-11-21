@@ -1,184 +1,98 @@
 [
   {
-    "source": "Chess.com",
-    "original_url": "https://www.chess.com/news/view/candidates-indias-chess-story-documentary",
-    "original_title": "Candidates Indias Chess Story Documentary",
-    "swedish_title": "Dokumentärserie om Indiens schackresa har premiär 22 november",
-    "swedish_content": "En sexdelad dokumentärserie med titeln \"Candidates: India's Chess Story\" släpps på YouTube med start den 22 november, och visningen är gratis. Serien följer de fem indiska spelarna vid Kandidatturneringen 2024 – GM Praggnanandhaa Rameshbabu, GM Gukesh Dommaraju, GM Arjun Erigaisi, GM Vaishali Rameshbabu och GM Vidit Gujrathi – och skildrar Indiens utveckling till en schacknation i världsklass under 2020-talet. Bland medverkande syns även Samay Raina, IM Sagar Shah, IM Tania Sachdev och GM Peter Heine Nielsen, mångårig tränare för GM Viswanathan Anand och senare GM Magnus Carlsen. Serien är gjord av Dopamine Media i samarbete med ChessBase India, MGD1 och Camera And Shorts, med Chess.com som medverkande inom marknadsföring, och är skapad av Biswa Kalyan Rath och Prashant Raj efter inspelningar i nio länder under mer än två år.\n\nRegissören Prashant Raj berättade för Times of India att filmningen inleddes redan 2022, innan man visste hur historien skulle sluta. Gukesh vann sedermera Kandidatturneringen 2024 och blev samma år världsmästare. Serien har premiär dagar innan öppningsceremonin för VM 2026 äger rum den 22 november, med första partiet spelat den 24 november. Samtliga sex avsnitt sänds på YouTube klockan 19.00 indisk tid, med premiärdatum den 22, 27 november samt 1, 5 och 9 december – det sjätte avsnittet följer direkt efter det femte samma kväll.",
-    "date": "2026-11-19T14:09:58.095695",
-    "tag": "Chess.com",
-    "processed_at": "2026-11-21T12:05:43.810371",
-    "bild_filnamn": "bildbanken-Af8EnQ5YbY.jpg",
-    "bild_kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund",
-    "bild_alternativ": [
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Asian_Champions_2022-_GM_R_Praggnanandhaa_and_WGM_P._V._Nandhidhaa.jpg/960px-Asian_Champions_2022-_GM_R_Praggnanandhaa_and_WGM_P._V._Nandhidhaa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: NOVKILOSIERRA (Wikimedia Commons, CC0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Ian_Nepomniachtchi_vs_Rameshbabu_Praggnanandhaa.jpg/960px-Ian_Nepomniachtchi_vs_Rameshbabu_Praggnanandhaa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: TheBoburshokh (Wikimedia Commons, CC0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/London_Chess_Classic_2016_Day3-9_%2830767870714%29.jpg/960px-London_Chess_Classic_2016_Day3-9_%2830767870714%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Wolfgang Jekel (Wikimedia Commons, CC BY 2.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Praggnanandhaa_Tata_Steel_Chess_2019.jpg/960px-Praggnanandhaa_Tata_Steel_Chess_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Vysotsky (Wikimedia Commons, CC BY-SA 4.0)"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/Af8EnQ5YbY.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/Af8EosVlC6.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/Af8EwJp4qG.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/Af8ExenfeD.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/D_Gukesh_at_2024_Tata_Steel_CT.jpg/960px-D_Gukesh_at_2024_Tata_Steel_CT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Frans Peeters (Wikimedia Commons, CC BY-SA 2.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/D_Gukesh_at_2025_Tata_Steel_CT.jpg/960px-D_Gukesh_at_2025_Tata_Steel_CT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Frans Peeters (Wikimedia Commons, CC BY-SA 2.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Gukesh_in_2025_%28cropped%29.jpg/960px-Gukesh_in_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Frans Peeters (Wikimedia Commons, CC BY-SA 2.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/TataSteelChess2023-22.jpg/960px-TataSteelChess2023-22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Vysotsky (Wikimedia Commons, CC BY-SA 4.0)"
-      }
-    ]
-  },
-  {
-    "source": "Chess News Network",
-    "original_url": "https://chessnewsnetwork.com/article/the-scotch-game-an-opening-london-played-first",
-    "original_title": "The Scotch Game, an Opening London Played First",
-    "swedish_title": "Skotska partiet – uppkallat efter förlorarna i öppningsstriden",
-    "swedish_content": "Skotska partiet (1.e4 e5 2.Nf3 Nc6 3.d4) fick sitt namn efter en korrespondensmatch mellan Edinburgh Chess Club och London Chess Club 1824, där dragen fördes mellan städerna med häst och vagn. Enligt Edinburghs egna uppgifter var det London som först spelade öppningen, men Edinburgh vann matchen 2-1 (remier räknades inte) och gav draget sitt namn. Öppningen omnämndes redan 1750 av Ercole del Rio i en anonym avhandling från Modena.\n\nUnder 1800-talet var Skotska partiet mycket populärt. Howard Staunton spelade Göring-gambiten (4.c3) på hög nivå på 1840-talet, partiet Meek–Morphy 1857 är det första kända med gambiten accepterad, och Jacques Mieses använde 6.e5 upprepade gånger i Hastings 1895, däribland en seger över Blackburne i första ronden – varianten bär numera hans namn. Wilhelm Steinitz populariserade utdraget 4...Qh4 för svart.\n\nKring sekelskiftet 1900 föll öppningen i glömska till förmån för Spanska partiet, eftersom man ansåg att vit släppte spänningen i centrum för tidigt. Skotska partiet spelades därefter bara sporadiskt under hela 1900-talet – fram till att Garri Kasparov plockade fram den i parti 14 av VM-matchen mot Anatolij Karpov 1990, spelad i Lyon och New York, och överraskade alla.",
-    "date": "Fri, 20 Nov 2026 10:33:00 GMT",
-    "tag": "Chess News Network",
-    "processed_at": "2026-11-21T12:06:15.976188",
+    "source": "Schack.se",
+    "original_url": "https://schack.se/nyhet/schack-i-skolan/2026/11/sladjana-prisas-av-fide-for-insatser-inom-schack-i-skolan/?utm_source=rss&utm_medium=rss&utm_campaign=sladjana-prisas-av-fide-for-insatser-inom-schack-i-skolan",
+    "original_title": "Sladjana prisas av FIDE för insatser inom schack i skolan",
+    "swedish_title": "Sladjana Stojmenovic får FIDE-medalj för skolschack",
+    "swedish_content": "Sveriges Schackförbund tilldelar Sladjana Stojmenovic världsschackförbundet FIDE:s medalj Outstanding Contribution Award för enastående insatser inom Chess in Schools. I över tio år har hon varit en drivande kraft inom skolschacket och haft avgörande betydelse för utvecklingen av schacket på Söraskolan i Österåker. Hon finns med under skoldagarna, på eftermiddagens schackträningar och följer barnen till tävlingar som Skol-SM. Utmärkelsen hölls hemlig för Sladjana inför prisutdelningen, vilket gjorde överraskningen extra stor när hon fick veta att hon tilldelats medaljen.",
+    "date": "Fri, 20 Nov 2026 16:36:02 +0000",
+    "tag": "Svenska Schackförbundet",
+    "processed_at": "2026-11-21T19:55:08.877330",
     "bild_alternativ": []
   },
   {
     "source": "Chess.com",
-    "original_url": "https://www.chess.com/news/view/gukesh-pressure-sindarov-world-championship",
-    "original_title": "Gukesh Pressure Sindarov World Championship",
-    "swedish_title": "Gukesh möter press och Sindarov i Genève",
-    "swedish_content": "Världsmästaren Gukesh Dommaraju öppnar upp om den press och kritik han brottats med inför sin match mot GM Javokhir Sindarov. \"Jag har tydligt inte lyckats hantera det på bästa möjliga sätt hittills\", sa han under ett middagssamtal med femfaldige världsmästaren GM Viswanathan Anand och ChessBase Indias medgrundare IM Sagar Shah, filmat i Anands hem i Chennai och publicerat av Chess.com.\n\nDet 86 minuter långa och tidvis muntra samtalet rörde sig mellan allt från hur man hanterar kritik och förbereder sig för VM-matchen till mat, fanmöten och minnen från deras tidiga möten. Gukesh har haft ett tungt år bakom sig, där han rasat till 28:e plats i världen med en rating på 2710 efter en rad svaga resultat. Han noterade 3,5/9 i Prague Masters i mars, 3/10 i Norway Chess i juni och 2/7 i Quantbox Chennai Grand Masters i juli, vilket kostade ytterligare 14 ratingpoäng – och i samtliga tre turneringar slutade han sist eller delad sist. Ett ljuspunkt var hans 8,5/11 för Indien i 46th FIDE Chess Olympiad, där laget tog silver, men den 20-årige världsmästaren söker fortfarande den form som förde honom hela vägen till titeln 2024. \"Det har varit kanske två eller tre turneringar det senaste året som jag varit nöjd med\", medgav han. \"Det har funnits stora bakslag.\" Han pekade bland annat på missade möjligheter i Chennai, där han enligt egen utsago inte lyckades omsätta ställningar han normalt skulle ha vunnit.\n\nInför den stundande matchen mot Sindarov i Genève har intresset för VM-titeln fått ny fart, sedan de båda unga stjärnorna lockat både experter och publik till det som beskrivs som en av de jämnaste titelstriderna i schackets historia. En fråga som lyfts fram är vilken roll analytikerteamen och de ajedrezhistoriska traditionerna i Indien respektive Uzbekistan kan spela för utgången. I en match på fjorton partier mellan två tämligen jämnstarka spelare kan ett skickligt analysteam enligt bedömare förskjuta sannolikheten för seger med mellan fem och åtta procentenheter. Den nationella traditionen väger mindre direkt in, men avgör vilka tränare, datorresurser och sparringpartners respektive spelare har tillgång till inför den avgörande kampen om världstiteln.\n\nGukesh själv blev historiens yngste världsmästare när han den 12 december 2024, vid 18 år och 197 dagars ålder, besegrade Ding Liren i den sista partiet av deras VM-match. Avgörandet kom efter att Ding spelat torn till f2 i drag 55 – ett beslut som kostade honom chansen till särspel och till slut själva titeln. Gukesh, som föddes den 29 maj 2006 i Chennai som son till mikrobiologen Padmakumari och öron-näsa-halsläkaren Rajinikanth, fick sina första möten med schackbrädet vid ungefär fem års ålder, både hemma och i skolan. Hans ovanliga talang uppmärksammades tidigt av skolans schacktränare Bhaskar V, vilket satte fart på en resa som sedan tog honom genom IM-titeln 2018, GM-titeln 2019 och fram till att han, som 18:e världsmästaren i schackhistorien, nu försvarar sin krona mot en ny generations utmanare.",
-    "date": "2026-11-18T14:31:56.837956",
+    "original_url": "https://www.chess.com/news/view/firouzja-wins-2026-total-chess-world-championship-tour-pilot",
+    "original_title": "Firouzja Wins 2026 Total Chess World Championship Tour Pilot",
+    "swedish_title": "Firouzja vinner historiska Total Chess-piloten i Budapest",
+    "swedish_content": "Alireza Firouzja är den förste mästaren i Total Chess World Championship Tour efter en dramatisk finaldag i Budapest. Fransmannen gick in på den avslutande dagen efter att ha förlorat första matchdagen mot Anish Giri med 11-9, men slog tillbaka och vann dag två med 12-8. Eftersom spelarna därmed hade en matchseger var, avgjordes titeln i en armageddonparti där Giri hade vita pjäser och Firouzja svarta med remioddsen till sin fördel. Partiet slutade remi efter 35 drag, vilket räckte för att ge Firouzja titeln och förstapriset på 80 000 dollar. Det var hans andra armageddon på en vecka – i semifinalen besegrade han Fabiano Caruana efter att amerikanens flagga föll i drag 44. Giri, som fick 50 000 dollar för andraplatsen, var kritisk efteråt och ifrågasatte själva poängen med experimentet, då han tyckte att finalen inte blev särskilt spännande.\n\nCaruana säkrade tredjeplatsen genom att besegra Maxime Vachier-Lagrave i två jämna matcher, vilket gav fransmannen fjärdeplatsen. Eftersom både Caruana och Giri redan kvalificerat sig för 2027 års tour via Kandidatturneringen 2026, gick den tredje kvalplatsen istället till Vachier-Lagrave. Hans Moke Niemann slutade femma efter att ha besegrat Jan-Krzysztof Duda, medan Ian Nepomniachtchi, Liem Le och Haik Martirosyan rundade av topp tio.\n\nMagnus Carlsen gav åter bort en fast classic-parti utan att spela den. Mot Vladislav Artemiev behövde världsettan vinna eller göra oavgjort på den andra matchdagen efter torsdagens seger med 11-9. Efter jämn blixt och snabbschack låg Artemiev i täten med 7,5-4,5 inför den åttapoängsgivande klassiska partiet, och eftersom endast en vinst hade kunnat rädda matchen utan särspel uteblev Carlsen helt enkelt. Forfeitet gav Artemiev dagen med 15,5-4,5, vilket innebar att matchen ändå gick till armageddon – där Carlsen till slut vann med svart och säkrade 17:e platsen av 24 deltagare. Det var tredje gången under turneringen som Carlsen hoppade över en fast classic-parti; tidigare förklarade han för TV 2 att han ville vila inför den klassiska formen och att han \"inte kommer tillbaka förrän fast classic\". FIDE:s vice ordförande Viswanathan Anand sade att han själv aldrig skulle ha gjort likadant, även om han kunde förstå frustrationen.\n\nPiloten spelades 10–20 november på Anantara New York Palace Budapest Hotel och arrangerades av Norway Chess med FIDE:s godkännande. Turneringen inleddes med en blixtschack-Swiss på nio ronder, som Carlsen vann obesegrad med 7/9. Därefter följde en dubbel rundturnering i fyra grupper med fast classic-tempo (45 minuter plus 30 sekunder per drag), där Firouzja, Caruana, Giri och Vachier-Lagrave tog gruppsegrarna. Gruppresultaten avgjorde sedan sex utslagsgrupper om fyra spelare vardera, så att samtliga 24 deltagare fortsatte spela genom hela turneringen och varje grupp till sist delade ut fyra placeringar.",
+    "date": "2026-11-20T13:35:17.437387",
     "tag": "Chess.com",
-    "processed_at": "2026-11-21T12:06:50.069737",
+    "processed_at": "2026-11-21T19:55:44.770066",
     "alla_kallor": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/gukesh-pressure-sindarov-world-championship"
+        "url": "https://www.chess.com/news/view/firouzja-wins-2026-total-chess-world-championship-tour-pilot"
       },
       {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/analistas-gukesh-sindarov-uvencio-blanco"
+        "source": "ChessBase India",
+        "url": "https://www.chessbase.in/news/alireza-firouzja-wins-total-chess-world-championship-pilot-2026"
       },
       {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/the-difficult-road-to-defending-his-title-gukesh-dommaraju"
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/total-chess-2026-finale-jour-2-10148.html"
       },
       {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/analistas-gukesh-sindarov-uvencio-blanco"
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/11/21/total-chess-pilot-2026-finaler-dag-2/"
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/firouzja-is-the-total-chess-champion"
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/carlsen-forfeits-fast-classical-again"
       }
     ],
     "alla_urler": [
-      "https://www.chess.com/news/view/gukesh-pressure-sindarov-world-championship",
-      "https://es.chessbase.com/post/analistas-gukesh-sindarov-uvencio-blanco",
-      "https://en.chessbase.com/post/the-difficult-road-to-defending-his-title-gukesh-dommaraju",
-      "https://es.chessbase.com/post/analistas-gukesh-sindarov-uvencio-blanco"
+      "https://www.chess.com/news/view/firouzja-wins-2026-total-chess-world-championship-tour-pilot",
+      "https://www.chessbase.in/news/alireza-firouzja-wins-total-chess-world-championship-pilot-2026",
+      "https://www.europe-echecs.com/art/total-chess-2026-finale-jour-2-10148.html",
+      "https://bergensjakk.no/2026/11/21/total-chess-pilot-2026-finaler-dag-2/",
+      "https://chessnewsnetwork.com/article/firouzja-is-the-total-chess-champion",
+      "https://chessnewsnetwork.com/article/carlsen-forfeits-fast-classical-again"
     ],
-    "bild_filnamn": "bildbanken-Af8EnQ5YbY.jpg",
-    "bild_kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund",
     "bild_alternativ": [
       {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/Af8EnQ5YbY.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/Af8EosVlC6.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/Af8EwJp4qG.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
-      },
-      {
-        "kalla": "bildbanken",
-        "url": "https://bildbanken.schack.se/Home/Af8ExenfeD.jpg",
-        "kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund"
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Alireza_Firouzja_2026_Norway_Chess.jpg/960px-Alireza_Firouzja_2026_Norway_Chess.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Ahmed0112 (Wikimedia Commons, CC0)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/D_Gukesh_at_2024_Tata_Steel_CT.jpg/960px-D_Gukesh_at_2024_Tata_Steel_CT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Frans Peeters (Wikimedia Commons, CC BY-SA 2.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Alireza_Firouzja_2026_Norway_Chess_%28cropped%29.jpg/960px-Alireza_Firouzja_2026_Norway_Chess_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Ahmed0112 (Wikimedia Commons, CC0)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/D_Gukesh_at_2025_Tata_Steel_CT.jpg/960px-D_Gukesh_at_2025_Tata_Steel_CT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Frans Peeters (Wikimedia Commons, CC BY-SA 2.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Iran_category_B_medalists_%2829134098004%29.jpg/960px-Iran_category_B_medalists_%2829134098004%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Andreas Kontokanis  from Piraeus, Greece (Wikimedia Commons, CC BY-SA 2.0)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Gukesh_in_2025_%28cropped%29.jpg/960px-Gukesh_in_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Frans Peeters (Wikimedia Commons, CC BY-SA 2.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Magnus_Carlsen_-_Zagreb.jpg/960px-Magnus_Carlsen_-_Zagreb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Miroslav.vajdic (Wikimedia Commons, CC BY-SA 4.0)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/TataSteelChess2023-22.jpg/960px-TataSteelChess2023-22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Vysotsky (Wikimedia Commons, CC BY-SA 4.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Javokhir_Sindarov_at_the_46th_FIDE_Chess_Olympiad_%281%29.jpg/960px-Javokhir_Sindarov_at_the_46th_FIDE_Chess_Olympiad_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Anish_Giri_at_the_46th_FIDE_Chess_Olympiad_%281%29.jpg/960px-Anish_Giri_at_the_46th_FIDE_Chess_Olympiad_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "kredit": "Foto: TheBoburshokh (Wikimedia Commons, CC BY 4.0)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Javokhir_Sindarov_at_the_46th_FIDE_Chess_Olympiad_%281%29_%28v2%29.jpg/960px-Javokhir_Sindarov_at_the_46th_FIDE_Chess_Olympiad_%281%29_%28v2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Anish_giri.jpg/960px-Anish_giri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "kredit": "Foto: TheBoburshokh (Wikimedia Commons, CC BY 4.0)"
       },
       {
         "kalla": "commons",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Javokhir_Sindarov_at_the_46th_FIDE_Chess_Olympiad_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "kredit": "Foto: TheBoburshokh (Wikimedia Commons, CC BY 4.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Carlsen_Giri_draw_in_Tata_Steel_Chess_2020.jpg/960px-Carlsen_Giri_draw_in_Tata_Steel_Chess_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Marien Raat (Wikimedia Commons, CC BY-SA 4.0)"
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Javokhir_Sindarov_chess_player.jpg/960px-Javokhir_Sindarov_chess_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Husniddin Ato (Wikimedia Commons, CC BY-SA 4.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/FIDE_Grand_Swiss_2025_Samarkand_Anish_Giri.jpg/960px-FIDE_Grand_Swiss_2025_Samarkand_Anish_Giri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: TheBoburshokh (Wikimedia Commons, CC0)"
       }
     ]
   }
