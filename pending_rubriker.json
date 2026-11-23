@@ -1,14 +1,21 @@
 [
   {
-    "id": "b20d8972a0ac",
+    "id": "0ccf4290b9cd",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/fide-carlsen-total-chess-forfeits-ethics-commission",
         "title": "Fide Carlsen Total Chess Forfeits Ethics Commission",
-        "date": "2026-11-21T13:27:46.343253",
+        "date": "2026-11-22T16:12:28.449697",
         "tag": "Chess.com"
+      },
+      {
+        "source": "ChessBase India",
+        "url": "https://www.chessbase.in/news/category/organisation-policy",
+        "title": "173 storiesOrganisation & PolicyFIDE calls Magnus Carlsen's forfeits 'unacceptable', refers him to Ethics Commission",
+        "date": "2026-11-22T16:12:51.200948",
+        "tag": "ChessBase India"
       },
       {
         "source": "Chess News Network",
@@ -19,12 +26,83 @@
         "_rss_content": "FIDE has referred Carlsen to its Ethics Commission over Total Chess forfeits. Rosenstein defends him and attacks Turlov, and arbiters face review too."
       }
     ],
-    "kalla_display": "Chess News Network + Chess.com",
-    "datum": "2026-11-21T13:27:46.343253",
-    "hittad": "2026-11-22T13:30:12.046573"
+    "kalla_display": "Chess News Network + Chess.com + ChessBase India",
+    "datum": "2026-11-22T16:12:28.449697",
+    "hittad": "2026-11-23T16:13:59.410770"
   },
   {
-    "id": "f04f87189a73",
+    "id": "42836aba47e7",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/total-mess-in-budapest",
+        "title": "Total mess in Budapest",
+        "date": "Sun, 22 Nov 2026 19:50:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "After Magnus Carlsen, the strongest player in the world, once again took liberties in his match against Vladislav Artemiev - this time playing the blitz games and the fast classic game, but skipping the rapid games - one has to conclude that the \"pilot\" for the Total Chess World Championship has crashed. A commentary. | Photos: Michal Walusza / Total Chess"
+      },
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/internationellt/2026/11/carlsen-om-total-chess-kaoset-en-negativ-spiral-for-mig/?utm_source=rss&utm_medium=rss&utm_campaign=carlsen-om-total-chess-kaoset-en-negativ-spiral-for-mig",
+        "title": "Carlsen om Total Chess-kaoset: ”En negativ spiral för mig”",
+        "date": "Sun, 22 Nov 2026 21:53:07 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Total Chess i Budapest är över – och vinnare blev Frankrikes schackstjärna Alireza Firouza. Men efterspelet har mer handlat om kritiken mot walk over-partier som helt överskuggade allt det övriga [&#8230;] Inlägget Carlsen om Total Chess-kaoset: ”En negativ spiral för mig” dök först upp på Sveriges Schackförbund ."
+      },
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/magnus-carlsen-en-11-coups-d-eclat-et-polemiques-10147.html",
+        "title": "Lire l'articleMagnus Carlsen en 11 coups d’éclat et polémiques9",
+        "date": "2026-11-22T16:13:03.697806",
+        "tag": "Europe Echecs"
+      }
+    ],
+    "kalla_display": "ChessBase + Europe Echecs + Schack.se",
+    "datum": "Sun, 22 Nov 2026 19:50:00 GMT",
+    "hittad": "2026-11-23T16:13:59.410786"
+  },
+  {
+    "id": "667116defd2d",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/2026-fide-chess-world-championship-opening-ceremony",
+        "title": "2026 Fide Chess World Championship Opening Ceremony",
+        "date": "2026-11-22T16:12:28.449656",
+        "tag": "Chess.com"
+      },
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/the-two-world-championship-contenders-open-up-to-the-media",
+        "title": "The Two World Championship Contenders Open Up to the Media",
+        "date": "Mon, 23 Nov 2026 06:03:11 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "November 22 marked the official kick-off of the Salesforce FIDE World Championship 2026. The assembled journalists were in for a treat, as Gukesh Dommaraju and Javokhir Sindarov took part in two separate media sessions, offering insights into their preparations, expectations and thoughts ahead of the eagerly anticipated encounter. FIDE press release, written by Yannick Pelletier | Photos: Y.E. Nisenbaum and Michal Waluzsa"
+      },
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/live-the-world-championship-kicks-off-press-conference-and-opening-ceremony-today",
+        "title": "LIVE: The World Championship kicks off – press conference and opening ceremony today",
+        "date": "Sun, 22 Nov 2026 15:00:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Gukesh Dommaraju faces Javokhir Sindarov in the 2026 Salesforce FIDE World Championship in Geneva. The first move will be played on Tuesday, 24 November, at 15:00 CET. Today, the players will meet the press at 15:30, followed by the opening ceremony at 17:00 CET. | Live coverage today: Press conference: 15:30 CET, 9:30 EST | Opening ceremony: 17:00 CET, 11:00 EST | Images: FIDE"
+      },
+      {
+        "source": "ChessBase India",
+        "url": "https://www.chessbase.in/news/fide-world-championship-match-2026-preview-report",
+        "title": "SpotlightTop storyDevansh Singh·1 hour agoThe Youngest World Championship Starts Tomorrow: Gukesh vs. Sindarov",
+        "date": "2026-11-22T16:12:51.200722",
+        "tag": "ChessBase India"
+      }
+    ],
+    "kalla_display": "Chess.com + ChessBase + ChessBase India",
+    "datum": "2026-11-22T16:12:28.449656",
+    "hittad": "2026-11-23T16:13:59.410794"
+  },
+  {
+    "id": "6d77f0ef1477",
     "status": "pending",
     "rubriker": [
       {
@@ -36,6 +114,13 @@
         "_rss_content": "Alireza Firouzja won the Total Chess Pilot in Budapest on Friday, defeating Anish Giri in Armageddon after the finalists had exchanged set victories. Fabiano Caruana secured third place with a straight-sets win over Maxime Vachier-Lagrave, while Hans Niemann finished fifth. Meanwhile, Magnus Carlsen forfeited a game for the fourth consecutive day before claiming seventeenth place. His decisions continued to draw criticism as the experimental tournament came to an end. | Photo: Michal Walusza / Total Chess"
       },
       {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/championnat-du-monde-total-2026-finale-jour-2-10148.html",
+        "title": "Lire l'articleChampionnat du monde Total 2026Alireza Firouzja gagne le Total Chess 2026 devant Giri et Caruana11",
+        "date": "2026-11-22T16:13:03.697881",
+        "tag": "Europe Echecs"
+      },
+      {
         "source": "ChessBase España",
         "url": "https://es.chessbase.com/post/total-chess-budapest-2026-final",
         "title": "Firouzja supera a Giri en la partida a muerte súbita y gana el Total Chess Pilot en Budapest",
@@ -44,32 +129,46 @@
         "_rss_content": "Alireza Firouzja se proclamó vencedor del Total Chess Pilot en Budapest tras derrotar a Anish Giri en Armagedón después de que cada uno de los finalistas ganara un set en el match por el título. Fabiano Caruana se quedó con el tercer puesto tras vencer a Maxime Vachier-Lagrave en dos sets, mientras que Hans Niemann terminó quinto. Por su parte, Magnus Carlsen perdió una partida por incomparecencia por cuarto día consecutivo antes de adjudicarse el decimoséptimo puesto. Sus decisiones generaron críticas por parte de jugadores y autoridades. | Foto: Michal Walusza / Total Chess"
       }
     ],
-    "kalla_display": "ChessBase + ChessBase España",
+    "kalla_display": "ChessBase + ChessBase España + Europe Echecs",
     "datum": "Sat, 21 Nov 2026 18:40:00 GMT",
-    "hittad": "2026-11-22T13:30:12.046592"
+    "hittad": "2026-11-23T16:13:59.410801",
+    "liknar": {
+      "titel": "Firouzja vinner första Total Chess-titeln",
+      "url": "https://gambit.se/firouzja-vinner-forsta-total-chess-titeln/",
+      "datum": "2026-11-21"
+    }
   },
   {
-    "id": "9fc723b53ef5",
+    "id": "af5f05a5e888",
     "status": "pending",
     "rubriker": [
       {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/aadik-lenin-receives-rs-108000-through-the-second-edition-of-sri-v-s-phani-sarma-scholarship",
-        "title": "SpotlightTop storyJyotsna Bhushan·9 minutes agoAadik Lenin receives ₹1,08,000 through the second edition of Sri V S Phani Sarma Scholarship",
-        "date": "2026-11-21T13:28:07.387266",
-        "tag": "ChessBase India"
-      },
-      {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/category/organisation-policy",
-        "title": "172 storiesOrganisation & PolicyAadik Lenin receives ₹1,08,000 through the second edition of Sri V S Phani Sarma Scholarship",
-        "date": "2026-11-21T13:28:07.387592",
-        "tag": "ChessBase India"
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/vishy-anand-gukesh-sindarov-world-championship-predictions",
+        "title": "Vishy Anand Gukesh Sindarov World Championship Predictions",
+        "date": "2026-11-22T16:12:28.449600",
+        "tag": "Chess.com"
       }
     ],
-    "kalla_display": "ChessBase India",
-    "datum": "2026-11-21T13:28:07.387266",
-    "hittad": "2026-11-22T13:30:12.046602"
+    "kalla_display": "Chess.com",
+    "datum": "2026-11-22T16:12:28.449600",
+    "hittad": "2026-11-23T16:13:59.410806"
+  },
+  {
+    "id": "3130ff66f013",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/2026-wr-womens-chess-tour-grand-final-day-1",
+        "title": "2026 Wr Womens Chess Tour Grand Final Day 1",
+        "date": "2026-11-22T16:12:28.449635",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-11-22T16:12:28.449635",
+    "hittad": "2026-11-23T16:13:59.410811"
   },
   {
     "id": "cae76ed00db4",
@@ -79,13 +178,13 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-nov-21-2026",
         "title": "Hikaru Nakamura Wins Bullet Brawl Nov 21 2026",
-        "date": "2026-11-21T13:27:46.343187",
+        "date": "2026-11-22T16:12:28.449677",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-11-21T13:27:46.343187",
-    "hittad": "2026-11-22T13:30:12.046610"
+    "datum": "2026-11-22T16:12:28.449677",
+    "hittad": "2026-11-23T16:13:59.410816"
   },
   {
     "id": "3c12cc3d9129",
@@ -95,13 +194,30 @@
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/announcing-classic-games-beta",
         "title": "Announcing Classic Games Beta",
-        "date": "2026-11-21T13:27:46.343282",
+        "date": "2026-11-22T16:12:28.449715",
         "tag": "Chess.com"
       }
     ],
     "kalla_display": "Chess.com",
-    "datum": "2026-11-21T13:27:46.343282",
-    "hittad": "2026-11-22T13:30:12.046617"
+    "datum": "2026-11-22T16:12:28.449715",
+    "hittad": "2026-11-23T16:13:59.410823"
+  },
+  {
+    "id": "03524e6e65a1",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/ai-powered-opening-preparation-3",
+        "title": "AI Powered Opening Preparation",
+        "date": "Mon, 23 Nov 2026 15:42:08 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Working with the ChessBase ’27: what is a session with the new program like. In an example we show you what it looks like when a top player prepares against an opponent, what information the AI can derive, within seconds, from giant databases of millions of games."
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Mon, 23 Nov 2026 15:42:08 GMT",
+    "hittad": "2026-11-23T16:13:59.410828"
   },
   {
     "id": "6fbedfaed640",
@@ -118,7 +234,109 @@
     ],
     "kalla_display": "ChessBase",
     "datum": "Sun, 22 Nov 2026 02:35:00 GMT",
-    "hittad": "2026-11-22T13:30:12.046623"
+    "hittad": "2026-11-23T16:13:59.410833"
+  },
+  {
+    "id": "737c6f742bcb",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/sverige/2026/11/sundsvall-open-ar-tillbaka-4-6-januari/?utm_source=rss&utm_medium=rss&utm_campaign=sundsvall-open-ar-tillbaka-4-6-januari",
+        "title": "Sundsvall Open är tillbaka 4–6 januari",
+        "date": "Mon, 23 Nov 2026 12:04:41 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Sundsvall Open som gjorde comeback i schackkalendern för några år sedan är redo för en ny upplaga. Datumen 4–6 januari kommer det att spelas åtta ronder à la GP-format: fyra [&#8230;] Inlägget Sundsvall Open är tillbaka 4–6 januari dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Mon, 23 Nov 2026 12:04:41 +0000",
+    "hittad": "2026-11-23T16:13:59.410838"
+  },
+  {
+    "id": "fdb269f6b30e",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/sverige/2026/11/inbjudan-finns-till-karlstad-open/?utm_source=rss&utm_medium=rss&utm_campaign=inbjudan-finns-till-karlstad-open",
+        "title": "Inbjudan finns till Karlstad Open",
+        "date": "Mon, 23 Nov 2026 11:29:49 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Karlstad Open är en traditionsrik turnering i svenska schackkalendern, och är förstås tillbaka de vanliga datumen. Den 27–30 december avgörs tävlingen på Elite Stadshotellet i Karlstad och inbjudan finns nu [&#8230;] Inlägget Inbjudan finns till Karlstad Open dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Mon, 23 Nov 2026 11:29:49 +0000",
+    "hittad": "2026-11-23T16:13:59.410842"
+  },
+  {
+    "id": "c01fa6369a6b",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/sverige/2026/11/michael-wianders-bokslapp-i-stockholm/?utm_source=rss&utm_medium=rss&utm_campaign=michael-wianders-bokslapp-i-stockholm",
+        "title": "Michael Wianders boksläpp i Stockholm",
+        "date": "Mon, 23 Nov 2026 11:24:19 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Schackförfattaren Michael Wiander har ett boksläpp på armémuseet i Stockholm den 5 december klockan 14.00. Det är Zugzwang i Schackklubben Draken-serien som har release. Mer om eventet finns att läsa [&#8230;] Inlägget Michael Wianders boksläpp i Stockholm dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Mon, 23 Nov 2026 11:24:19 +0000",
+    "hittad": "2026-11-23T16:13:59.410846"
+  },
+  {
+    "id": "94f57a70ff62",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/internationellt/2026/11/ja-det-ar-pyttelitet-forsta-bilderna-inifran-vm-lokalen/?utm_source=rss&utm_medium=rss&utm_campaign=ja-det-ar-pyttelitet-forsta-bilderna-inifran-vm-lokalen",
+        "title": "Ja, det är pyttelitet! Första bilderna inifrån VM-lokalen",
+        "date": "Sun, 22 Nov 2026 22:56:40 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "De digitala läsarna av nya numret av Tidskrift för Schack har redan fått lära sig om den lilla spelplatsen för VM-matchen i schack som startar på tisdag. Man kunde knappt [&#8230;] Inlägget Ja, det är pyttelitet! Första bilderna inifrån VM-lokalen dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Sun, 22 Nov 2026 22:56:40 +0000",
+    "hittad": "2026-11-23T16:13:59.410850"
+  },
+  {
+    "id": "46d3eec77575",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/sverige/2026/11/eric-vaarala-ordnade-med-hemmatriumf-i-gavle/?utm_source=rss&utm_medium=rss&utm_campaign=eric-vaarala-ordnade-med-hemmatriumf-i-gavle",
+        "title": "Eric Vaarala ordnade med hemmatriumf i Gävle",
+        "date": "Sun, 22 Nov 2026 21:05:14 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Gävle SA:s Eric Vaarala blev vinnare i Gefle Elite Chess Open 2026. I försnacket pratades det mest om Turkiets IM Umut Ata Akbas och de unga förmågorna Vidar Grahn och [&#8230;] Inlägget Eric Vaarala ordnade med hemmatriumf i Gävle dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Sun, 22 Nov 2026 21:05:14 +0000",
+    "hittad": "2026-11-23T16:13:59.410854"
+  },
+  {
+    "id": "f52d4bae27bf",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/sverige/2026/11/nordea-lag-vann-foretagsmasterskapet/?utm_source=rss&utm_medium=rss&utm_campaign=nordea-lag-vann-foretagsmasterskapet",
+        "title": "Nordea-lag vann Företagsmästerskapet",
+        "date": "Sun, 22 Nov 2026 20:08:45 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Den tredje upplagan av Företagsmästerskapet resulterade i en överraskande segrare: Nordea 2. &#8211; Jag tycker att det här är den absolut bästa tävlingen, som vi har haft av de här [&#8230;] Inlägget Nordea-lag vann Företagsmästerskapet dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Sun, 22 Nov 2026 20:08:45 +0000",
+    "hittad": "2026-11-23T16:13:59.410858"
   },
   {
     "id": "4040a7ccaf6a",
@@ -135,24 +353,55 @@
     ],
     "kalla_display": "Schack.se",
     "datum": "Sat, 21 Nov 2026 21:27:03 +0000",
-    "hittad": "2026-11-22T13:30:12.046630"
+    "hittad": "2026-11-23T16:13:59.410863"
   },
   {
-    "id": "11da1cfe5661",
+    "id": "ee22df7818aa",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/sverige/2026/11/19-lag-anmalda-till-foretagsmasterskapet/?utm_source=rss&utm_medium=rss&utm_campaign=19-lag-anmalda-till-foretagsmasterskapet",
-        "title": "19 lag anmälda till Företagsmästerskapet",
-        "date": "Wed, 18 Nov 2026 09:31:30 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "På lördag är det återigen dags för Företagsmästerskapet i schack. &#8211; 19 lag är anmälda. Ett lag mer än i fjol. Men vi håller dörren lite på glänt den här [&#8230;] Inlägget 19 lag anmälda till Företagsmästerskapet dök först upp på Sveriges Schackförbund ."
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/championnat-du-monde-total-2026-bilan-10151.html",
+        "title": "Championnat du monde Total 2026Que nous a appris le tournoi pilote du Total Chess ?",
+        "date": "2026-11-22T16:13:03.697772",
+        "tag": "Europe Echecs"
       }
     ],
-    "kalla_display": "Schack.se",
-    "datum": "Wed, 18 Nov 2026 09:31:30 +0000",
-    "hittad": "2026-11-22T13:30:12.046641"
+    "kalla_display": "Europe Echecs",
+    "datum": "2026-11-22T16:13:03.697772",
+    "hittad": "2026-11-23T16:13:59.410867"
+  },
+  {
+    "id": "8197d841e620",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/hommage-a-viacheslav-eingorn-1956-2026-10149.html",
+        "title": "Lire l'articleHommage à Viacheslav Eingorn (1956-2026)1",
+        "date": "2026-11-22T16:13:03.697824",
+        "tag": "Europe Echecs"
+      }
+    ],
+    "kalla_display": "Europe Echecs",
+    "datum": "2026-11-22T16:13:03.697824",
+    "hittad": "2026-11-23T16:13:59.410870"
+  },
+  {
+    "id": "5aca7b0551d2",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/rendez-vous-vendredi-27-novembre-pour-profiter-de-nos-promos-du-black-friday-10114.html",
+        "title": "Lire l'articleRendez-vous vendredi 27 novembre pour profiter de nos promos du Black Friday !",
+        "date": "2026-11-22T16:13:03.697838",
+        "tag": "Europe Echecs"
+      }
+    ],
+    "kalla_display": "Europe Echecs",
+    "datum": "2026-11-22T16:13:03.697838",
+    "hittad": "2026-11-23T16:13:59.410872"
   },
   {
     "id": "765a0fd9a221",
@@ -161,13 +410,114 @@
       {
         "source": "Europe Echecs",
         "url": "https://www.europe-echecs.com/art/-ils-me-craignent-peut-etre-un-peu-plus-interview-de-marc-andria-maurizzi-10146.html",
-        "title": "« Ils me craignent peut-être un peu plus ! » Interview de Marc'Andria Maurizzi",
-        "date": "2026-11-21T13:28:18.556715",
+        "title": "Lire l'article« Ils me craignent peut-être un peu plus ! » Interview de Marc'Andria Maurizzi2",
+        "date": "2026-11-22T16:13:03.697853",
         "tag": "Europe Echecs"
       }
     ],
     "kalla_display": "Europe Echecs",
-    "datum": "2026-11-21T13:28:18.556715",
-    "hittad": "2026-11-22T13:30:12.046649"
+    "datum": "2026-11-22T16:13:03.697853",
+    "hittad": "2026-11-23T16:13:59.410874"
+  },
+  {
+    "id": "bff8f2af402b",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/quel-cadeau-offrir-a-un-joueur-d-echecs-le-guide-2026-8904.html",
+        "title": "Lire l'articleQuel cadeau offrir à un joueur d'échecs ? Le guide 20262",
+        "date": "2026-11-22T16:13:03.697867",
+        "tag": "Europe Echecs"
+      }
+    ],
+    "kalla_display": "Europe Echecs",
+    "datum": "2026-11-22T16:13:03.697867",
+    "hittad": "2026-11-23T16:13:59.410877"
+  },
+  {
+    "id": "fd256115b664",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/11/23/nm-for-barn-og-ungdom-2026-dag-3/",
+        "title": "NM for barn og ungdom 2026 – dag 3",
+        "date": "Mon, 23 Nov 2026 06:39:17 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "NM&#160;i&#160;sjakk for barn og ungdom ble avsluttet i Stjørdal søndag 22. november 2026, og åtte nye norgesmestre er kåret. I Klasse A (17-19 år) + U26 (20-26 år) forsvarte CM Teodor Tenfjord Engelsen (2221) sin førsteplass på avslutningsdagen med 1&#189; poeng på de 2 rundene. Dermed gikk 17-åringen fra Bergens Schakklub til topps i A-klassen Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Mon, 23 Nov 2026 06:39:17 +0000",
+    "hittad": "2026-11-23T16:13:59.410879"
+  },
+  {
+    "id": "f3be3850ff0f",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/11/22/julesjakk-for-en-god-sak-desember-2026/",
+        "title": "Julesjakk for en god sak – desember 2026",
+        "date": "Sun, 22 Nov 2026 17:44:03 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Julesjakk for en god sakEikelandsosen, 5. desember 2026 Eikelandsfjorden IL Sjakk inviterer til sjakkturnering lørdag 5. desember 2026 i samarbeid med Den ukrainske foreningen i Bjørnafjorden kommune. Formålet er innsamling av penger til julegaver til barn i et barnehjem i Ukraina. Noen detaljer om turneringen: Spillested: Eikelandsosen, et stykke sør for Bergen Format: 6 runder Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Sun, 22 Nov 2026 17:44:03 +0000",
+    "hittad": "2026-11-23T16:13:59.410881"
+  },
+  {
+    "id": "ab7401f0b572",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/11/22/nm-for-barn-og-ungdom-2026-dag-2/",
+        "title": "NM for barn og ungdom 2026 – dag 2",
+        "date": "Sun, 22 Nov 2026 06:11:32 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "NM&#160;i&#160;sjakk for barn og ungdom i Stjørdal fortsetter, og det er nå spilt tre runder i klasse A + U26 og seks runder i de yngre klassene. I Klasse A (17-19 år) + U26 (20-26 år) er CM Teodor Tenfjord Engelsen (2221) alene i tet med 3 poeng på 3 runder. Den 17-årige bergenseren hadde Les mer"
+      }
+    ],
+    "kalla_display": "Bergensjakk",
+    "datum": "Sun, 22 Nov 2026 06:11:32 +0000",
+    "hittad": "2026-11-23T16:13:59.410884"
+  },
+  {
+    "id": "f8e068c7b4f2",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/austria-moves-to-unseat-european-chesss-leadership",
+        "title": "Austria Moves to Unseat European Chess's Leadership",
+        "date": "Sun, 22 Nov 2026 20:13:08 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Austria wants a no-confidence vote on the ECU’s president and secretary general, backed by a €4 million Freedom sponsorship offer. The ECU hasn’t responded."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Sun, 22 Nov 2026 20:13:08 GMT",
+    "hittad": "2026-11-23T16:13:59.410886"
+  },
+  {
+    "id": "7a1784febeea",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/monte-carlo-hosts-the-small-nations-championship",
+        "title": "Monte-Carlo Hosts The Small Nations Championship",
+        "date": "Sun, 22 Nov 2026 14:03:53 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Ten small nations meet in Monte-Carlo for the European Small Nations Championship: a nine-round round robin, with Nielsen and Berend top seeded."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Sun, 22 Nov 2026 14:03:53 GMT",
+    "hittad": "2026-11-23T16:13:59.410889"
   }
 ]
