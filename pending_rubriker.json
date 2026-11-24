@@ -1,523 +1,374 @@
 [
   {
-    "id": "0ccf4290b9cd",
+    "id": "306f5ecd838f",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/fide-carlsen-total-chess-forfeits-ethics-commission",
-        "title": "Fide Carlsen Total Chess Forfeits Ethics Commission",
-        "date": "2026-11-22T16:12:28.449697",
-        "tag": "Chess.com"
-      },
-      {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/category/organisation-policy",
-        "title": "173 storiesOrganisation & PolicyFIDE calls Magnus Carlsen's forfeits 'unacceptable', refers him to Ethics Commission",
-        "date": "2026-11-22T16:12:51.200948",
-        "tag": "ChessBase India"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/fide-sends-carlsen-to-the-ethics-commission-as-total-chess-turns-political",
-        "title": "FIDE Sends Carlsen to the Ethics Commission as Total Chess Turns Political",
-        "date": "Sat, 21 Nov 2026 14:39:00 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "FIDE has referred Carlsen to its Ethics Commission over Total Chess forfeits. Rosenstein defends him and attacks Turlov, and arbiters face review too."
-      }
-    ],
-    "kalla_display": "Chess News Network + Chess.com + ChessBase India",
-    "datum": "2026-11-22T16:12:28.449697",
-    "hittad": "2026-11-23T16:13:59.410770"
-  },
-  {
-    "id": "42836aba47e7",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/total-mess-in-budapest",
-        "title": "Total mess in Budapest",
-        "date": "Sun, 22 Nov 2026 19:50:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "After Magnus Carlsen, the strongest player in the world, once again took liberties in his match against Vladislav Artemiev - this time playing the blitz games and the fast classic game, but skipping the rapid games - one has to conclude that the \"pilot\" for the Total Chess World Championship has crashed. A commentary. | Photos: Michal Walusza / Total Chess"
-      },
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/internationellt/2026/11/carlsen-om-total-chess-kaoset-en-negativ-spiral-for-mig/?utm_source=rss&utm_medium=rss&utm_campaign=carlsen-om-total-chess-kaoset-en-negativ-spiral-for-mig",
-        "title": "Carlsen om Total Chess-kaoset: ”En negativ spiral för mig”",
-        "date": "Sun, 22 Nov 2026 21:53:07 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Total Chess i Budapest är över – och vinnare blev Frankrikes schackstjärna Alireza Firouza. Men efterspelet har mer handlat om kritiken mot walk over-partier som helt överskuggade allt det övriga [&#8230;] Inlägget Carlsen om Total Chess-kaoset: ”En negativ spiral för mig” dök först upp på Sveriges Schackförbund ."
-      },
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/magnus-carlsen-en-11-coups-d-eclat-et-polemiques-10147.html",
-        "title": "Lire l'articleMagnus Carlsen en 11 coups d’éclat et polémiques9",
-        "date": "2026-11-22T16:13:03.697806",
-        "tag": "Europe Echecs"
-      }
-    ],
-    "kalla_display": "ChessBase + Europe Echecs + Schack.se",
-    "datum": "Sun, 22 Nov 2026 19:50:00 GMT",
-    "hittad": "2026-11-23T16:13:59.410786"
-  },
-  {
-    "id": "667116defd2d",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-fide-chess-world-championship-opening-ceremony",
-        "title": "2026 Fide Chess World Championship Opening Ceremony",
-        "date": "2026-11-22T16:12:28.449656",
+        "url": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-1",
+        "title": "2026 Fide World Chess Championship Game 1",
+        "date": "2026-11-23T16:00:13.441400",
         "tag": "Chess.com"
       },
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/the-two-world-championship-contenders-open-up-to-the-media",
-        "title": "The Two World Championship Contenders Open Up to the Media",
-        "date": "Mon, 23 Nov 2026 06:03:11 GMT",
+        "url": "https://en.chessbase.com/post/world-championship-2026-live",
+        "title": "World Championship Match: Sindarov v. Gukesh - Game 1 Live!",
+        "date": "Tue, 24 Nov 2026 14:45:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "November 22 marked the official kick-off of the Salesforce FIDE World Championship 2026. The assembled journalists were in for a treat, as Gukesh Dommaraju and Javokhir Sindarov took part in two separate media sessions, offering insights into their preparations, expectations and thoughts ahead of the eagerly anticipated encounter. FIDE press release, written by Yannick Pelletier | Photos: Y.E. Nisenbaum and Michal Waluzsa"
-      },
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/live-the-world-championship-kicks-off-press-conference-and-opening-ceremony-today",
-        "title": "LIVE: The World Championship kicks off – press conference and opening ceremony today",
-        "date": "Sun, 22 Nov 2026 15:00:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Gukesh Dommaraju faces Javokhir Sindarov in the 2026 Salesforce FIDE World Championship in Geneva. The first move will be played on Tuesday, 24 November, at 15:00 CET. Today, the players will meet the press at 15:30, followed by the opening ceremony at 17:00 CET. | Live coverage today: Press conference: 15:30 CET, 9:30 EST | Opening ceremony: 17:00 CET, 11:00 EST | Images: FIDE"
-      },
-      {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/fide-world-championship-match-2026-preview-report",
-        "title": "SpotlightTop storyDevansh Singh·1 hour agoThe Youngest World Championship Starts Tomorrow: Gukesh vs. Sindarov",
-        "date": "2026-11-22T16:12:51.200722",
-        "tag": "ChessBase India"
-      }
-    ],
-    "kalla_display": "Chess.com + ChessBase + ChessBase India",
-    "datum": "2026-11-22T16:12:28.449656",
-    "hittad": "2026-11-23T16:13:59.410794"
-  },
-  {
-    "id": "6d77f0ef1477",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/total-chess-budapest-2026-ko-4",
-        "title": "Firouzja beats Giri in Armageddon to claim Total Chess Pilot title",
-        "date": "Sat, 21 Nov 2026 18:40:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Alireza Firouzja won the Total Chess Pilot in Budapest on Friday, defeating Anish Giri in Armageddon after the finalists had exchanged set victories. Fabiano Caruana secured third place with a straight-sets win over Maxime Vachier-Lagrave, while Hans Niemann finished fifth. Meanwhile, Magnus Carlsen forfeited a game for the fourth consecutive day before claiming seventeenth place. His decisions continued to draw criticism as the experimental tournament came to an end. | Photo: Michal Walusza / Total Chess"
+        "_rss_content": "The 2026 World Chess Championship match takes place at the Fondation Martin Bodmer in Cologny, near Geneva, Switzerland. India's Gukesh Dommaraju is defending the title he won in Singapore two years ago against Uzbekistan's Javokhir Sindarov, the winner of this year's Candidates Tournament. Both players are 20 years old at the start of the match, making it the youngest World Championship encounter in history. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST) | Photo: Michal Walusza"
       },
       {
         "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/championnat-du-monde-total-2026-finale-jour-2-10148.html",
-        "title": "Lire l'articleChampionnat du monde Total 2026Alireza Firouzja gagne le Total Chess 2026 devant Giri et Caruana11",
-        "date": "2026-11-22T16:13:03.697881",
+        "url": "https://www.europe-echecs.com/art/championnat-du-monde-2026-partie-1-10153.html",
+        "title": "Championnat du monde 2026Première partie du championnat du monde 2026 Sindarov-Gukesh",
+        "date": "2026-11-23T16:00:44.519925",
         "tag": "Europe Echecs"
       },
       {
         "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/total-chess-budapest-2026-final",
-        "title": "Firouzja supera a Giri en la partida a muerte súbita y gana el Total Chess Pilot en Budapest",
-        "date": "Sat, 21 Nov 2026 10:00:00 GMT",
+        "url": "https://es.chessbase.com/post/world-championship-2026-directo",
+        "title": "Match por el Campeonato del Mundo - Sindarov vs. Gukesh: Partida 1",
+        "date": "Tue, 24 Nov 2026 14:50:00 GMT",
         "tag": "ChessBase España",
-        "_rss_content": "Alireza Firouzja se proclamó vencedor del Total Chess Pilot en Budapest tras derrotar a Anish Giri en Armagedón después de que cada uno de los finalistas ganara un set en el match por el título. Fabiano Caruana se quedó con el tercer puesto tras vencer a Maxime Vachier-Lagrave en dos sets, mientras que Hans Niemann terminó quinto. Por su parte, Magnus Carlsen perdió una partida por incomparecencia por cuarto día consecutivo antes de adjudicarse el decimoséptimo puesto. Sus decisiones generaron críticas por parte de jugadores y autoridades. | Foto: Michal Walusza / Total Chess"
+        "_rss_content": "El match por el Campeonato Mundial de Ajedrez se disputa en la Fundación Martin Bodmer, en Cologny, cerca de Ginebra (Suiza). El indio Gukesh Dommaraju defiende el título que conquistó hace dos años en Singapur ante el uzbeko Javokhir Sindarov, ganador del Torneo de Candidatos de este año. Ambos jugadores tienen 20 años al inicio del encuentro, por lo que se trata del duelo por el título mundial con los protagonistas más jóvenes de la historia. | Sigue las partidas en directo a partir de las 15:00 hora de Madrid (11:00 Buenos Aires, 9:30 IST) | Foto: Michal Walusza"
       }
     ],
-    "kalla_display": "ChessBase + ChessBase España + Europe Echecs",
-    "datum": "Sat, 21 Nov 2026 18:40:00 GMT",
-    "hittad": "2026-11-23T16:13:59.410801",
+    "kalla_display": "Chess.com + ChessBase + ChessBase España + Europe Echecs",
+    "datum": "2026-11-23T16:00:13.441400",
+    "hittad": "2026-11-24T16:01:38.474834"
+  },
+  {
+    "id": "b8d7f4641ef5",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/internationellt/2026/11/hela-schemat-sa-foljer-du-vm-matchen/?utm_source=rss&utm_medium=rss&utm_campaign=hela-schemat-sa-foljer-du-vm-matchen",
+        "title": "Hela schemat – så följer du VM-matchen",
+        "date": "Mon, 23 Nov 2026 18:01:15 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "VM-matchen mellan indiske världsmästaren D Gukesh och utmanaren Javokhir Sindarov från Uzbekistan spelas 24 november–12 december i Genève i Schweiz. Här följer du matchen dag för dag:kl 15.00: [Live &#38; [&#8230;] Inlägget Hela schemat – så följer du VM-matchen dök först upp på Sveriges Schackförbund ."
+      },
+      {
+        "source": "Dansk Skak Union",
+        "url": "https://nyheder.skak.dk/2026/11/24/vm-matchen-starter-i-geneve/?utm_source=rss&utm_medium=rss&utm_campaign=vm-matchen-starter-i-geneve",
+        "title": "VM matchen starter i Geneve",
+        "date": "Tue, 24 Nov 2026 13:16:53 +0000",
+        "tag": "Dansk Skak Union",
+        "_rss_content": "I dag tirsdag d. 24. november 2026 starter VM-matchen mellem verdensmester D Gukesh fra Indien og udfordreren Javokhir Sindarov fra Uzbekistan. Matchen spilles i Fondation Martin Bodmer i Geneve, Schweiz. Verdensmester D Gukesh: Alder: 20 årRating: 2710Placering på verdensranglisten: 26Officielle sekundanter: Grzegorz Gajewski Udfordrer Javokhir Sindarov: Alder: 20 årRating: 2782Placering på verdensranglisten: 4Officielle sekundanter: Nikita Vitiugov, [&#8230;]"
+      },
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/11/24/salesforce-fide-world-championship-2026-starter/",
+        "title": "Salesforce FIDE World Championship 2026 starter",
+        "date": "Tue, 24 Nov 2026 06:23:41 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "I&#160;dag starter VM-matchen mellom GM Gukesh Dommaraju (IND 2710) og GM Javokhir Sindarov (UZB 2782) under navnet Salesforce FIDE World Championship. Spillested er sveitsiske Geneve. Mesterskapet går over 14 runder fra 24. november til 12. desember 2026. Matchen avsluttes hvis en av spillerne når 7&#189; poeng. Skulle det bli avgjort 12-12 vil det bli omspill Les mer"
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/what-to-know-before-gukesh-v-sindarov",
+        "title": "What to Know Before Gukesh v Sindarov",
+        "date": "Mon, 23 Nov 2026 17:15:37 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "The championship match begins this Tuesday, featuring Indian GM Gukesh Dommaraju"
+      }
+    ],
+    "kalla_display": "Bergensjakk + Chess News Network + Dansk Skak Union + Schack.se",
+    "datum": "Mon, 23 Nov 2026 18:01:15 +0000",
+    "hittad": "2026-11-24T16:01:38.474853"
+  },
+  {
+    "id": "df1c1985df8f",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/lagno-wins-2026-wr-womens-chess-tour-grand-final",
+        "title": "Lagno Wins 2026 Wr Womens Chess Tour Grand Final",
+        "date": "2026-11-23T16:00:13.441449",
+        "tag": "Chess.com"
+      },
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/wr-women-tour-2026-stuttgart",
+        "title": "Kateryna Lagno wins inaugural WR Women's Chess Tour",
+        "date": "Tue, 24 Nov 2026 12:35:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Kateryna Lagno claimed the winner's trophy at the inaugural WR Women's Chess Tour 2026. She reached the final in both the rapid and the blitz section of the final tournament in Stuttgart but lost on both occasions. Nevertheless, her results were enough to secure overall victory in the inaugural tour organised by Wadim Rosenstein. Anna Muzychuk won the blitz tournament, while Carissa Yip came out on top in the rapid event. | Pictured: (from left to right): blitz winner Anna Muzychuk, overall winner Kateryna Lagno and rapid winner Carissa Yip | Photo: Lennart Ootes"
+      }
+    ],
+    "kalla_display": "Chess.com + ChessBase",
+    "datum": "2026-11-23T16:00:13.441449",
+    "hittad": "2026-11-24T16:01:38.474860"
+  },
+  {
+    "id": "62bb343f13f5",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/azmaiparashvili-suspects-russian-bid-to-take-over-european-chess-behind-4m-ecu-o",
+        "title": "Azmaiparashvili suspects Russian bid to take over European chess behind €4m ECU offer",
+        "date": "Tue, 24 Nov 2026 14:07:00 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "The European Chess Union President says Russia is \"trying to take over Europe\" through sport. He suspects a €4 million sponsorship that FIDE President Timur Turlov has tied to a change of ECU leadership is part of that effort."
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/ecu-president-answers-austrias-4-million-offer",
+        "title": "ECU President Answers Austria's €4 Million Offer",
+        "date": "Mon, 23 Nov 2026 19:40:17 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "ECU’s president answers Austria’s €4 million offer: name the sponsors, say whether the money comes with strings, and no Vienna assembly has been approved."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Tue, 24 Nov 2026 14:07:00 GMT",
+    "hittad": "2026-11-24T16:01:38.474864"
+  },
+  {
+    "id": "58713f306786",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/ccl-finals-fall-2026",
+        "title": "Ccl Finals Fall 2026",
+        "date": "2026-11-23T16:00:13.441431",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-11-23T16:00:13.441431",
+    "hittad": "2026-11-24T16:01:38.474867"
+  },
+  {
+    "id": "863624ce1fab",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/fide-world-championship-2026-twitch-drops",
+        "title": "Fide World Championship 2026 Twitch Drops",
+        "date": "2026-11-23T16:00:13.441464",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-11-23T16:00:13.441464",
+    "hittad": "2026-11-24T16:01:38.474871"
+  },
+  {
+    "id": "011a053d5c93",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/world-championship-2026-press-review",
+        "title": "World Chess Championship: A look at the international press",
+        "date": "Tue, 24 Nov 2026 14:15:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "The World Chess Championship match between Gukesh Dommaraju and Javokhir Sindarov has attracted considerable attention beyond the specialised chess media. The youth of the two contenders, their contrasting results over the past year and the psychological demands of a title match are among the recurring themes in the international coverage. Other articles explore Sindarov's personality, the unusual literary setting in Geneva and the relevance of human chess in the age of artificial intelligence. | Photo: FIDE / Michal Walusza"
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Tue, 24 Nov 2026 14:15:00 GMT",
+    "hittad": "2026-11-24T16:01:38.474874"
+  },
+  {
+    "id": "feff1e8cdade",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/wch-matches-highlights-140-years",
+        "title": "World Championship matches: Highlights from 140 years of history",
+        "date": "Mon, 23 Nov 2026 20:40:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "World Championship matches make chess history. Some games are remembered for their beauty, others for dramatic twists, spectacular blunders or their historical significance. As the duel between world champion Gukesh Dommaraju and challenger Javokhir Sindarov gets under way - the 44th World Championship match in the 140-year history of the competition - we look back at 20 remarkable moments from its history. | Pictured: Boris Spassky (left) and Bobby Fischer during the 1972 World Championship match in Reykjavik | Photo: Icelandic Chess Federation"
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Mon, 23 Nov 2026 20:40:00 GMT",
+    "hittad": "2026-11-24T16:01:38.474879"
+  },
+  {
+    "id": "d0f5d9bac864",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase India",
+        "url": "https://www.chessbase.in/news/world-championship-coverage-sponsors",
+        "title": "SpotlightTop storySagar Shah·3 hours agoGukesh vs Sindarov: CheQ joins as Lead Sponsor of the World Championship coverage",
+        "date": "2026-11-23T16:00:34.278155",
+        "tag": "ChessBase India"
+      }
+    ],
+    "kalla_display": "ChessBase India",
+    "datum": "2026-11-23T16:00:34.278155",
+    "hittad": "2026-11-24T16:01:38.474883"
+  },
+  {
+    "id": "465f0f412ec1",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase India",
+        "url": "https://www.chessbase.in/news/category/organisation-policy",
+        "title": "173 storiesOrganisation & PolicyFIDE calls Magnus Carlsen's forfeits 'unacceptable', refers him to Ethics Commission",
+        "date": "2026-11-23T16:00:34.278369",
+        "tag": "ChessBase India"
+      }
+    ],
+    "kalla_display": "ChessBase India",
+    "datum": "2026-11-23T16:00:34.278369",
+    "hittad": "2026-11-24T16:01:38.474886",
     "liknar": {
-      "titel": "Firouzja vinner första Total Chess-titeln",
-      "url": "https://gambit.se/firouzja-vinner-forsta-total-chess-titeln/",
-      "datum": "2026-11-21"
+      "titel": "FIDE utreder Carlsen efter kaos i Total Chess-pilot",
+      "url": "https://gambit.se/fide-utreder-carlsen-efter-kaos-i-total-chess-pilot/",
+      "datum": "2026-11-24"
     }
   },
   {
-    "id": "af5f05a5e888",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/vishy-anand-gukesh-sindarov-world-championship-predictions",
-        "title": "Vishy Anand Gukesh Sindarov World Championship Predictions",
-        "date": "2026-11-22T16:12:28.449600",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-11-22T16:12:28.449600",
-    "hittad": "2026-11-23T16:13:59.410806"
-  },
-  {
-    "id": "3130ff66f013",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-wr-womens-chess-tour-grand-final-day-1",
-        "title": "2026 Wr Womens Chess Tour Grand Final Day 1",
-        "date": "2026-11-22T16:12:28.449635",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-11-22T16:12:28.449635",
-    "hittad": "2026-11-23T16:13:59.410811"
-  },
-  {
-    "id": "cae76ed00db4",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-nov-21-2026",
-        "title": "Hikaru Nakamura Wins Bullet Brawl Nov 21 2026",
-        "date": "2026-11-22T16:12:28.449677",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-11-22T16:12:28.449677",
-    "hittad": "2026-11-23T16:13:59.410816"
-  },
-  {
-    "id": "3c12cc3d9129",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/announcing-classic-games-beta",
-        "title": "Announcing Classic Games Beta",
-        "date": "2026-11-22T16:12:28.449715",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-11-22T16:12:28.449715",
-    "hittad": "2026-11-23T16:13:59.410823"
-  },
-  {
-    "id": "03524e6e65a1",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/ai-powered-opening-preparation-3",
-        "title": "AI Powered Opening Preparation",
-        "date": "Mon, 23 Nov 2026 15:42:08 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Working with the ChessBase ’27: what is a session with the new program like. In an example we show you what it looks like when a top player prepares against an opponent, what information the AI can derive, within seconds, from giant databases of millions of games."
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Mon, 23 Nov 2026 15:42:08 GMT",
-    "hittad": "2026-11-23T16:13:59.410828"
-  },
-  {
-    "id": "6fbedfaed640",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/spanish-team-ch-2026-r2",
-        "title": "Casablanca and Oromana take early lead at Spanish Team Championship",
-        "date": "Sun, 22 Nov 2026 02:35:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "MyInvestor Casablanca and Oromana Cen Solutions are the only teams to have won both their matches after two rounds of the Spanish Team Championship in Marbella. Casablanca lead the standings on tiebreaks following a convincing 5–1 victory over Silla Bosch Serinsys, while Oromana edged out Jaime Casas de Monzón. The eight-team competition features a strong international field, including Nihal Sarin, Parham Maghsoodloo (pictured), Nodirbek Yakubboev and Alexei Shirov. | Photo: Spanish Chess Federation"
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Sun, 22 Nov 2026 02:35:00 GMT",
-    "hittad": "2026-11-23T16:13:59.410833"
-  },
-  {
-    "id": "737c6f742bcb",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/sverige/2026/11/sundsvall-open-ar-tillbaka-4-6-januari/?utm_source=rss&utm_medium=rss&utm_campaign=sundsvall-open-ar-tillbaka-4-6-januari",
-        "title": "Sundsvall Open är tillbaka 4–6 januari",
-        "date": "Mon, 23 Nov 2026 12:04:41 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Sundsvall Open som gjorde comeback i schackkalendern för några år sedan är redo för en ny upplaga. Datumen 4–6 januari kommer det att spelas åtta ronder à la GP-format: fyra [&#8230;] Inlägget Sundsvall Open är tillbaka 4–6 januari dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Mon, 23 Nov 2026 12:04:41 +0000",
-    "hittad": "2026-11-23T16:13:59.410838"
-  },
-  {
-    "id": "fdb269f6b30e",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/sverige/2026/11/inbjudan-finns-till-karlstad-open/?utm_source=rss&utm_medium=rss&utm_campaign=inbjudan-finns-till-karlstad-open",
-        "title": "Inbjudan finns till Karlstad Open",
-        "date": "Mon, 23 Nov 2026 11:29:49 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Karlstad Open är en traditionsrik turnering i svenska schackkalendern, och är förstås tillbaka de vanliga datumen. Den 27–30 december avgörs tävlingen på Elite Stadshotellet i Karlstad och inbjudan finns nu [&#8230;] Inlägget Inbjudan finns till Karlstad Open dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Mon, 23 Nov 2026 11:29:49 +0000",
-    "hittad": "2026-11-23T16:13:59.410842"
-  },
-  {
-    "id": "c01fa6369a6b",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/sverige/2026/11/michael-wianders-bokslapp-i-stockholm/?utm_source=rss&utm_medium=rss&utm_campaign=michael-wianders-bokslapp-i-stockholm",
-        "title": "Michael Wianders boksläpp i Stockholm",
-        "date": "Mon, 23 Nov 2026 11:24:19 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Schackförfattaren Michael Wiander har ett boksläpp på armémuseet i Stockholm den 5 december klockan 14.00. Det är Zugzwang i Schackklubben Draken-serien som har release. Mer om eventet finns att läsa [&#8230;] Inlägget Michael Wianders boksläpp i Stockholm dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Mon, 23 Nov 2026 11:24:19 +0000",
-    "hittad": "2026-11-23T16:13:59.410846"
-  },
-  {
-    "id": "94f57a70ff62",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/internationellt/2026/11/ja-det-ar-pyttelitet-forsta-bilderna-inifran-vm-lokalen/?utm_source=rss&utm_medium=rss&utm_campaign=ja-det-ar-pyttelitet-forsta-bilderna-inifran-vm-lokalen",
-        "title": "Ja, det är pyttelitet! Första bilderna inifrån VM-lokalen",
-        "date": "Sun, 22 Nov 2026 22:56:40 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "De digitala läsarna av nya numret av Tidskrift för Schack har redan fått lära sig om den lilla spelplatsen för VM-matchen i schack som startar på tisdag. Man kunde knappt [&#8230;] Inlägget Ja, det är pyttelitet! Första bilderna inifrån VM-lokalen dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Sun, 22 Nov 2026 22:56:40 +0000",
-    "hittad": "2026-11-23T16:13:59.410850"
-  },
-  {
-    "id": "46d3eec77575",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/sverige/2026/11/eric-vaarala-ordnade-med-hemmatriumf-i-gavle/?utm_source=rss&utm_medium=rss&utm_campaign=eric-vaarala-ordnade-med-hemmatriumf-i-gavle",
-        "title": "Eric Vaarala ordnade med hemmatriumf i Gävle",
-        "date": "Sun, 22 Nov 2026 21:05:14 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Gävle SA:s Eric Vaarala blev vinnare i Gefle Elite Chess Open 2026. I försnacket pratades det mest om Turkiets IM Umut Ata Akbas och de unga förmågorna Vidar Grahn och [&#8230;] Inlägget Eric Vaarala ordnade med hemmatriumf i Gävle dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Sun, 22 Nov 2026 21:05:14 +0000",
-    "hittad": "2026-11-23T16:13:59.410854"
-  },
-  {
-    "id": "f52d4bae27bf",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/sverige/2026/11/nordea-lag-vann-foretagsmasterskapet/?utm_source=rss&utm_medium=rss&utm_campaign=nordea-lag-vann-foretagsmasterskapet",
-        "title": "Nordea-lag vann Företagsmästerskapet",
-        "date": "Sun, 22 Nov 2026 20:08:45 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Den tredje upplagan av Företagsmästerskapet resulterade i en överraskande segrare: Nordea 2. &#8211; Jag tycker att det här är den absolut bästa tävlingen, som vi har haft av de här [&#8230;] Inlägget Nordea-lag vann Företagsmästerskapet dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Sun, 22 Nov 2026 20:08:45 +0000",
-    "hittad": "2026-11-23T16:13:59.410858"
-  },
-  {
-    "id": "4040a7ccaf6a",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/sverige/2026/11/turkisk-ledning-i-gavle/?utm_source=rss&utm_medium=rss&utm_campaign=turkisk-ledning-i-gavle",
-        "title": "Turkisk ledning i Gävle",
-        "date": "Sat, 21 Nov 2026 21:27:03 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Med sex ronder spelade i Gefle Elite Chess Open är Turkiets starke IM-spelare Umut Ata Akbas i ledningen. Bland hans tidigare meriter märks en silvermedalj i Fujairah Masters 2025, då [&#8230;] Inlägget Turkisk ledning i Gävle dök först upp på Sveriges Schackförbund ."
-      }
-    ],
-    "kalla_display": "Schack.se",
-    "datum": "Sat, 21 Nov 2026 21:27:03 +0000",
-    "hittad": "2026-11-23T16:13:59.410863"
-  },
-  {
-    "id": "ee22df7818aa",
+    "id": "e44f8ce99eb8",
     "status": "pending",
     "rubriker": [
       {
         "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/championnat-du-monde-total-2026-bilan-10151.html",
-        "title": "Championnat du monde Total 2026Que nous a appris le tournoi pilote du Total Chess ?",
-        "date": "2026-11-22T16:13:03.697772",
+        "url": "https://www.europe-echecs.com/art/london-chess-classic-2026-presentation-10154.html",
+        "title": "Lire l'articleLondon Chess Classic 2026London Chess Classic 2026 : Abdusattorov remet son titre en jeu1",
+        "date": "2026-11-23T16:00:44.519965",
         "tag": "Europe Echecs"
       }
     ],
     "kalla_display": "Europe Echecs",
-    "datum": "2026-11-22T16:13:03.697772",
-    "hittad": "2026-11-23T16:13:59.410867"
+    "datum": "2026-11-23T16:00:44.519965",
+    "hittad": "2026-11-24T16:01:38.474889"
   },
   {
-    "id": "8197d841e620",
+    "id": "f1d676aeb5c0",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/hommage-a-viacheslav-eingorn-1956-2026-10149.html",
-        "title": "Lire l'articleHommage à Viacheslav Eingorn (1956-2026)1",
-        "date": "2026-11-22T16:13:03.697824",
-        "tag": "Europe Echecs"
+        "source": "TWIC",
+        "url": "https://theweekinchess.com/chessnews/events/world-chess-championship-2026",
+        "title": "World Chess Championship 2026 - Games and Results",
+        "date": "Mon Nov 23 22:54:00 2026",
+        "tag": "TWIC",
+        "_rss_content": "The World Chess Championship 2026 takes place Tue 24th November to Sat 12th December 2026 in Geneva, Switzerland. Defending Champion Gukesh Dommaraju from India faces challenger Javokhir Sindarov. I will have live moves. Sindarov has the white pieces in game one."
       }
     ],
-    "kalla_display": "Europe Echecs",
-    "datum": "2026-11-22T16:13:03.697824",
-    "hittad": "2026-11-23T16:13:59.410870"
+    "kalla_display": "TWIC",
+    "datum": "Mon Nov 23 22:54:00 2026",
+    "hittad": "2026-11-24T16:01:38.474891"
   },
   {
-    "id": "5aca7b0551d2",
+    "id": "b39e297b9e13",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/rendez-vous-vendredi-27-novembre-pour-profiter-de-nos-promos-du-black-friday-10114.html",
-        "title": "Lire l'articleRendez-vous vendredi 27 novembre pour profiter de nos promos du Black Friday !",
-        "date": "2026-11-22T16:13:03.697838",
-        "tag": "Europe Echecs"
+        "source": "Dansk Skak Union",
+        "url": "https://nyheder.skak.dk/2026/11/23/weekendens-resultater/?utm_source=rss&utm_medium=rss&utm_campaign=weekendens-resultater",
+        "title": "Weekendens resultater",
+        "date": "Mon, 23 Nov 2026 16:18:30 +0000",
+        "tag": "Dansk Skak Union",
+        "_rss_content": "Filip Boe Olsen skrev i sidste uge om weekendens mange turneringstilbud til de aktive skakspillere. Her bringer vi en oversigt over, hvordan det så gik i de forskellige turneringer. Hillerød Open &#8211; fotoet øverst i artiklen &#8211; blev vundet af FM Mikkel Manosri Jacobsen fra BMS med flotte 6½ point af 7 mulige. I 4 [&#8230;]"
       }
     ],
-    "kalla_display": "Europe Echecs",
-    "datum": "2026-11-22T16:13:03.697838",
-    "hittad": "2026-11-23T16:13:59.410872"
+    "kalla_display": "Dansk Skak Union",
+    "datum": "Mon, 23 Nov 2026 16:18:30 +0000",
+    "hittad": "2026-11-24T16:01:38.474894"
   },
   {
-    "id": "765a0fd9a221",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/-ils-me-craignent-peut-etre-un-peu-plus-interview-de-marc-andria-maurizzi-10146.html",
-        "title": "Lire l'article« Ils me craignent peut-être un peu plus ! » Interview de Marc'Andria Maurizzi2",
-        "date": "2026-11-22T16:13:03.697853",
-        "tag": "Europe Echecs"
-      }
-    ],
-    "kalla_display": "Europe Echecs",
-    "datum": "2026-11-22T16:13:03.697853",
-    "hittad": "2026-11-23T16:13:59.410874"
-  },
-  {
-    "id": "bff8f2af402b",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/quel-cadeau-offrir-a-un-joueur-d-echecs-le-guide-2026-8904.html",
-        "title": "Lire l'articleQuel cadeau offrir à un joueur d'échecs ? Le guide 20262",
-        "date": "2026-11-22T16:13:03.697867",
-        "tag": "Europe Echecs"
-      }
-    ],
-    "kalla_display": "Europe Echecs",
-    "datum": "2026-11-22T16:13:03.697867",
-    "hittad": "2026-11-23T16:13:59.410877"
-  },
-  {
-    "id": "fd256115b664",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/11/23/nm-for-barn-og-ungdom-2026-dag-3/",
-        "title": "NM for barn og ungdom 2026 – dag 3",
-        "date": "Mon, 23 Nov 2026 06:39:17 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "NM&#160;i&#160;sjakk for barn og ungdom ble avsluttet i Stjørdal søndag 22. november 2026, og åtte nye norgesmestre er kåret. I Klasse A (17-19 år) + U26 (20-26 år) forsvarte CM Teodor Tenfjord Engelsen (2221) sin førsteplass på avslutningsdagen med 1&#189; poeng på de 2 rundene. Dermed gikk 17-åringen fra Bergens Schakklub til topps i A-klassen Les mer"
-      }
-    ],
-    "kalla_display": "Bergensjakk",
-    "datum": "Mon, 23 Nov 2026 06:39:17 +0000",
-    "hittad": "2026-11-23T16:13:59.410879"
-  },
-  {
-    "id": "f3be3850ff0f",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/11/22/julesjakk-for-en-god-sak-desember-2026/",
-        "title": "Julesjakk for en god sak – desember 2026",
-        "date": "Sun, 22 Nov 2026 17:44:03 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "Julesjakk for en god sakEikelandsosen, 5. desember 2026 Eikelandsfjorden IL Sjakk inviterer til sjakkturnering lørdag 5. desember 2026 i samarbeid med Den ukrainske foreningen i Bjørnafjorden kommune. Formålet er innsamling av penger til julegaver til barn i et barnehjem i Ukraina. Noen detaljer om turneringen: Spillested: Eikelandsosen, et stykke sør for Bergen Format: 6 runder Les mer"
-      }
-    ],
-    "kalla_display": "Bergensjakk",
-    "datum": "Sun, 22 Nov 2026 17:44:03 +0000",
-    "hittad": "2026-11-23T16:13:59.410881"
-  },
-  {
-    "id": "ab7401f0b572",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/11/22/nm-for-barn-og-ungdom-2026-dag-2/",
-        "title": "NM for barn og ungdom 2026 – dag 2",
-        "date": "Sun, 22 Nov 2026 06:11:32 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "NM&#160;i&#160;sjakk for barn og ungdom i Stjørdal fortsetter, og det er nå spilt tre runder i klasse A + U26 og seks runder i de yngre klassene. I Klasse A (17-19 år) + U26 (20-26 år) er CM Teodor Tenfjord Engelsen (2221) alene i tet med 3 poeng på 3 runder. Den 17-årige bergenseren hadde Les mer"
-      }
-    ],
-    "kalla_display": "Bergensjakk",
-    "datum": "Sun, 22 Nov 2026 06:11:32 +0000",
-    "hittad": "2026-11-23T16:13:59.410884"
-  },
-  {
-    "id": "f8e068c7b4f2",
+    "id": "6250ce65c27b",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/austria-moves-to-unseat-european-chesss-leadership",
-        "title": "Austria Moves to Unseat European Chess's Leadership",
-        "date": "Sun, 22 Nov 2026 20:13:08 GMT",
+        "url": "https://chessnewsnetwork.com/article/world-chess-championship-no-specators-and-sponsor-wall",
+        "title": "World Chess Championship: No Specators and An Ugly Sponsor Wall",
+        "date": "Tue, 24 Nov 2026 11:59:00 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "Austria wants a no-confidence vote on the ECU’s president and secretary general, backed by a €4 million Freedom sponsorship offer. The ECU hasn’t responded."
+        "_rss_content": "FIDE dropped the glass box for Geneva. Gukesh and Sindarov play in a book-lined library room, with few spectators and a fan zone outside."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Sun, 22 Nov 2026 20:13:08 GMT",
-    "hittad": "2026-11-23T16:13:59.410886"
+    "datum": "Tue, 24 Nov 2026 11:59:00 GMT",
+    "hittad": "2026-11-24T16:01:38.474896"
   },
   {
-    "id": "7a1784febeea",
+    "id": "74156a529b4c",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/monte-carlo-hosts-the-small-nations-championship",
-        "title": "Monte-Carlo Hosts The Small Nations Championship",
-        "date": "Sun, 22 Nov 2026 14:03:53 GMT",
+        "url": "https://chessnewsnetwork.com/article/pragg-suggests-standardising-world-championship-cycle",
+        "title": "Pragg Suggests Standardising World Championship Cycle",
+        "date": "Tue, 24 Nov 2026 10:39:56 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "Ten small nations meet in Monte-Carlo for the European Small Nations Championship: a nine-round round robin, with Nielsen and Berend top seeded."
+        "_rss_content": "Praggnanandhaa says one classical time control across the whole World Championship cycle would help players and fans, and backs Total Chess's pilot."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Sun, 22 Nov 2026 14:03:53 GMT",
-    "hittad": "2026-11-23T16:13:59.410889"
+    "datum": "Tue, 24 Nov 2026 10:39:56 GMT",
+    "hittad": "2026-11-24T16:01:38.474898"
+  },
+  {
+    "id": "4505215bade9",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/rosenstein-threatens-overstepping-fide-again",
+        "title": "Rosenstein Threatens Overstepping FIDE Again",
+        "date": "Tue, 24 Nov 2026 10:05:21 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Rosenstein warns of a no-confidence push if FIDE's Council backs Kazakhstan for the 2030 Olympiad without open bidding. FIDE records point to Qatar and Georgia."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Tue, 24 Nov 2026 10:05:21 GMT",
+    "hittad": "2026-11-24T16:01:38.474900"
+  },
+  {
+    "id": "743abc2aad13",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/chess-sets-made-from-kiberas-plastic-waste-turn-up-in-times-square",
+        "title": "Chess Sets Made From Kibera's Plastic Waste Turn Up in Times Square",
+        "date": "Mon, 23 Nov 2026 10:03:00 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "A GM game in Times Square on chess sets made from Kibera’s plastic waste: how a Nairobi workshop and a New York charity turn trash into chessmen."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Mon, 23 Nov 2026 10:03:00 GMT",
+    "hittad": "2026-11-24T16:01:38.474903"
+  },
+  {
+    "id": "973d93871964",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase España",
+        "url": "https://es.chessbase.com/post/campeonato-mundial-2026-entrevistas",
+        "title": "Gukesh y Sindarov comparten sus impresiones ante los medios",
+        "date": "Sun, 22 Nov 2026 22:45:00 GMT",
+        "tag": "ChessBase España",
+        "_rss_content": "El 22 de noviembre se dio inicio oficialmente al Campeonato Mundial de Ajedrez FIDE 2026, patrocinado por Salesforce. Los periodistas presentes tuvieron la oportunidad de participar en dos sesiones de prensa por separado con Gukesh Dommaraju y Javokhir Sindarov, quienes compartieron detalles sobre su preparación, sus expectativas y sus impresiones de cara al esperado duelo. Comunicado de prensa de la FIDE, redactado por Yannick Pelletier | Fotos: Y.E. Nisenbaum y Michal Waluzsa"
+      }
+    ],
+    "kalla_display": "ChessBase España",
+    "datum": "Sun, 22 Nov 2026 22:45:00 GMT",
+    "hittad": "2026-11-24T16:01:38.474905",
+    "liknar": {
+      "titel": "Gukesh och Sindarov redo för VM-match i Genève",
+      "url": "https://gambit.se/gukesh-och-sindarov-redo-for-vm-match-i-geneve/",
+      "datum": "2026-11-24"
+    }
   }
 ]
