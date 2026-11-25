@@ -1,197 +1,61 @@
 [
   {
     "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/wch-matches-highlights-140-years",
-    "original_title": "World Championship matches: Highlights from 140 years of history",
-    "swedish_title": "140 år av VM-matcher i schack – historiska höjdpunkter",
-    "swedish_content": "En genomgång av 44 VM-matcher i schack mellan 1886 och 2024, med 871 partier i klassiskt tempo och 19 snabbschackpartier, lyfter fram flera avgörande ögonblick i schackhistorien.\n\nI den sista partin av matchen mellan världsmästare Wilhelm Steinitz och utmanaren Mikhail Chigorin ledde Steinitz med 9–8. Chigorin stod till vinst men spelade 32.Bb4??, vilket tillät matt i två drag. Efter 32...Txh2+ gav Chigorin upp, och Steinitz försvarade sin VM-titel.\n\nI VM-matchen 1908 mellan regerande mästaren Emanuel Lasker och Siegbert Tarrasch hamnade Lasker på defensiven efter en svag öppning. Lasker offrade en bonde med 14...Sg4!?, vilket Tarrasch accepterade med 15.Bxg7! Sxf2! 16.Kxf2? Kxg7 17.Sf5+ Kh8 18.Dd4+ f6 19.Dxa7. Lasker fick oväntat gott spel för bonden och utspelade Tarrasch, som inte hittade rätt försvar. Lasker vann matchen med 10½–5½.\n\nI VM-matchen mot Carl Schlechter 1910 var Laskers titel, som han vunnit från Steinitz 1894, i allvarlig fara. Efter nio av tio partier låg Lasker under med 4–5 och var tvungen att vinna den sista partin. Schlechter hade möjlighet att forcera eviga schack med 39...Dh4+, men spelade istället 39...Dh1+?, vilket lät den vita kungen undkomma. Lasker vann partin och behöll sin VM-titel.",
-    "date": "Mon, 23 Nov 2026 20:40:00 GMT",
+    "original_url": "https://en.chessbase.com/post/world-championship-2026-analysis",
+    "original_title": "Daniel King analyses: How Gukesh saved the draw",
+    "swedish_title": "Gukesh höll remi i spänd Berlinöppning i första VM-partiet",
+    "swedish_content": "VM-matchen i schack mellan regerande världsmästaren Gukesh Dommaraju och utmanaren Javokhir Sindarov inleddes på tisdagen i den stämningsfulla miljön på Fondation Martin Bodmer i Cologny utanför Genève. Det är 140 år sedan Wilhelm Steinitz blev den förste officiellt erkände världsmästaren 1886, och traditionen lever vidare med en match där både Gukesh och Sindarov är 20 år gamla – det yngsta VM-mötet någonsin räknat på snittålder. Sindarov fyller 21 år den 8 december, samma dag som parti 12 spelas, och skulle teoretiskt kunna säkra titeln på sin födelsedag, på samma sätt som Magnus Carlsen gjorde 2016. Partiet kommenterades på plats av Peter Svidler, Vishy Anand och Peter Leko inför en begränsad publik i det boklika rummet.\n\nSindarov hade vita pjäserna och öppnade med 1.e4, vilket Gukesh mötte med Berlinförsvaret i spanskt parti. Öppningen har rykte om sig att vara remiartad, men partiet utvecklade sig till en skarp och komplicerad kamp. Sindarov kom med nyheten 13.Se4 efter att ha spelat snabbt genom sin förberedelse, vilket fick Gukesh att tänka i över 15 minuter och hamna efter på klockan. Indiern ägnade därefter hela 36 minuter åt sitt 17:e drag och fann då det starka 17...Lb4, vilket lämnade honom med under 29 minuter till 23 återstående drag utan tilläggstid fram till draghandlingen vid drag 40. Vid ett tillfälle hade Gukesh bara 11 minuter kvar med 17 drag att spela.\n\nTrots tidsnöden fortsatte Gukesh att hitta starka försvarsdrag. 28...Tgd8 var ett kallblodigt drag där han struntade i en avdragarhotande ställning – fallgropen 29.Txd8 Txd8 30.Sd6+ Kg7 31.Sxb7 Td1 hade istället gett svart vinstchanser. Den taktiska avslutningen bjöd på spel fram och tillbaka: Gukesh tog en bonde med 23...Sxe5, Sindarov svarade med 26.f5 gxf5 27.Sxf5+ Kf6, varefter vits torn pendlade mellan g5 och h5 medan svarts kung rörde sig mellan g8 och h7. Partiet slutade till sist i ställningsupprepning efter 38...Kg8, totalt 38 drag och drygt tre och en halv timmes spel.\n\nEn mindre kuriositet uppstod när Sindarov begärde remi på fel sätt – han hade redan gjort sitt drag på brädet innan han begärde remi, vilket enligt reglerna inte är tillåtet eftersom det då räknas som motståndarens tur. Felet bestraffades med två extra minuter till Gukesh men fick ingen praktisk betydelse, då remi ändå blev resultatet i nästa drag. Efter partiet sade Gukesh att han kände att han hade kontroll, medan Sindarov menade att hans motståndare försvarat sig mycket bra.\n\nInför matchen har formkurvorna sett olika ut för de båda spelarna. Sindarov har av många bedömts som årets bästa spelare, med en explosiv start på 6 poäng av 7 möjliga i Kandidatturneringen som grund för framgångarna. Gukesh har däremot haft det tungt som regerande mästare och har rasat till 28:e plats på världsrankingen, men visar fortsatt motståndskraft och vågar ta risker. De båda har mötts sparsamt tidigare, och Sindarov leder det inbördes mötet med 2,5–0,5.\n\nBerlinförsvaret har en lång historia i toppschacket. Öppningen fick sitt stora genombrott år 2000, då Vladimir Kramnik använde den för att bryta ner Garry Kasparovs attackspel och vinna VM-matchen i London – Kasparov vann aldrig ett enda parti mot Berlinmuren under den matchen.",
+    "date": "Tue, 24 Nov 2026 22:46:47 GMT",
     "tag": "ChessBase",
-    "processed_at": "2026-11-25T13:52:56.718695",
-    "bild_alternativ": [
-      {
-        "kalla": "commons",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/London_1883_chess_tournament.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "kredit": "Foto: Edward Henry Corbould (Wikimedia Commons, Public domain)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Steinitz_and_New_Orleans_Chess_Club_1883.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "kredit": "Foto: Theo. Lilienthal (d. 1894) (Wikimedia Commons, Public domain)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Top_chess_GM.png/960px-Top_chess_GM.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: El Comandante (Wikimedia Commons, CC BY 4.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Top_chess_GM_%28desaturated%29.png/960px-Top_chess_GM_%28desaturated%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: El Comandante (Wikimedia Commons, CC BY 4.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/1892_Steinitz_-_Chigorin_Title_Match.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "kredit": "Foto: YoavDothan (Wikimedia Commons, Public domain)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Karlsbad-1907.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "kredit": "Foto: Unknown author Unknown author (Wikimedia Commons, Public domain)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/V04p017001_Chess.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "kredit": "Foto: Wikimedia Commons (Public domain)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Chess_Lasker_-_Marshall_Title_Match.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "kredit": "Foto: YoavDothan (Wikimedia Commons, Public domain)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Setup_of_the_1898_Anglo-American_cable_chess_match.png/960px-Setup_of_the_1898_Anglo-American_cable_chess_match.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Unknown author Unknown author (Wikimedia Commons, Public domain)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Antti_Fav%C3%A9n_-_Chess_Players.jpg/960px-Antti_Fav%C3%A9n_-_Chess_Players.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Antti Favén (Wikimedia Commons, Public domain)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Chess_Lasker_-_Tarrasch_Title_Match.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "kredit": "Foto: YoavDothan (Wikimedia Commons, Public domain)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Cinq_premiers_du_Tournoi_d%27%C3%A9checs_de_Saint-P%C3%A9tersbourg_1914.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "kredit": "Foto: The original uploader was  Mishi  at  French Wikipedia . (Wikimedia Commons, GPL)"
-      }
-    ]
-  },
-  {
-    "source": "Chess News Network",
-    "original_url": "https://chessnewsnetwork.com/article/pragg-suggests-standardising-world-championship-cycle",
-    "original_title": "Pragg Suggests Standardising World Championship Cycle",
-    "swedish_title": "Praggnanandhaa vill standardisera VM-cykeln",
-    "swedish_content": "Efter Total Chess-pilotturneringen i Budapest föreslår Praggnanandhaa att VM-cykeln ska använda en och samma klassiska betänketid genomgående, istället för fyra olika tidskontroller. Indiern binder sig inte till en specifik inställning – 45+30, 90 minuter plus 40 drag, eller det sjutimmarsformat som används vid Grand Swiss skulle alla fungera, enligt honom. Han pekar på 2027 års World Cup, där gruppspelet enligt vad han läst ska spelas med 45+30 medan slutspelet använder 90 minuter plus 40 drag, och jämför med fotbollens VM där matchtiden alltid är 90 minuter oavsett omgång. Som spelare säger han att han själv skulle föredra en konsekvent tidskontroll genom hela cykeln, eftersom det underlättar anpassning. Han understryker att inlägget enbart är tänkt att starta en diskussion och inte är ett svar på något specifikt uttalande från FIDE. Praggnanandhaa berömmer samtidigt Total Chess-pilotturneringen, som spelades i Budapest 10–21 november, och säger att han redan delat sina synpunkter med arrangörerna privat. FIDE har ännu inte kommenterat inlägget offentligt.",
-    "date": "Tue, 24 Nov 2026 10:39:56 GMT",
-    "tag": "Chess News Network",
-    "processed_at": "2026-11-25T13:53:14.809926",
-    "bild_filnamn": "fide-55673075595.jpg",
-    "bild_kredit": "Foto: FIDE / \"FIDE_chess\"",
-    "bild_alternativ": [
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Asian_Champions_2022-_GM_R_Praggnanandhaa_and_WGM_P._V._Nandhidhaa.jpg/960px-Asian_Champions_2022-_GM_R_Praggnanandhaa_and_WGM_P._V._Nandhidhaa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: NOVKILOSIERRA (Wikimedia Commons, CC0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Ian_Nepomniachtchi_vs_Rameshbabu_Praggnanandhaa.jpg/960px-Ian_Nepomniachtchi_vs_Rameshbabu_Praggnanandhaa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: TheBoburshokh (Wikimedia Commons, CC0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/London_Chess_Classic_2016_Day3-9_%2830767870714%29.jpg/960px-London_Chess_Classic_2016_Day3-9_%2830767870714%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Wolfgang Jekel (Wikimedia Commons, CC BY 2.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Praggnanandhaa_Tata_Steel_Chess_2019.jpg/960px-Praggnanandhaa_Tata_Steel_Chess_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Vysotsky (Wikimedia Commons, CC BY-SA 4.0)"
-      },
-      {
-        "kalla": "fide",
-        "url": "https://live.staticflickr.com/65535/55673075595_0392883bc0_c.jpg",
-        "kredit": "Foto: FIDE / \"FIDE_chess\""
-      },
-      {
-        "kalla": "fide",
-        "url": "https://live.staticflickr.com/65535/55673075100_3d6519ee30_c.jpg",
-        "kredit": "Foto: FIDE / \"FIDE_chess\""
-      },
-      {
-        "kalla": "fide",
-        "url": "https://live.staticflickr.com/65535/55671660977_79ba07198e_c.jpg",
-        "kredit": "Foto: FIDE / \"FIDE_chess\""
-      },
-      {
-        "kalla": "fide",
-        "url": "https://live.staticflickr.com/65535/55672665151_809cc66c2a_c.jpg",
-        "kredit": "Foto: FIDE / \"FIDE_chess\""
-      }
-    ]
-  },
-  {
-    "source": "ChessBase",
-    "original_url": "https://en.chessbase.com/post/world-championship-2026-press-review",
-    "original_title": "World Chess Championship: A look at the international press",
-    "swedish_title": "RUBRIK: VM-matchen i schack inledd i Genève",
-    "swedish_content": "VM-matchen mellan den indiske regerande världsmästaren D Gukesh och den uzbekiske utmanaren Javokhir Sindarov inleddes tisdagen den 24 november i Genève, Schweiz. Matchen, som bär namnet Salesforce FIDE World Championship, spelas i Fondation Martin Bodmer i Cologny strax utanför Genève och pågår fram till den 12 december. Det är den yngsta VM-matchen i schackhistorien – båda spelarna är 20 år, även om Sindarov fyller 21 under matchens gång – och den första VM-matchen i Schweiz sedan Brissago 2004.\n\nSöndagens öppningsceremoni och presskonferens gav journalister från hela världen tillfälle att höra båda utmanarna. Gukesh, som intervjuades tillsammans med Sindarov av FIDE:s Charlyze van Zyl, slog fast att han ser matchen som en chans att vinna titeln på nytt snarare än att försvara den: \"I'm here to win it all over again.\" Han hade också stor respekt för sin motståndare och kallade honom \"ett geni\". Sindarov å sin sida bedömde sina chanser till ungefär 50–50 och gav sin egen förklaring till Gukeshs svackor under året: \"Det stämmer att han har förlorat en hel del partier under det senaste året, men det beror på att han alltid försöker vinna till varje pris. Jag tror han kommer vara mer försiktig i matchen.\" Presskonferensen hölls i Sal XIV, även känd som Kazakstansalen, i Nationernas palats i Genève, och leddes av stormästaren Maurice Ashley.\n\nDe två spelarnas form inför matchen har stått i fokus för mycket av bevakningen. Gukesh, som tog VM-titeln 2024 som 18-åring genom att besegra Ding Liren, har haft ett tungt år: en tiondeplats i Wijk aan Zee i januari, delad sistaplats i Prag i mars samt sistaplatser i både Norway Chess i juni och Chennai Grand Masters i juli. Han hoppade också över de klassiska delarna av Grand Chess Tour och har öppet medgett att han haft svårt att hantera pressen som titelinnehavare. Hans rating ligger på 2710 i novemberlistan, vilket placerar honom som nummer 26 i världen. Det nyligen avslutade Schack-OS i Samarkand var dock ljusare läsning – Gukesh blev lagets toppscorer när Indien tog OS-silver.\n\nSindarov har däremot haft ett strålande år. Han kvalificerade sig till VM-matchen genom att vinna Kandidatturneringen på Cypern i april, obesegrad genom hela turneringen, och var med i det uzbekiska lag som tog guld vid Schack-OS i Samarkand. Med en rating på 2782 och en fjärdeplats på världsrankingen betraktas han av de flesta som klar favorit inför matchen.\n\nVid öppningsceremonin lottades färgfördelningen fram, och det blev Sindarov som fick vitt i första partiet. Färgerna växlar sedan mellan varje parti fram till rond sju, då fördelningen vänds. Matchen spelas över maximalt 14 klassiska partier, och den spelare som först når 7½ poäng vinner titeln. Betänketiden är 120 minuter för de första 40 dragen, därefter 30 minuter för resten av partiet med 30 sekunders tillägg per drag från drag 41. Spelarna får inte komma överens om remi innan svart gjort sitt 40:e drag. Slutar matchen 7–7 avgörs titeln i särspel: först fyra snabbpartier (15+10), därefter två kortare snabbpartier (10+5), två blixtpartier (3+2) och vid fortsatt lika ställning enskilda blixtpartier med växlande färg tills en avgörande seger uppnås.",
-    "date": "Tue, 24 Nov 2026 14:15:00 GMT",
-    "tag": "ChessBase",
-    "processed_at": "2026-11-25T13:54:10.849256",
+    "processed_at": "2026-11-25T22:56:59.174193",
     "alla_kallor": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/world-championship-2026-press-review"
-      },
-      {
-        "source": "TWIC",
-        "url": "https://theweekinchess.com/chessnews/events/world-chess-championship-2026"
-      },
-      {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/campeonato-mundial-2026-entrevistas"
-      },
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-1"
+        "url": "https://en.chessbase.com/post/world-championship-2026-analysis"
       },
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/world-championship-2026-live"
-      },
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/championnat-du-monde-2026-partie-1-10153.html"
-      },
-      {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/world-championship-2026-directo"
+        "url": "https://en.chessbase.com/post/world-championship-2026-1"
       },
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/internationellt/2026/11/hela-schemat-sa-foljer-du-vm-matchen/?utm_source=rss&utm_medium=rss&utm_campaign=hela-schemat-sa-foljer-du-vm-matchen"
+        "url": "https://schack.se/nyhet/internationellt/2026/11/bildextra-sa-var-forsta-vm-dagen/?utm_source=rss&utm_medium=rss&utm_campaign=bildextra-sa-var-forsta-vm-dagen"
       },
       {
-        "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/11/24/vm-matchen-starter-i-geneve/?utm_source=rss&utm_medium=rss&utm_campaign=vm-matchen-starter-i-geneve"
+        "source": "TWIC",
+        "url": "https://theweekinchess.com/twic-news-feed/world-chess-championship-off-to-a-promising-start"
       },
       {
         "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/11/24/salesforce-fide-world-championship-2026-starter/"
+        "url": "https://bergensjakk.no/2026/11/25/salesforce-fide-world-championship-2026-1-runde/"
       },
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/what-to-know-before-gukesh-v-sindarov"
+        "url": "https://chessnewsnetwork.com/article/world-chess-championship-day-1"
+      },
+      {
+        "source": "ChessBase India",
+        "url": "https://www.chessbase.in/news/world-championship-2026-diaries-game-1-by-gm-sundararajan-kidambi"
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/criticism-of-fide"
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/berlin-piece"
       }
     ],
     "alla_urler": [
-      "https://en.chessbase.com/post/world-championship-2026-press-review",
-      "https://theweekinchess.com/chessnews/events/world-chess-championship-2026",
-      "https://es.chessbase.com/post/campeonato-mundial-2026-entrevistas",
-      "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-1",
-      "https://en.chessbase.com/post/world-championship-2026-live",
-      "https://www.europe-echecs.com/art/championnat-du-monde-2026-partie-1-10153.html",
-      "https://es.chessbase.com/post/world-championship-2026-directo",
-      "https://schack.se/nyhet/internationellt/2026/11/hela-schemat-sa-foljer-du-vm-matchen/?utm_source=rss&utm_medium=rss&utm_campaign=hela-schemat-sa-foljer-du-vm-matchen",
-      "https://nyheder.skak.dk/2026/11/24/vm-matchen-starter-i-geneve/?utm_source=rss&utm_medium=rss&utm_campaign=vm-matchen-starter-i-geneve",
-      "https://bergensjakk.no/2026/11/24/salesforce-fide-world-championship-2026-starter/",
-      "https://chessnewsnetwork.com/article/what-to-know-before-gukesh-v-sindarov"
+      "https://en.chessbase.com/post/world-championship-2026-analysis",
+      "https://en.chessbase.com/post/world-championship-2026-1",
+      "https://schack.se/nyhet/internationellt/2026/11/bildextra-sa-var-forsta-vm-dagen/?utm_source=rss&utm_medium=rss&utm_campaign=bildextra-sa-var-forsta-vm-dagen",
+      "https://theweekinchess.com/twic-news-feed/world-chess-championship-off-to-a-promising-start",
+      "https://bergensjakk.no/2026/11/25/salesforce-fide-world-championship-2026-1-runde/",
+      "https://chessnewsnetwork.com/article/world-chess-championship-day-1",
+      "https://www.chessbase.in/news/world-championship-2026-diaries-game-1-by-gm-sundararajan-kidambi",
+      "https://chessnewsnetwork.com/article/criticism-of-fide",
+      "https://chessnewsnetwork.com/article/berlin-piece"
     ],
     "bild_filnamn": "bildbanken-Af8EnQ5YbY.jpg",
     "bild_kredit": "Foto: Lars OA Hedlund/Sveriges Schackförbund",
@@ -223,18 +87,18 @@
       },
       {
         "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Gukesh_at_the_46th_FIDE_Chess_Olympiad_%281%29.jpg/960px-Gukesh_at_the_46th_FIDE_Chess_Olympiad_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Yunfan Zhao / lichess.org (Wikimedia Commons, CC BY-SA 4.0)"
-      },
-      {
-        "kalla": "commons",
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Gukesh_at_the_46th_FIDE_Chess_Olympiad_%282%29.jpg/960px-Gukesh_at_the_46th_FIDE_Chess_Olympiad_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "kredit": "Foto: Yunfan Zhao / lichess.org (Wikimedia Commons, CC BY-SA 4.0)"
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Gukesh_in_2025.jpg/960px-Gukesh_in_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Frans Peeters (Wikimedia Commons, CC BY-SA 2.0)"
       },
       {
         "kalla": "commons",
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Gukesh_in_2025_%28cropped%29.jpg/960px-Gukesh_in_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "kredit": "Foto: Frans Peeters (Wikimedia Commons, CC BY-SA 2.0)"
+      },
+      {
+        "kalla": "commons",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/TataSteelChess2023-22.jpg/960px-TataSteelChess2023-22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "kredit": "Foto: Vysotsky (Wikimedia Commons, CC BY-SA 4.0)"
       },
       {
         "kalla": "commons",
