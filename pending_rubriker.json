@@ -1,214 +1,170 @@
 [
   {
-    "id": "306f5ecd838f",
+    "id": "8eb07ac61660",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-1",
-        "title": "2026 Fide World Chess Championship Game 1",
-        "date": "2026-11-23T16:00:13.441400",
+        "url": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-2",
+        "title": "2026 Fide World Chess Championship Game 2",
+        "date": "2026-11-25T15:28:54.376895",
         "tag": "Chess.com"
       },
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/world-championship-2026-live",
-        "title": "World Championship Match: Sindarov v. Gukesh - Game 1 Live!",
-        "date": "Tue, 24 Nov 2026 14:45:00 GMT",
+        "url": "https://en.chessbase.com/post/world-championship-2026-analysis-daniel-king2",
+        "title": "Daniel King analyses: London System in Game 2",
+        "date": "Thu, 26 Nov 2026 02:31:25 GMT",
         "tag": "ChessBase",
-        "_rss_content": "The 2026 World Chess Championship match takes place at the Fondation Martin Bodmer in Cologny, near Geneva, Switzerland. India's Gukesh Dommaraju is defending the title he won in Singapore two years ago against Uzbekistan's Javokhir Sindarov, the winner of this year's Candidates Tournament. Both players are 20 years old at the start of the match, making it the youngest World Championship encounter in history. | Follow the action live starting at 15.00 CET (9.00 ET, 19.30 IST) | Photo: Michal Walusza"
+        "_rss_content": "The second game of the World Championship match between defending champion Gukesh and challenger Javokhir Sindarov saw a London System on the board. Daniel King shows the key moments of Game 2 in his video analysis."
+      },
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/world-championship-2026-2",
+        "title": "World Championship Game 2: A London in Geneva",
+        "date": "Wed, 25 Nov 2026 22:35:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "Gukesh Dommaraju and Javokhir Sindarov drew the second game of their World Championship match in Geneva on Wednesday. Playing white for the first time, Gukesh opted for the London System, but found his opponent well-prepared to deal with the relatively cautious opening choice. The defending champion spent considerable time on two key decisions before opting for a threefold repetition. The contenders appear to be testing each other's preparation at this early stage. | Photo: FIDE / Michal Walusza"
+      },
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/internationellt/2026/11/snabbt-slut-i-andra-partiet-remi-efter-20-drag/?utm_source=rss&utm_medium=rss&utm_campaign=snabbt-slut-i-andra-partiet-remi-efter-20-drag",
+        "title": "Snabbt slut i andra partiet – remi efter 20 drag",
+        "date": "Thu, 26 Nov 2026 08:34:54 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Snipp-snapp-snut, så var partiet slutade. Det andra VM-mötet mellan D Gukesh och Javokhir SIndarov var över efter bara 20 drag. Även denna gång blev det remi genom dragupprepning. Efteråt var [&#8230;] Inlägget Snabbt slut i andra partiet – remi efter 20 drag dök först upp på Sveriges Schackförbund ."
+      },
+      {
+        "source": "ChessBase India",
+        "url": "https://www.chessbase.in/news/the-chess-world-reacts-to-london-system-in-game-2",
+        "title": "SpotlightTop storyDevansh Singh·1 hour agoThe London System in a World Championship? The Chess World Reacts",
+        "date": "2026-11-25T15:29:14.516994",
+        "tag": "ChessBase India"
       },
       {
         "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/championnat-du-monde-2026-partie-1-10153.html",
-        "title": "Championnat du monde 2026Première partie du championnat du monde 2026 Sindarov-Gukesh",
-        "date": "2026-11-23T16:00:44.519925",
+        "url": "https://www.europe-echecs.com/art/championnat-du-monde-2026-partie-2-10155.html",
+        "title": "Lire l'articleChampionnat du monde 2026Nulle rapide dans la 2ème partie du championnat du monde 20264",
+        "date": "2026-11-25T15:29:24.390882",
         "tag": "Europe Echecs"
       },
       {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/world-championship-2026-directo",
-        "title": "Match por el Campeonato del Mundo - Sindarov vs. Gukesh: Partida 1",
-        "date": "Tue, 24 Nov 2026 14:50:00 GMT",
-        "tag": "ChessBase España",
-        "_rss_content": "El match por el Campeonato Mundial de Ajedrez se disputa en la Fundación Martin Bodmer, en Cologny, cerca de Ginebra (Suiza). El indio Gukesh Dommaraju defiende el título que conquistó hace dos años en Singapur ante el uzbeko Javokhir Sindarov, ganador del Torneo de Candidatos de este año. Ambos jugadores tienen 20 años al inicio del encuentro, por lo que se trata del duelo por el título mundial con los protagonistas más jóvenes de la historia. | Sigue las partidas en directo a partir de las 15:00 hora de Madrid (11:00 Buenos Aires, 9:30 IST) | Foto: Michal Walusza"
+        "source": "TWIC",
+        "url": "https://theweekinchess.com/twic-news-feed/gukeshs-london-system-doesnt-surprise-sindarov",
+        "title": "Gukesh's London System doesn't surprise Sindarov - 2",
+        "date": "Wed Nov 25 19:12:00 2026",
+        "tag": "TWIC",
+        "_rss_content": "Salesforce FIDE World Chess Championship Match Game 2. Gukesh had his first game with the white pieces and chose the London System, because, why not? \"It's a cool opening.\" As it turned out Sindarov came prepared and after just 15 moves he was very comfortably placed. Recognising this Gukesh chose a line that led to a three-fold repetition and a draw on move 20; the position was \"super-safe\" for both players according to Sindarov."
+      },
+      {
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/11/26/salesforce-fide-world-championship-2026-2-runde/",
+        "title": "Salesforce FIDE World Championship 2026 – 2. runde",
+        "date": "Thu, 26 Nov 2026 06:01:06 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Andre parti i VM-matchen Salesforce FIDE World Championship mellom GM Gukesh Dommaraju (IND 2710) og GM Javokhir Sindarov (UZB 2782) endte med en relativt rask remis etter 20 trekk og rundt to timers spill. Gukesh med hvit valgte London-systemet med 1.d4 d5 2.Sf3 Sf6 3.Lf4. Sindarov så ut til å være godt forberedt, og Gukesh Les mer"
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/world-chess-championship-day-2",
+        "title": "World Chess Championship Day 2",
+        "date": "Wed, 25 Nov 2026 19:53:38 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Gukesh's London System meets Sindarov's preparation as Game 2 ends in a 20-move repetition draw, leaving the Geneva match level at 1-1 after two games."
       }
     ],
-    "kalla_display": "Chess.com + ChessBase + ChessBase España + Europe Echecs",
-    "datum": "2026-11-23T16:00:13.441400",
-    "hittad": "2026-11-24T16:01:38.474834"
+    "kalla_display": "Bergensjakk + Chess News Network + Chess.com + ChessBase + ChessBase India + Europe Echecs + Schack.se + TWIC",
+    "datum": "2026-11-25T15:28:54.376895",
+    "hittad": "2026-11-26T15:30:16.603049"
   },
   {
-    "id": "b8d7f4641ef5",
+    "id": "6d23efbebd1b",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/2026-london-chess-classic-round-1",
+        "title": "2026 London Chess Classic Round 1",
+        "date": "2026-11-25T15:28:54.376876",
+        "tag": "Chess.com"
+      },
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/abdusattorov-woodward-score-round-1-wins-at-london-chess-classic",
+        "title": "Abdusattorov, Woodward Score Round 1 Wins at London Chess Classic",
+        "date": "Thu, 26 Nov 2026 09:26:08 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "The XTX Markets London Chess Classic 2026 began with victories for GMs Nodirbek Abdusattorov and Andy Woodward"
+      },
+      {
+        "source": "ChessBase España",
+        "url": "https://es.chessbase.com/post/london-chess-classic-2026-directo",
+        "title": "London Chess Classic: Ronda 1",
+        "date": "Wed, 25 Nov 2026 17:00:00 GMT",
+        "tag": "ChessBase España",
+        "_rss_content": "La 16.ª edición del London Chess Classic presenta este año dos torneos cerrados de ajedrez clásico, el Masters y el Challengers, que se disputan del 25 de noviembre al 4 de diciembre. Nodirbek Abdusattorov, campeón defensor, encabeza la lista de participantes del Masters, en la que también figuran Levon Aronian, Nihal Sarin y Vasyl Ivanchuk. El ganador del Challengers obtendrá una plaza en el Masters del próximo año. | Sigue las partidas en directo a partir de las 17:00 hora de Madrid (13:00 Buenos Aires, 10:00 Ciudad de México). | Foto: Nils Rohde / ChessBase"
+      }
+    ],
+    "kalla_display": "Chess News Network + Chess.com + ChessBase España",
+    "datum": "2026-11-25T15:28:54.376876",
+    "hittad": "2026-11-26T15:30:16.603077"
+  },
+  {
+    "id": "7d1691907c7c",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-3",
+        "title": "2026 Fide World Chess Championship Game 3",
+        "date": "2026-11-25T15:28:54.376844",
+        "tag": "Chess.com"
+      },
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/championnat-du-monde-2026-partie-3-10158.html",
+        "title": "Championnat du monde 2026Troisième partie : l'équilibre sera-t-il rompu ?",
+        "date": "2026-11-25T15:29:24.390849",
+        "tag": "Europe Echecs"
+      }
+    ],
+    "kalla_display": "Chess.com + Europe Echecs",
+    "datum": "2026-11-25T15:28:54.376844",
+    "hittad": "2026-11-26T15:30:16.603083"
+  },
+  {
+    "id": "4221962c645e",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/when-chess-starts-to-sing",
+        "title": "When Chess Starts to Sing",
+        "date": "Thu, 26 Nov 2026 10:00:00 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "How ChessBase 27 turns the World Championship into a musical experience. It all started with Ask ChessBase, a fascinating new concept in ChessBase 27 - an AI assistant that has access to the functionality of the chess program it lives in. You can ask it almost anything about the current position or a game. We used it to create musicals about chess."
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Thu, 26 Nov 2026 10:00:00 GMT",
+    "hittad": "2026-11-26T15:30:16.603089"
+  },
+  {
+    "id": "2255b3bc5841",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/internationellt/2026/11/hela-schemat-sa-foljer-du-vm-matchen/?utm_source=rss&utm_medium=rss&utm_campaign=hela-schemat-sa-foljer-du-vm-matchen",
-        "title": "Hela schemat – så följer du VM-matchen",
-        "date": "Mon, 23 Nov 2026 18:01:15 +0000",
+        "url": "https://schack.se/nyhet/internationellt/2026/11/grandelius-avslutar-mot-shirov-i-spanska-ligan/?utm_source=rss&utm_medium=rss&utm_campaign=grandelius-avslutar-mot-shirov-i-spanska-ligan",
+        "title": "Grandelius avslutar mot Shirov i spanska ligan",
+        "date": "Thu, 26 Nov 2026 09:25:10 +0000",
         "tag": "Svenska Schackförbundet",
-        "_rss_content": "VM-matchen mellan indiske världsmästaren D Gukesh och utmanaren Javokhir Sindarov från Uzbekistan spelas 24 november–12 december i Genève i Schweiz. Här följer du matchen dag för dag:kl 15.00: [Live &#38; [&#8230;] Inlägget Hela schemat – så följer du VM-matchen dök först upp på Sveriges Schackförbund ."
-      },
-      {
-        "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/11/24/vm-matchen-starter-i-geneve/?utm_source=rss&utm_medium=rss&utm_campaign=vm-matchen-starter-i-geneve",
-        "title": "VM matchen starter i Geneve",
-        "date": "Tue, 24 Nov 2026 13:16:53 +0000",
-        "tag": "Dansk Skak Union",
-        "_rss_content": "I dag tirsdag d. 24. november 2026 starter VM-matchen mellem verdensmester D Gukesh fra Indien og udfordreren Javokhir Sindarov fra Uzbekistan. Matchen spilles i Fondation Martin Bodmer i Geneve, Schweiz. Verdensmester D Gukesh: Alder: 20 årRating: 2710Placering på verdensranglisten: 26Officielle sekundanter: Grzegorz Gajewski Udfordrer Javokhir Sindarov: Alder: 20 årRating: 2782Placering på verdensranglisten: 4Officielle sekundanter: Nikita Vitiugov, [&#8230;]"
-      },
-      {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/11/24/salesforce-fide-world-championship-2026-starter/",
-        "title": "Salesforce FIDE World Championship 2026 starter",
-        "date": "Tue, 24 Nov 2026 06:23:41 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "I&#160;dag starter VM-matchen mellom GM Gukesh Dommaraju (IND 2710) og GM Javokhir Sindarov (UZB 2782) under navnet Salesforce FIDE World Championship. Spillested er sveitsiske Geneve. Mesterskapet går over 14 runder fra 24. november til 12. desember 2026. Matchen avsluttes hvis en av spillerne når 7&#189; poeng. Skulle det bli avgjort 12-12 vil det bli omspill Les mer"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/what-to-know-before-gukesh-v-sindarov",
-        "title": "What to Know Before Gukesh v Sindarov",
-        "date": "Mon, 23 Nov 2026 17:15:37 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "The championship match begins this Tuesday, featuring Indian GM Gukesh Dommaraju"
+        "_rss_content": "Två vinster, två remier och två förluster. Det är Nils Grandelius facit i spanska ligan som avslutas i Marbella på torsdagen. Då väntar Alexei Shirov, enligt lottningen hos spanska schackförbundet [&#8230;] Inlägget Grandelius avslutar mot Shirov i spanska ligan dök först upp på Sveriges Schackförbund ."
       }
     ],
-    "kalla_display": "Bergensjakk + Chess News Network + Dansk Skak Union + Schack.se",
-    "datum": "Mon, 23 Nov 2026 18:01:15 +0000",
-    "hittad": "2026-11-24T16:01:38.474853"
-  },
-  {
-    "id": "df1c1985df8f",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/lagno-wins-2026-wr-womens-chess-tour-grand-final",
-        "title": "Lagno Wins 2026 Wr Womens Chess Tour Grand Final",
-        "date": "2026-11-23T16:00:13.441449",
-        "tag": "Chess.com"
-      },
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/wr-women-tour-2026-stuttgart",
-        "title": "Kateryna Lagno wins inaugural WR Women's Chess Tour",
-        "date": "Tue, 24 Nov 2026 12:35:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Kateryna Lagno claimed the winner's trophy at the inaugural WR Women's Chess Tour 2026. She reached the final in both the rapid and the blitz section of the final tournament in Stuttgart but lost on both occasions. Nevertheless, her results were enough to secure overall victory in the inaugural tour organised by Wadim Rosenstein. Anna Muzychuk won the blitz tournament, while Carissa Yip came out on top in the rapid event. | Pictured: (from left to right): blitz winner Anna Muzychuk, overall winner Kateryna Lagno and rapid winner Carissa Yip | Photo: Lennart Ootes"
-      }
-    ],
-    "kalla_display": "Chess.com + ChessBase",
-    "datum": "2026-11-23T16:00:13.441449",
-    "hittad": "2026-11-24T16:01:38.474860"
-  },
-  {
-    "id": "62bb343f13f5",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/azmaiparashvili-suspects-russian-bid-to-take-over-european-chess-behind-4m-ecu-o",
-        "title": "Azmaiparashvili suspects Russian bid to take over European chess behind €4m ECU offer",
-        "date": "Tue, 24 Nov 2026 14:07:00 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "The European Chess Union President says Russia is \"trying to take over Europe\" through sport. He suspects a €4 million sponsorship that FIDE President Timur Turlov has tied to a change of ECU leadership is part of that effort."
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/ecu-president-answers-austrias-4-million-offer",
-        "title": "ECU President Answers Austria's €4 Million Offer",
-        "date": "Mon, 23 Nov 2026 19:40:17 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "ECU’s president answers Austria’s €4 million offer: name the sponsors, say whether the money comes with strings, and no Vienna assembly has been approved."
-      }
-    ],
-    "kalla_display": "Chess News Network",
-    "datum": "Tue, 24 Nov 2026 14:07:00 GMT",
-    "hittad": "2026-11-24T16:01:38.474864"
-  },
-  {
-    "id": "58713f306786",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/ccl-finals-fall-2026",
-        "title": "Ccl Finals Fall 2026",
-        "date": "2026-11-23T16:00:13.441431",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-11-23T16:00:13.441431",
-    "hittad": "2026-11-24T16:01:38.474867"
-  },
-  {
-    "id": "863624ce1fab",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/fide-world-championship-2026-twitch-drops",
-        "title": "Fide World Championship 2026 Twitch Drops",
-        "date": "2026-11-23T16:00:13.441464",
-        "tag": "Chess.com"
-      }
-    ],
-    "kalla_display": "Chess.com",
-    "datum": "2026-11-23T16:00:13.441464",
-    "hittad": "2026-11-24T16:01:38.474871"
-  },
-  {
-    "id": "011a053d5c93",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/world-championship-2026-press-review",
-        "title": "World Chess Championship: A look at the international press",
-        "date": "Tue, 24 Nov 2026 14:15:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "The World Chess Championship match between Gukesh Dommaraju and Javokhir Sindarov has attracted considerable attention beyond the specialised chess media. The youth of the two contenders, their contrasting results over the past year and the psychological demands of a title match are among the recurring themes in the international coverage. Other articles explore Sindarov's personality, the unusual literary setting in Geneva and the relevance of human chess in the age of artificial intelligence. | Photo: FIDE / Michal Walusza"
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Tue, 24 Nov 2026 14:15:00 GMT",
-    "hittad": "2026-11-24T16:01:38.474874"
-  },
-  {
-    "id": "feff1e8cdade",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/wch-matches-highlights-140-years",
-        "title": "World Championship matches: Highlights from 140 years of history",
-        "date": "Mon, 23 Nov 2026 20:40:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "World Championship matches make chess history. Some games are remembered for their beauty, others for dramatic twists, spectacular blunders or their historical significance. As the duel between world champion Gukesh Dommaraju and challenger Javokhir Sindarov gets under way - the 44th World Championship match in the 140-year history of the competition - we look back at 20 remarkable moments from its history. | Pictured: Boris Spassky (left) and Bobby Fischer during the 1972 World Championship match in Reykjavik | Photo: Icelandic Chess Federation"
-      }
-    ],
-    "kalla_display": "ChessBase",
-    "datum": "Mon, 23 Nov 2026 20:40:00 GMT",
-    "hittad": "2026-11-24T16:01:38.474879"
-  },
-  {
-    "id": "d0f5d9bac864",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/world-championship-coverage-sponsors",
-        "title": "SpotlightTop storySagar Shah·3 hours agoGukesh vs Sindarov: CheQ joins as Lead Sponsor of the World Championship coverage",
-        "date": "2026-11-23T16:00:34.278155",
-        "tag": "ChessBase India"
-      }
-    ],
-    "kalla_display": "ChessBase India",
-    "datum": "2026-11-23T16:00:34.278155",
-    "hittad": "2026-11-24T16:01:38.474883"
+    "kalla_display": "Schack.se",
+    "datum": "Thu, 26 Nov 2026 09:25:10 +0000",
+    "hittad": "2026-11-26T15:30:16.603094"
   },
   {
     "id": "465f0f412ec1",
@@ -217,158 +173,154 @@
       {
         "source": "ChessBase India",
         "url": "https://www.chessbase.in/news/category/organisation-policy",
-        "title": "173 storiesOrganisation & PolicyFIDE calls Magnus Carlsen's forfeits 'unacceptable', refers him to Ethics Commission",
-        "date": "2026-11-23T16:00:34.278369",
+        "title": "175 storiesOrganisation & PolicyYohan Yadav Tarala and Jihan Shah win the 7th Edition of Pursue Your Chess Scholarship",
+        "date": "2026-11-25T15:29:14.517240",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-11-23T16:00:34.278369",
-    "hittad": "2026-11-24T16:01:38.474886",
-    "liknar": {
-      "titel": "FIDE utreder Carlsen efter kaos i Total Chess-pilot",
-      "url": "https://gambit.se/fide-utreder-carlsen-efter-kaos-i-total-chess-pilot/",
-      "datum": "2026-11-24"
-    }
+    "datum": "2026-11-25T15:29:14.517240",
+    "hittad": "2026-11-26T15:30:16.603099"
   },
   {
-    "id": "e44f8ce99eb8",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/london-chess-classic-2026-presentation-10154.html",
-        "title": "Lire l'articleLondon Chess Classic 2026London Chess Classic 2026 : Abdusattorov remet son titre en jeu1",
-        "date": "2026-11-23T16:00:44.519965",
-        "tag": "Europe Echecs"
-      }
-    ],
-    "kalla_display": "Europe Echecs",
-    "datum": "2026-11-23T16:00:44.519965",
-    "hittad": "2026-11-24T16:01:38.474889"
-  },
-  {
-    "id": "f1d676aeb5c0",
+    "id": "9dc36c898920",
     "status": "pending",
     "rubriker": [
       {
         "source": "TWIC",
-        "url": "https://theweekinchess.com/chessnews/events/world-chess-championship-2026",
-        "title": "World Chess Championship 2026 - Games and Results",
-        "date": "Mon Nov 23 22:54:00 2026",
+        "url": "https://theweekinchess.com/chessnews/events/16th-xtx-markets-london-chess-classic-2026",
+        "title": "16th XTX Markets London Chess Classic 2026 - Games and Results",
+        "date": "Wed Nov 25 17:21:00 2026",
         "tag": "TWIC",
-        "_rss_content": "The World Chess Championship 2026 takes place Tue 24th November to Sat 12th December 2026 in Geneva, Switzerland. Defending Champion Gukesh Dommaraju from India faces challenger Javokhir Sindarov. I will have live moves. Sindarov has the white pieces in game one."
+        "_rss_content": "The 16th XTX Markets London Chess Classic takes place Tue 24th Nov to Mon 7th Dec 2026. Masters: Vasyl Ivanchuk, Gawain Maroroa Jones, Nodirbek Abdusattorov, Levon Aronian, Ihor Samunenkov, Andy Woodward, Luke J McShane, Shreyas Royal, Michael Adams, Sarin Nihal. Challengers: Carissa Yip, Rinat Jumabayev, Daniel H Fernandez, Dronavalli Harika, Eytan Rozen, Harry Grieve, Roman Dehtiarov, Mateusz Bartel, Rasmus Svane, Supratit Banerjee. On the final weekend is the Super-Rapid tournament where Magnus Carlsen is the major attraction returning to London after many years."
       }
     ],
     "kalla_display": "TWIC",
-    "datum": "Mon Nov 23 22:54:00 2026",
-    "hittad": "2026-11-24T16:01:38.474891"
+    "datum": "Wed Nov 25 17:21:00 2026",
+    "hittad": "2026-11-26T15:30:16.603104"
   },
   {
-    "id": "b39e297b9e13",
+    "id": "e254f89c8455",
     "status": "pending",
     "rubriker": [
       {
         "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/11/23/weekendens-resultater/?utm_source=rss&utm_medium=rss&utm_campaign=weekendens-resultater",
-        "title": "Weekendens resultater",
-        "date": "Mon, 23 Nov 2026 16:18:30 +0000",
+        "url": "https://nyheder.skak.dk/2026/11/26/afsluttende-rapport-fra-ungdoms-em-2/?utm_source=rss&utm_medium=rss&utm_campaign=afsluttende-rapport-fra-ungdoms-em-2",
+        "title": "Afsluttende rapport fra ungdoms EM",
+        "date": "Thu, 26 Nov 2026 08:44:45 +0000",
         "tag": "Dansk Skak Union",
-        "_rss_content": "Filip Boe Olsen skrev i sidste uge om weekendens mange turneringstilbud til de aktive skakspillere. Her bringer vi en oversigt over, hvordan det så gik i de forskellige turneringer. Hillerød Open &#8211; fotoet øverst i artiklen &#8211; blev vundet af FM Mikkel Manosri Jacobsen fra BMS med flotte 6½ point af 7 mulige. I 4 [&#8230;]"
+        "_rss_content": "WFM Shanne Hedegaard Jakobsen skriver den afsluttende rapport fra ungdoms EM i Grækenland: En afsluttende rapport er vel bedre sent end aldrig. Med hovedet dybt begravet i flytning, nyt arbejde og bryllup var der ikke meget tid til overs, da turneringen sluttede, og fødderne var tilbage på dansk jord. Det skal dog ikke være en [&#8230;]"
       }
     ],
     "kalla_display": "Dansk Skak Union",
-    "datum": "Mon, 23 Nov 2026 16:18:30 +0000",
-    "hittad": "2026-11-24T16:01:38.474894"
+    "datum": "Thu, 26 Nov 2026 08:44:45 +0000",
+    "hittad": "2026-11-26T15:30:16.603112"
   },
   {
-    "id": "6250ce65c27b",
+    "id": "ce2f543e6073",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "English Chess Federation",
+        "url": "https://www.englishchess.org.uk/chess-players-sought-for-coventry-university-research/",
+        "title": "Chess Players Sought for Coventry University Research",
+        "date": "Tue, 24 Nov 2026 16:43:01 +0000",
+        "tag": "English Chess Federation",
+        "_rss_content": "Coventry University MSc Psychology student Steven Mayne is seeking experienced competitive chess players, including titled players, for a research study exploring mental health help-seeking and competitive pressure in individual and..."
+      }
+    ],
+    "kalla_display": "English Chess Federation",
+    "datum": "Tue, 24 Nov 2026 16:43:01 +0000",
+    "hittad": "2026-11-26T15:30:16.603117"
+  },
+  {
+    "id": "c5a7c0b49561",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/world-chess-championship-no-specators-and-sponsor-wall",
-        "title": "World Chess Championship: No Specators and An Ugly Sponsor Wall",
-        "date": "Tue, 24 Nov 2026 11:59:00 GMT",
+        "url": "https://chessnewsnetwork.com/article/report-raises-questions-payments-to-fide-director",
+        "title": "Report Raises Questions Payments to FIDE Director",
+        "date": "Thu, 26 Nov 2026 12:01:00 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "FIDE dropped the glass box for Geneva. Gukesh and Sindarov play in a book-lined library room, with few spectators and a fan zone outside."
+        "_rss_content": "Chess Topics alleges Ladya Foundation payments to FIDE's Viktor Bologan and a Russian passport."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Tue, 24 Nov 2026 11:59:00 GMT",
-    "hittad": "2026-11-24T16:01:38.474896"
+    "datum": "Thu, 26 Nov 2026 12:01:00 GMT",
+    "hittad": "2026-11-26T15:30:16.603122",
+    "liknar": {
+      "titel": "Rosenstein hotar med misstroendevotum mot FIDE",
+      "url": "https://gambit.se/rosenstein-hotar-med-misstroendevotum-mot-fide/",
+      "datum": "2026-11-25"
+    }
   },
   {
-    "id": "74156a529b4c",
+    "id": "6c1a1fb2230e",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/pragg-suggests-standardising-world-championship-cycle",
-        "title": "Pragg Suggests Standardising World Championship Cycle",
-        "date": "Tue, 24 Nov 2026 10:39:56 GMT",
+        "url": "https://chessnewsnetwork.com/article/untitled-draft-4",
+        "title": "Why the Petroff Defence Is Never as Boring as Its Reputation",
+        "date": "Thu, 26 Nov 2026 08:06:00 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "Praggnanandhaa says one classical time control across the whole World Championship cycle would help players and fans, and backs Total Chess's pilot."
+        "_rss_content": "From a Russian pioneer to Petrosian's shock choice and Caruana's 2018 comeback, how the \"boring\" Petroff became a weapon."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Tue, 24 Nov 2026 10:39:56 GMT",
-    "hittad": "2026-11-24T16:01:38.474898"
+    "datum": "Thu, 26 Nov 2026 08:06:00 GMT",
+    "hittad": "2026-11-26T15:30:16.603126"
   },
   {
-    "id": "4505215bade9",
+    "id": "03593719a2f8",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/rosenstein-threatens-overstepping-fide-again",
-        "title": "Rosenstein Threatens Overstepping FIDE Again",
-        "date": "Tue, 24 Nov 2026 10:05:21 GMT",
+        "url": "https://chessnewsnetwork.com/article/dr-samzu-agbaje-wins-sierra-leone-chess-federation-election-with-full-turnout",
+        "title": "Dr. Samzu Agbaje Wins Sierra Leone Chess Federation Election With Full Turnout",
+        "date": "Wed, 25 Nov 2026 19:32:00 GMT",
         "tag": "Chess News Network",
-        "_rss_content": "Rosenstein warns of a no-confidence push if FIDE's Council backs Kazakhstan for the 2030 Olympiad without open bidding. FIDE records point to Qatar and Georgia."
+        "_rss_content": "Dr. Samzu Agbaje wins the Sierra Leone Chess Federation election in Freetown with no abstentions, after FIDE involvement this year."
       }
     ],
     "kalla_display": "Chess News Network",
-    "datum": "Tue, 24 Nov 2026 10:05:21 GMT",
-    "hittad": "2026-11-24T16:01:38.474900"
+    "datum": "Wed, 25 Nov 2026 19:32:00 GMT",
+    "hittad": "2026-11-26T15:30:16.603130"
   },
   {
-    "id": "743abc2aad13",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/chess-sets-made-from-kiberas-plastic-waste-turn-up-in-times-square",
-        "title": "Chess Sets Made From Kibera's Plastic Waste Turn Up in Times Square",
-        "date": "Mon, 23 Nov 2026 10:03:00 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "A GM game in Times Square on chess sets made from Kibera’s plastic waste: how a Nairobi workshop and a New York charity turn trash into chessmen."
-      }
-    ],
-    "kalla_display": "Chess News Network",
-    "datum": "Mon, 23 Nov 2026 10:03:00 GMT",
-    "hittad": "2026-11-24T16:01:38.474903"
-  },
-  {
-    "id": "973d93871964",
+    "id": "70bdab80adcd",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/campeonato-mundial-2026-entrevistas",
-        "title": "Gukesh y Sindarov comparten sus impresiones ante los medios",
-        "date": "Sun, 22 Nov 2026 22:45:00 GMT",
+        "url": "https://es.chessbase.com/post/congreso-educativo-en-linea-2026-uvencio-blanco",
+        "title": "I Congreso Educativo en Línea de Ajedrez: Cumbre global de estrategia y pensamiento",
+        "date": "Wed, 25 Nov 2026 21:00:00 GMT",
         "tag": "ChessBase España",
-        "_rss_content": "El 22 de noviembre se dio inicio oficialmente al Campeonato Mundial de Ajedrez FIDE 2026, patrocinado por Salesforce. Los periodistas presentes tuvieron la oportunidad de participar en dos sesiones de prensa por separado con Gukesh Dommaraju y Javokhir Sindarov, quienes compartieron detalles sobre su preparación, sus expectativas y sus impresiones de cara al esperado duelo. Comunicado de prensa de la FIDE, redactado por Yannick Pelletier | Fotos: Y.E. Nisenbaum y Michal Waluzsa"
+        "_rss_content": "Los días 28 y 29 de noviembre se celebrará el I Congreso Educativo en Línea de Ajedrez 2026, una iniciativa que reunirá a especialistas de distintos ámbitos para explorar las posibilidades formativas del juego ciencia. El encuentro, impulsado desde la Universidad El Bosque de Colombia, tendrá dos grandes ejes temáticos: el desarrollo del pensamiento lógico-matemático y la aplicación del ajedrez como herramienta de gestión, liderazgo y estrategia."
       }
     ],
     "kalla_display": "ChessBase España",
-    "datum": "Sun, 22 Nov 2026 22:45:00 GMT",
-    "hittad": "2026-11-24T16:01:38.474905",
-    "liknar": {
-      "titel": "Gukesh och Sindarov redo för VM-match i Genève",
-      "url": "https://gambit.se/gukesh-och-sindarov-redo-for-vm-match-i-geneve/",
-      "datum": "2026-11-24"
-    }
+    "datum": "Wed, 25 Nov 2026 21:00:00 GMT",
+    "hittad": "2026-11-26T15:30:16.603134"
+  },
+  {
+    "id": "58cb53c8e48e",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Kenya Chess Masala",
+        "url": "https://kenyachessmasala.com/2026/11/2026-bungoma-open-mark-nyola-is-the-winner.html",
+        "title": "2026 Bungoma Open – Mark Nyola is the winner",
+        "date": "Thu, 26 Nov 2026 14:13:10 +0000",
+        "tag": "Kenya Chess Masala",
+        "_rss_content": "2026 Bungoma Open &#8211; Mark Nyola is the winner Mark Nyola of Uganda won the 2026 Bungoma Open with 5.5 points from six rounds, earning KES 40,000 (USD 400). The victory marks the second time he has won an event in Kenya, with the first one being the 2026 Kisumu Open held in March. Samuel [...] The post 2026 Bungoma Open &#8211; Mark Nyola is the winner appeared first on Kenya Chess Masala ."
+      }
+    ],
+    "kalla_display": "Kenya Chess Masala",
+    "datum": "Thu, 26 Nov 2026 14:13:10 +0000",
+    "hittad": "2026-11-26T15:30:16.603138"
   }
 ]
