@@ -1,170 +1,220 @@
 [
   {
-    "id": "8eb07ac61660",
+    "id": "aa07b430f310",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-2",
-        "title": "2026 Fide World Chess Championship Game 2",
-        "date": "2026-11-25T15:28:54.376895",
+        "url": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-4",
+        "title": "2026 Fide World Chess Championship Game 4",
+        "date": "2026-11-26T15:20:21.359359",
         "tag": "Chess.com"
-      },
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/world-championship-2026-analysis-daniel-king2",
-        "title": "Daniel King analyses: London System in Game 2",
-        "date": "Thu, 26 Nov 2026 02:31:25 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "The second game of the World Championship match between defending champion Gukesh and challenger Javokhir Sindarov saw a London System on the board. Daniel King shows the key moments of Game 2 in his video analysis."
-      },
-      {
-        "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/world-championship-2026-2",
-        "title": "World Championship Game 2: A London in Geneva",
-        "date": "Wed, 25 Nov 2026 22:35:00 GMT",
-        "tag": "ChessBase",
-        "_rss_content": "Gukesh Dommaraju and Javokhir Sindarov drew the second game of their World Championship match in Geneva on Wednesday. Playing white for the first time, Gukesh opted for the London System, but found his opponent well-prepared to deal with the relatively cautious opening choice. The defending champion spent considerable time on two key decisions before opting for a threefold repetition. The contenders appear to be testing each other's preparation at this early stage. | Photo: FIDE / Michal Walusza"
-      },
-      {
-        "source": "Schack.se",
-        "url": "https://schack.se/nyhet/internationellt/2026/11/snabbt-slut-i-andra-partiet-remi-efter-20-drag/?utm_source=rss&utm_medium=rss&utm_campaign=snabbt-slut-i-andra-partiet-remi-efter-20-drag",
-        "title": "Snabbt slut i andra partiet – remi efter 20 drag",
-        "date": "Thu, 26 Nov 2026 08:34:54 +0000",
-        "tag": "Svenska Schackförbundet",
-        "_rss_content": "Snipp-snapp-snut, så var partiet slutade. Det andra VM-mötet mellan D Gukesh och Javokhir SIndarov var över efter bara 20 drag. Även denna gång blev det remi genom dragupprepning. Efteråt var [&#8230;] Inlägget Snabbt slut i andra partiet – remi efter 20 drag dök först upp på Sveriges Schackförbund ."
-      },
-      {
-        "source": "ChessBase India",
-        "url": "https://www.chessbase.in/news/the-chess-world-reacts-to-london-system-in-game-2",
-        "title": "SpotlightTop storyDevansh Singh·1 hour agoThe London System in a World Championship? The Chess World Reacts",
-        "date": "2026-11-25T15:29:14.516994",
-        "tag": "ChessBase India"
-      },
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/championnat-du-monde-2026-partie-2-10155.html",
-        "title": "Lire l'articleChampionnat du monde 2026Nulle rapide dans la 2ème partie du championnat du monde 20264",
-        "date": "2026-11-25T15:29:24.390882",
-        "tag": "Europe Echecs"
-      },
-      {
-        "source": "TWIC",
-        "url": "https://theweekinchess.com/twic-news-feed/gukeshs-london-system-doesnt-surprise-sindarov",
-        "title": "Gukesh's London System doesn't surprise Sindarov - 2",
-        "date": "Wed Nov 25 19:12:00 2026",
-        "tag": "TWIC",
-        "_rss_content": "Salesforce FIDE World Chess Championship Match Game 2. Gukesh had his first game with the white pieces and chose the London System, because, why not? \"It's a cool opening.\" As it turned out Sindarov came prepared and after just 15 moves he was very comfortably placed. Recognising this Gukesh chose a line that led to a three-fold repetition and a draw on move 20; the position was \"super-safe\" for both players according to Sindarov."
-      },
-      {
-        "source": "Bergensjakk",
-        "url": "https://bergensjakk.no/2026/11/26/salesforce-fide-world-championship-2026-2-runde/",
-        "title": "Salesforce FIDE World Championship 2026 – 2. runde",
-        "date": "Thu, 26 Nov 2026 06:01:06 +0000",
-        "tag": "Bergensjakk",
-        "_rss_content": "Andre parti i VM-matchen Salesforce FIDE World Championship mellom GM Gukesh Dommaraju (IND 2710) og GM Javokhir Sindarov (UZB 2782) endte med en relativt rask remis etter 20 trekk og rundt to timers spill. Gukesh med hvit valgte London-systemet med 1.d4 d5 2.Sf3 Sf6 3.Lf4. Sindarov så ut til å være godt forberedt, og Gukesh Les mer"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/world-chess-championship-day-2",
-        "title": "World Chess Championship Day 2",
-        "date": "Wed, 25 Nov 2026 19:53:38 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Gukesh's London System meets Sindarov's preparation as Game 2 ends in a 20-move repetition draw, leaving the Geneva match level at 1-1 after two games."
       }
     ],
-    "kalla_display": "Bergensjakk + Chess News Network + Chess.com + ChessBase + ChessBase India + Europe Echecs + Schack.se + TWIC",
-    "datum": "2026-11-25T15:28:54.376895",
-    "hittad": "2026-11-26T15:30:16.603049"
+    "kalla_display": "Chess.com",
+    "datum": "2026-11-26T15:20:21.359359",
+    "hittad": "2026-11-27T15:21:49.053057"
   },
   {
-    "id": "6d23efbebd1b",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess.com",
-        "url": "https://www.chess.com/news/view/2026-london-chess-classic-round-1",
-        "title": "2026 London Chess Classic Round 1",
-        "date": "2026-11-25T15:28:54.376876",
-        "tag": "Chess.com"
-      },
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/abdusattorov-woodward-score-round-1-wins-at-london-chess-classic",
-        "title": "Abdusattorov, Woodward Score Round 1 Wins at London Chess Classic",
-        "date": "Thu, 26 Nov 2026 09:26:08 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "The XTX Markets London Chess Classic 2026 began with victories for GMs Nodirbek Abdusattorov and Andy Woodward"
-      },
-      {
-        "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/london-chess-classic-2026-directo",
-        "title": "London Chess Classic: Ronda 1",
-        "date": "Wed, 25 Nov 2026 17:00:00 GMT",
-        "tag": "ChessBase España",
-        "_rss_content": "La 16.ª edición del London Chess Classic presenta este año dos torneos cerrados de ajedrez clásico, el Masters y el Challengers, que se disputan del 25 de noviembre al 4 de diciembre. Nodirbek Abdusattorov, campeón defensor, encabeza la lista de participantes del Masters, en la que también figuran Levon Aronian, Nihal Sarin y Vasyl Ivanchuk. El ganador del Challengers obtendrá una plaza en el Masters del próximo año. | Sigue las partidas en directo a partir de las 17:00 hora de Madrid (13:00 Buenos Aires, 10:00 Ciudad de México). | Foto: Nils Rohde / ChessBase"
-      }
-    ],
-    "kalla_display": "Chess News Network + Chess.com + ChessBase España",
-    "datum": "2026-11-25T15:28:54.376876",
-    "hittad": "2026-11-26T15:30:16.603077"
-  },
-  {
-    "id": "7d1691907c7c",
+    "id": "bf8162519ef7",
     "status": "pending",
     "rubriker": [
       {
         "source": "Chess.com",
         "url": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-3",
         "title": "2026 Fide World Chess Championship Game 3",
-        "date": "2026-11-25T15:28:54.376844",
+        "date": "2026-11-26T15:20:21.359393",
         "tag": "Chess.com"
-      },
-      {
-        "source": "Europe Echecs",
-        "url": "https://www.europe-echecs.com/art/championnat-du-monde-2026-partie-3-10158.html",
-        "title": "Championnat du monde 2026Troisième partie : l'équilibre sera-t-il rompu ?",
-        "date": "2026-11-25T15:29:24.390849",
-        "tag": "Europe Echecs"
       }
     ],
-    "kalla_display": "Chess.com + Europe Echecs",
-    "datum": "2026-11-25T15:28:54.376844",
-    "hittad": "2026-11-26T15:30:16.603083"
+    "kalla_display": "Chess.com",
+    "datum": "2026-11-26T15:20:21.359393",
+    "hittad": "2026-11-27T15:21:49.053076"
   },
   {
-    "id": "4221962c645e",
+    "id": "6025cfc7f2b0",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess.com",
+        "url": "https://www.chess.com/news/view/bjerre-haug-martinez-3-0-thursday-11-26-2026",
+        "title": "Bjerre Haug Martinez 3 0 Thursday 11 26 2026",
+        "date": "2026-11-26T15:20:21.359425",
+        "tag": "Chess.com"
+      }
+    ],
+    "kalla_display": "Chess.com",
+    "datum": "2026-11-26T15:20:21.359425",
+    "hittad": "2026-11-27T15:21:49.053085"
+  },
+  {
+    "id": "6eac5df2025e",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase",
-        "url": "https://en.chessbase.com/post/when-chess-starts-to-sing",
-        "title": "When Chess Starts to Sing",
-        "date": "Thu, 26 Nov 2026 10:00:00 GMT",
+        "url": "https://en.chessbase.com/post/world-championship-2026-3",
+        "title": "World Championship Game 3: A lively draw ahead of the first rest day",
+        "date": "Fri, 27 Nov 2026 04:50:00 GMT",
         "tag": "ChessBase",
-        "_rss_content": "How ChessBase 27 turns the World Championship into a musical experience. It all started with Ask ChessBase, a fascinating new concept in ChessBase 27 - an AI assistant that has access to the functionality of the chess program it lives in. You can ask it almost anything about the current position or a game. We used it to create musicals about chess."
+        "_rss_content": "A third consecutive draw was seen at the World Chess Championship in Geneva on Thursday, though game three was the longest and the most engaging encounter of the match so far. Gukesh Dommaraju demonstrated the depth of his preparation in a different line of the Berlin Defence, while Javokhir Sindarov dealt admirably with an uncomfortable position and severe time pressure. The match remains level going into Friday's rest day. | Photo: FIDE / Michal Walusza"
       }
     ],
     "kalla_display": "ChessBase",
-    "datum": "Thu, 26 Nov 2026 10:00:00 GMT",
-    "hittad": "2026-11-26T15:30:16.603089"
+    "datum": "Fri, 27 Nov 2026 04:50:00 GMT",
+    "hittad": "2026-11-27T15:21:49.053092"
   },
   {
-    "id": "2255b3bc5841",
+    "id": "2286dc13a16b",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase",
+        "url": "https://en.chessbase.com/post/world-championship-2026-analysis-daniel-king-3",
+        "title": "Daniel King analyses: A fighting draw in Game 3",
+        "date": "Fri, 27 Nov 2026 02:23:53 GMT",
+        "tag": "ChessBase",
+        "_rss_content": "The third game of the World Championship match between defending champion Gukesh and challenger Javokhir Sindarov started off with a Ruy Lopez. Not a Berlin Endgame this time. Daniel King shows the key moments of Game 3 in his video analysis."
+      }
+    ],
+    "kalla_display": "ChessBase",
+    "datum": "Fri, 27 Nov 2026 02:23:53 GMT",
+    "hittad": "2026-11-27T15:21:49.053108"
+  },
+  {
+    "id": "4cb25c9b3f1b",
     "status": "pending",
     "rubriker": [
       {
         "source": "Schack.se",
-        "url": "https://schack.se/nyhet/internationellt/2026/11/grandelius-avslutar-mot-shirov-i-spanska-ligan/?utm_source=rss&utm_medium=rss&utm_campaign=grandelius-avslutar-mot-shirov-i-spanska-ligan",
-        "title": "Grandelius avslutar mot Shirov i spanska ligan",
-        "date": "Thu, 26 Nov 2026 09:25:10 +0000",
+        "url": "https://schack.se/nyhet/sverige/2026/11/ny-projektgrupp-natschack/?utm_source=rss&utm_medium=rss&utm_campaign=ny-projektgrupp-natschack",
+        "title": "Ny projektgrupp: Nätschack",
+        "date": "Fri, 27 Nov 2026 11:26:59 +0000",
         "tag": "Svenska Schackförbundet",
-        "_rss_content": "Två vinster, två remier och två förluster. Det är Nils Grandelius facit i spanska ligan som avslutas i Marbella på torsdagen. Då väntar Alexei Shirov, enligt lottningen hos spanska schackförbundet [&#8230;] Inlägget Grandelius avslutar mot Shirov i spanska ligan dök först upp på Sveriges Schackförbund ."
+        "_rss_content": "Nätschacket är på stark frammarsch och hjälper oss att transportera schacket ut i stugorna. Vi har en växande hord av okända schackkollegor i cyberrymden. SSF har dock hittills förhållit sig [&#8230;] Inlägget Ny projektgrupp: Nätschack dök först upp på Sveriges Schackförbund ."
       }
     ],
     "kalla_display": "Schack.se",
-    "datum": "Thu, 26 Nov 2026 09:25:10 +0000",
-    "hittad": "2026-11-26T15:30:16.603094"
+    "datum": "Fri, 27 Nov 2026 11:26:59 +0000",
+    "hittad": "2026-11-27T15:21:49.053115"
+  },
+  {
+    "id": "e24c6c7d7598",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/distrikt-och-klubb/2026/11/schemat-allt-schack-som-hander-i-dreamhack/?utm_source=rss&utm_medium=rss&utm_campaign=schemat-allt-schack-som-hander-i-dreamhack",
+        "title": "Schemat – allt schack som händer i Dreamhack",
+        "date": "Fri, 27 Nov 2026 09:41:47 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Det blir uppemot tio timmars schackevent varje dag under Dreamhack i Stockholmsmässan i Älvsjö i helgen. Det är Dreamarrangörerna som bjudit in ChessParty som hade en mångtusenhövdad schackfest i Globen [&#8230;] Inlägget Schemat – allt schack som händer i Dreamhack dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Fri, 27 Nov 2026 09:41:47 +0000",
+    "hittad": "2026-11-27T15:21:49.053122"
+  },
+  {
+    "id": "a54b1c00d310",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/distrikt-och-klubb/2026/11/anna-cramling-om-dreamhack-bli-fler-event-av-den-har-typen/?utm_source=rss&utm_medium=rss&utm_campaign=anna-cramling-om-dreamhack-bli-fler-event-av-den-har-typen",
+        "title": "Anna Cramling om Dreamhack: ”Bli fler event av den här typen”",
+        "date": "Fri, 27 Nov 2026 09:40:11 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Via sociala medier har Anna Cramling hittat till en miljonpublik online. Nu har hon även fått upp ögonen för det fysiska mötet med den breda publiken. Den 27–29 november är [&#8230;] Inlägget Anna Cramling om Dreamhack: ”Bli fler event av den här typen” dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Fri, 27 Nov 2026 09:40:11 +0000",
+    "hittad": "2026-11-27T15:21:49.053132"
+  },
+  {
+    "id": "f185a4c12f2d",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/sverige/2026/11/tva-stormastare-i-uppsala-mote/?utm_source=rss&utm_medium=rss&utm_campaign=tva-stormastare-i-uppsala-mote",
+        "title": "Två stormästare i Uppsala Möte",
+        "date": "Fri, 27 Nov 2026 09:40:08 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Uppsala Möte som spelas denna helg, 27–29 november, har lockat till sig två stormästare. Dels Platon Galperin som är topprankad, dels Thomas Ernst som är fjärdeseedad. Uppsala Möte avgörs i [&#8230;] Inlägget Två stormästare i Uppsala Möte dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Fri, 27 Nov 2026 09:40:08 +0000",
+    "hittad": "2026-11-27T15:21:49.053139"
+  },
+  {
+    "id": "9dc7ce168a8d",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/distrikt-och-klubb/2026/11/veteranturneringen-som-har-blivit-en-tradition/?utm_source=rss&utm_medium=rss&utm_campaign=veteranturneringen-som-har-blivit-en-tradition",
+        "title": "Veteranturneringen som har blivit en tradition",
+        "date": "Fri, 27 Nov 2026 09:39:35 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "I snart 30 år har veteranturneringen Göstas minnesturnering spelats i Stockholm. På söndag är det dags för årets upplaga, och som brukligt arrangeras den av Kristallens SK och avgörs på [&#8230;] Inlägget Veteranturneringen som har blivit en tradition dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Fri, 27 Nov 2026 09:39:35 +0000",
+    "hittad": "2026-11-27T15:21:49.053145"
+  },
+  {
+    "id": "825ecd2a8a3c",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/junior-och-ungdom/2026/11/33-lag-i-juniorallsvenskan-folj-tavlingen-i-helgen/?utm_source=rss&utm_medium=rss&utm_campaign=33-lag-i-juniorallsvenskan-folj-tavlingen-i-helgen",
+        "title": "33 lag i Juniorallsvenskan – följ tävlingen i helgen",
+        "date": "Fri, 27 Nov 2026 00:06:21 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Intresset för Juniorallsvenskan växer bland klubbarna i Sverige. 33 lag finns anmälda till helgens seriespel i Stockholm. 2023 var det 24 lag, 2024 kom 29 lag och i fjol ställde [&#8230;] Inlägget 33 lag i Juniorallsvenskan – följ tävlingen i helgen dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Fri, 27 Nov 2026 00:06:21 +0000",
+    "hittad": "2026-11-27T15:21:49.053151"
+  },
+  {
+    "id": "f64ca188ac5d",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Schack.se",
+        "url": "https://schack.se/nyhet/internationellt/2026/11/galet-hog-niva-i-tredje-vm-partiet/?utm_source=rss&utm_medium=rss&utm_campaign=galet-hog-niva-i-tredje-vm-partiet",
+        "title": "Galet hög nivå i tredje VM-partiet",
+        "date": "Fri, 27 Nov 2026 00:04:37 +0000",
+        "tag": "Svenska Schackförbundet",
+        "_rss_content": "Det tredje VM-partiet i Genève blev en nagelbitare där båda VM-spelarna visade allra högsta kvalitet. Utmanaren Javokhir Sindarov hade 98,7 procent precision. Regerande världsmästaren D Gukesh var ännu skarpare: 99,1 [&#8230;] Inlägget Galet hög nivå i tredje VM-partiet dök först upp på Sveriges Schackförbund ."
+      }
+    ],
+    "kalla_display": "Schack.se",
+    "datum": "Fri, 27 Nov 2026 00:04:37 +0000",
+    "hittad": "2026-11-27T15:21:49.053158"
+  },
+  {
+    "id": "ca6c88c2653a",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "ChessBase India",
+        "url": "https://www.chessbase.in/news/gyansthan-interschool-chess-championship-2026-starts-tomorrow-in-mumbai",
+        "title": "SpotlightTop storyRasika Ratnaparkhi·2 hours agoGyansthan Interschool Chess Championship 2026 starts tomorrow in Mumbai",
+        "date": "2026-11-26T15:20:43.377383",
+        "tag": "ChessBase India"
+      }
+    ],
+    "kalla_display": "ChessBase India",
+    "datum": "2026-11-26T15:20:43.377383",
+    "hittad": "2026-11-27T15:21:49.053164"
   },
   {
     "id": "465f0f412ec1",
@@ -173,65 +223,130 @@
       {
         "source": "ChessBase India",
         "url": "https://www.chessbase.in/news/category/organisation-policy",
-        "title": "175 storiesOrganisation & PolicyYohan Yadav Tarala and Jihan Shah win the 7th Edition of Pursue Your Chess Scholarship",
-        "date": "2026-11-25T15:29:14.517240",
+        "title": "174 storiesOrganisation & PolicyYohan Yadav Tarala and Jihan Shah win the 7th Edition of Pursue Your Chess Scholarship",
+        "date": "2026-11-26T15:20:43.377727",
         "tag": "ChessBase India"
       }
     ],
     "kalla_display": "ChessBase India",
-    "datum": "2026-11-25T15:29:14.517240",
-    "hittad": "2026-11-26T15:30:16.603099"
+    "datum": "2026-11-26T15:20:43.377727",
+    "hittad": "2026-11-27T15:21:49.053170"
   },
   {
-    "id": "9dc36c898920",
+    "id": "34e5187ce244",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/championnat-du-monde-2026-declarations-10160.html",
+        "title": "Championnat du monde 2026Les confidences de Gukesh et Sindarov après trois parties",
+        "date": "2026-11-26T15:20:55.397720",
+        "tag": "Europe Echecs"
+      }
+    ],
+    "kalla_display": "Europe Echecs",
+    "datum": "2026-11-26T15:20:55.397720",
+    "hittad": "2026-11-27T15:21:49.053177"
+  },
+  {
+    "id": "f163756c32a9",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/profitez-des-promotions-du-black-friday-du-27-au-30-novembre-10116.html",
+        "title": "Lire l'articleProfitez des promotions du Black Friday du 27 au 30 novembre !1",
+        "date": "2026-11-26T15:20:55.397762",
+        "tag": "Europe Echecs"
+      }
+    ],
+    "kalla_display": "Europe Echecs",
+    "datum": "2026-11-26T15:20:55.397762",
+    "hittad": "2026-11-27T15:21:49.053182"
+  },
+  {
+    "id": "b36d46fcb9f0",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Europe Echecs",
+        "url": "https://www.europe-echecs.com/art/championnat-du-monde-2026-partie-3-10158.html",
+        "title": "Lire l'articleChampionnat du monde 2026Très beau combat dans la 3ème partie, conclu par une nulle12",
+        "date": "2026-11-26T15:20:55.397786",
+        "tag": "Europe Echecs"
+      }
+    ],
+    "kalla_display": "Europe Echecs",
+    "datum": "2026-11-26T15:20:55.397786",
+    "hittad": "2026-11-27T15:21:49.053188"
+  },
+  {
+    "id": "f206c3b1225c",
     "status": "pending",
     "rubriker": [
       {
         "source": "TWIC",
-        "url": "https://theweekinchess.com/chessnews/events/16th-xtx-markets-london-chess-classic-2026",
-        "title": "16th XTX Markets London Chess Classic 2026 - Games and Results",
-        "date": "Wed Nov 25 17:21:00 2026",
+        "url": "https://theweekinchess.com/twic-news-feed/gukesh-revives-an-old-line-of-the-berlin-in-a-60-move-draw",
+        "title": "Gukesh revives an old line of the Berlin in a 60 move draw - 3",
+        "date": "Thu Nov 26 23:40:00 2026",
         "tag": "TWIC",
-        "_rss_content": "The 16th XTX Markets London Chess Classic takes place Tue 24th Nov to Mon 7th Dec 2026. Masters: Vasyl Ivanchuk, Gawain Maroroa Jones, Nodirbek Abdusattorov, Levon Aronian, Ihor Samunenkov, Andy Woodward, Luke J McShane, Shreyas Royal, Michael Adams, Sarin Nihal. Challengers: Carissa Yip, Rinat Jumabayev, Daniel H Fernandez, Dronavalli Harika, Eytan Rozen, Harry Grieve, Roman Dehtiarov, Mateusz Bartel, Rasmus Svane, Supratit Banerjee. On the final weekend is the Super-Rapid tournament where Magnus Carlsen is the major attraction returning to London after many years."
+        "_rss_content": "World Chess Championship Game 3. Javokhir Sindarov and Gukesh played another high quality game where both sides showed ambition in a level position. Gukesh had equalised with Black by reviving an old Berlin variation."
       }
     ],
     "kalla_display": "TWIC",
-    "datum": "Wed Nov 25 17:21:00 2026",
-    "hittad": "2026-11-26T15:30:16.603104"
+    "datum": "Thu Nov 26 23:40:00 2026",
+    "hittad": "2026-11-27T15:21:49.053194"
   },
   {
-    "id": "e254f89c8455",
+    "id": "ace2717ed8a0",
     "status": "pending",
     "rubriker": [
       {
-        "source": "Dansk Skak Union",
-        "url": "https://nyheder.skak.dk/2026/11/26/afsluttende-rapport-fra-ungdoms-em-2/?utm_source=rss&utm_medium=rss&utm_campaign=afsluttende-rapport-fra-ungdoms-em-2",
-        "title": "Afsluttende rapport fra ungdoms EM",
-        "date": "Thu, 26 Nov 2026 08:44:45 +0000",
-        "tag": "Dansk Skak Union",
-        "_rss_content": "WFM Shanne Hedegaard Jakobsen skriver den afsluttende rapport fra ungdoms EM i Grækenland: En afsluttende rapport er vel bedre sent end aldrig. Med hovedet dybt begravet i flytning, nyt arbejde og bryllup var der ikke meget tid til overs, da turneringen sluttede, og fødderne var tilbage på dansk jord. Det skal dog ikke være en [&#8230;]"
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/11/27/salesforce-fide-world-championship-2026-3-runde/",
+        "title": "Salesforce FIDE World Championship 2026 – 3. runde",
+        "date": "Fri, 27 Nov 2026 06:38:06 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Det tredje partiet i VM-matchen Salesforce FIDE World Championship mellom GM Gukesh Dommaraju (IND 2710) og GM Javokhir Sindarov (UZB 2782) ble det mest interessante så langt, selv om det igjen endte med remis. Dette var et langt parti som varte 60 trekk og nesten fem timer. Sindarov hadde hvit, og etter 1.e4 e5 2.Sf3 Les mer"
       }
     ],
-    "kalla_display": "Dansk Skak Union",
-    "datum": "Thu, 26 Nov 2026 08:44:45 +0000",
-    "hittad": "2026-11-26T15:30:16.603112"
+    "kalla_display": "Bergensjakk",
+    "datum": "Fri, 27 Nov 2026 06:38:06 +0000",
+    "hittad": "2026-11-27T15:21:49.053200"
   },
   {
-    "id": "ce2f543e6073",
+    "id": "5285bdc87e93",
     "status": "pending",
     "rubriker": [
       {
-        "source": "English Chess Federation",
-        "url": "https://www.englishchess.org.uk/chess-players-sought-for-coventry-university-research/",
-        "title": "Chess Players Sought for Coventry University Research",
-        "date": "Tue, 24 Nov 2026 16:43:01 +0000",
-        "tag": "English Chess Federation",
-        "_rss_content": "Coventry University MSc Psychology student Steven Mayne is seeking experienced competitive chess players, including titled players, for a research study exploring mental health help-seeking and competitive pressure in individual and..."
+        "source": "Bergensjakk",
+        "url": "https://bergensjakk.no/2026/11/27/sotra-sk-hurtig-november-2026/",
+        "title": "Sotra SK Hurtig November 2026",
+        "date": "Fri, 27 Nov 2026 06:37:54 +0000",
+        "tag": "Bergensjakk",
+        "_rss_content": "Sotra Sjakklubb arrangerte torsdag 26. november 2026 hurtigsjakkturneringen Sotra SK Hurtig November. Spillested var klubbens lokaler på Straume, like utenfor Bergen. Førsterangerte Stig K Martinsen gikk til topps med 5&#189; poeng på 6 runder. Jarle Sivertsen tapte mot Martinsen i andre runde, men vant sine øvrige partier. Dette ga 5 poeng og andreplass, mens unge Les mer"
       }
     ],
-    "kalla_display": "English Chess Federation",
-    "datum": "Tue, 24 Nov 2026 16:43:01 +0000",
-    "hittad": "2026-11-26T15:30:16.603117"
+    "kalla_display": "Bergensjakk",
+    "datum": "Fri, 27 Nov 2026 06:37:54 +0000",
+    "hittad": "2026-11-27T15:21:49.053206"
+  },
+  {
+    "id": "5cf02161d233",
+    "status": "pending",
+    "rubriker": [
+      {
+        "source": "Chess News Network",
+        "url": "https://chessnewsnetwork.com/article/gukesh-springs-a-berlin-surprise",
+        "title": "Gukesh Springs a Berlin Surprise",
+        "date": "Fri, 27 Nov 2026 10:46:42 GMT",
+        "tag": "Chess News Network",
+        "_rss_content": "Gukesh surprises Sindarov with the Rio Berlin and gains a clock lead, but Sindarov holds a tense 60-move draw. Match level at 1½-1½ after three games."
+      }
+    ],
+    "kalla_display": "Chess News Network",
+    "datum": "Fri, 27 Nov 2026 10:46:42 GMT",
+    "hittad": "2026-11-27T15:21:49.053212"
   },
   {
     "id": "c5a7c0b49561",
@@ -248,79 +363,23 @@
     ],
     "kalla_display": "Chess News Network",
     "datum": "Thu, 26 Nov 2026 12:01:00 GMT",
-    "hittad": "2026-11-26T15:30:16.603122",
-    "liknar": {
-      "titel": "Rosenstein hotar med misstroendevotum mot FIDE",
-      "url": "https://gambit.se/rosenstein-hotar-med-misstroendevotum-mot-fide/",
-      "datum": "2026-11-25"
-    }
+    "hittad": "2026-11-27T15:21:49.053217"
   },
   {
-    "id": "6c1a1fb2230e",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/untitled-draft-4",
-        "title": "Why the Petroff Defence Is Never as Boring as Its Reputation",
-        "date": "Thu, 26 Nov 2026 08:06:00 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "From a Russian pioneer to Petrosian's shock choice and Caruana's 2018 comeback, how the \"boring\" Petroff became a weapon."
-      }
-    ],
-    "kalla_display": "Chess News Network",
-    "datum": "Thu, 26 Nov 2026 08:06:00 GMT",
-    "hittad": "2026-11-26T15:30:16.603126"
-  },
-  {
-    "id": "03593719a2f8",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Chess News Network",
-        "url": "https://chessnewsnetwork.com/article/dr-samzu-agbaje-wins-sierra-leone-chess-federation-election-with-full-turnout",
-        "title": "Dr. Samzu Agbaje Wins Sierra Leone Chess Federation Election With Full Turnout",
-        "date": "Wed, 25 Nov 2026 19:32:00 GMT",
-        "tag": "Chess News Network",
-        "_rss_content": "Dr. Samzu Agbaje wins the Sierra Leone Chess Federation election in Freetown with no abstentions, after FIDE involvement this year."
-      }
-    ],
-    "kalla_display": "Chess News Network",
-    "datum": "Wed, 25 Nov 2026 19:32:00 GMT",
-    "hittad": "2026-11-26T15:30:16.603130"
-  },
-  {
-    "id": "70bdab80adcd",
+    "id": "6ddbe4c0fb1b",
     "status": "pending",
     "rubriker": [
       {
         "source": "ChessBase España",
-        "url": "https://es.chessbase.com/post/congreso-educativo-en-linea-2026-uvencio-blanco",
-        "title": "I Congreso Educativo en Línea de Ajedrez: Cumbre global de estrategia y pensamiento",
-        "date": "Wed, 25 Nov 2026 21:00:00 GMT",
+        "url": "https://es.chessbase.com/post/arte-y-logica-campeonato-brasilero-equipos-empresas",
+        "title": "Arte & Lógica hace historia en el primer Campeonato Brasileño de Ajedrez por Equipos de Empresas",
+        "date": "Thu, 26 Nov 2026 19:30:00 GMT",
         "tag": "ChessBase España",
-        "_rss_content": "Los días 28 y 29 de noviembre se celebrará el I Congreso Educativo en Línea de Ajedrez 2026, una iniciativa que reunirá a especialistas de distintos ámbitos para explorar las posibilidades formativas del juego ciencia. El encuentro, impulsado desde la Universidad El Bosque de Colombia, tendrá dos grandes ejes temáticos: el desarrollo del pensamiento lógico-matemático y la aplicación del ajedrez como herramienta de gestión, liderazgo y estrategia."
+        "_rss_content": "La ciudad de João Pessoa acogió, del 20 al 22 de noviembre, la primera edición del Campeonato Brasileño de Ajedrez por Equipos en formato empresarial, con la participación de 23 formaciones. Arte & Lógica Educativa conquistó el título absoluto tras ganar sus seis encuentros, mientras que su equipo juvenil también obtuvo importantes distinciones. La competición puso de relieve los vínculos entre el mundo empresarial, la educación y el deporte. | Fotos: Confederación Brasileña de Ajedrez (CBX)"
       }
     ],
     "kalla_display": "ChessBase España",
-    "datum": "Wed, 25 Nov 2026 21:00:00 GMT",
-    "hittad": "2026-11-26T15:30:16.603134"
-  },
-  {
-    "id": "58cb53c8e48e",
-    "status": "pending",
-    "rubriker": [
-      {
-        "source": "Kenya Chess Masala",
-        "url": "https://kenyachessmasala.com/2026/11/2026-bungoma-open-mark-nyola-is-the-winner.html",
-        "title": "2026 Bungoma Open – Mark Nyola is the winner",
-        "date": "Thu, 26 Nov 2026 14:13:10 +0000",
-        "tag": "Kenya Chess Masala",
-        "_rss_content": "2026 Bungoma Open &#8211; Mark Nyola is the winner Mark Nyola of Uganda won the 2026 Bungoma Open with 5.5 points from six rounds, earning KES 40,000 (USD 400). The victory marks the second time he has won an event in Kenya, with the first one being the 2026 Kisumu Open held in March. Samuel [...] The post 2026 Bungoma Open &#8211; Mark Nyola is the winner appeared first on Kenya Chess Masala ."
-      }
-    ],
-    "kalla_display": "Kenya Chess Masala",
-    "datum": "Thu, 26 Nov 2026 14:13:10 +0000",
-    "hittad": "2026-11-26T15:30:16.603138"
+    "datum": "Thu, 26 Nov 2026 19:30:00 GMT",
+    "hittad": "2026-11-27T15:21:49.053224"
   }
 ]
